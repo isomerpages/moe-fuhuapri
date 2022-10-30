@@ -2,6 +2,7 @@ collections:
   fuhua-identity:
     output: true
     order:
+      - School Advisory Committee.md
       - Our People/School Executive Committee.md
       - Our People/Lead and Senior Teachers.md
       - Our People/Form Teachers of 2022.md
