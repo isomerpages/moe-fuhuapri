@@ -2,6 +2,7 @@ collections:
   fuhua-experience:
     output: true
     order:
+      - Student Development/Student Well Being.md
       - Student Development/Character & Citizenship.md
       - Student Development/CCAs.md
       - Student Development/.keep
