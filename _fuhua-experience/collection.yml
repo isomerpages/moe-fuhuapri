@@ -2,6 +2,7 @@ collections:
   fuhua-experience:
     output: true
     order:
+      - Teaching and Learning at Fuhua/Example Title.md
       - Teaching and Learning at Fuhua/.keep
       - Student Development/Student Well Being.md
       - Student Development/Character & Citizenship.md
