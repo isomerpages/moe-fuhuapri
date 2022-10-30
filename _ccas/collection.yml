@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Art and Crafts.md
       - Brass Band.md
       - Choir.md
       - Cultural Dance and Modern Dance.md
