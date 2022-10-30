@@ -43,3 +43,22 @@ links:
         url: /permalink
       - title: Achievements
         url: /permalink
+  - title: "General Information "
+    url: /permalink
+    sublinks:
+      - title: School Administration
+        url: /permalink
+      - title: School Vendors
+        url: /permalink
+      - title: Guidelines/Policies
+        url: /permalink
+      - title: Resources for Students
+        url: /permalink
+      - title: Resources for Teachers
+        url: /permalink
+      - title: Resources for Parents
+        url: /permalink
+      - title: Parents Portal
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
