@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Guidelines and Policies/School Communication Policy.md
       - Guidelines and Policies/Consent for Photography and Videos.md
       - Guidelines and Policies/.keep
       - Resources for Students.md
