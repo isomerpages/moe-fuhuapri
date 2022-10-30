@@ -2,5 +2,6 @@ collections:
   fuhua-identity:
     output: true
     order:
+      - Our People/Information & Communications Technology Team.md
       - Our People/.keep
       - School Rules.md
