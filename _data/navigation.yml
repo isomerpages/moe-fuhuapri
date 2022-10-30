@@ -19,3 +19,27 @@ links:
         url: /permalink
       - title: E-Yearbook 2021
         url: https://fuhuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u497/eYearbook2021/Fuhua.html
+  - title: Fuhua Experience
+    url: /permalink
+    sublinks:
+      - title: Teaching and Learning @ Fuhua
+        url: /permalink
+      - title: Student Development
+        url: /permalink
+      - title: Applied Learning Programme
+        url: /permalink
+      - title: "Learning for Life Programme "
+        url: /permalink
+      - title: Home Based Learning
+        url: /permalink
+  - title: Highlights
+    url: /permalink
+    sublinks:
+      - title: Virtual Open House
+        url: /permalink
+      - title: News
+        url: /permalink
+      - title: Events
+        url: /permalink
+      - title: Achievements
+        url: /permalink
