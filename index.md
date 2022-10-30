@@ -7,5 +7,5 @@ permalink: /
 notification: Welcome to Fuhua Primary School!
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/HomepageGif.gif
 ---
