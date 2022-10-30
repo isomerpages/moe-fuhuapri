@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Speech and Drama.md
       - Environmental Science.md
       - Design and Innovation.md
       - Scouts.md
