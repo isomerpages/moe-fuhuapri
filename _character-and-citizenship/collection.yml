@@ -2,6 +2,7 @@ collections:
   character-and-citizenship:
     output: true
     order:
+      - Values in Action VIA.md
       - House System.md
       - SIXER.md
       - Programme for Active Learning PAL.md
