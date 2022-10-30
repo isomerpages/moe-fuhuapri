@@ -2,6 +2,7 @@ collections:
   fuhua-identity:
     output: true
     order:
+      - Our People/Lead and Senior Teachers.md
       - Our People/Form Teachers of 2022.md
       - Our People/School Administration and Operations Team.md
       - Our People/Information & Communications Technology Team.md
