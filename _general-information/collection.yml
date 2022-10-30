@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Resource for Parents/Resources for Parents.md
       - Resource for Parents/Parent Engagement Session.md
       - Resource for Parents/Learning Dispositions at FHPS.md
       - Resource for Parents/N4S Information.md
