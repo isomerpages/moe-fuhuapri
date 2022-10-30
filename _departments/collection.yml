@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Mother Tongue Languages.md
       - Physical Education Arts Music/ARTs.md
       - Physical Education Arts Music/MUSIC.md
