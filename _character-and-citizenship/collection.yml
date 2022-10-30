@@ -2,6 +2,7 @@ collections:
   character-and-citizenship:
     output: true
     order:
+      - SIXER.md
       - Programme for Active Learning PAL.md
       - Cyber Wellness CW.md
       - Sexuality Education.md
