@@ -2,6 +2,7 @@ collections:
   fuhua-experience:
     output: true
     order:
+      - Student Development/CCAs.md
       - Student Development/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme/Learning for Life Programme.md
