@@ -2,6 +2,7 @@ collections:
   fuhua-identity:
     output: true
     order:
+      - School Crest, Vision, Mission, Philosophy and Core Values.md
       - Principal's Message.md
       - School Advisory Committee.md
       - Our People/School Executive Committee.md
