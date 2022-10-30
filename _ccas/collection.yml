@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Percussion Ensemble.md
       - Art and Crafts.md
       - Brass Band.md
       - Choir.md
