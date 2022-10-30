@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Floorball.md
       - Basketball.md
       - Badminton.md
       - Netball.md
