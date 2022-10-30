@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Administration/MOE Insurance.md
       - School Administration/.keep
       - School Vendors/After School Care.md
       - School Vendors/Bus Transport.md
