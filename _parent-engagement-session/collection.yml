@@ -2,5 +2,6 @@ collections:
   parent-engagement-session:
     output: true
     order:
+      - 2021 Start of the Year Parent Engagement Session.md
       - 2021 Mid Year Parent Engagement Session.md
       - Information Session on Primary 3 Higher MTL.md
