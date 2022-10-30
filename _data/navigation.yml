@@ -1,14 +1,12 @@
 logo: /images/Homepage/logo.png
 links:
   - title: Fuhua Identity
-    url: /permalink
+    url: /fuhua-identity/School-History/
     sublinks:
       - title: School History
-        url: /permalink
-      - title: School Crest
-        url: /permalink
+        url: /fuhua-identity/School-History/
       - title: School Crest, Vision, Mission
-        url: /permalink
+        url: /fuhua-identity/School-Crest-Vision-Mission-Philosophy-and-Core-Values/
       - title: Principal's Message
         url: /permalink
       - title: School Advisory Committee
