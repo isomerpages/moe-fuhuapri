@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Administration/Safety Matters.md
       - School Administration/Financial Assistance.md
       - School Administration/Location Map with Contact Details.md
       - School Administration/MOE Insurance.md
