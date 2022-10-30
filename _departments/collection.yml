@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education Arts Music/ARTs.md
       - Physical Education Arts Music/MUSIC.md
       - Physical Education Arts Music/PHYSICAL EDUCATION.md
       - Physical Education Arts Music/.keep
