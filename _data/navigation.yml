@@ -1,6 +1,21 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Fuhua Identity
+    url: /permalink
+    sublinks:
+      - title: School Identity
+        url: /permalink
+      - title: School Crest
+        url: /permalink
+      - title: School Crest, Vision, Mission
+        url: /permalink
+      - title: Principal's Message
+        url: /permalink
+      - title: School Advisory Committee
+        url: /permalink
+      - title: Our People
+        url: /permalink
+      - title: School Rules
+        url: /permalink
+      - title: E-Yearbook 2021
+        url: https://fuhuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u497/eYearbook2021/Fuhua.html
