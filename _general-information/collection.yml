@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - Resources for Parents.md
       - Parents Portal.md
       - Contact Us.md
