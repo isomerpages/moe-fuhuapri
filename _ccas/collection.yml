@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Girl Guides Brownies.md
       - Boys’ Brigade.md
       - Girls’ Brigade.md
