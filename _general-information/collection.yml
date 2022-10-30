@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Resource for Parents/Canteen Menu.md
       - Resource for Parents/P3 Higher Mother Tongue Briefing Slides.md
       - Resource for Parents/.keep
       - Parents Portal.md
