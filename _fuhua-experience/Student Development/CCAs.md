@@ -100,19 +100,19 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Habib Nasiruddin Bin Karim Gani*</span><br><span style="background-color:initial">Haslina Bte Ishak</span><br><span style="font-weight:normal;color:#000">Iszehar Bin Ismail </span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/floorball"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Floorball </span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Floorball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Floorball </span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Shamira Binte Jamaludin*</span><br><span style="font-weight:normal;color:#000">Tan Hui Yik Mavis</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/basketball"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Basketball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Basketball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Basketball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ng Peng Hwee*</span><br><span style="font-weight:normal;color:#000">Ong Poh Har</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/badminton"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton </span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Badminton/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton </span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Wang Kee Leong*</span><br><span style="font-weight:normal;color:#000">Ge Yan </span><br><span style="font-weight:normal;color:#000">Sarah Harbachan </span><br><span style="font-weight:normal;color:#000">Wu Juan Juan</span><br><span style="font-weight:normal;color:#000">Alan Wong Chuen Kit</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/netball"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Netball</span></a><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/netball"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Netball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Netball</span></a><a href="/ccas/Netball/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Siti Sarah Binte Aziz*</span><br><span style="font-weight:normal;color:#000">Ong Shi Hui</span><br><span style="font-weight:normal;color:#000">Chen Yilong, Jonathan</span></td>
   </tr>
   <tr>
