@@ -37,3 +37,41 @@ The school employs Understanding by Design (UbD) as a curriculum framework for 
 Thinking routines, differentiated instructions and different modes of assessment are incorporated to cater to students’ needs and create a positive and deeper learning experience.
 
 #### **SIGNATURE PROGRAMMES**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Signature Programme</th>
+    <th class="tg-9hzb">Focus</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Whole-school approach to Reading through multiple platforms and integration with STELLAR extensive reading lessons</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">The love for reading through:</span><br>weekly library/class programmes<br>online reading platforms<br>discussion on current affairs (P5 n P6)<br>Reading Festival</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Drama@P1 to P3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Confidence in spoken and written expressions<br>Empathy through perspective-taking and critical thinking<br><span style="font-weight:normal;color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Individual Mini-Research @P3 and P4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Multi-literacies through independent research<br>Critical Thinking<br>proficiency in basic ICT skills<br>dispositions for self-directed learning</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Stretch Programme (P4 and P5)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Build awareness of:</span><br>Creative expressions through language<br>Critical thinking in reading and listening<br>Communication with empathy through perspective-taking and critical thinking in collaborative construction<br><span style="font-weight:normal;color:#000"> </span></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/E1.png)
