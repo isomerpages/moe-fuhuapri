@@ -51,3 +51,23 @@ We take great pride in developing caring and responsible students with a pervasi
 *   Positive Teacher-Student Relationships – E.g. House System 
 *   Peer Support and Relationships – E.g. SIXER and PAL
 *   Student Voice and Ownership – E.g. CW
+
+Please click . for Student Leadership 
+
+Please click . for National Education
+
+Please click . for Trips for Internationalisation Experience (TIE)
+
+Please click . for  Values in Action (VIA)
+
+Please click . for House System
+
+Please click . for SIXER
+
+Please click . for Programme for Active Learning (PAL)
+
+Please click . for Cyber Wellness (CW)
+
+Please click . for Sexuality Education (SEd)
+
+
