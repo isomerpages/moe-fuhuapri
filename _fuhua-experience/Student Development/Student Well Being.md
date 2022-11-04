@@ -45,3 +45,55 @@ Additionally, the school has embarked on using one of the strategies in Social S
 
 
 Social Skills package is structured to teach the students at every level based on age-appropriate understanding of social skills suitable for the students. At the end of each level, students would have learnt several social skills from the form teachers and reinforced by all subject teachers. The overall social skill which will be reinforced at all levels is the “Use of Voice Tone”.
+
+![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S1.png)
+
+Figure 1: The five levels of voice tone
+
+![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png)
+
+Figure 2: Direct teaching by the form teacher using Social Skill package
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Level</th>
+    <th class="tg-dgl5">Specific Social Skills taught at each milestone</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">Primary 1</td>
+    <td class="tg-ktyi">Naming My Feelings<br>Joining in Activities and Inviting Others to Join in<br>Following Instructions</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 2</td>
+    <td class="tg-ktyi">Being Prepared for Class<br>Dealing with Anger<br>Disagreeing Respectfully</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 3</td>
+    <td class="tg-ktyi">Completing Classwork Well<br>Dealing with feeling Left Out<br>Recognising Others’ Feelings</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 4</td>
+    <td class="tg-ktyi">Completing Homework Well<br>Dealing with Negative Comments<br>Being an Upstander</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 5</td>
+    <td class="tg-ktyi">Reacting to Blame<br>Dealing with negative Comments<br>Recognising Others’ Feelings</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 6</td>
+    <td class="tg-ktyi">Organising Tasks and Time<br>Reflecting and Improving<br>Dealing with Group Pressure</td>
+  </tr>
+</tbody>
+</table>
