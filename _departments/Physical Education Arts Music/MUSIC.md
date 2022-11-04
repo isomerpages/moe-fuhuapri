@@ -23,7 +23,7 @@ The school adapts the Experience-Concept-Application Approach or ECA Music Appro
 
   
 
-![MUSIC.png](https://fuhuapri.moe.edu.sg/qql/slot/u1030/MUSIC/MUSIC.png)  
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/MUSIC/Q1.png)  
 
   
 
@@ -64,3 +64,7 @@ The weekly virtual recess recitals celebrate students’ learning in music. Stud
   
 
 #### **PHOTO HIGHLIGHTS**
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/MUSIC/Q2.png)
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/MUSIC/Q3.png)
