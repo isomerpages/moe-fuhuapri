@@ -62,3 +62,9 @@ Art education at Fuhua Primary focuses more on the process than the final produc
   
 
 Students are given many platforms such as gallery walk, rubrics and checklists to evaluate their own work and their peers’ work at different stages of their learning process. This allows students to take ownership of their learning and learn to evaluate and give feedback on the quality of theirs and their peers’ practice sketches and final artworks. Through this, students are encouraged to work towards attaining the highest grade through improvement of their work and also learn and experience the process of assessing an artwork.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/ART/A1.png)
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/ART/A2.png)
+
+<img style="width:50%;height:50%" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/ART/A3.png">
