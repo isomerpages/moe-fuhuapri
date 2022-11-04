@@ -2,7 +2,6 @@ collections:
   assessment:
     output: true
     order:
-      - Assessment.md
       - Primary 3.md
       - Primary 4.md
       - Primary 5.md
