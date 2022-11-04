@@ -121,61 +121,61 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="7"><span style="font-weight:normal;color:#000">Visual and performing arts</span><br><span style="font-weight:normal;color:#000"> </span></td>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/percussion-ensemble"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Percussion Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Percussion-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Percussion Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Azizah Binte Nawer*</span><br><span style="font-weight:normal;color:#000">Chan Xiu Jing</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/art-and-crafts"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Art and Crafts</span></a><span style="font-weight:normal;color:#000"> </span><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Art-and-Crafts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Art and Crafts</span></a><span style="font-weight:normal;color:#000"> </span><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Abdul Malik Bin Mazlan*</span><br><span style="font-weight:normal;color:#000">Ler Jia Yi</span><br><span style="font-weight:normal;color:#000">Nor Aslinda Bte Mohamad Saleh</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/brass-band"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Brass Band</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Brass-Band/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Brass Band</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tam Shuyi*</span><br><span style="font-weight:normal;color:#000">Tan Wei'En Nicholas</span><br><span style="font-weight:normal;color:#000">Pradeebha Veerapandian</span><br><span style="font-weight:normal;color:#000">Zunairah Binte Janis</span><br><span style="font-weight:normal;color:#000">Nicola Ho-Hoon Hui Qi</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/choir"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Choir</span></a><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/choir"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Choir/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Choir</span></a><a href="/ccas/Choir/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Pagsibigan Jemaima Agustin*</span><br><span style="font-weight:normal;color:#000">Wong Thin Chee Frances</span><br><span style="font-weight:normal;color:#000">Chua Soo Bin April</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> <a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/speech-and-drama"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C;background-color:initial">Speech and Drama</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
+    <td class="tg-zr06"> <a href="/ccas/Speech-and-Drama/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C;background-color:initial">Speech and Drama</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
     <td class="tg-zr06">Snowlin Malar Elangovan*<br><br>Lee Nai Fern Rachel<br><br><br><span style="background-color:initial">Chia Why Chen Izabella</span><br></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/cultural-dance-and-modern-dance"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance and Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance and Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Lin Qiuyan*</span><br><span style="font-weight:normal;color:#000">Faridah Bte Mohd Ail</span><br><span style="font-weight:normal;color:#000">Foo Yingting</span><br><span style="font-weight:normal;color:#000">Lee Xiao Tian</span><br><span style="font-weight:normal;color:#000">Nurul Jannah Bte Azeman</span><br><span style="font-weight:normal;color:#000">Clara Foo Shi Jia</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/guzheng-ensemble"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Liu Si Ting*</span><br><span style="font-weight:normal;color:#000">Wong Min Wei</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="4"><span style="font-weight:normal;color:#000">Clubs and Societies</span></td>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/infocomm-technology-media-production"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Media Production)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Media-Production/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Media Production)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Meharaj Begum Binte Mohd Mustafa*</span><br><span style="font-weight:normal;color:#000">Diana Teoh Jia Yan</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/infocomm-technology-computing"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Computing/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Siah Kai Yeow*</span><br><span style="font-weight:normal;color:#000">Koh Hui Chin Paulina</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/environmental-science"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Environmental-Science/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tan Ying Yin*</span><br><span style="font-weight:normal;color:#000">Zhou Yu</span><br><span style="font-weight:normal;color:#000">Lin Xiu Hui</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/design-and-innovation"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Design-and-Innovation/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Lim Cheng Chuan Lance*</span><br><span style="font-weight:normal;color:#000">Tan Siew Ping, Hazel</span><br><span style="font-weight:normal;color:#000">David Tee Ter Wei</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3"><span style="font-weight:normal;color:#000">Uniformed Groups</span></td>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/scouts"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Scouts</span></a><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Scouts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Scouts</span></a><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Thong Kok Leung*</span><br><span style="font-weight:normal;color:#000">Yeo Yee Chong</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/girl-guides-brownies"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girl Guides</span></a><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/girl-guides-brownies"> </a><span style="font-weight:normal;color:#000">(Brownies)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Girl-Guides-Brownies/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girl Guides</span></a><a href="/ccas/Girl-Guides-Brownies/"> </a><span style="font-weight:normal;color:#000">(Brownies)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Nurul Asyikin Bte Norman*</span><br><span style="font-weight:normal;color:#000">Ong Ming Sei</span><br><span style="font-weight:normal;color:#000">Khairunnisa Nadiah Abdul Rahman</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/boys-brigade"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Boys’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Boys)</span><br><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/girls-brigade"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girls’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Boys-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Boys’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Boys)</span><br><a href="/ccas/Girls-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girls’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Lim Yang Jun*</span><br><span style="font-weight:normal;color:#000">Yiap Mei Chan, Alicia</span></td>
   </tr>
 </tbody>
