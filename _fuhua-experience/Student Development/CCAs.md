@@ -116,7 +116,7 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Siti Sarah Binte Aziz*</span><br><span style="font-weight:normal;color:#000">Ong Shi Hui</span><br><span style="font-weight:normal;color:#000">Chen Yilong, Jonathan</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/football"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Football</span></a><a href="https://fuhuapri.moe.edu.sg/fuhua-experience/student-development/cca/football"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Football/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Football</span></a><a href="/ccas/Football/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Haji Mohamad Hairi bin Ibrahim*</span><br><span style="font-weight:normal;color:#000">Edwin Low Chong Jian</span><br><span style="font-weight:normal;color:#000">Ng Baohui Sherline </span><br><span style="font-weight:normal;color:#000">Chia Chew Hoon Ivy</span></td>
   </tr>
   <tr>
