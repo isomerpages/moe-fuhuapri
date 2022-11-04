@@ -82,3 +82,5 @@ Our school-based Mathematics materials echo the importance of the strong foundat
 *   Factual and Procedural Fluency
 *   Heuristics (Application & Reasoning)
 *   Reasoning & Communication
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/M1.png)
