@@ -193,8 +193,8 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
 </tbody>
 </table>
 
-INFORMATION FOR PARENTS
------------------------
+#### **INFORMATION FOR PARENTS**
+
 
 1.  Parents may opt their children out of the Growing Years programme. 
 2.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is also downloadable [here](https://fuhuapri.moe.edu.sg/qql/slot/u1029/Opt%20out%20Form_SEd_for_schs_website_Pri_2021_FINAL.pdf) . 
