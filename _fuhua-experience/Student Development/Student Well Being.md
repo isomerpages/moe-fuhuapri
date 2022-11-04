@@ -44,4 +44,4 @@ Additionally, the school has embarked on using one of the strategies in Social S
 #### **Social Skills**
 
 
-Social Skills package is structured to teach the students at every level based on age-appropriate understanding of social skills suitable for the students. At the end of each level, students would have learnt several social skills from the form teachers and reinforced by all subject teachers. The overall social skill which will be reinforced at all levels is the “Use
+Social Skills package is structured to teach the students at every level based on age-appropriate understanding of social skills suitable for the students. At the end of each level, students would have learnt several social skills from the form teachers and reinforced by all subject teachers. The overall social skill which will be reinforced at all levels is the “Use of Voice Tone”.
