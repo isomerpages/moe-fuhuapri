@@ -52,22 +52,20 @@ We take great pride in developing caring and responsible students with a pervasi
 *   Peer Support and Relationships – E.g. SIXER and PAL
 *   Student Voice and Ownership – E.g. CW
 
-Please click . for Student Leadership 
+**Please click [here](/character-and-citizenship/Student-Leadership/) for Student Leadership**
 
-Please click . for National Education
+**Please click [here](/character-and-citizenship/National-Education/) for National Education**
 
-Please click . for Trips for Internationalisation Experience (TIE)
+**Please click [here](/character-and-citizenship/Trips-for-Internationalisation-Experience-TIE/) for Trips for Internationalisation Experience (TIE)**
 
-Please click . for  Values in Action (VIA)
+**Please click [here](/character-and-citizenship/Values-in-Action-VIA/) for  Values in Action (VIA)**
 
-Please click . for House System
+**Please click [here](/character-and-citizenship/House-System/) for House System**
 
-Please click . for SIXER
+**Please click [here](/character-and-citizenship/SIXER/) for SIXER**
 
-Please click . for Programme for Active Learning (PAL)
+**Please click [here](/character-and-citizenship/Programme-for-Active-Learning-PAL/) for Programme for Active Learning (PAL)**
 
-Please click . for Cyber Wellness (CW)
+**Please click [here](/character-and-citizenship/Cyber-Wellness-CW/) for Cyber Wellness (CW)**
 
-Please click . for Sexuality Education (SEd)
-
-
+**Please click [here](/character-and-citizenship/Sexuality-Education/) for Sexuality Education (SEd)**
