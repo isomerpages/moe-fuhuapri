@@ -10,9 +10,9 @@ PSLE is a useful checkpoint to gauge students' understanding of key concepts and
 
   
 
-1) [2021 PSLE & DSA BRIEFING SLIDES](https://fuhuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u1029/2021%20PSLE%20%20DSA%20BRIEFING%20SLIDES.pdf)
+1) [2021 PSLE & DSA BRIEFING SLIDES](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2021%20Mid%20Year%20Prt%20Engage%20Ses/2021%20PSLE%20%20DSA%20BRIEFING%20SLIDES.pdf)
 
-2) [2021 PSLE & DSA BRIEFING Q&A](https://fuhuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u1029/2021%20PSLE%20%20DSA%20BRIEFING%20QA.pdf)
+2) [2021 PSLE & DSA BRIEFING Q&A](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2021%20Mid%20Year%20Prt%20Engage%20Ses/2021%20PSLE%20%20DSA%20BRIEFING%20QA.pdf)
 
   
 
