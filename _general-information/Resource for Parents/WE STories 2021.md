@@ -4,8 +4,8 @@ permalink: /general-information/Resource-for-Parents/WE-STories-2021/
 description: ""
 third_nav_title: Resource for Parents
 ---
-WE STories – Getting to Know West Zone Secondary Schools
---------------------------------------------------------
+##### **WE STories – Getting to Know West Zone Secondary Schools**
+
 
 Dear Parents/Guardians,
 
