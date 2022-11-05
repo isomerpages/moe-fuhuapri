@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Fuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -13,3 +13,4 @@ sections:
           description: Schoolbag Newsletter
           url: https://www.schoolbag.edu.sg/
 ---
+
