@@ -40,7 +40,7 @@ JURONG EAST CENTRAL (BS28431): 51, 66, 78, 79, 143, 143M, 176
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%;height:50%" src="/images/School%20Administration/Admission/FB1.jpg">
 
 </a>
 
@@ -51,4 +51,3 @@ JURONG EAST CENTRAL (BS28431): 51, 66, 78, 79, 143, 143M, 176
 </div>
 
 </div>
-
