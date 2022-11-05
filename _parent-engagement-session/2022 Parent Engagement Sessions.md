@@ -12,7 +12,7 @@ This video consists the presentation shared at the P5 and P6 Parent Engagement S
 
 Please click here for the [video](https://www.youtube.com/channel/UCsRhz2loYKVoaxvaXY4k-mA).  
 
-Please click here for the [Questions and Answers (Q&A)](https://fuhuapri.moe.edu.sg/qql/slot/u1029/Parents%20Engagement/P5%20and%20P6%20Parent%20Engagement%20Session%20FAQ.pdf).
+Please click here for the [Questions and Answers (Q&A)](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2022%20Parent%20Engag%20Ses/P5%20and%20P6%20Parent%20Engagement%20Session%20FAQ.pdf).
 
   
 
@@ -35,7 +35,7 @@ This video consists of the Subject-Based Banding presentation made by Assistant 
 
 Please click here for the [video](https://youtu.be/k6HskYgplcg).
 
-Please click here for the [Questions and Answers (Q&A)](https://fuhuapri.moe.edu.sg/qql/slot/u1029/Parents%20Engagement/P4%20Parent%20Engagement%20Session%20FAQ.pdf).
+Please click here for the [Questions and Answers (Q&A)](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2022%20Parent%20Engag%20Ses/P4%20Parent%20Engagement%20Session%20FAQ.pdf).
 
   
 
