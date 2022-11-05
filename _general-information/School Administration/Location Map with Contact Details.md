@@ -4,8 +4,6 @@ permalink: /general-information/School-Administration/Location-Map-with-Contact-
 description: ""
 third_nav_title: School Administration
 ---
-
-
 Address: 65 JURONG EAST STREET 13  S(609647)
 
 Telephone: 65624370
@@ -16,6 +14,8 @@ Email:  fhps@moe.edu.sg
 
   
 <img style="width:30%;height:50%" src="/images/School%20Administration/Admission/FB1.jpg">
+
+![](/images/School%20Administration/Admission/FB2.png)
 
 Nearest MRT station: Jurong East
 
