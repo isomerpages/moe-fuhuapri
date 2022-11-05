@@ -16,9 +16,7 @@ On behalf of the school, Ms Saima received the award from Mr Tiew Chew Meng
 
 This award is given to recognise our environmental efforts as well as the effective approaches that we have taken as a whole school to engage our students to be environment advocates in school as well as in the community.
 
-  
-
-![FHPS Green Schools Award 002.jpeg](https://fuhuapri.moe.edu.sg/qql/slot/u1029/FHPS%20Green%20Schools%20Award%20002.jpeg)  
+![](/images/Highlights/Achievements/A1.jpg)
 
 ##### **Innergy Award 2021**
 
@@ -36,7 +34,7 @@ Launched in May 2005, the Community in Bloom nationwide gardening movement aims 
 
 The Community in Bloom (CIB) Awards recognize excellence in gardening efforts by community groups and aims to encourage community gardeners to improve the standards of their gardens while continuing to enjoy gardening as a fun and healthy activity.
 
-![CIB award.jpeg](https://fuhuapri.moe.edu.sg/qql/slot/u1029/CIB%20award.jpeg)  
+![](/images/Highlights/Achievements/A2.jpg)  
 
 ##### **THE QUEEN'S COMMONWEALTH ESSAY COMPETITION 2021**
 
@@ -47,9 +45,7 @@ Congratulations to Ayra Arinah of Primary 5 Loyalty for achieving the prestigio
 
 Her  essay on the pandemic Covid-19 summarizes the events of the pandemic in a nutshell and explored the event from a child's perspective and her hopes for a brighter future.
 
-![WhatsApp Image 2021-09-30 at 5.12.44 PM.jpeg](https://fuhuapri.moe.edu.sg/qql/slot/u497/WhatsApp%20Image%202021-09-30%20at%205.12.44%20PM.jpeg)  
-
-![Capture.JPG](https://fuhuapri.moe.edu.sg/qql/slot/u497/Capture.JPG)  
+![](/images/Highlights/Achievements/A3.jpg)
 
 ##### **THE SINGAPORE YOUTH FESTIVAL 2021 ART EXHIBITION VIRTUAL OPENING EVENT**
 
@@ -60,30 +56,6 @@ Our student artists have done extremely well for the Singapore Youth Festival 20
 
 On 29 June 2021, our student artists were honoured to be given the opportunity to present their artwork and conduct a virtual activity with Mr. Chan Chun Sing, Minister of Education and Ms Chong Siak Ching, Chief Executive Officer of National Gallery Singapore.
 
-![B.png](https://fuhuapri.moe.edu.sg/qql/slot/u497/B.png)![A.jpg](https://fuhuapri.moe.edu.sg/qql/slot/u497/A.jpg)  
+![](/images/Highlights/Achievements/A4.jpg)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![C.png](https://fuhuapri.moe.edu.sg/qql/slot/u497/C.png)![D.jpg](https://fuhuapri.moe.edu.sg/qql/slot/u497/D.jpg)
+![](/images/Highlights/Achievements/A5.jpg)
