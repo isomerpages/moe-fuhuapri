@@ -10,36 +10,7 @@ Dear parents who have a child or children who are aged 12 and above,
 
 Please click on the [link](https://www.facebook.com/6788957003/posts/10160860961292004/?d=n) to find out more about the registration of your child for vaccination. 
 
-![COVID.JPG](https://fuhuapri.moe.edu.sg/qql/slot/u1029/COVID.JPG)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![](/images/Highlights/News/C1.png)
   
 
 Further, you may also wish to take a look at the following FAQs:  
