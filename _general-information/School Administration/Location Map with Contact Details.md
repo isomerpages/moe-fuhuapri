@@ -17,7 +17,7 @@ Email:  fhps@moe.edu.sg
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://www.facebook.com/FuhuaPrimary">
 
 <img style="width:50%;height:50%" src="/images/School%20Administration/Admission/FB1.jpg">
 
@@ -47,4 +47,3 @@ JURONG EAST CENTRAL (BS28441): 97,41,49,52,105,160,160A,160M,176,183,506  
   
 
 JURONG EAST CENTRAL (BS28431): 51, 66, 78, 79, 143, 143M, 176
-
