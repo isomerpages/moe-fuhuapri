@@ -8,5 +8,8 @@ notification: Welcome to Fuhua Primary School!
 sections:
   - hero:
       background: /images/Homepage/HomepageGif.gif
+      key_highlights:
+        - title: Announcements
+          description: Schoolbag Newsletter
+          url: https://www.schoolbag.edu.sg/
 ---
-
