@@ -12,4 +12,4 @@ For school bus arrangements, kindly contact Mr Ray from Revolving Transport at 8
 
   
 
-The application form and bus fare is attached here: Click [Form](https://fuhuapri.moe.edu.sg/qql/slot/u497/2020/Useful%20Info%20and%20Links/Bus%20Transport%20Registration%20Form.pdf)
+The application form and bus fare is attached here: Click [Form](/files/Bus%20Transport/Bus%20Transport%20Registration%20Form.pdf)
