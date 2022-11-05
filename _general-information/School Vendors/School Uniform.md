@@ -39,7 +39,7 @@ Tuesday         1.40pm – 3pm 
 
   
 
-For purchase of school uniform, we strongly encourage parent to get it online at [www.finestuniform.com](http://www.finestuniform.com/). Passcode: FHFfcs6. Click [here](https://fuhuapri-moe-edu-sg-admin.cwp.sg/qql/slot/u497/2020/Useful%20Info%20and%20Links/School%20Uniform%20Price%20List.pdf) for the Order Form.
+For purchase of school uniform, we strongly encourage parent to get it online at [www.finestuniform.com](http://www.finestuniform.com/). Passcode: FHFfcs6. Click [here](/files/School%20Uniform/School%20Uniform%20Price%20List.pdf) for the Order Form.
 
   
 
