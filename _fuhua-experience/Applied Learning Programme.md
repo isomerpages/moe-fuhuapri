@@ -31,6 +31,6 @@ At the end of P6, student will be able to 
 *   Develop ICT skills for the future workforce 
 *   Contribute back to the community leveraging on technology
 
-![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/A1.png)
+![](/images/Students%20As%20Designer%20for%20the%2021st%20Century.jpg)
 
 ![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/A2.png)
