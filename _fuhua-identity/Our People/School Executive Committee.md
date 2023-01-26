@@ -10,15 +10,15 @@ third_nav_title: Our People
 | Vice-Principal (Administration)                                | Ms Saima Hanif                        |
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
 | Head Of Department - Science                                   | Mrs Santi Malaiya Maran               |
-| Head Of Department - Mother Tongue Languages                   | Mdm Qin Mi                            |
+| Head Of Department - Mother Tongue Languages                   | Mdm Qin Mi                            | | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon, Daryl           |
 | Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Bte Juma'at            |
 | Head Of Department - Pastoral Care and Career Guidance         | Mdm Ong Sook Yen                      |
 | Head Of Department - Information & Communications Technology   | Ms Lian Wanling Joyce                 |
 | School Staff Developer (SSD)                                   | Mrs Angie Poh                         |
 | Year Head                                                      | Mr Lau Kar Wai Julian                 |
-| Year Head                                                      | Mr Teo Chai Yaw                       |
+| Year Head (int.)                                                     | Mdm Teng Shu Min, Eunice                      |
 | Year Head                                                      | Mdm Nuraina Binte Mohamed Sin         |
-| Assistant Year Head                                            | Mdm Teng Shu Min, Eunice              |
+| Assistant Year Head (int.)                                           | Mrs Izabella Teo              |
 | Assistant Year Head (int.)                                     | Ms Lei Limin Fiona                    |
 | Assistant Year Head (int.)                                     | Ms Zeng Jiahui                        |
 | Level Head - English                                           | Ms Ang Weiqi                          |
