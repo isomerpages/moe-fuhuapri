@@ -97,7 +97,7 @@ Students hone their information, communication, and technical skills as they str
   <tr>
     <td class="tg-ktyi" rowspan="6"><span style="font-weight:normal;color:#000">Physical Sports</span><br><span style="font-weight:normal;color:#000"> </span></td>
     <td class="tg-8v5g"><a href="/ccas/Rugby/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Rugby </span></a></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Habib Nasiruddin Bin Karim Gani*</span><br><span style="background-color:initial">Haslina Bte Ishak</span><br><span style="font-weight:normal;color:#000">Iszehar Bin Ismail </span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Haslina Bte Ishak*</span><br><span style="font-weight:normal;color:#000">Iszehar Bin Ismail </span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Floorball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Floorball </span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
