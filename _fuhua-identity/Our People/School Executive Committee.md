@@ -10,7 +10,8 @@ third_nav_title: Our People
 | Vice-Principal (Administration)                                | Ms Saima Hanif                        |
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
 | Head Of Department - Science                                   | Mrs Santi Malaiya Maran               |
-| Head Of Department - Mother Tongue Languages                   | Mdm Qin Mi    |                   | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon, Daryl           |
+| Head Of Department - Mother Tongue Languages       | Mdm Qin Mi    |                   
+| Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon Daryl           |
 | Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Bte Juma'at            |
 | Head Of Department - Pastoral Care and Career Guidance         | Mdm Ong Sook Yen                      |
 | Head Of Department - Information & Communications Technology   | Ms Lian Wanling Joyce                 |
