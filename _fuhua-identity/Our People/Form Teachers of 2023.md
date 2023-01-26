@@ -37,7 +37,7 @@ third_nav_title: Our People
 | 3 Loyalty   | Mdm Goh Wei Ting | Mdm Qin Mi |
 | 3 Respect   | Mdm Ng Baohui Sherline  | Mr Abdul Malik Bin Mazlan |
 | 3 Trust     | Ms Tan Ying Yin | Mdm Haslina Bte Ishak |
-| 3 Hope      | Mdm Khairunnisa Nadiah       | Mdm Kho Mui Leng Selina        |
+| 3 Hope      | Mr John Low Wee Liang | Mrs Vivian Soh |
 
 #### **Primary 4**
 
