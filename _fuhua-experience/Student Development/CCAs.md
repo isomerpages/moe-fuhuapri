@@ -122,7 +122,7 @@ Students hone their information, communication, and technical skills as they str
   <tr>
     <td class="tg-ktyi" rowspan="7"><span style="font-weight:normal;color:#000">Visual and performing arts</span><br><span style="font-weight:normal;color:#000"> </span></td>
     <td class="tg-8v5g"><a href="/ccas/Percussion-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Percussion Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Azizah Binte Nawer*</span><br><span style="font-weight:normal;color:#000">Chan Xiu Jing</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Azizah Binte Nawer*</span><br><span style="font-weight:normal;color:#000">Nur Sheela Sugirmanto</span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Art-and-Crafts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Art and Crafts</span></a><span style="font-weight:normal;color:#000"> </span><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
