@@ -54,7 +54,7 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                         | Form Teacher            |
 |-------------|--------------------------------------|-------------------------|
-| 5 Care      | Mr Alan Wong                         | Mr Iszehar B Ismail     |
+| 5 Care      | Mr Lim Cheng Chuan | Mrs Santi Malaiya Maran |
 | 5 Diligence | Mdm Norfarishah Asherina Bte Hussain | Mrs Angie Poh           |
 | 5 Loyalty   | Ms Mardiana binte Mahat              | Mdm Hazel Tan Siew Peng |
 | 5 Respect   | Mr Yeo Yee Chong                     | Mr Ng Peng Hwee         |
