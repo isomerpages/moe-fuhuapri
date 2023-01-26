@@ -11,7 +11,7 @@ third_nav_title: Our People
 | 1 Care      | Mdm Ong Peoy Pei | Ms Ler Jia Yi  |
 | 1 Diligence | Mdm Ong Kui Shin | Ms Pagsibigan Jemaima Agustin              |
 | 1 Loyalty   | Mdm Masni Binte Hassan  | Mdm Zhuang Xiaojuan|
-| 1 Respect   | Ms Sung Huimin           | Mdm Ong Poh Har               |
+| 1 Respect   | Mr Chen Yilong, Jonathan | Ms Lee Xiao Tian |
 | 1 Trust     | Mr Lim Yang Jun          | Mdm Faridah Binte Mohamed Ali |
 | 1 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Liu Si Ting               |
 | 1 Joy       | Ms Zhou Yu               | Mdm Wu Juanjuan               |
