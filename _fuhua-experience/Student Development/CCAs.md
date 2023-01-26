@@ -151,7 +151,7 @@ Students hone their information, communication, and technical skills as they str
   <tr>
     <td class="tg-ktyi" rowspan="4"><span style="font-weight:normal;color:#000">Clubs and Societies</span></td>
     <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Media-Production/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Media Production)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Meharaj Begum Binte Mohd Mustafa*</span><br><span style="font-weight:normal;color:#000">Diana Teoh Jia Yan</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Diana Teoh Jia Yan*</span><br><span style="font-weight:normal;color:#000">Meharaj Begum Binte Mohd Mustafa</span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Computing/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
