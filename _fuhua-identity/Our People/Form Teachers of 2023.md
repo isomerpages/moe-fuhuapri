@@ -12,9 +12,9 @@ third_nav_title: Our People
 | 1 Diligence | Mdm Ong Kui Shin | Ms Pagsibigan Jemaima Agustin              |
 | 1 Loyalty   | Mdm Masni Binte Hassan  | Mdm Zhuang Xiaojuan|
 | 1 Respect   | Mr Chen Yilong, Jonathan | Ms Lee Xiao Tian |
-| 1 Trust     | Mr Lim Yang Jun          | Mdm Faridah Binte Mohamed Ali |
+| 1 Trust     | Mdm Kho Mui Leng Selina| Mdm Tang Yen Yen|
 | 1 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Liu Si Ting               |
-| 1 Joy       | Ms Zhou Yu               | Mdm Wu Juanjuan               |
+| 1 Joy       | Mdm NurulJannah Azeman   | Mdm Chua Soo Bin April |
 
 #### **Primary 2**
 
