@@ -9,13 +9,7 @@ On behalf of all staff and students of Fuhua Primary School, I would like to wis
 
   
 
-It is also with great pleasure I welcome the new addition to our Fuhua family, our 2022 P1 cohort of students and their parents.
-
-  
-
-2021 was a special year for Fuhua family as we turned 80. To celebrate the 8 decades of our contributions in developing generations of students and serving the community, we held our e-celebrations on Fri 19 November. During our e-celebrations, we launched our e-Heritage production and a Heritage corridor depicting the progress of our school and contributions of our stakeholders without whom the school would not have achieved its many accolades. May I invite you to view our e-celebrations at [Fuhua Primary School's 80th Anniversary Celebrations](https://go.gov.sg/fhps80thanniversarycelebrations).
-
-  
+It is also with great pleasure I welcome the new addition to our Fuhua family, our 2023 P1 cohort of students and their parents.
 
 At Fuhua, we believe that every student has an innate ability to learn and flourish. We envisage our students to be **Lifelong learners** who take ownership of their own learning. As such, we focus on strengthening fundamentals and creating opportunities for our students to hone their 4 Cs namely Creativity, Communication, Collaboration and Critical Thought through a robust curriculum. 
 
