@@ -20,8 +20,8 @@ third_nav_title: Our People
 
 | Class       | Form Teacher               | Form Teacher                |
 |-------------|----------------------------|-----------------------------|
-| 2 Care      | Ms Wong Min Wei            | Ms Dhanya Nair              |
-| 2 Diligence | Mr Low Chong Jian Edwin    | Ms Tan Hui Yik Mavis        |
+| 2 Care      | Ms Foo Shi Jia Clara            | Ms Tan Hui Yik Mavis              |
+| 2 Diligence | Mdm Sarah Harbachan    | Ms Mok Chia Hui Michelle        |
 | 2 Loyalty   | Mdm Haslina Bte Ishak      | Mdm Chua Soo Bin April      |
 | 2 Respect   | Mdm Nurul Ain Binte Suprat | Mdm Lin Qiuyan              |
 | 2 Trust     | Mdm Zunairah Binte Janis   | Mdm Tang Yen Yen            |
