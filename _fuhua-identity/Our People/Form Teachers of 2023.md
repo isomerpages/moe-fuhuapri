@@ -32,8 +32,8 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                 | Form Teacher                   |
 |-------------|------------------------------|--------------------------------|
-| 3 Care      | Mdm Masni Binte Hassan       | Mdm Teoh Jia Yan Diana         |
-| 3 Diligence | Mr John Low Wee Liang        | Ms Pagsibigan Jemaima Agustin  |
+| 3 Care      | Mdm Zunairah Binte Janis | Mdm Liu Si Ting |
+| 3 Diligence | Mdm Foo Ying Ting | Mr David Tee Ter Wei  |
 | 3 Loyalty   | Mr Siah Kai Yeow             | Ms Shamira Binte Jamaludin     |
 | 3 Respect   | Ms Lin Xiu Hui               | Mdm Pradeebha Veerapandian     |
 | 3 Trust     | Mdm Siti Shofurah Bte Rahmad | Ms Tan Ying Yin                |
