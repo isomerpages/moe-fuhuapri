@@ -67,7 +67,7 @@ third_nav_title: Our People
 |-------------|------------------------------|--------------------------------------|
 | 6 Care      | Mdm Avenir Janna Francesca Guinto   | Dr Ge Yan   |
 | 6 Diligence | Ms Wong Thin Chee Frances  | Mdm Meharaj Begum  Binte Mohd Mustafa |
-| 6 Loyalty   | Dr Lee Nai Fern Rachel       | Mr Haji Mohamad Hairi bin Ibrahim    |
-| 6 Respect   | Mdm Foo Ying Ting            | Mdm Riswaana Tasnim Bte Noor Mohamed |
-| 6 Trust     | Mdm Koh Hui Chin             | Mr Lim Cheng Chuan                   |
+| 6 Loyalty   | Mr Yeo Yee Chong | Ms Ong Ming Sei  |
+| 6 Respect   | Ms Mardiana binte Mahat  | Mdm Hazel Tan Siew Peng |
+| 6 Trust     | Mr Iszehar B Ismail | Mdm Norfarishah Asherina Bte Hussain |
 | 6 Hope      | Mdm Nurul Asyikin Bte Norman | Ms Mok Chia Hui Michelle             |
