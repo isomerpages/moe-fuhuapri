@@ -4,12 +4,11 @@ permalink: /fuhua-identity/Our-People/Form-Teachers-of-2022/
 description: ""
 third_nav_title: Our People
 ---
-
 #### **Primary 1**
 
 | Class       | Form Teacher             | Form Teacher                  |
 |-------------|--------------------------|-------------------------------|
-| 1 Care      | Mdm Foo Shi Jia Clara    | Ms Chan Xiu Jing              |
+| 1 Care      | Mdm Ong Peoy Pei    | Ms Ler Jia Yi             |
 | 1 Diligence | Mdm Sarah Harbachan      | Ms Ong Ming Sei               |
 | 1 Loyalty   | Mdm Hoon Hui-Qi, Nicola  | Mdm Azizah Binte Nawer        |
 | 1 Respect   | Ms Sung Huimin           | Mdm Ong Poh Har               |
