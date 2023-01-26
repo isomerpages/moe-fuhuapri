@@ -43,7 +43,7 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                           | Form Teacher                      |
 |-------------|----------------------------------------|-----------------------------------|
-| 4 Care      | Ms Ang Weiqi                           | Mrs Vivian Soh                    |
+| 4 Care      | Mdm Khairunnisa Nadiah | Mrs Vivian Soh                    |
 | 4 Diligence | Mdm Meharaj Begum  Binte Mohd Mustafa  | Mdm Nor Aslinda Bte Mohamad Saleh |
 | 4 Loyalty   | Ms Siti Sarah Binte Aziz               | Mr Chen Yilong, Jonathan          |
 | 4 Respect   | Mdm Ong Kui Shin                       | Mdm Ong Sook Yen                  |
