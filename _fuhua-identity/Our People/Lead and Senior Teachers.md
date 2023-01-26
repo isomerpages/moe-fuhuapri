@@ -9,7 +9,6 @@ third_nav_title: Our People
 | Lead Teacher (English Language)    | Ms Wong Thin Chee Frances  |
 | Lead Teacher (Chinese Language)    | Dr Ge Yan                  |
 | Senior Teacher (English Language)  |   Dr Lee Nai Fern Rachel   |
-| Senior Teacher (English Language)  | Mdm Chia Chew Hoon Ivy     |
 | Senior Teacher (Science)           | Ms Tan Ying Yin            |
 | Senior Teacher (Music)             | Mdm Chua Soo Bin April     |
 | Senior Teacher (Art)               | Ms Ler Jia Yi              |
