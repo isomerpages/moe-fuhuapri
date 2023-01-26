@@ -138,7 +138,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-zr06"> <a href="/ccas/Speech-and-Drama/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C;background-color:initial">Speech and Drama</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
-    <td class="tg-zr06">Snowlin Malar Elangovan*<br><br>Lee Nai Fern Rachel<br><br><br><span style="background-color:initial">Chia Why Chen Izabella</span><br></td>
+    <td class="tg-zr06">Snowlin Malar Elangovan*<br><br>Lee Nai Fern Rachel<br><br><br></span><br></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance and Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
