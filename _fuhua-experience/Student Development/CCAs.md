@@ -146,7 +146,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Liu Si Ting*</span><br><span style="font-weight:normal;color:#000">Wong Min Wei</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Wong Min Wei*</span><br><span style="font-weight:normal;color:#000">Zhuang Xiao Juan</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="4"><span style="font-weight:normal;color:#000">Clubs and Societies</span></td>
