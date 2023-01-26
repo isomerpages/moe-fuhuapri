@@ -155,7 +155,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Computing/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Siah Kai Yeow*</span><br><span style="font-weight:normal;color:#000">Koh Hui Chin Paulina</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Siah Kai Yeow*</span><br><span style="font-weight:normal;color:#000">Tan Hui Yik Mavis</span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Environmental-Science/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
