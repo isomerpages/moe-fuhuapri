@@ -45,8 +45,8 @@ third_nav_title: Our People
 |-------------|----------------------------------------|-----------------------------------|
 | 4 Care      | Mdm Khairunnisa Nadiah | Mdm Lin Qiuyan |
 | 4 Diligence | Mr Wang Kee Leong | Mdm Siti Shofurah Bte Rahmad |
-| 4 Loyalty   | Ms Siti Sarah Binte Aziz               | Mr Chen Yilong, Jonathan          |
-| 4 Respect   | Mdm Ong Kui Shin                       | Mdm Ong Sook Yen                  |
+| 4 Loyalty   | Mdm Pradeebha Veerapandian  | Mrs Shirley Koh   |
+| 4 Respect   | Mr Siah Kai Yeow   | Ms Siti Sarah Binte Aziz   |
 | 4 Trust     |  Mr David Tee Ter Wei                  | Ms Ong Shi Hui                    |
 | 4 Hope      | Ms Tam Shuyi                           | Mr Thong Kok Leung                |
 
