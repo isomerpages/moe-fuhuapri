@@ -83,45 +83,45 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
     <td class="tg-ktyi" rowspan="4"><span style="font-weight:normal;color:#000">Gosh! I Am Changing</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Is Happening To Me?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">know what puberty is<br>identify the physical changes during puberty</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 7</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Can I Do? (Part 1)</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 7</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Can I Do? (Part 2)</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 8</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Main Task</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Description of the Main Task:</span><br><span style="font-weight:normal;color:#000">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 8</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Where I Belong</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Are Families?</span><br><span style="font-weight:normal;color:#000">(30 min)</span><br><span style="font-weight:normal;color:#000"> </span></td>
     <td class="tg-ktyi">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 9</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Where I Belong</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What is My Role?</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi">know that gender is about being male or female<br>choose not to stereotype by gender</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 9</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2"><span style="font-weight:normal;color:#000">How Do I Keep Myself Safe?</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What is Safety?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 10</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Stop It! Run! Tell!</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 We</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
   </tr>
 </tbody>
 </table>
@@ -152,43 +152,43 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
     <td class="tg-ktyi" rowspan="5"><span style="font-weight:normal;color:#000">Are We More Than Friends?</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Who Are My Friends?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Am I A Good Friend?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-zr06">Term 4 Week 5</td>
+    <td class="tg-zr06">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What is Love?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5</span><br></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span><br></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Am I Falling In Love?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-zr06">Term 4 Week 5</td>
+    <td class="tg-zr06">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Main Task</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Description of the Main Task:</span><br><span style="font-weight:normal;color:#000">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
-    <td class="tg-zr06">Term 4 Week 5</td>
+    <td class="tg-zr06">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3"><span style="font-weight:normal;color:#000">Friends or Foes?</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Are You Really My Friend?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-zr06">Term 4 Week 5</td>
+    <td class="tg-zr06">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Is It All Safe?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-zr06">Term 4 Week 5<br></td>
+    <td class="tg-zr06">Term 1 Week 3<br></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Main Task</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Description of the Main Task:</span><br><span style="font-weight:normal;color:#000"> </span><span style="background-color:initial">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Wee</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span></td>
   </tr>
 </tbody>
 </table>
