@@ -56,8 +56,8 @@ third_nav_title: Our People
 |-------------|--------------------------------------|-------------------------|
 | 5 Care      | Mr Lim Cheng Chuan | Mrs Santi Malaiya Maran |
 | 5 Diligence | Mdm Nurul Ain Binte Suprat | Mr Thong Kok Leung  |
-| 5 Loyalty   | Ms Mardiana binte Mahat              | Mdm Hazel Tan Siew Peng |
-| 5 Respect   | Mr Yeo Yee Chong                     | Mr Ng Peng Hwee         |
+| 5 Loyalty   | Mdm Sheela | Mdm Snowlin Malar Elangovan |
+| 5 Respect   | Mdm Koh Hui Chin| Ms Ang Wei Qi |
 | 5 Trust     | Mdm Goh Wei Ting                     | Dr Ge Yan               |
 | 5 Hope      | Mdm Avenir Janna Francesca Guinto    | Mdm Zhuang Xiaojuan     |
 
