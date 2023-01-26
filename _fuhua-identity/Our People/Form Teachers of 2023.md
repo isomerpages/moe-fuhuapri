@@ -55,7 +55,7 @@ third_nav_title: Our People
 | Class       | Form Teacher                         | Form Teacher            |
 |-------------|--------------------------------------|-------------------------|
 | 5 Care      | Mr Lim Cheng Chuan | Mrs Santi Malaiya Maran |
-| 5 Diligence | Mdm Norfarishah Asherina Bte Hussain | Mrs Angie Poh           |
+| 5 Diligence | Mdm Nurul Ain Binte Suprat | Mr Thong Kok Leung  |
 | 5 Loyalty   | Ms Mardiana binte Mahat              | Mdm Hazel Tan Siew Peng |
 | 5 Respect   | Mr Yeo Yee Chong                     | Mr Ng Peng Hwee         |
 | 5 Trust     | Mdm Goh Wei Ting                     | Dr Ge Yan               |
