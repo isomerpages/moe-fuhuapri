@@ -159,7 +159,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Environmental-Science/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tan Ying Yin*</span><br><span style="font-weight:normal;color:#000">Koh Hui Chin Paulina</span><br><span style="font-weight:normal;color:#000">Lin Xiu Hui</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tan Ying Yin*</span><br><span style="font-weight:normal;color:#000">Koh Hui Chin Paulina</span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Design-and-Innovation/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
