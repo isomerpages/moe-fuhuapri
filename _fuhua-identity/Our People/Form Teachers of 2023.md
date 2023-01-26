@@ -44,7 +44,7 @@ third_nav_title: Our People
 | Class       | Form Teacher                           | Form Teacher                      |
 |-------------|----------------------------------------|-----------------------------------|
 | 4 Care      | Mdm Khairunnisa Nadiah | Mdm Lin Qiuyan |
-| 4 Diligence | Mdm Meharaj Begum  Binte Mohd Mustafa  | Mdm Nor Aslinda Bte Mohamad Saleh |
+| 4 Diligence | Mr Wang Kee Leong | Mdm Siti Shofurah Bte Rahmad |
 | 4 Loyalty   | Ms Siti Sarah Binte Aziz               | Mr Chen Yilong, Jonathan          |
 | 4 Respect   | Mdm Ong Kui Shin                       | Mdm Ong Sook Yen                  |
 | 4 Trust     |  Mr David Tee Ter Wei                  | Ms Ong Shi Hui                    |
