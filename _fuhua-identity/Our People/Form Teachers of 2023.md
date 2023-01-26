@@ -36,7 +36,7 @@ third_nav_title: Our People
 | 3 Diligence | Mdm Foo Ying Ting | Mr David Tee Ter Wei  |
 | 3 Loyalty   | Mdm Goh Wei Ting | Mdm Qin Mi |
 | 3 Respect   | Mdm Ng Baohui Sherline  | Mr Abdul Malik Bin Mazlan |
-| 3 Trust     | Mdm Siti Shofurah Bte Rahmad | Ms Tan Ying Yin                |
+| 3 Trust     | Ms Tan Ying Yin | Mdm Haslina Bte Ishak |
 | 3 Hope      | Mdm Khairunnisa Nadiah       | Mdm Kho Mui Leng Selina        |
 
 #### **Primary 4**
