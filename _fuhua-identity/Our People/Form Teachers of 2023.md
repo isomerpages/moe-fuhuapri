@@ -25,7 +25,7 @@ third_nav_title: Our People
 | 2 Loyalty   | Mdm Azizah Binte Nawer      | Ms Dhanya Nair      |
 | 2 Respect   | Ms Sung Huimin | Mr Haji Mohamad Hairi bin Ibrahim |
 | 2 Trust     | Mr Lim Yang Jun   | Mdm Nor Aslinda Bte Mohamad Saleh |
-| 2 Hope      | Mdm Ng Baohui Sherline     | Ms Lee Xiao Tian            |
+| 2 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Teoh Jia Yan Diana|
 | 2 Joy       | Mdm Ong Peoy Pei           | Mdm Snowlin Malar Elangovan |
 
 #### **Primary 3**
