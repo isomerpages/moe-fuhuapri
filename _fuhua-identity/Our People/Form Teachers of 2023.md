@@ -70,4 +70,4 @@ third_nav_title: Our People
 | 6 Loyalty   | Mr Yeo Yee Chong | Ms Ong Ming Sei  |
 | 6 Respect   | Ms Mardiana binte Mahat  | Mdm Hazel Tan Siew Peng |
 | 6 Trust     | Mr Iszehar B Ismail | Mdm Norfarishah Asherina Bte Hussain |
-| 6 Hope      | Mdm Nurul Asyikin Bte Norman | Ms Mok Chia Hui Michelle             |
+| 6 Hope      | Mr Alan Wong| Ms Shamira Binte Jamaludin             |
