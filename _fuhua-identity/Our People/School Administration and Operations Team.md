@@ -6,6 +6,7 @@ third_nav_title: Our People
 ---
 | **Administration Manager**      | Ms Wu Heow Meng            |
 |---------------------------------|----------------------------|
+| **Administration Manager**      | Ms Koh Huey Ting   |
 | **Operations Manager**          |  Mr Chua Wee Hiang         |
 | **Corporate Support Officer**  | Ms Samikannu Sumathi       |
 | **Corporate Support Officer**  | Mdm Habibah Bte Harun      |
