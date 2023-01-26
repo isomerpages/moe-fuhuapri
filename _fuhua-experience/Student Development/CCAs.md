@@ -130,7 +130,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Brass-Band/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Brass Band</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tan Wei'En Nicholas*</span><br><span style="font-weight:normal;color:#000">Pradeebha Veerapandian</span><br><span style="font-weight:normal;color:#000">Zunairah Binte Janis</span><br><span style="font-weight:normal;color:#000">Nicola Ho-Hoon Hui Qi</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Tan Wei'En Nicholas*</span><br><span style="font-weight:normal;color:#000">Pradeebha Veerapandian</span><br><span style="font-weight:normal;color:#000">Zunairah Binte Janis</span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Choir/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Choir</span></a><a href="/ccas/Choir/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
