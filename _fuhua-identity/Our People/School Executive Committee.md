@@ -27,7 +27,6 @@ third_nav_title: Our People
 | Level Head - Chinese Language                                  |  Mdm Tang Yen Yen                     |
 | Level Head - Mathematics                                       | Mrs Vivian Soh                        |
 | Level Head - Mathematics (int.)                                |  Mdm Norfarishah Asherina Bte Hussain |
-| Subject Head - Tamil Language                                  | Mdm Riswaana Tasnim Bte Noor Mohamed  |
 | Subject Head - Environmental Education                         | Mdm Ong Lay Kuan, Shirley             |
 | Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Bte Rahmad          |
 | Subject Head - Data Management & Innovation                    |  Ms Sung Huimin                       |
