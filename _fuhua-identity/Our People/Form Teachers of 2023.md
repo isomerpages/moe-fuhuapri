@@ -8,9 +8,9 @@ third_nav_title: Our People
 
 | Class       | Form Teacher             | Form Teacher                  |
 |-------------|--------------------------|-------------------------------|
-| 1 Care      | Mdm Ong Peoy Pei    | Ms Ler Jia Yi  |
-| 1 Diligence | Mdm Ong Kui Shin     | Ms Pagsibigan Jemaima Agustin              |
-| 1 Loyalty   | Mdm Hoon Hui-Qi, Nicola  | Mdm Azizah Binte Nawer        |
+| 1 Care      | Mdm Ong Peoy Pei | Ms Ler Jia Yi  |
+| 1 Diligence | Mdm Ong Kui Shin | Ms Pagsibigan Jemaima Agustin              |
+| 1 Loyalty   | Mdm Masni Binte Hassan  | Mdm Zhuang Xiaojuan|
 | 1 Respect   | Ms Sung Huimin           | Mdm Ong Poh Har               |
 | 1 Trust     | Mr Lim Yang Jun          | Mdm Faridah Binte Mohamed Ali |
 | 1 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Liu Si Ting               |
