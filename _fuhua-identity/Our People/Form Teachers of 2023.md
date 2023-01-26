@@ -20,13 +20,13 @@ third_nav_title: Our People
 
 | Class       | Form Teacher               | Form Teacher                |
 |-------------|----------------------------|-----------------------------|
-| 2 Care      | Ms Foo Shi Jia Clara            | Ms Tan Hui Yik Mavis              |
-| 2 Diligence | Mdm Sarah Harbachan    | Ms Mok Chia Hui Michelle        |
-| 2 Loyalty   | Mdm Azizah Binte Nawer      | Ms Dhanya Nair      |
+| 2 Care      | Ms Foo Shi Jia Clara | Ms Tan Hui Yik Mavis |
+| 2 Diligence | Mdm Sarah Harbachan | Ms Mok Chia Hui Michelle        |
+| 2 Loyalty   | Mdm Azizah Binte Nawer | Ms Dhanya Nair |
 | 2 Respect   | Ms Sung Huimin | Mr Haji Mohamad Hairi bin Ibrahim |
-| 2 Trust     | Mr Lim Yang Jun   | Mdm Nor Aslinda Bte Mohamad Saleh |
+| 2 Trust     | Mr Lim Yang Jun | Mdm Nor Aslinda Bte Mohamad Saleh |
 | 2 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Teoh Jia Yan Diana|
-| 2 Joy       | Mdm Ong Peoy Pei           | Mdm Snowlin Malar Elangovan |
+| 2 Joy       | Ms Zhou Yu  | Mdm Wu Juanjuan |
 
 #### **Primary 3**
 
