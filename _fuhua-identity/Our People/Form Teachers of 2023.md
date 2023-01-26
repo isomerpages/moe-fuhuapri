@@ -47,8 +47,8 @@ third_nav_title: Our People
 | 4 Diligence | Mr Wang Kee Leong | Mdm Siti Shofurah Bte Rahmad |
 | 4 Loyalty   | Mdm Pradeebha Veerapandian  | Mrs Shirley Koh   |
 | 4 Respect   | Mr Siah Kai Yeow   | Ms Siti Sarah Binte Aziz   |
-| 4 Trust     |  Mdm Nurul Asyikin Bte Norman  | Mdm Ong Poh Har |
-| 4 Hope      | Ms Tam Shuyi                           | Mr Thong Kok Leung                |
+| 4 Trust     |  Mdm Nurul Asyikin Bte Norman | Mdm Ong Poh Har |
+| 4 Hope      | Dr Lee Nai Fern Rachel | Mr Ong Wei Loon Daryl |
 
 #### **Primary 5**
 
