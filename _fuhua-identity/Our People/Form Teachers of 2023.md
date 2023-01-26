@@ -24,7 +24,7 @@ third_nav_title: Our People
 | 2 Diligence | Mdm Sarah Harbachan    | Ms Mok Chia Hui Michelle        |
 | 2 Loyalty   | Mdm Azizah Binte Nawer      | Ms Dhanya Nair      |
 | 2 Respect   | Ms Sung Huimin | Mr Haji Mohamad Hairi bin Ibrahim |
-| 2 Trust     | Mdm Zunairah Binte Janis   | Mdm Tang Yen Yen            |
+| 2 Trust     | Mr Lim Yang Jun   | Mdm Nor Aslinda Bte Mohamad Saleh |
 | 2 Hope      | Mdm Ng Baohui Sherline     | Ms Lee Xiao Tian            |
 | 2 Joy       | Mdm Ong Peoy Pei           | Mdm Snowlin Malar Elangovan |
 
