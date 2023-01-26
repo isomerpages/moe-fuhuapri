@@ -22,7 +22,7 @@ third_nav_title: Our People
 |-------------|----------------------------|-----------------------------|
 | 2 Care      | Ms Foo Shi Jia Clara            | Ms Tan Hui Yik Mavis              |
 | 2 Diligence | Mdm Sarah Harbachan    | Ms Mok Chia Hui Michelle        |
-| 2 Loyalty   | Mdm Haslina Bte Ishak      | Mdm Chua Soo Bin April      |
+| 2 Loyalty   | Mdm Azizah Binte Nawer      | Ms Dhanya Nair      |
 | 2 Respect   | Mdm Nurul Ain Binte Suprat | Mdm Lin Qiuyan              |
 | 2 Trust     | Mdm Zunairah Binte Janis   | Mdm Tang Yen Yen            |
 | 2 Hope      | Mdm Ng Baohui Sherline     | Ms Lee Xiao Tian            |
