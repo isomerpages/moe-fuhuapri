@@ -65,8 +65,8 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                 | Form Teacher                         |
 |-------------|------------------------------|--------------------------------------|
-| 6 Care      | Mr Tan Wei'En Nicholas       | Ms Ler Jia Yi                        |
-| 6 Diligence | Ms Wong Thin Chee Frances    | Mr Abdul Malik Bin Mazlan            |
+| 6 Care      | Mdm Avenir Janna Francesca Guinto   | Dr Ge Yan   |
+| 6 Diligence | Ms Wong Thin Chee Frances  | Mdm Meharaj Begum  Binte Mohd Mustafa |
 | 6 Loyalty   | Dr Lee Nai Fern Rachel       | Mr Haji Mohamad Hairi bin Ibrahim    |
 | 6 Respect   | Mdm Foo Ying Ting            | Mdm Riswaana Tasnim Bte Noor Mohamed |
 | 6 Trust     | Mdm Koh Hui Chin             | Mr Lim Cheng Chuan                   |
