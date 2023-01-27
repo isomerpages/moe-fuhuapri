@@ -4,6 +4,8 @@ permalink: /fuhua-identity/Our-People/Information-and-Communications-Technology-
 description: ""
 third_nav_title: Our People
 ---
-| **ICT Associate**     | Mr Lam Xiao Liang                                         |
+| Designation     | Name                                         |
 |-----------------------|-----------------------------------------------------------|
-| **Desktop Engineer** | Mr Lee Lin Huat  Mr Muhammad Alif Bin Mohamed Norabidien  |
+| **ICT Associate**     | Mr Lam Xiao Liang 
+| **Desktop Engineer** | Mr Lee Lin Huat  |
+| **Desktop Engineer** | Mr Muhammad Alif Bin Mohamed Norabidien  |
