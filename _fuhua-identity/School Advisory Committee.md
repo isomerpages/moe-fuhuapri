@@ -3,8 +3,9 @@ title: School Advisory Committee
 permalink: /fuhua-identity/School-Advisory-Committee/
 description: ""
 ---
-|    Mr Ong Eng Loon  PBM   |    Chairman   |
+|                Name   |    Designation   |
 |:-------------------------:|:-------------:|
+|    Mr Ong Eng Loon  PBM   |    Chairman   |
 | Mr Kenny Teo Meng Keh PBM | Vice-Chairman |
 |  Mr Thomas Lim Choon Quee |     Member    |
 |     Mr Lee Wei Tia Gavin Bryan     |     Member    |
