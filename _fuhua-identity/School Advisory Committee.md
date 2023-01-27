@@ -12,5 +12,6 @@ description: ""
 |      Mr Low Yi Cheng PBM     |     Member    |
 |      Ms Low Wan Yi     |     Member    |
 |       Mr Neo Ang Jie Eimonison      |     Member    |
+|       Mr Ken Ng      |     Member    |
 |      Ms Tan Mui Kiang Fortuna      |     Member    |
 |      Mr Sio Wei Hurng     |     Member    |
