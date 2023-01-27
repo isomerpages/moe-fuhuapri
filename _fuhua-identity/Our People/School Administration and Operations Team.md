@@ -4,7 +4,7 @@ permalink: /fuhua-identity/Our-People/School-Administration-and-Operations-Team/
 description: ""
 third_nav_title: Our People
 ---
-| **Administration Manager**      | Ms Wu Heow Meng            |
+| Designation      | Name           |
 |---------------------------------|----------------------------|
 | **Administration Manager**      | Ms Koh Huey Ting   |
 | **Operations Manager**          |  Mr Chua Wee Hiang         |
