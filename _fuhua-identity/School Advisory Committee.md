@@ -7,9 +7,10 @@ description: ""
 |:-------------------------:|:-------------:|
 | Mr Kenny Teo Meng Keh PBM | Vice-Chairman |
 |  Mr Thomas Lim Choon Quee |     Member    |
-|      Mdm Lim Lai Phin     |     Member    |
-|      Mr Low Yi Cheng      |     Member    |
-|      Mr Ng Chiew Seng     |     Member    |
-|       Mr Ong Eng Lam      |     Member    |
-|      Mr Ong Keau PBM      |     Member    |
+|     Mr Lee Wei Tia Gavin Bryan     |     Member    |
+|     Mr Justin Loh Chee Cheong     |     Member    |
+|      Mr Low Yi Cheng PBM     |     Member    |
+|      Ms Low Wan Yi     |     Member    |
+|       Mr Neo Ang Jie Eimonison      |     Member    |
+|      Ms Tan Mui Kiang Fortuna      |     Member    |
 |      Mr Sio Wei Hurng     |     Member    |
