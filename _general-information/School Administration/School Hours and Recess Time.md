@@ -12,4 +12,4 @@ third_nav_title: School Administration
 | Primary 4 | 7.30a.m. to 1.30p.m.*                       | 10.00a.m. to 10.30a.m. |
 | Primary 5 | 7.30a.m. to 1.30p.m.*                       | 10.30a.m. to 11.00a.m. |
 | Primary 6 | 7.30a.m. to 1.30p.m.*                       | 11.00a.m. to 11.30a.m. |
-|           |  *Dismissal will be at 3.30p.m. on Tuesdays |                        |
+|           |  *Dismissal will be at 3.00p.m. on Tuesdays |                        |
