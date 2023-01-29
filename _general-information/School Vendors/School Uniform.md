@@ -8,21 +8,6 @@ The school appointed uniform provider is **Finest Fashion Centre**.
 
 **_Announcement_**
 
-
-Please note that our uniform vendor will not be operating in school on the following Tuesdays:
-
-  
-
-• 4 October 2022
-
-  
-
-For urgent purchases, pls contact Mr Ethan Koh (9029 5135) to make  a purchase from Finest Fashion located at Beauty World Centre.
-
-
-
-_Due to the current safe management measures, parents/guardians are urged not to visit school if you are unwell or have fever / flu-like symptoms._ 
-
 _For security reasons, parents entry to the school to make purchases will be as follows:_
 
 Operation Hours during school term for Parents:    
@@ -43,12 +28,12 @@ For purchase of school uniform, we strongly encourage parent to get it online at
 
   
 
-Parents should only visit the school for the purchase at the stated time (Tuesday, 1.30pm to 3pm) and report to the guardhouse first. Safe management measures must be following during the visit.   
+Parents should only visit the school for the purchase at the stated time (Tuesday, 1.40pm to 3pm) and report to the guardhouse first. Safe management measures must be following during the visit.   
 
-  
 
 For year-end Uniform sales, parents will purchase the uniform for their children strictly based on the dates assigned for respective levels. Information will be provided in the year-end Uniform list. 
 
+For enquiries, you may contact Mr Koh at Tel: 6466 5697 or HP No. 9029 5135.
   
 
 **Finest Fashion Centre**  
