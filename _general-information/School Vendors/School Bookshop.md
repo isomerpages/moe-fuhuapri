@@ -28,7 +28,6 @@ Thursday          1.40pm – 3pm 
 
 Friday               1.40pm – 3pm 
 
-  
 
 Parents should only visit the school for the purchase at the stated times and report to the guardhouse first. Safe management measures must be followed during the visit. 
 
