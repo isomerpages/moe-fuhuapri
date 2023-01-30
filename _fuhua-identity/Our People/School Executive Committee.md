@@ -4,8 +4,9 @@ permalink: /fuhua-identity/Our-People/School-Executive-Committee/
 description: ""
 third_nav_title: Our People
 ---
-| Principal                                                      | Mr Ganesan s/o Raman                 |
+| Designation                                                     | Name                 |
 |----------------------------------------------------------------|---------------------------------------|
+| Principal                                                      | Mr Ganesan s/o Raman                 |
 | Vice-Principal (Education)                                     | Mrs Cheryl Lim                        |
 | Vice-Principal (Administration)                                | Ms Saima Hanif                        |
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
