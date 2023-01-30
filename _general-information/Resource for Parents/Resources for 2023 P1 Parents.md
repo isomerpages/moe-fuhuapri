@@ -33,8 +33,8 @@ third_nav_title: Resource for Parents
 6) [2023 P1 Uniform Order Form](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/FHPS%20Uniform%20Price%20list%202023_P1.pdf)  
   
 
-#### **2022 P1 Curriculum Briefing**
+#### **2023 P1 Curriculum Briefing**
 
 
-1) [2022 P1 Curriculum Briefing Slides](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2022%20P1%20Curriculum%20Briefing%20Slides.pdf)  
-2) [2022 P1 Curriculum Briefing Q&A](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2022%20P1%20Curriculum%20Briefing%20QA.pdf)
+1) [2023 P1 Curriculum Briefing Slides](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2023%20P1%20Curriculum%20Briefing.pdf)  
+2) [P1 First Day of School Question & Answer Session](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/P1%20FIRST%20DAY%20OF%20SCHOOL%2003%20JANUARY%202023%20Question%20&%20%20Answer.pdf)
