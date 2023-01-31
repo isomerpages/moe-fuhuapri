@@ -15,7 +15,11 @@ Students are to:
 
   
 
-Male students must be neat in appearance, clean-shaven and no facial hair is allowed. For female students, accessories like hair clips and hair bands must be in dark brown or black. Students are expected to keep their hair well-groomed and not coloured / dyed or in outlandish style.
+Male students must be neat in appearance, clean-shaven and no facial hair is allowed. 
+Hair should be short and neat. Spiky hairstyles are not allowed. 
+
+For female students, accessories like hair clips and hair bands must be in dark brown or black. The fringe should not touch the eyebrow. 
+
 
 #### **2. LOVE OTHERS**
 
