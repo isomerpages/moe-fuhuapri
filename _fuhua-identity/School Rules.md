@@ -20,6 +20,7 @@ Hair should be short and neat. Spiky hairstyles are not allowed.
 
 For female students, accessories like hair clips and hair bands must be in dark brown or black. The fringe should not touch the eyebrow. 
 
+Students are expected to keep their hair well-groomed and not coloured/dyed/highlighted/ gelled. 
 
 #### **2. LOVE OTHERS**
 
