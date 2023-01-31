@@ -28,7 +28,7 @@ Students are to:
 
  *   be considerate and speak softly as our school is a place of learning.
  *   move quietly and behave in an orderly manner so that others may enjoy learning.
- *   take care of their teachers, fellow students and family.
+ *   take care of their teachers, schoolmates and family.
  *   be courteous, kind and respectful towards their elders.
  *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
