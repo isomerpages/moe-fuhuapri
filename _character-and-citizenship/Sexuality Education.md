@@ -54,7 +54,7 @@ The upper primary years mark the onset of puberty.  With better nutrition and i
 
 The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
-At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme will be taught in 2022:
+At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme will be taught in 2023:
 
   
 
