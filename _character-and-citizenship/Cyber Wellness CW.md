@@ -13,7 +13,8 @@ These are the key messages which students will understand:
 * Be a safe and responsible user of technology and maintain a positive online presence
 * Be responsible for personal well-being in the cyberspace
 
-**Cyber Wellness Education in FHPS**
+#### **CYBER WELLNESS EDUCATION IN FHPS**
+
 Cyber Wellness programme in FHPS aims to develop students into discerning and responsible ICT users who can protect themselves and be responsible for their well-being in the cyberspace.
 
 **Overview of Cyber Wellness Education in Fuhua Primary School**
