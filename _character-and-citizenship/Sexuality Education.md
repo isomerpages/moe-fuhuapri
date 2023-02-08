@@ -83,7 +83,7 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
     <td class="tg-ktyi" rowspan="4"><span style="font-weight:normal;color:#000">Gosh! I Am Changing</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Is Happening To Me?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">know what puberty is<br>identify the physical changes during puberty</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 5</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5, 7 and 8</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What Can I Do? (Part 1)</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
