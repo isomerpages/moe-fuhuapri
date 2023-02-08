@@ -157,38 +157,38 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Am I A Good Friend?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-zr06">Term 1 Week 3</td>
+    <td class="tg-zr06">Term 4 Week 5 and 7</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">What is Love?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span><br></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5 and 7</span><br></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Am I Falling In Love?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-zr06">Term 1 Week 3</td>
+    <td class="tg-zr06">Term 4 Week 5 and 7</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Main Task</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Description of the Main Task:</span><br><span style="font-weight:normal;color:#000">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
-    <td class="tg-zr06">Term 1 Week 3</td>
+    <td class="tg-zr06">Term 4 Week 5 and 7</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3"><span style="font-weight:normal;color:#000">Friends or Foes?</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Are You Really My Friend?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-zr06">Term 1 Week 3</td>
+    <td class="tg-zr06">Term 4 Week 5 and 7</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Is It All Safe?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-zr06">Term 1 Week 3<br></td>
+    <td class="tg-zr06">Term 4 Week 5 and 7<br></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Main Task</span><br><span style="font-weight:normal;color:#000"> (30 min)</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Description of the Main Task:</span><br><span style="font-weight:normal;color:#000"> </span><span style="background-color:initial">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5 and 7</span></td>
   </tr>
 </tbody>
 </table>
