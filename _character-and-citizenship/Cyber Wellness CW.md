@@ -3,14 +3,10 @@ title: Cyber Wellness CW
 permalink: /character-and-citizenship/Cyber-Wellness-CW/
 description: ""
 ---
-Our Cyber Wellness Programme develops students' instinct to protect and empower him/her to take responsibility for his/her own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he/she will then be able to make careful and well-considered decisions.
+#### **THE CYBER WELLNESS FRAMEWORK**
 
-#### **CYBER WELLNESS EDUCATION**
-
-
-Our Cyber-Wellness programme aims to develop students into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.  
+The CW framework is used to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.  
   
-
 **Overview of Cyber Wellness Education in Fuhua Primary School**
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Cyber%20Wellness%20(CW)/C1.png)  
