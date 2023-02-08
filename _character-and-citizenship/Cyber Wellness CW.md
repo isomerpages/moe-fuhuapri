@@ -15,5 +15,4 @@ These are the key messages which students will understand:
 
 **Overview of Cyber Wellness Education in Fuhua Primary School**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Cyber%20Wellness%20(CW)/C1.png)  
-
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Cyber%20Wellness%20(CW)/C1.png)
