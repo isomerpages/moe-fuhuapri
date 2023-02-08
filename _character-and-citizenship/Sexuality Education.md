@@ -152,7 +152,7 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
     <td class="tg-ktyi" rowspan="5"><span style="font-weight:normal;color:#000">Are We More Than Friends?</span></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Who Are My Friends?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
     <td class="tg-ktyi">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 1 Week 3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Term 4 Week 5 and 7</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Am I A Good Friend?</span><br><span style="font-weight:normal;color:#000">(30 min)</span></td>
