@@ -17,4 +17,3 @@ These are the key messages which students will understand:
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Cyber%20Wellness%20(CW)/C1.png)  
 
-![]()
