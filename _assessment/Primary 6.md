@@ -13,7 +13,7 @@ description: ""
 
 #### **MOTHER TONGUE LANGUAGE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/A3.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Mother%20Tongue.jpg)
 
 #### **FOUNDATION MOTHER TONGUE LANGUAGE**
 
