@@ -37,4 +37,4 @@ description: ""
 
 #### **FOUNDATION SCIENCE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/A9.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Fdn%20SC.jpg)
