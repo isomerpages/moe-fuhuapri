@@ -30,7 +30,7 @@ We develop our Environmental Champions to spearhead and lead environmental effor
 
 The following diagram depicts the programmes at the Primary 1 – 6 levels and their alignment to the UN SDG. 
 
-![](/images/Fuhua%20Experience/Learning%20for%20Life%20Programme/Learning%20for%20Life%20Programme/L1.png) 
+![](/images/Fuhua%20Experience/Learning%20for%20Life%20Programme/Learning%20for%20Life%20Programme/LLP%20overview.png)
 
 A two-tiered structure is used in the programme design spanning across three domains – Programme for Active Learning (PAL) Outdoor Education (P1 – P2), Environmental Education (P3 – P6) and Leadership & Talent Development  
   
