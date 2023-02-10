@@ -17,4 +17,4 @@ description: ""
 
 #### **SCIENCE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%204/A4.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%204/Science.jpg)
