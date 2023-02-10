@@ -11,15 +11,15 @@ description: ""
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Fdn%20English.jpg)
 
-#### **MOTHER TONGUE LANGUAGE**
+#### **MOTHER TONGUE LANGUAGES**
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Mother%20Tongue.jpg)
 
-#### **FOUNDATION MOTHER TONGUE LANGUAGE**
+#### **FOUNDATION MOTHER TONGUE LANGUAGES**
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Fdn%20MTLs.jpg)
 
-#### **HIGHER MOTHER TONGUE LANGUAGE**
+#### **HIGHER MOTHER TONGUE LANGUAGES**
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Higher%20MTLs.jpg)
 
