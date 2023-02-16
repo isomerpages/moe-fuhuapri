@@ -29,7 +29,7 @@ The key messages of Sexuality Education are:
 
 You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education. 
 
-##### **OVERVIEW OF FUHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2022**
+##### **OVERVIEW OF FUHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
 
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
