@@ -19,3 +19,4 @@ description: ""
     
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
 *   [Resource Booking System (RBS)](https://rbs.avero-tech.com/login.html)
+*   [Fuhua's One-Stop Helpdesk](https://sites.google.com/moe.edu.sg/fuhuasone-stophelpdesk/home?pli=1&authuser=7)
