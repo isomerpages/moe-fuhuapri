@@ -63,7 +63,7 @@ Girls should wear their name tags on the left hand side and slightly above the s
 
 #### **6. SUN-HAT**
 
-The Sun-hat is part of the school uniform. It must be worn whenever the student is engaged in outdoor activities especially during local and international learning journeys.
+* The Sun-hat is part of the school uniform. It must be worn whenever the student is engaged in outdoor activities especially during local and international learning journeys.
 
 <img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR1.png">
 
@@ -74,28 +74,17 @@ The Sun-hat is part of the school uniform. It must be worn whenever the student 
 <img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR4.png">
 
 
-#### **7. SCHOOL UNIFORM**
-
- *   PE T-shirts will be worn during house practices and on designated PE days together
- *   with the school PE shorts or culottes.
- *   PE T-shirts are to be tucked in.
- *   PE T-shirts are worn according to House colours.
- *   The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. Please see the illustrations below.
-
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR5.jpg">
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR6.jpg">
-<img style="width:50%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR7.jpg">
-
-#### **8. SCHOOL SHOES AND SOCKS**
+#### **7. SCHOOL SHOES AND SOCKS**
 
  *   Students have to wear black sports shoes and white socks.
  *   Socks are to be slightly above the ankles.
 
   
 
-#### **9. OTHERS**
+#### **8. OTHERS**
+* Female students must have their hair neatly trimmed or tied up with black or brown accessories.
+* Female students are only allowed to wear simple ear studs. No other jewellery or accessories are allowed. 
+* All students are to keep their fingernails short and clean.
+* Nail painting  or nail stickers are not allowed.
 
- *   Female students must have their hair neatly trimmed or tied up with black or brown accessories.
- *   Girls are only allowed to wear simple ear studs. No other jewellery is allowed.
- *   All students are to keep their fingernails short and clean.
- *   Nail painting is not allowed.
+ 
