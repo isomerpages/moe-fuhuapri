@@ -59,19 +59,14 @@ Girls should wear their name tags on the left hand side and slightly above the s
 * PE T-shirts will be worn during house practices and on designated PE days together with the school PE shorts or skorts.
 * PE T-shirts are to be tucked in.
 * Students should wear the PE T shirt of the House they belong to.
-* The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. Please see the illustrations.
+* The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. 
+![](/images/Fuhua%20Identity/School%20Rules/Picture2.jpg)
+![](/images/Fuhua%20Identity/School%20Rules/Picture3.jpg)
 
 #### **6. SUN-HAT**
 
 * The Sun-hat is part of the school uniform. It must be worn whenever the student is engaged in outdoor activities especially during local and international learning journeys.
-
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR1.png">
-
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR2.png">
-
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR3.png">
-
-<img style="width:20%;height:50%" src="/images/Fuhua%20Identity/School%20Rules/SR4.png">
+![](/images/Fuhua%20Identity/School%20Rules/Picture1.jpg)
 
 
 #### **7. SCHOOL SHOES AND SOCKS**
@@ -86,5 +81,3 @@ Girls should wear their name tags on the left hand side and slightly above the s
 * Female students are only allowed to wear simple ear studs. No other jewellery or accessories are allowed. 
 * All students are to keep their fingernails short and clean.
 * Nail painting  or nail stickers are not allowed.
-
- 
