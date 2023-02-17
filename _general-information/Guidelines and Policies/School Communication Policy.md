@@ -18,11 +18,9 @@ The school places premium on the close partnership with parents in supporting ou
 
 2. The modes of communication will be limited to :
 
- a. Email
- 
- b. Message in the student’s organizer
- 
- c. Message left with staff at the General Office
+*  Email
+*  Message in the student’s organizer
+*  Message left with staff at the General Office
 
   
 
@@ -32,11 +30,9 @@ The school places premium on the close partnership with parents in supporting ou
 
 4. As a general guide to response time to ensure that queries are well-addressed, we will follow the guidelines below:
 
- a. 3 working days (general query)
-
- b. 7 working days (query requires some investigation)
- 
- c. 21 working days (query with complexities)
+*  3 working days (general query)
+*  7 working days (query requires some investigation)
+* 21 working days (query with complexities)
 
   
 
