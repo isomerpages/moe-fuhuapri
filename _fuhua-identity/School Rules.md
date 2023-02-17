@@ -41,6 +41,7 @@ Our School is our Home. Students are to:
 *   put in their best effort in everything that they do so that they will bring honour to the school.
 *   take pride in their work so that the school can be proud of them.
 *   be good ambassadors so that others will speak well of our school.
+* abide by the safe rules of play at the field, basketball court and playground.
 
 ####  **4. LOVE OUR COUNTRY**
 
