@@ -12,7 +12,7 @@ The school places premium on the close partnership with parents in supporting ou
 
 1. Communication and engagement with staff to be kept within school hours from
 
- 7.00 a.m. – 5.30 p.m. during the school terms.
+ 7.00 a.m. – 5.00 p.m. during the school terms.
 
   
 
@@ -47,5 +47,5 @@ The school places premium on the close partnership with parents in supporting ou
 | Subject / Class Matters                      | Subject / Form Teachers                                                                                                                                                                                                      |
 | Level / Curriculum / Departmental Programmes | Year Heads / Assistant Year Heads Heads of Department (HODs) / Subject Heads (SHs) / Level Heads (LHs) / SSD                                                                                                                 |
 | School Policies                              |                                           Mr Ganesan s/o Raman (Principal) ,             Mrs Cheryl Lim (Vice Principal (Education) ) and Ms Saima Hanif (Vice Principal (Administration))  |
-| Administration                        | Ms Koh Huey Ting (Adminstration Manager)                                                                                                                                                                                                             |
-| Operations                           | Mr Chua Wee Hiang (Operations Manager)                                                                                                                                                                                                            |
+| Finance / Admissions                      | Ms Koh Huey Ting (Adminstration Manager|
+| Operations / Safety / Facilities  | Mr Chua Wee Hiang (Operations Manager)                                                                                                                                                                                                            |
