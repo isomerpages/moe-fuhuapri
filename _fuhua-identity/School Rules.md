@@ -61,13 +61,6 @@ Girls should wear their name tags on the left hand side and slightly above the s
 * Students should wear the PE T shirt of the House they belong to.
 * The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. Please see the illustrations.
 
-
-  
-
-School shirt/blouse: The name tag should be positioned on the left hand side of the wearer and 1cm above the boy’s chest pocket. Girls should wear their name tags on the left hand side and slightly above the school crest. Please see the illustrations below.
-
-  
-
 #### **6. SUN-HAT**
 
 The Sun-hat is part of the school uniform. It must be worn whenever the student is engaged in outdoor activities especially during local and international learning journeys.
