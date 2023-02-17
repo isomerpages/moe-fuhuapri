@@ -10,11 +10,7 @@ The school places premium on the close partnership with parents in supporting ou
 
   
 
-1. Communication and engagement with staff to be kept within school hours from
-
- 7.00 a.m. – 5.00 p.m. during the school terms.
-
-  
+1. Communication and engagement with staff to be kept within school hours from 7.00 a.m. – 5.00 p.m. during the school terms.
 
 2. The modes of communication will be limited to :
 
@@ -22,19 +18,13 @@ The school places premium on the close partnership with parents in supporting ou
 *  Message in the student’s organizer
 *  Message left with staff at the General Office
 
-  
-
 3. Appointments for face-to-face meetings with staff should be made at least 3 days in advance to avoid disappointments and minimize disruption to their schedule.
-
-  
 
 4. As a general guide to response time to ensure that queries are well-addressed, we will follow the guidelines below:
 
 *  3 working days (general query)
 *  7 working days (query requires some investigation)
-* 21 working days (query with complexities)
-
-  
+* 21 working days (query with complexities) 
 
 5. The school reserves the right not to engage with any parent who is disrespectful, rude and abusive to our staff.
 				
