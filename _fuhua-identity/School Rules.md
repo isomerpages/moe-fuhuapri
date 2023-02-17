@@ -53,7 +53,14 @@ Students are to:
 
 #### **5. SCHOOL UNIFORM**
 
-All students are to wear their name tags on their school shirt/blouse and PE attire. For durability, sew the border of the name tag after ironing it.
+* All students are to wear their name tags on their school shirt/blouse and PE attire. For durability, sew the border of the name tag after ironing it.
+* School shirt/blouse: The name tag should be positioned on the left hand side of the wearer and 1cm above the boy’s chest pocket. 
+Girls should wear their name tags on the left hand side and slightly above the school crest. Please see the illustrations on the right.
+* PE T-shirts will be worn during house practices and on designated PE days together with the school PE shorts or skorts.
+* PE T-shirts are to be tucked in.
+* Students should wear the PE T shirt of the House they belong to.
+* The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. Please see the illustrations.
+
 
   
 
