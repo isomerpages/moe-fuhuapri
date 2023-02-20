@@ -1,0 +1,8 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Virtual Open House.md
+      - News.md
+      - Events.md
+      - Achievements.md

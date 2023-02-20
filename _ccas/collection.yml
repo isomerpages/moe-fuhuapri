@@ -1,0 +1,25 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Rugby.md
+      - Floorball.md
+      - Basketball.md
+      - Badminton.md
+      - Netball.md
+      - Football.md
+      - Percussion Ensemble.md
+      - Art and Crafts.md
+      - Brass Band.md
+      - Choir.md
+      - Cultural Dance and Modern Dance.md
+      - Guzheng Ensemble.md
+      - Infocomm Technology Media Production.md
+      - Infocomm Technology Computing.md
+      - Speech and Drama.md
+      - Environmental Science.md
+      - Design and Innovation.md
+      - Scouts.md
+      - Girl Guides Brownies.md
+      - Boys’ Brigade.md
+      - Girls’ Brigade.md

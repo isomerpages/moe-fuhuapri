@@ -1,0 +1,32 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - School Administration/Admission.md
+      - School Administration/School Hours and Recess Time.md
+      - School Administration/Safety Matters.md
+      - School Administration/Financial Assistance.md
+      - School Administration/Location Map with Contact Details.md
+      - School Administration/MOE Insurance.md
+      - School Administration/.keep
+      - School Vendors/After School Care.md
+      - School Vendors/Bus Transport.md
+      - School Vendors/School Bookshop.md
+      - School Vendors/School Uniform.md
+      - School Vendors/.keep
+      - Guidelines and Policies/School Communication Policy.md
+      - Guidelines and Policies/Consent for Photography and Videos.md
+      - Guidelines and Policies/.keep
+      - Resources for Students.md
+      - Resources for Teachers.md
+      - Resource for Parents/Resources for Parents.md
+      - Resource for Parents/Parent Engagement Session.md
+      - Resource for Parents/N4S Information.md
+      - Resource for Parents/WE STories 2021.md
+      - Resource for Parents/Resources for 2023 P1 Parents.md
+      - Resource for Parents/Schoolbag Newsletter.md
+      - Resource for Parents/Canteen Menu.md
+      - Resource for Parents/P3 Higher Mother Tongue Briefing Slides.md
+      - Resource for Parents/.keep
+      - Parents Portal.md
+      - Contact Us.md
