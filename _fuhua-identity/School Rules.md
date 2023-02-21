@@ -61,14 +61,14 @@ Girls should wear their name tags on the left hand side and slightly above the s
 * Students should wear the PE T shirt of the House they belong to.
 * The name tag should be positioned slightly above the school badge on the left side of the PE T-shirt. 
 
-<center><img src="/images/Fuhua%20Identity/School%20Rules/Picture2.jpg" style="width:40%"><br><img src="/images/Fuhua%20Identity/School%20Rules/Picture3.jpg" style="width:40%"></center>
+<center><img src="/images/Fuhua%20Identity/School%20Rules/Picture2.jpg" style="width:30%"><br><img src="/images/Fuhua%20Identity/School%20Rules/Picture3.jpg" style="width:30%"></center>
 
 
 #### **6. SUN-HAT**
 
 * The Sun-hat is part of the school uniform. It must be worn whenever the student is engaged in outdoor activities especially during local and international learning journeys.
 
-<center><img src="/images/Fuhua%20Identity/School%20Rules/Picture1.jpg" style="width:40%"></center>
+<center><img src="/images/Fuhua%20Identity/School%20Rules/Picture1.jpg" style="width:30%"></center>
 
 
 #### **7. SCHOOL SHOES AND SOCKS**
