@@ -13,7 +13,7 @@ third_nav_title: Our People
 | 1 Loyalty   | Mdm Masni Binte Hassan  | Mdm Zhuang Xiaojuan|
 | 1 Respect   | Mr Chen Yilong, Jonathan | Ms Lee Xiao Tian |
 | 1 Trust     | Mdm Kho Mui Leng Selina| Mdm Tang Yen Yen|
-| 1 Hope       | Mdm Nurul Jannah Azeman   | Mdm Chua Soo Bin April |
+| 1 Hope       | Mdm NurulJannah Azeman   | Mdm Chua Soo Bin April |
 
 #### **Primary 2**
 
