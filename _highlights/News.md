@@ -10,9 +10,6 @@ Dear parents who have a child or children who are aged 12 and above,
 
 Please click on the [link](https://www.facebook.com/6788957003/posts/10160860961292004/?d=n) to find out more about the registration of your child for vaccination. 
 
-![](/images/Highlights/News/C1.png)
-  
-
 Further, you may also wish to take a look at the following FAQs:  
 
 [FAQs](https://www.vaccine.gov.sg/faq?fbclid=IwAR2TXOsoTOxmYXNc9UWHl55BEXN1jnSv0fdf5BnSWc6ahQK5sD_45V2FDWo) \- vaccination on MOH website
