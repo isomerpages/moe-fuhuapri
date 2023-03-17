@@ -13,25 +13,20 @@ Problem-solving is central to the Mathematics curriculum. Students must acquire 
 
 #### **APPROACHES**
 
+The Concrete-Pictorial-Abstract (C-P-A) approach is an essential technique in the mastery of Mathematics that builds on students’ existing understanding progressively. It involves the use of concrete materials and pictorial/ representation and diagrams in authentic contexts to strengthen conceptual understanding.
 
-The Concrete-Pictorial-Abstract (C-P-A) approach is an essential technique in the mastery of Mathematics that builds on students’ existing understanding progressively. It involves the use of  concrete materials and pictorial/representation diagrams in authentic contexts to strengthen conceptual understanding.
+We recognise that assessment is an integral part of learning. Assessment provides us with important information such as the level of mastery students have attained, effectiveness of pedagogies used in the classrooms and students’ learning deficiencies. To get a more holistic view of the teaching process, we have added the assessment component to the C-P-A approach. In Fuhua Primary, we use assessment data consistently to guide us in planning and implementing effective lessons.
 
-  
+In line with our emphasis on CPA and assessment, we have developed a rigorous assessment plan, incorporating Performance Tasks (open-ended, process oriented, authentic tasks with no fixed solutions) and Performance Based Assessments (hands on tasks that assess students' conceptual understanding) from Primary 1 to Primary 6.
 
-We recognise that assessment is an integral part of learning. Assessment provides us with important information such as the level of mastery students have attained, effectiveness of pedagogies used in the classrooms, learning gaps etc. To get a more holistic view of the teaching process, we have added the assessment component to the C-P-A approach. In Fuhua Primary, we use the C-P-A + A approach where assessment data is used consistently to guide us in planning and implementing the lessons.
+In our lesson design guided by the Understand by Design (UbD) curriculum framework, the focus is on the skills acquired by the students, particularly the 21st CC such as collaboration, communication, critical thinking and creativity (4Cs).  For a start, we create opportunities for students to practise and demonstrate the 4Cs within the subjects and topics they learn. Progressively, students would be given projects and tasks where they would transfer the skills learnt in authentic situations.
 
-  
-
-In line with our C-P-A + A approach, we have developed a rigorous assessment plan, incorporating Performance Tasks (open-ended, process-oriented, authentic tasks with no fixed solutions) and Performance Based Assessments (hands-on tasks that assess students' conceptual understanding) from Primary 1 to Primary 6.
-
-  
-
-In our UbD lessons design, the focus is on the skills acquired by the students. For a start, we create opportunities for students to transfer the skills learnt in one topic to other topics within the Mathematics curriculum. Progressively, students would be able to transfer the skills learnt to other subjects and eventually students would be able to transfer the skills learnt across different subjects and domains.
 
   
 
 #### **LEARNING MILESTONES**
 
+Application, Reasoning and Communication skills are transdisciplinary skills that cut across not just the Mathematics curriculum but also other curriculums as we continue in our journey to help prepare our students for the 21st century. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,20 +62,10 @@ In our UbD lessons design, the focus is on the skills acquired by the students. 
 </tbody>
 </table>
 
-  
-
-In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to Primary 6. 
-
-  
-
-Application, Reasoning and Communication skills are transdisciplinary skills that cut across not just the Mathematics curriculum but also other curriculae as we continue in our journey to help prepare our students for the 21st century. 
-
-  
-
-Our school-based Mathematics materials echo the importance of the strong foundation as well as the ability to apply, reason and communicate. Our worksheets are divided into three sections:
-
-*   Factual and Procedural Fluency
-*   Heuristics (Application & Reasoning)
-*   Reasoning & Communication
+In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to the upper primary levels. 
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/M1.png)
+
+![Learning to form greatest and smallest 5-digit numbers using UNO play cards](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math1.png)Learning using UNO play cards
+![Self-directed Learning using technology](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math3.jpg)  Self-directed Learning through ICT
+![Using fraction discs in an Upper Primary classroom](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math5.jpg)Using Fraction Discs in an Upper Primary classroom

@@ -57,21 +57,23 @@ Thinking routines, differentiated instructions and different modes of assessment
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Whole-school approach to Reading through multiple platforms and integration with STELLAR extensive reading lessons</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">The love for reading through:</span><br>weekly library/class programmes<br>online reading platforms<br>discussion on current affairs (P5 n P6)<br>Reading Festival</td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">The love for reading through:</span><br>- weekly library/class programmes<br>- online reading platform (Myon)<br>- discussion on current affairs through Little Red Dot (P5 n P6)<br>- Reading Festival</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Drama@P1 to P3</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Confidence in spoken and written expressions<br>Empathy through perspective-taking and critical thinking<br><span style="font-weight:normal;color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Drama at P1  and P2</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>- Confidence in spoken and written expressions<br>- Empathy through perspective-taking and critical thinking<br><span style="font-weight:normal;color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Individual Mini-Research @P3 and P4</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Multi-literacies through independent research<br>Critical Thinking<br>proficiency in basic ICT skills<br>dispositions for self-directed learning</td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Individual Mini-Research at P3 and P4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>- Multi-literacies through independent research<br>- Critical Thinking<br>- Proficiency in basic ICT skills<br>- Dispositions for self-directed learning</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Stretch Programme (P4 and P5)</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Build awareness of:</span><br>Creative expressions through language<br>Critical thinking in reading and listening<br>Communication with empathy through perspective-taking and critical thinking in collaborative construction<br><span style="font-weight:normal;color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Build awareness of:</span><br>- Creative expressions through language<br>- Critical thinking in reading and listening<br>- Communication with empathy through perspective-taking and critical thinking in collaborative construction<br><span style="font-weight:normal;color:#000"> </span></td>
   </tr>
 </tbody>
 </table>
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/E1.png)
+![Completion of Drama Enrichment Programme](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/Completion%20of%20Drama%20Enrichment%20Programme.jpg)
+Completion of Drama Enrichment Programme

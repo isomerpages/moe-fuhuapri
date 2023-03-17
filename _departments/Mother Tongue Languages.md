@@ -3,57 +3,30 @@ title: Mother Tongue Languages
 permalink: /departments/Mother-Tongue-Languages/
 description: ""
 ---
-Bilingual education is one of the cornerstones of Singapore’s education system. We strongly believe that learning MTLs will:  
+The Mother Tongue Language (MTL) Department offers the following languages in our school:
+<br>•	Chinese Language
+<br>•	Malay Language
+<br>•	Tamil Language
 
-*   enable our children to have a deeper appreciation of their own culture
-*   communicate widely with people and gain broader perspectives
+The MTL department seeks to nurture active learners and proficient users of the Mother Tongue Language in an engaging learning environment. The department firmly believes in the importance of fostering students’ interest, appreciation and respect for our culture and traditions. The school aims to develop every student to be a competent and confident communicator of their Mother Tongue Language.
 
-  
+##### **MTL Curriculum**
+The MTL curriculum in Fuhua Primary School integrates multiple learning experiences. Through these experiences, students gain knowledge and skills of their Mother Tongue Languages, share cross-cultural understanding, and acquire practical communication and collaborative skills. 
+We focus on the functional use of Mother Tongue Languages, with greater emphasis on communication skills as the cornerstone of language proficiency. As students learn their Mother Tongue Language through our engaging curriculum, they will make connections to their daily life and interests through activities such asanimation, digital interactive games, and authentic language tasks. Students are also provided with opportunities to use their Mother Tongue Languages for creative production such asdigital book sharing and  Vlog.
+Starting from 2022, Fuhua Primary School also offers Higher Mother Tongue Languages from Primary 3 students. This will allow more students to deepen their knowledge and appreciation for the languages and their cultures from an early age.
 
-The 2015 MOE MTL new curriculum places greater emphasis on teaching and learning of spoken and written interaction skills. The MTL curriculum also includes authentic activities to develop them into proficient language users who communicate effectively and confidently. Through these activities, our students also learn about values and culture. The new curriculum also promotes the greater use of ICT to better engage our children in learning MTL.
+ ![Students use small flashcards to revise the words learning through a fun way](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL1.jpg) 
 
-  
+##### **ICT for Learning in the MTL Curriculum**
 
-We aim to develop proficient users and active learners of Mother Tongue Languages. In addition to adopting the strategies based on the 2015 syllabus, we have extended our students’ learning through various programmes and various ICT platforms. As our students progress from the lower to upper primary levels, they will be equipped with a set of useful strategies to be a lifelong learner, citizen leader as well as tech-savvy innovator.
+Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning. Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.
+![Lower Primary Students took ownership of their own learning](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL2.jpg)
+##### **小记者 Little journalist / Wartawan Cilik/ இளம் நிருபர்**
+Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
+You can visit our very own [Little Honey Bee](https://sites.google.com/view/littlehoneybee/%E8%9C%82%E7%AA%9D-home) to find out more.
 
-  
 
-##### **LESSON DESIGN MODEL- UNDERSTANDING BY DESIGN**
-
-
-The school employs Understanding by Design (UbD) as our lesson design which plays a positive contribution to our teachers’ professional development process and students’ MTL achievement. UbD is utilised as a tool both for continuing teachers’ professional development and ensuring students’ enduring understanding. It facilitates students’ learning in a meaningful and enduring way. 
-
-  
-
-Thinking routines, differentiated instructions and different modes of assessment are incorporated in our school's curriculae to cater to students’ needs and create a positive and deeper learning experience. The integration of the above mentioned methods helps to establish an enjoyable learning atmosphere for students.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"><span style="font-weight:normal;color:#000">Key Programme</span></th>
-    <th class="tg-ktyi"><span style="font-weight:normal;color:#000">Focus</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Strengthening Literacy Through Reading &amp; Drama</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To strengthen students’ love for Mother Tongue Languages and acquisition of knowledge, the department has introduced the following activities, such as:</span><br>Reading Challenge<br>Weekly class programmes<br>Online Reading Platforms<br>Discussion on Current Affairs (P5 &amp; P6)<br>Drama &amp; Theatre Experience<br><span style="font-weight:normal;color:#000">In the process of reading, creating, competing and exhibiting, students showcased their creativity and experienced the joy of learning.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Appreciation of the Arts , Culture and History</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To help our students to better understand their culture, the department has worked with our partners to organise the following activities, such as:</span><br>Mother Tongue Fortnight Activities<br>Kidzmania@Fuhua<br>Traditional Games Day</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enabling Our Learner</span><br><span style="font-weight:normal;color:#000"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To support and enable every student to learn MTL to as high a level as each student is able to.</span><br><span style="font-weight:normal;color:#000">For students who are more ready, the department  has introduced the following programmes</span><br>Journalism &amp; Publication<br>Drama Production<br><span style="font-weight:normal;color:#000">For students who require more support, the department has put in place, Mother Tongue Support Programme (MTSP).</span></td>
-  </tr>
-</tbody>
-</table>
+##### **Mother Tongue Language Festival (also known as Mother Tongue Fortnight)**
+The Mother Tongue Language Festival creates an immersive environment for our students to learn and appreciate Mother Tongue Languages and cultures. Students are exposed to a wide variety of activities such as Chinese Mask Painting, Malay Batik Painting, and Indian Arts. These culturally rich activities deepen students' understanding of their cultural roots and promote the learning of their Mother Tongue Language in a fun and engaging way. 
+![Face Painting](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL3.jpg)
+Students also have opportunities to immerse in public art venue such as theaters to watch Chinese/ Malay language-related cultural performance in an authentic atmosphere.
