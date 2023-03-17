@@ -57,7 +57,7 @@ Thinking routines, differentiated instructions and different modes of assessment
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Whole-school approach to Reading through multiple platforms and integration with STELLAR extensive reading lessons</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">The love for reading through:</span><br>weekly library/class programmes<br>online reading platforms<br>discussion on current affairs (P5 n P6)<br>Reading Festival</td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">The love for reading through:</span><br>- weekly library/class programmes<br>- online reading platform (Myon)<br>- discussion on current affairs through Little Red Dot (P5 n P6)<br>- Reading Festival</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Drama at P1  and P2</span></td>
