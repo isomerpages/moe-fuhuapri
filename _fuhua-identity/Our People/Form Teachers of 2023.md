@@ -55,7 +55,7 @@ third_nav_title: Our People
 |-------------|--------------------------------------|-------------------------|
 | 5 Care      | Mr Lim Cheng Chuan |  Mr Ong Wei Loon Daryl |
 | 5 Diligence | Mdm Nurul Ain Binte Suprat | Mr Thong Kok Leung  |
-| 5 Loyalty   | Mdm Sheela | Mdm Snowlin Malar Elangovan |
+| 5 Loyalty   | Mdm Sheela | Mrs Angie Poh |
 | 5 Respect   | Mdm Koh Hui Chin| Ms Ang Wei Qi |
 | 5 Trust     | Mdm Hoon Hui-Qi, Nicola | Mdm Faridah Binte Mohamed Ali  |
 | 5 Hope      | Mr Tan Wei'En Nicholas   | Ms Wong Min Wei |
