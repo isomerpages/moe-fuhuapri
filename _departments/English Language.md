@@ -75,3 +75,5 @@ Thinking routines, differentiated instructions and different modes of assessment
 </table>
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/E1.png)
+
+![Completion of Drama Enrichment Programme]()
