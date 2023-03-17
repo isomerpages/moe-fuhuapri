@@ -18,7 +18,7 @@ The Concrete-Pictorial-Abstract (C-P-A) approach is an essential technique in th
 
   
 
-We recognise that assessment is an integral part of learning. Assessment provides us with important information such as the level of mastery students have attained, effectiveness of pedagogies used in the classrooms, learning gaps etc. To get a more holistic view of the teaching process, we have added the assessment component to the C-P-A approach. In Fuhua Primary, we use the C-P-A + A approach where assessment data is used consistently to guide us in planning and implementing the lessons.
+We recognise that assessment is an integral part of learning. Assessment provides us with important information such as the level of mastery students have attained, effectiveness of pedagogies used in the classrooms and students' learning deficiencies. To get a more holistic view of the teaching process, we have added the assessment component to the C-P-A approach. In Fuhua Primary, we use the C-P-A + A approach where assessment data is used consistently to guide us in planning and implementing effective lessons.
 
   
 
@@ -26,7 +26,7 @@ In line with our C-P-A + A approach, we have developed a rigorous assessment pla
 
   
 
-In our UbD lessons design, the focus is on the skills acquired by the students. For a start, we create opportunities for students to transfer the skills learnt in one topic to other topics within the Mathematics curriculum. Progressively, students would be able to transfer the skills learnt to other subjects and eventually students would be able to transfer the skills learnt across different subjects and domains.
+In our lesson design guided by the Understand by Design (UbD) curriculum framework , the focus is on the skills acquired by the students. For a start, we create opportunities for students to transfer the skills learnt in one topic to other topics within the Mathematics curriculum. Progressively, students would be able to transfer the skills learnt to other subjects and eventually students would be able to transfer the skills learnt across different subjects and domains.
 
   
 
