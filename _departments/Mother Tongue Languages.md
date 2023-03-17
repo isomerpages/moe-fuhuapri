@@ -21,33 +21,8 @@ Starting from 2022, Fuhua Primary School also offers Higher Mother Tongue Langua
 
 Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning. Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"><span style="font-weight:normal;color:#000">Key Programme</span></th>
-    <th class="tg-ktyi"><span style="font-weight:normal;color:#000">Focus</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Strengthening Literacy Through Reading &amp; Drama</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To strengthen students’ love for Mother Tongue Languages and acquisition of knowledge, the department has introduced the following activities, such as:</span><br>Reading Challenge<br>Weekly class programmes<br>Online Reading Platforms<br>Discussion on Current Affairs (P5 &amp; P6)<br>Drama &amp; Theatre Experience<br><span style="font-weight:normal;color:#000">In the process of reading, creating, competing and exhibiting, students showcased their creativity and experienced the joy of learning.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Appreciation of the Arts , Culture and History</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To help our students to better understand their culture, the department has worked with our partners to organise the following activities, such as:</span><br>Mother Tongue Fortnight Activities<br>Kidzmania@Fuhua<br>Traditional Games Day</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enabling Our Learner</span><br><span style="font-weight:normal;color:#000"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">To support and enable every student to learn MTL to as high a level as each student is able to.</span><br><span style="font-weight:normal;color:#000">For students who are more ready, the department  has introduced the following programmes</span><br>Journalism &amp; Publication<br>Drama Production<br><span style="font-weight:normal;color:#000">For students who require more support, the department has put in place, Mother Tongue Support Programme (MTSP).</span></td>
-  </tr>
-</tbody>
-</table>
+##### **小记者 Little journalist / Wartawan Cilik/ இளம் நிருபர்**
+Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
+You can visit our very own Little Honeybee website to find out more.
+
+
