@@ -26,6 +26,7 @@ In our lesson design guided by the Understand by Design (UbD) curriculum framewo
 
 #### **LEARNING MILESTONES**
 
+Application, Reasoning and Communication skills are transdisciplinary skills that cut across not just the Mathematics curriculum but also other curriculums as we continue in our journey to help prepare our students for the 21st century. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -61,20 +62,6 @@ In our lesson design guided by the Understand by Design (UbD) curriculum framewo
 </tbody>
 </table>
 
-  
-
-In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to Primary 6. 
-
-  
-
-Application, Reasoning and Communication skills are transdisciplinary skills that cut across not just the Mathematics curriculum but also other curriculae as we continue in our journey to help prepare our students for the 21st century. 
-
-  
-
-Our school-based Mathematics materials echo the importance of the strong foundation as well as the ability to apply, reason and communicate. Our worksheets are divided into three sections:
-
-*   Factual and Procedural Fluency
-*   Heuristics (Application & Reasoning)
-*   Reasoning & Communication
+In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to the upper primary levels. 
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/M1.png)
