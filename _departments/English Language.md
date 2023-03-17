@@ -61,11 +61,11 @@ Thinking routines, differentiated instructions and different modes of assessment
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Drama at P1  and P2</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Confidence in spoken and written expressions<br>Empathy through perspective-taking and critical thinking<br><span style="font-weight:normal;color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>- Confidence in spoken and written expressions<br>- Empathy through perspective-taking and critical thinking<br><span style="font-weight:normal;color:#000"> </span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Individual Mini-Research at P3 and P4</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>Multi-literacies through independent research<br>Critical Thinking<br>proficiency in basic ICT skills<br>dispositions for self-directed learning</td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Develop:</span><br>- Multi-literacies through independent research<br>- Critical Thinking<br>- Proficiency in basic ICT skills<br>- Dispositions for self-directed learning</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Stretch Programme (P4 and P5)</span></td>
