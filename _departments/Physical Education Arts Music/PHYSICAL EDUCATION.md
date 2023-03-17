@@ -53,6 +53,9 @@ Please refer to the table below on the various PE programs to enhance the overal
 | P3    |Swimsafer 2.0       |A 12-hour programme for students to learn about water safety and movement skills in the water.
 | P5    |  Outdoor Experience Cohort Camp    | A 3 day 2 night Outdoor Education program for Primary 5 students to discover and understand their strengths, build camaraderie in an outdoor setting.     |
 | P6     | Learning Journey at Jurong Lake Gardens   | To provide authentic outdoor experiences to apply knowledge attained across 6 years of PE outdoor education lessons.     |
+| Selected students    | The ‘IRONMAN’ club     | The ‘IRONMAN’ club seeks to support students who require more support towards leading a healthy lifestyle. Students are encouraged to pick up good lifestyle habits such as participating in regular physical activities and proper nutrition during this program.   |
+
+
 
 
 
