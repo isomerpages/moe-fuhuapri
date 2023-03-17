@@ -47,7 +47,7 @@ third_nav_title: Our People
 | 4 Loyalty   | Mdm Pradeebha Veerapandian  | Mdm Tan Siew Ping, Hazel   |
 | 4 Respect   | Mr Siah Kai Yeow   | Ms Siti Sarah Binte Aziz   |
 | 4 Trust     |  Mdm Nurul Asyikin Bte Norman | Mdm Ong Poh Har |
-| 4 Hope      | Dr Lee Nai Fern Rachel | |
+| 4 Hope      | Dr Lee Nai Fern Rachel | Mdm Nurul Huda Bte Juma'at|
 
 #### **Primary 5**
 
