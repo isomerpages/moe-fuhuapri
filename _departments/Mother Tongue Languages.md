@@ -3,10 +3,12 @@ title: Mother Tongue Languages
 permalink: /departments/Mother-Tongue-Languages/
 description: ""
 ---
-Bilingual education is one of the cornerstones of Singapore’s education system. We strongly believe that learning MTLs will:  
+The Mother Tongue Language (MTL) Department offers the following languages in our school:
+<br>•	Chinese Language
+<br>•	Malay Language
+<br>•	Tamil Language
 
-*   enable our children to have a deeper appreciation of their own culture
-*   communicate widely with people and gain broader perspectives
+The MTL department seeks to nurture active learners and proficient users of the Mother Tongue Language in an engaging learning environment. The department firmly believes in the importance of fostering students’ interest, appreciation and respect for our culture and traditions. The school aims to develop every student to be a competent and confident communicator of their Mother Tongue Language.
 
   
 
