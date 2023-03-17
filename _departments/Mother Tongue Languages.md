@@ -10,13 +10,10 @@ The Mother Tongue Language (MTL) Department offers the following languages in ou
 
 The MTL department seeks to nurture active learners and proficient users of the Mother Tongue Language in an engaging learning environment. The department firmly believes in the importance of fostering students’ interest, appreciation and respect for our culture and traditions. The school aims to develop every student to be a competent and confident communicator of their Mother Tongue Language.
 
-  
-
-The 2015 MOE MTL new curriculum places greater emphasis on teaching and learning of spoken and written interaction skills. The MTL curriculum also includes authentic activities to develop them into proficient language users who communicate effectively and confidently. Through these activities, our students also learn about values and culture. The new curriculum also promotes the greater use of ICT to better engage our children in learning MTL.
-
-  
-
-We aim to develop proficient users and active learners of Mother Tongue Languages. In addition to adopting the strategies based on the 2015 syllabus, we have extended our students’ learning through various programmes and various ICT platforms. As our students progress from the lower to upper primary levels, they will be equipped with a set of useful strategies to be a lifelong learner, citizen leader as well as tech-savvy innovator.
+##### **MTL Curriculum**
+The MTL curriculum in Fuhua Primary School integrates multiple learning experiences. Through these experiences, students gain knowledge and skills of their Mother Tongue Languages, share cross-cultural understanding, and acquire practical communication and collaborative skills. 
+We focus on the functional use of Mother Tongue Languages, with greater emphasis on communication skills as the cornerstone of language proficiency. As students learn their Mother Tongue Language through our engaging curriculum, they will make connections to their daily life and interests through activities such asanimation, digital interactive games, and authentic language tasks. Students are also provided with opportunities to use their Mother Tongue Languages for creative production such asdigital book sharing and  Vlog.
+Starting from 2022, Fuhua Primary School also offers Higher Mother Tongue Languages from Primary 3 students. This will allow more students to deepen their knowledge and appreciation for the languages and their cultures from an early age.
 
   
 
