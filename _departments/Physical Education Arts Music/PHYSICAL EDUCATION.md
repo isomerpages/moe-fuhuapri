@@ -34,7 +34,6 @@ Seven learning areas are identified to facilitate these learning experiences in 
 <br>Physical Health and Fitness
 <br>Swimming (By end of Primary 6)
 
-
 Pupils are excited and confident to pick up new skills and knowledge, apply them during authentic situations. These situations further reinforce the CCE learning outcomes and 21st century competencies as our pupils gain awareness and seek to develop themselves into a CITIZEN LEADER. 
 
 Digital connectivity has accelerated and shape new ways of living and learning. In our quest towards nurturing our pupils into TECH – SAVVY INNOVATORS. We strive to infuse ICT based lessons into our curriculum. Pupils will be able to harness ICT skills such as video-recording to analyze physical performance and provide valuable feedback to improve learning and performance.   
