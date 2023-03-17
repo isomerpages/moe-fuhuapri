@@ -48,7 +48,10 @@ Please refer to the table below on the various PE programs to enhance the overal
 | Levels |Name of Program  |Program Outcomes  |
 | -------- | -------- | -------- |
 |P1 to P6      |Wholesome Week |A termly programme which allows students to learn about healthy choices in school and at home. Students compete in daily challenges throughout the week to score points for their classes. The class with the most points accumulated will be the Wholesome Week Champions. 
-|  P1 & P2     | Lower Primary Sports Day   | This programme is designed for Primary 1 and 2 students to participate in station based activities with their cohort. Parent participation is highly encouraged in this programme. Students display their psychomotor skills such as running, jumping, throwing and catching.    |
+|  P1 & P2     | Lower Primary Sports Day   | This programme is designed for Primary 1 and 2 students to participate in station based activities with their cohort. Parent participation is highly encouraged in this programme. Students display their psychomotor skills such as running, jumping, throwing and catching.  
+| P3 to P6    |Fuhualympics      | A programme which provides an opportunity for students to display values of sportsmanship and leadership in authentic game situations.  |
+
+
 
  
 
