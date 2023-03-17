@@ -67,6 +67,6 @@ third_nav_title: Our People
 | 6 Care      | Mdm Avenir Janna Francesca Guinto   | Dr Ge Yan   |
 | 6 Diligence | Ms Wong Thin Chee Frances  | Mdm Meharaj Begum  Binte Mohd Mustafa |
 | 6 Loyalty   | Mr Yeo Yee Chong | Ms Ong Ming Sei  |
-| 6 Respect   | Ms Mardiana binte Mahat  | Mdm Hazel Tan Siew Peng |
+| 6 Respect   | Ms Mardiana binte Mahat  |Mrs Santi Malaiya Maran  |
 | 6 Trust     | Mr Iszehar B Ismail | Mdm Norfarishah Asherina Bte Hussain |
 | 6 Hope      | Mr Alan Wong| Ms Shamira Binte Jamaludin             |
