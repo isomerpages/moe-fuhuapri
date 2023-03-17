@@ -8,4 +8,3 @@ third_nav_title: Our People
 |-----------------------|-----------------------------------------------------------|
 | **ICT Associate**     | Mr Lam Xiao Liang 
 | **Desktop Engineer** | Mr Lee Lin Huat  |
-| **Desktop Engineer** | Mr Muhammad Alif Bin Mohamed Norabidien  |
