@@ -65,3 +65,6 @@ Application, Reasoning and Communication skills are transdisciplinary skills tha
 In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to the upper primary levels. 
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/M1.png)
+
+![Learning to form greatest and smallest 5-digit numbers using UNO play cards](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math1.png)Learning using UNO play cards
+![Self-directed Learning using technology](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math3.jpg)  Self-directed Learning through ICT
