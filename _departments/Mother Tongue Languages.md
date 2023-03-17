@@ -28,5 +28,5 @@ You can visit our very own [Little Honey Bee](https://sites.google.com/view/litt
 
 ##### **Mother Tongue Language Festival (also known as Mother Tongue Fortnight)**
 The Mother Tongue Language Festival creates an immersive environment for our students to learn and appreciate Mother Tongue Languages and cultures. Students are exposed to a wide variety of activities such as Chinese Mask Painting, Malay Batik Painting, and Indian Arts. These culturally rich activities deepen students' understanding of their cultural roots and promote the learning of their Mother Tongue Language in a fun and engaging way. 
-
-Students also have opportunities to immerse in public art venue such as theaters to watch Chinese/ Malay language-related cultural performance in an authentic atmosphere
+![Face Painting](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL3.jpg)
+Students also have opportunities to immerse in public art venue such as theaters to watch Chinese/ Malay language-related cultural performance in an authentic atmosphere.
