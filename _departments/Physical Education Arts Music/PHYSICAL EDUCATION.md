@@ -5,16 +5,26 @@ description: ""
 third_nav_title: Physical Education Arts Music
 ---
 #### **PURPOSE**
+The purpose of physical and health education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living. 
+We seek to enable students to enjoy a lifetime of active and healthy living.
 
 
-The purpose of physical and health education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.   
+In 2014, a new 2014 PE syllabus was introduced using Learning Outcomes (LOs) to specify minimally what students should know and be able to do as a result of their learning. 
 
-**At the end of Primary School, students would leave Fuhua Primary School as:**
+The Primary PE syllabus aims to develop competent movers who demonstrate efficiency, effectiveness and versatility in movement competencies. 
 
-1.  Competent movers with a mastery of fundamental movement skills and the ability to incorporate movement concepts. 
-2.  Healthy individuals who pursues physical, emotional and mental well-being.
-3.  Self-directed students and effective thinkers with a positive work attitude.
-4.  Confident persons who are good team players and responsible global citizens.
+Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain the 6 goals of PE. 
+
+
+
+**After going through 6 years of Physical Education in Fuhua Primary School, a child would:**
+<br>Goal 1: Acquire a range of movement skills to participate in a variety of physical activities. 
+<br>Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities. 
+<br>Goal 3: Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment. 
+<br>Goal 4: Display positive personal and social behaviour across different experiences. <br>Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities. 
+<br>Goal 6: Enjoy and value the benefits of living a physically active and healthy life.
+
+Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain these 6 goals of PE. 
 
 #### **SNIPPETS OF EXCITING PE PROGRAMMES IN FUHUA**
 
