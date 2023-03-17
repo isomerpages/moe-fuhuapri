@@ -17,14 +17,9 @@ Starting from 2022, Fuhua Primary School also offers Higher Mother Tongue Langua
 
   
 
-##### **LESSON DESIGN MODEL- UNDERSTANDING BY DESIGN**
+##### **ICT for Learning in the MTL Curriculum**
 
-
-The school employs Understanding by Design (UbD) as our lesson design which plays a positive contribution to our teachers’ professional development process and students’ MTL achievement. UbD is utilised as a tool both for continuing teachers’ professional development and ensuring students’ enduring understanding. It facilitates students’ learning in a meaningful and enduring way. 
-
-  
-
-Thinking routines, differentiated instructions and different modes of assessment are incorporated in our school's curriculae to cater to students’ needs and create a positive and deeper learning experience. The integration of the above mentioned methods helps to establish an enjoyable learning atmosphere for students.
+Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning. Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
