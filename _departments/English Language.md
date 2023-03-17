@@ -69,7 +69,7 @@ Thinking routines, differentiated instructions and different modes of assessment
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Stretch Programme (P4 and P5)</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Build awareness of:</span><br>Creative expressions through language<br>Critical thinking in reading and listening<br>Communication with empathy through perspective-taking and critical thinking in collaborative construction<br><span style="font-weight:normal;color:#000"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Build awareness of:</span><br>- Creative expressions through language<br>- Critical thinking in reading and listening<br>- Communication with empathy through perspective-taking and critical thinking in collaborative construction<br><span style="font-weight:normal;color:#000"> </span></td>
   </tr>
 </tbody>
 </table>
