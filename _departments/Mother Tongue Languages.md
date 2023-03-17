@@ -15,15 +15,16 @@ The MTL curriculum in Fuhua Primary School integrates multiple learning experien
 We focus on the functional use of Mother Tongue Languages, with greater emphasis on communication skills as the cornerstone of language proficiency. As students learn their Mother Tongue Language through our engaging curriculum, they will make connections to their daily life and interests through activities such asanimation, digital interactive games, and authentic language tasks. Students are also provided with opportunities to use their Mother Tongue Languages for creative production such asdigital book sharing and  Vlog.
 Starting from 2022, Fuhua Primary School also offers Higher Mother Tongue Languages from Primary 3 students. This will allow more students to deepen their knowledge and appreciation for the languages and their cultures from an early age.
 
-  
+ ![Students use small flashcards to revise the words learning through a fun way](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL1.jpg) 
 
 ##### **ICT for Learning in the MTL Curriculum**
 
 Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning. Students’ learning in MTL lessons are enriched with various digital resources via online platforms. With the online resources, students extend their learning beyond the classroom. Students are also able to revisit the learning content at their own pace.
-
+![Lower Primary Students took ownership of their own learning](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/MTL2.jpg)
 ##### **小记者 Little journalist / Wartawan Cilik/ இளம் நிருபர்**
 Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
 You can visit our very own [Little Honey Bee](https://sites.google.com/view/littlehoneybee/%E8%9C%82%E7%AA%9D-home) to find out more.
+
 
 ##### **Mother Tongue Language Festival (also known as Mother Tongue Fortnight)**
 The Mother Tongue Language Festival creates an immersive environment for our students to learn and appreciate Mother Tongue Languages and cultures. Students are exposed to a wide variety of activities such as Chinese Mask Painting, Malay Batik Painting, and Indian Arts. These culturally rich activities deepen students' understanding of their cultural roots and promote the learning of their Mother Tongue Language in a fun and engaging way. 
