@@ -47,13 +47,13 @@ third_nav_title: Our People
 | 4 Loyalty   | Mdm Pradeebha Veerapandian  | Mdm Tan Siew Ping, Hazel   |
 | 4 Respect   | Mr Siah Kai Yeow   | Ms Siti Sarah Binte Aziz   |
 | 4 Trust     |  Mdm Nurul Asyikin Bte Norman | Mdm Ong Poh Har |
-| 4 Hope      | Dr Lee Nai Fern Rachel | Mr Ong Wei Loon Daryl |
+| 4 Hope      | Dr Lee Nai Fern Rachel | |
 
 #### **Primary 5**
 
 | Class       | Form Teacher                         | Form Teacher            |
 |-------------|--------------------------------------|-------------------------|
-| 5 Care      | Mr Lim Cheng Chuan | Mrs Santi Malaiya Maran |
+| 5 Care      | Mr Lim Cheng Chuan |  Mr Ong Wei Loon Daryl |
 | 5 Diligence | Mdm Nurul Ain Binte Suprat | Mr Thong Kok Leung  |
 | 5 Loyalty   | Mdm Sheela | Mdm Snowlin Malar Elangovan |
 | 5 Respect   | Mdm Koh Hui Chin| Ms Ang Wei Qi |
