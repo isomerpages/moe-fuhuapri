@@ -68,3 +68,4 @@ In the lower primary year, it is essential that students build their foundation 
 
 ![Learning to form greatest and smallest 5-digit numbers using UNO play cards](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math1.png)Learning using UNO play cards
 ![Self-directed Learning using technology](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math3.jpg)  Self-directed Learning through ICT
+![Using fraction discs in an Upper Primary classroom](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math5.jpg)Using Fraction Discs in an Upper Primary classroom
