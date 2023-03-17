@@ -61,18 +61,7 @@ Please refer to the table below on the various PE programs to enhance the overal
 
 
 
-
-
- 
-
-
-**1) Wholesome Week**
-
-Greater awareness for healthy living is raised through inter-class challenges. Students learn to take responsibility in their food choices and learn about the emotional and physical advantages of being active and healthy. 
-
-  
-
-Students and teachers take part in daily challenges to score points for their classes. The Physical Challenge allows students to take part in physical activities in school while the Healthy Challenge allows students to display healthy eating habits in school and at home. The class with the most points accumulated will win the Wholesome Week Championship.
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE1.jpg)
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/P1.png)
 
