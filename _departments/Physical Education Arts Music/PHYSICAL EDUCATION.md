@@ -50,6 +50,10 @@ Please refer to the table below on the various PE programs to enhance the overal
 |P1 to P6      |Wholesome Week |A termly programme which allows students to learn about healthy choices in school and at home. Students compete in daily challenges throughout the week to score points for their classes. The class with the most points accumulated will be the Wholesome Week Champions. 
 |  P1 & P2     | Lower Primary Sports Day   | This programme is designed for Primary 1 and 2 students to participate in station based activities with their cohort. Parent participation is highly encouraged in this programme. Students display their psychomotor skills such as running, jumping, throwing and catching.  
 | P3 to P6    |Fuhualympics      | A programme which provides an opportunity for students to display values of sportsmanship and leadership in authentic game situations.  |
+| P3    |Swimsafer 2.0       |A 12-hour programme for students to learn about water safety and movement skills in the water.
+| P5    |  Outdoor Experience Cohort Camp    | A 3 day 2 night Outdoor Education program for Primary 5 students to discover and understand their strengths, build camaraderie in an outdoor setting.     |
+
+
 
 
 
