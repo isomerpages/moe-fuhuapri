@@ -24,3 +24,7 @@ Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning
 ##### **小记者 Little journalist / Wartawan Cilik/ இளம் நிருபர்**
 Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
 You can visit our very own [Little Honey Bee](https://sites.google.com/view/littlehoneybee/%E8%9C%82%E7%AA%9D-home) to find out more.
+
+##### **Mother Tongue Language Festival (also known as Mother Tongue Fortnight)**
+The Mother Tongue Language Festival creates an immersive environment for our students to learn and appreciate Mother Tongue Languages and cultures. Students are exposed to a wide variety of activities such as Chinese Mask Painting, Malay Batik Painting, and Indian Arts. These culturally rich activities deepen students' understanding of their cultural roots and promote the learning of their Mother Tongue Language in a fun and engaging way.
+
