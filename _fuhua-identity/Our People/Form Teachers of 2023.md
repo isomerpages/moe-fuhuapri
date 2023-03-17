@@ -32,7 +32,7 @@ third_nav_title: Our People
 | Class       | Form Teacher                 | Form Teacher                   |
 |-------------|------------------------------|--------------------------------|
 | 3 Care      | Mdm Zunairah Binte Janis | Mdm Liu Si Ting |
-| 3 Diligence | Mdm Foo Ying Ting | Mr David Tee Ter Wei  |
+| 3 Diligence | Mdm Ong Sook Yen | Mr David Tee Ter Wei  |
 | 3 Loyalty   | Mdm Goh Wei Ting | Mdm Qin Mi |
 | 3 Respect   | Mdm Ng Baohui Sherline  | Mr Abdul Malik Bin Mazlan |
 | 3 Trust     | Ms Tan Ying Yin | Mdm Haslina Bte Ishak |
