@@ -37,10 +37,17 @@ Seven learning areas are identified to facilitate these learning experiences in 
 Pupils are excited and confident to pick up new skills and knowledge, apply them during authentic situations. These situations further reinforce the CCE learning outcomes and 21st century competencies as our pupils gain awareness and seek to develop themselves into a CITIZEN LEADER. 
 
 Digital connectivity has accelerated and shape new ways of living and learning. In our quest towards nurturing our pupils into TECH – SAVVY INNOVATORS. We strive to infuse ICT based lessons into our curriculum. Pupils will be able to harness ICT skills such as video-recording to analyze physical performance and provide valuable feedback to improve learning and performance.   
+
 Please refer to the table below on the various PE programs to enhance the overall PE experience in Fuhua Primary School. 
 
 
 #### **SNIPPETS OF EXCITING PE PROGRAMMES IN FUHUA**
+
+
+
+| Levels |Name of Program  |Program Outcomes  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
 
 **1) Wholesome Week**
