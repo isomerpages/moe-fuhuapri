@@ -23,6 +23,4 @@ Fuhua Primary School is the Center of Excellence of ICT in Teaching and Learning
 
 ##### **小记者 Little journalist / Wartawan Cilik/ இளம் நிருபர்**
 Students are equipped with relevant speaking, presentation and writing skills through these programmes where they are able to showcase their talents through various school competitions such as storytelling, read aloud, spelling, and composition writing competition.
-You can visit our very own Little Honeybee website to find out more.
-
-
+You can visit our very own [Little Honey Bee](https://sites.google.com/view/littlehoneybee/%E8%9C%82%E7%AA%9D-home) to find out more.
