@@ -15,5 +15,5 @@ description: ""
 * [Upper Primary](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2023%20Parent%20Engagement%20Session/21st%20CC%20Curriculum%20for%20Deeper%20Learning%20Briefing%20-%20P5%20&%20P6.pdf)
 <br>For view the questions and answers, please click below:
 * [Lower Primary](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2023%20Parent%20Engagement%20Session/Fuhua%20Family%20-%20Let's%20Connect%20P2%20FAQ.pdf)
-* Middle Primary
-* Upper Primary
+* [Middle Primary](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2023%20Parent%20Engagement%20Session/Fuhua%20Family%20-%20Let's%20Connect%20P3%20&%20P4%20FAQ.pdf)
+* [Upper Primary](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2023%20Parent%20Engagement%20Session/Fuhua%20Family%20-%20Let's%20Connect%20P5%20&%20P6%20FAQ.pdf)
