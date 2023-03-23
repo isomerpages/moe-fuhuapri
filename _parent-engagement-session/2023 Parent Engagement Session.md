@@ -7,7 +7,7 @@ description: ""
 <br>These were the materials used for the various levels during our most recent Parents Engagement session. We hope that the engagement session has addressed some of your concerns about the school's programs and activities.
 <br>For a video on student experiences, please click below:
 * Lower Primary
-* Middle Primary
+* [Middle Primary](https://youtu.be/PTEm7Tx0-ZQ)
 * [Upper Primary](https://youtu.be/cg4ddYpt8uk)
 <br>For the 21st CC Curriculum for Deeper Learning Power point presentation, please click below:
 * [Lower Primary](/files/Resource%20for%20Parents/Parent%20Engagement%20Session/2023%20Parent%20Engagement%20Session/21st%20CC%20Curriculum%20for%20Deeper%20Learning%20Briefing%20-%20P2.pdf)
