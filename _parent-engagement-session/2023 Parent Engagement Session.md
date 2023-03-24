@@ -1,8 +1,9 @@
 ---
 title: 2023 Parent Engagement Session
-permalink: /parent-engagement-session/permalink/
+permalink: /parent-engagement-session/2023-parent-engagement-sessions/
 description: ""
 ---
+
 # **Fuhua Family – Let’s Connect**
 <br>These were the materials used for the various levels during our most recent Parents Engagement session. We hope that the engagement session has addressed some of your concerns about the school's programs and activities.
 <br>For a video on student experiences, please click below:
