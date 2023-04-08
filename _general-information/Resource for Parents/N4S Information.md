@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Resource for Parents
 ---
 #### **N4S Executive Committee 2022**
+![](/images/School%20Administration/Resources%20for%20Parents/N4S%20Information/2023%20n4s%20exco.JPG)
 
-![](/images/School%20Administration/Resources%20for%20Parents/N4S%20Information/N1.jpg)
 
 #### **Social Media Platforms**
 
