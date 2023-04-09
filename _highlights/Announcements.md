@@ -1,6 +1,6 @@
 ---
-title: News
-permalink: /highlights/News/
+title: Announcements
+permalink: /highlights/announcements/
 description: ""
 ---
 ##### **COVID-19 Vaccination**

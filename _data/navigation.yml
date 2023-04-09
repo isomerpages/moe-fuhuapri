@@ -26,7 +26,7 @@ links:
         url: /fuhua-experience/Student-Development/Student-Well-Being/
       - title: Applied Learning Programme
         url: /fuhua-experience/Applied-Learning-Programme/
-      - title: "Learning for Life Programme "
+      - title: Learning for Life Programme
         url: /fuhua-experience/Learning-for-Life-Programme/Learning-for-Life-Programme/
       - title: Home Based Learning
         url: /fuhua-experience/Home-Based-Learning/
@@ -35,13 +35,13 @@ links:
     sublinks:
       - title: Virtual Open House
         url: /highlights/Virtual-Open-House/
-      - title: News
-        url: /highlights/News/
+      - title: Announcements
+        url: /highlights/announcements/
       - title: Events
         url: /highlights/Events/
       - title: Achievements
         url: /highlights/Achievements/
-  - title: "General Information "
+  - title: General Information
     url: /general-information/School-Administration/Admission/
     sublinks:
       - title: School Administration
