@@ -27,7 +27,7 @@ The key messages of Sexuality Education are:
 
   
 
-You may click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.&nbsp;
 
 ##### **OVERVIEW OF FUHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
