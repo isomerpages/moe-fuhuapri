@@ -13,6 +13,6 @@ sections:
           description: Join us to tour the campus!
           url: https://4d.silversea-media.com/view/fhps360tour/
         - title: Announcements
-          description: Schoolbag Newsletter
-          url: https://www.schoolbag.edu.sg/
+          description: Get updates on FHPS
+          url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
 ---
