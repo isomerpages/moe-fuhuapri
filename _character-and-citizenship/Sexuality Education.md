@@ -197,6 +197,6 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
 
 
 1.  Parents may opt their children out of the Growing Years programme.&nbsp;
-2.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is also downloadable&nbsp;[here](/files/Sexual%20Education/Opt%20out%20Form_SEd_for_schs_website_Pri_2021_FINAL.pdf)&nbsp;.&nbsp;
+2.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is also downloadable&nbsp;[here](/files/Sexual%20Education/moe%20info%20on%20sed%20for%20schs%20website%20(primary%20schools)%20%20opt%20out%20form.pdf)&nbsp;.&nbsp;
 3.  Parents can contact the school through&nbsp;[Mdm Huda](mailto:nurul_huda_jumaat@moe.edu.sg)&nbsp;to seek clarification about the school’s sexuality education programme.
 4.  Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
