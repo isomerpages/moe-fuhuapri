@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /character-and-citizenship/Sexuality-Education/
 description: ""
 ---
-##### **MOE SEXUALITY EDUCATION IN SCHOOLS**
+[]()##### **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -197,6 +197,6 @@ At FUHUA PRIMARY SCHOOL, the following lessons from the Growing Years Programme 
 
 
 1.  Parents may opt their children out of the Growing Years programme.&nbsp;
-2.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is also downloadable&nbsp;[here](/files/Sexual%20Education/moe%20info%20on%20sed%20for%20schs%20website%20(primary%20schools)%20%20opt%20out%20form.pdf)&nbsp;.&nbsp;
+2.  Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is also downloadable&nbsp;[here](/files/Sexual%20Education/direct%20from%20moe%20info%20on%20sed%20for%20schs%20website%20(primary%20schools).pdf)&nbsp;.&nbsp;
 3.  Parents can contact the school through&nbsp;[Mdm Huda](mailto:nurul_huda_jumaat@moe.edu.sg)&nbsp;to seek clarification about the school’s sexuality education programme.
 4.  Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
