@@ -29,12 +29,11 @@ description: ""
 
 #### **FOUNDATION MATHEMATICS**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/Foundation%20Math.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fma.JPG)
 
 #### **SCIENCE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/Science.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20sci.JPG)
 
 #### **FOUNDATION SCIENCE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/FdnSC.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fsc.JPG)
