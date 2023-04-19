@@ -17,7 +17,7 @@ description: ""
 
 #### **FOUNDATION MOTHER TONGUE LANGUAGES**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/foundation%20MTL.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fmtl.JPG)
 
 #### **HIGHER MOTHER TONGUE LANGUAGES**
 
