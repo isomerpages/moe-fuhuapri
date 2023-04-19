@@ -13,15 +13,15 @@ description: ""
 
 #### **MOTHER TONGUE LANGUAGES**
 
-
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20mtl.JPG)
 
 #### **FOUNDATION MOTHER TONGUE LANGUAGES**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Fdn%20MTLs.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fmtl.JPG)
 
 #### **HIGHER MOTHER TONGUE LANGUAGES**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Higher%20MTLs.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20hmtl.JPG)
 
 #### **MATHEMATICS**
 
