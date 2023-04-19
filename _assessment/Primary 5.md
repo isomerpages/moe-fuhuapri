@@ -5,7 +5,7 @@ description: ""
 ---
 #### **ENGLISH LANGUAGE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/English.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20english.JPG)
 
 #### **FOUNDATION ENGLISH LANGUAGE**
 
