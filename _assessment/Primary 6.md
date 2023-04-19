@@ -25,7 +25,7 @@ description: ""
 
 #### **MATHEMATICS**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Math.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20math.JPG)
 
 #### **FOUNDATION MATHEMATICS**
 
