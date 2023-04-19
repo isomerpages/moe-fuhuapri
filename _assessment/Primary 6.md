@@ -5,7 +5,7 @@ description: ""
 ---
 #### **ENGLISH LANGUAGE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/English.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20english.JPG)
 
 #### **FOUNDATION ENGLISH LANGUAGE**
 
@@ -13,7 +13,7 @@ description: ""
 
 #### **MOTHER TONGUE LANGUAGES**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Mother%20Tongue.jpg)
+
 
 #### **FOUNDATION MOTHER TONGUE LANGUAGES**
 
