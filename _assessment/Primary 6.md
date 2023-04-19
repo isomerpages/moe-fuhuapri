@@ -33,8 +33,8 @@ description: ""
 
 #### **SCIENCE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Science.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20science.JPG)
 
 #### **FOUNDATION SCIENCE**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/Fdn%20SC.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fsc.JPG)
