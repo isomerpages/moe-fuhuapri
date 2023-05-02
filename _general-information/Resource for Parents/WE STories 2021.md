@@ -24,6 +24,6 @@ We hope you could make use of this resource to make an informed school choice to
   
 
 Please click on the below links for: 
-
+*   [2023 WE STories](https://go.gov.sg/westories-official)
 *   [2022 WE STories](https://online.fliphtml5.com/obrr/qkde/#p=1)
 *   [2021 WE STories](https://online.fliphtml5.com/obrr/vrmu/#p=1)
