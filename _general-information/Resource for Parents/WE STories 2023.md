@@ -7,7 +7,7 @@ third_nav_title: Resource for Parents
 ##### **WE STories – Getting to Know West Zone Secondary Schools**
 
 
-Dear P6  Parents/Guardians,
+Dear Parents/Guardians of Primary 6 students,
 
 Your child/ward is now on the cusp of a new education milestone. There are many new learning experiences that await them in secondary school. To enable you to guide your child/ward towards choosing schools that can cater to his/her interests and strengths, the secondary schools in the West Zone have put together WE STories. 
 
