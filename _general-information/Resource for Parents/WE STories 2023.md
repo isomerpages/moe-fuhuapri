@@ -19,8 +19,6 @@ WE STories is a collection of stories from all the secondary schools in the West
 
 We hope you could make use of this resource to make an informed school choice together with your child/ward.
 
-  
-
 Please click on the below links for: 
 *   [2023 WE STories](https://go.gov.sg/westories-official)
 *   [2022 WE STories](https://online.fliphtml5.com/obrr/qkde/#p=1)
