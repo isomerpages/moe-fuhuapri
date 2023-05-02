@@ -1,6 +1,6 @@
 ---
-title: WE STories 2021
-permalink: /general-information/Resource-for-Parents/WE-STories-2021/
+title: WE STories 2023
+permalink: /general-information/resource-for-parents/we-stories-2021/
 description: ""
 third_nav_title: Resource for Parents
 ---
@@ -24,6 +24,6 @@ We hope you could make use of this resource to make an informed school choice to
   
 
 Please click on the below links for: 
-
+*   [2023 WE STories](https://go.gov.sg/westories-official)
 *   [2022 WE STories](https://online.fliphtml5.com/obrr/qkde/#p=1)
 *   [2021 WE STories](https://online.fliphtml5.com/obrr/vrmu/#p=1)
