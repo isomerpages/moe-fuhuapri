@@ -14,4 +14,5 @@ third_nav_title: Resource for Parents
 5)&nbsp;[Canteen Stall 6](/files/Resource%20for%20Parents/Canteen%20Menu/Canteen%20Stall%206%20Menu_030123.pdf)  
 6)&nbsp;[Canteen Stall 7](/files/Resource%20for%20Parents/Canteen%20Menu/Canteen%20Stall%207%20Menu_030123.pdf)
 <br>
-7)[Canteen Stall 8](/files/Resource%20for%20Parents/Canteen%20Menu/canteen%20stall%208%20menu%20template_wef%201%20may%202023.pdf)
+7)
+[Canteen Stall 8](/files/Resource%20for%20Parents/Canteen%20Menu/canteen%20stall%208%20menu%20template_wef%201%20may%202023.pdf)
