@@ -50,9 +50,7 @@ Social Skills package is structured to teach the students at every level based o
 
 Figure 1: The five levels of voice tone
 
-<img width="30%" src="/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png">
-
-![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png)
+<img src="/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png" style="width:40%">
 
 Figure 2: Direct teaching by the form teacher using Social Skill package
 
