@@ -9,7 +9,7 @@ Student development focuses on fostering a culture of care, school ethos, well-b
 #### **SIGNATURE PROGRAMMES**
 
 
-1\. Transition Support  
+1\. Transition Support&nbsp;&nbsp;
 
   
 
@@ -25,17 +25,17 @@ At Fuhua, we believe that students learn best when they feel safe and confident.
 
   
 
-Student well-being is attended by collaborative effort of different teams which include Pastoral Care and Career Guidance (PCCG), Case Management Team (CMT), House System framework and Student Development Team (SDT). There is a 3-tiered support framework for students to ensure that their needs are met. The first tier intervention is for all students. The other two tiers are for students with additional needs who are supported through programmes and expert intervention such as Allied Educator, Learning Behavioural Support (AED LBS). 
+Student well-being is attended by collaborative effort of different teams which include Pastoral Care and Career Guidance (PCCG), Case Management Team (CMT), House System framework and Student Development Team (SDT). There is a 3-tiered support framework for students to ensure that their needs are met. The first tier intervention is for all students. The other two tiers are for students with additional needs who are supported through programmes and expert intervention such as Allied Educator, Learning Behavioural Support (AED LBS).&nbsp;
 
   
 
-The school works closely with external partners to complement the work to support the students’ well-being. The programs provide opportunities for students to be guided by youth volunteers in both academic and social interaction skills. 
+The school works closely with external partners to complement the work to support the students’ well-being. The programs provide opportunities for students to be guided by youth volunteers in both academic and social interaction skills.&nbsp;
 
   
 
 3\. Kaleidoscope
 
-Another programme that enhances the students’ social emotional competencies would be the Kaleidoscope, a signature programme by Pastoral Care & Career Guidance (PCCG) department. In small group sizes, students get to learn appropriate social skills through games and play, under the guidance of teacher-mentors. Social Skill implementation is a proactive approach that emphasises prevention of behaviour problems through teaching of positive behaviours and the creation of a positive school culture. It also aims to help students achieve positive social, emotional, and academic outcomes in school through direct teaching and reinforcement approaches. 
+Another programme that enhances the students’ social emotional competencies would be the Kaleidoscope, a signature programme by Pastoral Care &amp; Career Guidance (PCCG) department. In small group sizes, students get to learn appropriate social skills through games and play, under the guidance of teacher-mentors. Social Skill implementation is a proactive approach that emphasises prevention of behaviour problems through teaching of positive behaviours and the creation of a positive school culture. It also aims to help students achieve positive social, emotional, and academic outcomes in school through direct teaching and reinforcement approaches.&nbsp;
 
   
 
@@ -44,11 +44,13 @@ Additionally, the school has embarked on using one of the strategies in Social S
 #### **Social Skills**
 
 
-Social Skills package is structured to teach the students at every level based on age-appropriate understanding of social skills suitable for the students. At the end of each level, students would have learnt several social skills from the form teachers and reinforced by all subject teachers. The overall social skill which will be reinforced at all levels is the “Use of Voice Tone”.
+Social Skills package is structured to teach the students at every level based on age-appropriate understanding of social skills suitable for the students. At the end of each level, students would have learnt several social skills from the form teachers and reinforced by all subject teachers. The overall social skill which will be reinforced at all levels is the “Use&nbsp;of Voice Tone”.
 
 ![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S1.png)
 
 Figure 1: The five levels of voice tone
+
+<img width="30%" src="/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png">
 
 ![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png)
 
