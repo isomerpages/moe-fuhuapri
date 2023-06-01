@@ -76,6 +76,7 @@ Thinking routines, differentiated instructions and different modes of assessment
 
 ![](/images/photo_6073155869501141867_y.jpg)
 Guest Reader
+
 ![](/images/photo_6073155869501141865_y.jpg)
 Guest Reader
 
