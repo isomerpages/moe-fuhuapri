@@ -7,11 +7,11 @@ We aim to develop language learners to be empathetic communicators, critical rea
 
   
 
-The STELLAR curriculum anchors on a whole-part-whole approach in which a selected text provides the context for learning of specific reading and comprehension skills, speaking and listening, grammar as well as vocabulary. The knowledge and skills are then applied in writing of different text types. 
+The STELLAR curriculum anchors on a whole-part-whole approach in which a selected text provides the context for learning of specific reading and comprehension skills, speaking and listening, grammar as well as vocabulary. The knowledge and skills are then applied in writing of different text types.&nbsp;
 
   
 
-The school-based curriculum enhances the learning through the specific application of thinking routines and concepts and then applying these routines across different units and related subjects. Authentic experiences are also key to deep learning of dispositions and skills. Learning experiences are carefully planned with the intention of integrating appropriate learning objectives across different subjects. For example, English Language, Outdoor Education and Mathematics skills are applied in the Primary 1 Learning journey to the Singapore Zoo. 
+The school-based curriculum enhances the learning through the specific application of thinking routines and concepts and then applying these routines across different units and related subjects. Authentic experiences are also key to deep learning of dispositions and skills. Learning experiences are carefully planned with the intention of integrating appropriate learning objectives across different subjects. For example, English Language, Outdoor Education and Mathematics skills are applied in the Primary 1 Learning journey to the Singapore Zoo.&nbsp;
 
   
 
@@ -21,7 +21,7 @@ As the Centre of Excellence (COE) in ICT for Teaching and Learning and in line w
 #### **APPROACHES**
 
 
-The school employs Understanding by Design (UbD) as a curriculum framework for lesson design. The framework guides our teachers in planning the curriculum that:
+The school&nbsp;employs Understanding by Design (UbD) as a curriculum framework for lesson design. The framework guides our teachers in planning the curriculum that:
 
 *   creates opportunities for application and
 *   transference of skills and attitudes
@@ -74,6 +74,10 @@ Thinking routines, differentiated instructions and different modes of assessment
 </tbody>
 </table>
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/E1.png)
+![](/images/photo_6073155869501141867_y.jpg)
+Guest Reader
+![](/images/photo_6073155869501141865_y.jpg)
+Guest Reader
+
 ![Completion of Drama Enrichment Programme](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/Completion%20of%20Drama%20Enrichment%20Programme.jpg)
 Completion of Drama Enrichment Programme
