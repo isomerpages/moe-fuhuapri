@@ -3,6 +3,8 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **82nd Founder's Day Celebration**
+![](/images/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
 ##### **Uniform Sales**
 Dear Parents/Guardians,<br>Please be informed that there will be no uniform sales on Tuesday, 18 Apr, as the uniform vendor is unwell. Uniform  sales will resume next Tuesday, 25 Apr.
 <br>Our apologies for the inconvenience caused.
