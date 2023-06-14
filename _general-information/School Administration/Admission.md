@@ -12,7 +12,8 @@ third_nav_title: School Administration
 
 ### **Transfer to FHPS**
 
-*   Parents who are interested to transfer your child to Fuhua Primary School are to fill up the waiting list form and submit to the school via email ([fhps@moe.edu.sg](mailto:fhps@moe.edu.sg)). Download form [here](/files/transfer%20in_waiting%20list%20template.pdf)
+*   Parents who are interested to transfer your child to Fuhua Primary School are to fill up the waiting list form and submit to the school via email ([fhps@moe.edu.sg](mailto:fhps@moe.edu.sg)). 
+Download form [here](/files/transfer%20in_waiting%20list%20template.pdf)
 
   
 
