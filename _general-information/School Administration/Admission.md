@@ -49,7 +49,7 @@ Your child also qualifies for LOA if they are already registered for Primary 1 (
 
 Schools will charge an annual nominal fee for a child on LOA. The amount will be determined by individual schools.
 
-###### **How to apply**
+**How to apply**
 
 Follow these steps to apply for LOA:
 
