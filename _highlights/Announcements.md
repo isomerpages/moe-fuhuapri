@@ -3,7 +3,7 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
-##### **82nd Founder's Day Celebration**
+##### **82nd Founders' Day Celebration**
 ![](/images/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
 
 
@@ -25,4 +25,3 @@ Further, you may also wish to take a look at the following FAQs:
   
 
 Thank you.
-
