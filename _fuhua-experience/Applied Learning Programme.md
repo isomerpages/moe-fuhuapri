@@ -34,3 +34,5 @@ At the end of P6, student will be able to 
 ![](/images/Students%20As%20Designer%20for%20the%2021st%20Century.jpg)
 
 ![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/A2.png)
+
+![](/images/p3%20alp.jpg)
