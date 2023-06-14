@@ -25,7 +25,7 @@ The LOA scheme allows your child to rejoin their school after they return from o
 
 If your child is granted LOA, they will remain as a registered student of the school. They can then be re-admitted to the school directly after returning to Singapore.
 
-The school will provide support in the following areas to ease your child's return: ([fhps@moe.edu.sg](mailto:fhps@moe.edu.sg)). Download form [here](https://fuhuapri.moe.edu.sg/qql/slot/u1029/Resources%20for%20Parents/2022%20P1%20Parents/Waiting%20List%20template%202022.docx).
+The school will provide support in the following areas to ease your child's return: 
 
      
 
