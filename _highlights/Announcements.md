@@ -26,14 +26,3 @@ Further, you may also wish to take a look at the following FAQs:
 
 Thank you.
 
-##### **WE Stories - Compilation Of Stories From All The West Zone Secondary Schools**
-
-
-WE Stories, a collection of stories from the Secondary Schools, specialised and specialised independent&nbsp;schools in the WEST Zone. Through these narratives, learn more about the distinctive, interesting and authentic student-centric learning experiences created for our students by our Secondary Schools.
-
-  
-
-Please click&nbsp;on the below links for:&nbsp;
-
-*   [2022 WE STories](https://online.fliphtml5.com/obrr/qkde/#p=1)
-*   [2021 WE STories](https://online.fliphtml5.com/obrr/vrmu/#p=1)
