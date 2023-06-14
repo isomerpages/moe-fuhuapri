@@ -20,7 +20,6 @@ For more details, please clickÂ **_[here](https://www.moe.gov.sg/parentkit)_**.Â
 
 *   School Helpline (65624370, 8 a.m. to 4 p.m.)
 *   MOE SLS Helpdesk (67026513, 4 p.m. to 9 p.m.)
-*     
     
 
 **To unlock SLS account or reset password for SLS**
