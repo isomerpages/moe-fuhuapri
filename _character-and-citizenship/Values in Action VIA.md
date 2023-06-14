@@ -22,3 +22,10 @@ VIA Programme @ FHPS promotes socio-cultural diversity, social cohesion, harmony
   
 
 The programme looks into bringing authentic experiences where the learning the value of empathy will be at its best. The programme revolves around the themes on Caring for My Family and School, Reaching out and Giving Back to the Community. As such, FHPS works very closely with other Voluntary Welfare Organizations (VWOs). An example is where we focus on Care for the Elderly, we reach out to various agencies, such as HCA, FILOs Community Services, NEA, HCA and HDB to provide meaningful experiences for our students whilst at the same, allowing them to give back to the community.
+
+![](/images/values%20in%20action1.png)
+
+![](/images/valuesinaction2.jpg)
+
+![](/images/via3%20-%20a%20tour%20around%20the%20school%20garden.jpeg)
+
