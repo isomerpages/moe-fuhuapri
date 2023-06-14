@@ -32,3 +32,5 @@ While incidental leadership learning can occur across all platforms, intentional
 ![](/images/citizen%20leadership%20training.JPG) Citizen Leadership Training
 
 ![](/images/citizen%20leadership%20training%202.png) Citizen Leadership Training
+
+![](/images/citizen%20leadership%20investiture.png) Citizen Leadership Investiture
