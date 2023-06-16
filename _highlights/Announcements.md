@@ -3,11 +3,9 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
-##### **82nd Founder's Day Celebration**
+##### **82nd Founders' Day Celebration**
 ![](/images/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
-##### **Uniform Sales**
-Dear Parents/Guardians,<br>Please be informed that there will be no uniform sales on Tuesday, 18 Apr, as the uniform vendor is unwell. Uniform  sales will resume next Tuesday, 25 Apr.
-<br>Our apologies for the inconvenience caused.
+
 
 
 
@@ -27,15 +25,3 @@ Further, you may also wish to take a look at the following FAQs:
   
 
 Thank you.
-
-##### **WE Stories - Compilation Of Stories From All The West Zone Secondary Schools**
-
-
-WE Stories, a collection of stories from the Secondary Schools, specialised and specialised independent&nbsp;schools in the WEST Zone. Through these narratives, learn more about the distinctive, interesting and authentic student-centric learning experiences created for our students by our Secondary Schools.
-
-  
-
-Please click&nbsp;on the below links for:&nbsp;
-
-*   [2022 WE STories](https://online.fliphtml5.com/obrr/qkde/#p=1)
-*   [2021 WE STories](https://online.fliphtml5.com/obrr/vrmu/#p=1)

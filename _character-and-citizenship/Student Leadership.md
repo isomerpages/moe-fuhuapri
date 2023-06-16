@@ -28,3 +28,9 @@ We believe that leadership is a continuous process of self-reflection and develo
 While incidental leadership learning can occur across all platforms, intentional student leadership development will ensure that students are equipped with the requisite competencies for effective leadership. The school ensures that leadership training and developmental opportunities are carefully mapped out to ensure that leadership competencies, both fundamental and advanced, are made explicit to the students.
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/A1.png)
+
+![](/images/citizen%20leadership%20training.JPG) Citizen Leadership Training
+
+![](/images/citizen%20leadership%20training%202.png) Citizen Leadership Training
+
+![](/images/citizen%20leadership%20investiture.png) Citizen Leadership Investiture

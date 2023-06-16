@@ -11,7 +11,7 @@ description: ""
 | Mr Lee Wei Tia Gavin Bryan     |     Member    |
 | Mr Justin Loh Chee Cheong     |     Member    |
 | Mr Low Yi Cheng PBM     |     Member    |
-| Ms Low Wan Yi     |     Member    |
+| Ms Loo Wan Yi     |     Member    |
 | Mr Neo Ang Jie Eimonison      |     Member    |
 | Mr Ken Ng      |     Member    |
 | Ms Tan Mui Kiang Fortuna      |     Member    |

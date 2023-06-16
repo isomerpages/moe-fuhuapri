@@ -8,5 +8,5 @@ third_nav_title: Our People
 |-----------------------|-----------------------------------------------------------|
 | **ICT Associate**     | Mr Lam Xiao Liang 
 | **ICT Executive** | Mr Heng Yi Wei Shane   |
-| **Desktop Engineer** | Mr Lee Lin Huat  |
 | **Desktop Engineer** | Mr Anish Thiiagu  |
+| **Desktop Engineer** | Ms Siti Nur Aini Ishack  |

@@ -34,3 +34,9 @@ At the end of P6, student will be able to 
 ![](/images/Students%20As%20Designer%20for%20the%2021st%20Century.jpg)
 
 ![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/A2.png)
+
+![](/images/p3%20alp.jpg) P3 Students using Microbit
+
+![](/images/p3%20alp1.png) P3 Students using Microbit
+
+![](/images/p5%20students%20troubleshooting%20their%20flight%20plan%20(coding).png) P5 Students Troubleshooting their Flight Plan (Coding)

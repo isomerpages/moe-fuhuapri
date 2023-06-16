@@ -4,7 +4,7 @@ permalink: /fuhua-experience/Learning-for-Life-Programme/Learning-for-Life-Progr
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-The **Learning for Life Programme (LLP)** implemented by MOE focuses on the affective aspect of students’ development. 
+![]()The **Learning for Life Programme (LLP)** implemented by MOE focuses on the affective aspect of students’ development. 
 
   
 
@@ -35,3 +35,9 @@ The following diagram depicts the programmes at the Primary 1 – 6 levels and t
 A two-tiered structure is used in the programme design spanning across three domains – Programme for Active Learning (PAL) Outdoor Education (P1 – P2), Environmental Education (P3 – P6) and Leadership & Talent Development  
   
 ![](/images/Fuhua%20Experience/Learning%20for%20Life%20Programme/Learning%20for%20Life%20Programme/L2.png)
+
+![](/images/students%20learning%20basic%20gardening%20(2).png) Students learning basic gardening
+
+![](/images/students%20learning%20basic%20gardening.png) Students learning basic gardening
+
+![](/images/students%20playing%20go%20goals!%20board%20game%20to%20understand%20sustainable%20development%20goals%20(sdg).png) Students playing Go Goals! Board Game to understand Sustainable Development Goals (SDG)
