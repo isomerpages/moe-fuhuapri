@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 ---
 ##### **82nd Founders' Day Celebration**
-![](/images/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
+![](/images/Highlights/Announcements/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
 
 
 
