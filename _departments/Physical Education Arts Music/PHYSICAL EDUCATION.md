@@ -58,14 +58,19 @@ Please refer to the table below on the various PE programs to enhance the overal
 | P6     | Learning Journey at Jurong Lake Gardens   | To provide authentic outdoor experiences to apply knowledge attained across 6 years of PE outdoor education lessons.     |
 | Selected students    | The ‘IRONKIDS’ club     | The ‘IRONKIDS’ club seeks to support students who require more support towards leading a healthy lifestyle. Students are encouraged to pick up good lifestyle habits such as participating in regular physical activities and proper nutrition during this program.   |
 
+#### **Photos and Videos**
 
+<br>**1. P5 Outdoor Experience Camp**
 
+Students in Primary 5 attended an outdoor experience cohort camp where they gain an appreciation of the outdoors, understand how effective collaboration can facilitate success and an application of school values to promote independence. The residential camp this year was held in Sentosa. Students had an exciting time learning to work together in land and water-based activities.
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE1.jpg)
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE3.jpg)
+Orienteering around Sentosa Island
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg) 
+
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/P1.png)
 
