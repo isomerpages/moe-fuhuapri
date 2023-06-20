@@ -23,6 +23,7 @@ Seven learning areas are identified to facilitate these learning experiences in 
 <br>Goal 6: Enjoy and value the benefits of living a physically active and healthy life.
 
 Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain these 6 goals of PE. 
+
 <br>**Learning Areas**
 <br>1. Athletics (From Primary 3)
 <br>2. Dance
@@ -55,7 +56,7 @@ Please refer to the table below on the various PE programs to enhance the overal
 | P4 &amp; P6    | NAPFA      |The NAPFA assessment involves 5 static stations and the 1.6/2.4km run/walk. Students will be introduced to the various stations as well as helpful types of exercises to help them do well in the assessment. As part of self-directed learning, students are encourages to practice as well. <br>The assessment components are as follows: <br>- Sit Ups in 1 minute <br>- Standing Broad Jump <br>- Sit and Reach <br>- Inclined Pullups <br>- 4X10m Shuttle Run <br>- 1.6/2.4km Walk Run
 | P5    |  Outdoor Experience Cohort Camp    | A 3 day 2 night Outdoor Education program for Primary 5 students to discover and understand their strengths, build camaraderie in an outdoor setting.     |
 | P6     | Learning Journey at Jurong Lake Gardens   | To provide authentic outdoor experiences to apply knowledge attained across 6 years of PE outdoor education lessons.     |
-| Selected students    | The ‘IRONMAN’ club     | The ‘IRONMAN’ club seeks to support students who require more support towards leading a healthy lifestyle. Students are encouraged to pick up good lifestyle habits such as participating in regular physical activities and proper nutrition during this program.   |
+| Selected students    | The ‘IRONKIDS’ club     | The ‘IRONKIDS’ club seeks to support students who require more support towards leading a healthy lifestyle. Students are encouraged to pick up good lifestyle habits such as participating in regular physical activities and proper nutrition during this program.   |
 
 
 
