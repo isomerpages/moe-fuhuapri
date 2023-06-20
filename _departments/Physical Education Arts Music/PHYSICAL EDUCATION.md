@@ -69,8 +69,9 @@ Students in Primary 5 attended an outdoor experience cohort camp where they gain
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE3.jpg)
 Orienteering around Sentosa Island
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg) 
+![](/images/p5%20camp.jpg)
 
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg) 
 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/P1.png)
 
