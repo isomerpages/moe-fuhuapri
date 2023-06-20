@@ -3,13 +3,17 @@ title: Events
 permalink: /highlights/Events/
 description: ""
 ---
-##### **10th National Primary Schools Photography Competition**
+##### **11th National Primary Schools Photography Competition**
 
+Fuhua Primary School proudly presents the 11th National Primary Schools Photography Competition. Since 2011, Fuhua Primary has been organising the yearly competition (with a two-year hiatus in 2020 and 2021).
 
-The 10th National Primary Schools Photography Competition, organized by Fuhua Primary School, returns this year after a 2-year hiatus during the COVID-19 pandemic. The theme for this year’s competition is ‘BUILDING A CITY OF GREEN POSSIBILITIES TOGETHER’. 
+The choice of the theme for the competition is in line with the conservation and green movement efforts of the school. This year’s theme is “**BUILDING A CITY OF GREEN POSSIBILITIES TOGETHER**”.  
 
-Together with our co-organizers, Canon Singapore, Mandai Wildlife Reserve  and PacificLight Power Pte Ltd, we hope to have even more schools and students joining the competition this time and look forward to your participation.
+**The objectives of the competition are:**
 
-For more details on the competition, please refer to our [FAQs](/files/Events/NPC%20FAQs.pdf).
+*   To raise primary school students’ awareness to the Singapore Green Plan 2030 on sustainable development.
+*   To provide a platform for primary school students to practice eco-stewardship through the medium of photography.
 
-![](/images/Highlights/Events/C1.png)
+The competition is open to all MOE Primary schools.   The competition will be judged through 4 categories: Open, Budding Photographers, Photojournalism and People’s Choice.
+
+![](/images/2023%20npc%20poster.png)
