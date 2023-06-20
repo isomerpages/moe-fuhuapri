@@ -59,8 +59,7 @@ Please refer to the table below on the various PE programs to enhance the overal
 | Selected students    | The ‘IRONKIDS’ club     | The ‘IRONKIDS’ club seeks to support students who require more support towards leading a healthy lifestyle. Students are encouraged to pick up good lifestyle habits such as participating in regular physical activities and proper nutrition during this program.   |
 
 #### **Photos and Videos**
-
-<br>**1. P5 Outdoor Experience Camp**
+**1. P5 Outdoor Experience Camp**
 
 Students in Primary 5 attended an outdoor experience cohort camp where they gain an appreciation of the outdoors, understand how effective collaboration can facilitate success and an application of school values to promote independence. The residential camp this year was held in Sentosa. Students had an exciting time learning to work together in land and water-based activities.
 
@@ -71,8 +70,23 @@ Orienteering around Sentosa Island
 
 ![](/images/p5%20camp.jpg)
 
+<br>**2. Swimsafer Programme**
+
+Beyond fundamental movement skills on land, our students had the opportunity to learn movement skills through water. The water offers unique experiences to students in managing their body posture in different spatial dimensions. The Swimsafer 2.0 program aims to enhance students’ water movement competency as well as water safety such as safe pool entry and exit.
+
+
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg) 
+P5 Swimsafer session at Bukit Batok Swimming Pool
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/P1.png)
+![](/images/swimsafer.jpg)
 
-<img style="width:50%;height:50%" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/P2.png">
+<br>**3. Wholesome Week**
+        
+Greater awareness for healthy living is raised through inter-class challenges. Students learn to take responsibility in their food choices and learn about the emotional and physical advantages of being active and healthy.&nbsp;
+
+Students and teachers take part in daily challenges to score points for their classes. The Physical Challenge allows students to take part in physical activities in school while the Health Challenge allows students to display healthy eating habits in school and at home.  
+The class with the most points accumulated will win the Wholesome Week Championship.
+
+![](/images/wholesome1.jpg)
+
+![](/images/wholesome2.jpg)
