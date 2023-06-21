@@ -22,7 +22,7 @@ third_nav_title: Our People
 | 2 Care      | Ms Foo Shi Jia Clara | Ms Tan Hui Yik Mavis |
 | 2 Diligence | Mdm Sarah Harbachan | Ms Mok Chia Hui Michelle        |
 | 2 Loyalty   | Mdm Azizah Binte Nawer | Ms Dhanya Nair |
-| 2 Respect   | Ms Sung Huimin |Mr   |
+| 2 Respect   | Ms Sung Huimin |Mr Luke Mahendran Janarthanam |
 | 2 Trust     | Mr Lim Yang Jun | Mdm Nor Aslinda Bte Mohamad Saleh |
 | 2 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Teoh Jia Yan Diana|
 | 2 Joy       | Ms Zhou Yu  | Mr Haji Mohamad Hairi bin Ibrahim |
@@ -64,7 +64,7 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                 | Form Teacher                         |
 |-------------|------------------------------|--------------------------------------|
-| 6 Care      | Mdm Avenir Janna Francesca Guinto   |     |
+| 6 Care      | Mdm Avenir Janna Francesca Guinto   | Ms Lian Wanling Joyce   |
 | 6 Diligence | Ms Wong Thin Chee Frances  | Mdm Meharaj Begum  Binte Mohd Mustafa |
 | 6 Loyalty   | Mr Yeo Yee Chong | Ms Ong Ming Sei  |
 | 6 Respect   | Ms Mardiana binte Mahat  |Mrs Santi Malaiya Maran  |
