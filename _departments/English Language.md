@@ -74,10 +74,10 @@ Thinking routines, differentiated instructions and different modes of assessment
 </tbody>
 </table>
 
-![](/images/photo_6073155869501141867_y.jpg)
+![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141865_y.jpg)
 Guest Reader
 
-![](/images/photo_6073155869501141865_y.jpg)
+![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141867_y.jpg)
 Guest Reader
 
 ![Completion of Drama Enrichment Programme](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/Completion%20of%20Drama%20Enrichment%20Programme.jpg)
