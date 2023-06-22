@@ -39,4 +39,4 @@ At the end of P6, student will be able to 
 
 ![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/p3%20alp1.png)P3 Students using Microbit
 
-P5 Students Troubleshooting their Flight Plan (Coding)
+![](/images/Fuhua%20Experience/Applied%20Learning%20Programme/p5%20students%20troubleshooting%20their%20flight%20plan%20(coding).png)P5 Students Troubleshooting their Flight Plan (Coding)
