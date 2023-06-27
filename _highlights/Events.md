@@ -16,4 +16,4 @@ The choice of the theme for the competition is in line with the conservation and
 
 The competition is open to all MOE Primary schools.   The competition will be judged through 4 categories: Open, Budding Photographers, Photojournalism and People’s Choice.
 
-![](/images/2023%20npc%20poster.png)
+![](/images/Highlights/Events/2023%20npc%20poster.png)

@@ -68,7 +68,7 @@ Students in Primary 5 attended an outdoor experience cohort camp where they gain
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE3.jpg)
 Orienteering around Sentosa Island
 
-![](/images/p5%20camp.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/p5%20camp.jpg)
 
 <br>**2. Swimsafer Programme**
 
@@ -78,7 +78,7 @@ Beyond fundamental movement skills on land, our students had the opportunity to 
 ![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/PE2.jpg) 
 P5 Swimsafer session at Bukit Batok Swimming Pool
 
-![](/images/swimsafer.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/swimsafer.jpg)
 
 <br>**3. Wholesome Week**
         
@@ -87,6 +87,6 @@ Greater awareness for healthy living is raised through inter-class challenges. S
 Students and teachers take part in daily challenges to score points for their classes. The Physical Challenge allows students to take part in physical activities in school while the Health Challenge allows students to display healthy eating habits in school and at home.  
 The class with the most points accumulated will win the Wholesome Week Championship.
 
-![](/images/wholesome1.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome1.jpg)
 
-![](/images/wholesome2.jpg)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome2.jpg)

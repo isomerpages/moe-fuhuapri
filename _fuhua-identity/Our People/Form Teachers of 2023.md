@@ -22,18 +22,18 @@ third_nav_title: Our People
 | 2 Care      | Ms Foo Shi Jia Clara | Ms Tan Hui Yik Mavis |
 | 2 Diligence | Mdm Sarah Harbachan | Ms Mok Chia Hui Michelle        |
 | 2 Loyalty   | Mdm Azizah Binte Nawer | Ms Dhanya Nair |
-| 2 Respect   | Ms Sung Huimin | Mr Haji Mohamad Hairi bin Ibrahim |
+| 2 Respect   | Ms Sung Huimin |Mr Luke Mahendran Janarthanam |
 | 2 Trust     | Mr Lim Yang Jun | Mdm Nor Aslinda Bte Mohamad Saleh |
 | 2 Hope      | Ms Yiap Mei Chan, Alicia | Mdm Teoh Jia Yan Diana|
-| 2 Joy       | Ms Zhou Yu  | Mdm Wu Juanjuan |
+| 2 Joy       | Ms Zhou Yu  | Mr Haji Mohamad Hairi bin Ibrahim |
 
 #### **Primary 3**
 
 | Class       | Form Teacher                 | Form Teacher                   |
 |-------------|------------------------------|--------------------------------|
-| 3 Care      | Mdm Zunairah Binte Janis | Mdm Liu Si Ting |
+| 3 Care      | Mdm Zunairah Binte Janis | Miss Liu Si Ting |
 | 3 Diligence | Mdm Ong Sook Yen | Mr David Tee Ter Wei  |
-| 3 Loyalty   | Ms Goh Wei Ting | Mdm Qin Mi |
+| 3 Loyalty   | Ms Goh Wei Ting | Mrs Izabella Chia |
 | 3 Respect   | Mdm Ng Baohui Sherline  | Mr Abdul Malik Bin Mazlan |
 | 3 Trust     | Ms Tan Ying Yin | Mdm Haslina Bte Ishak |
 | 3 Hope      | Mr John Low Wee Liang | Mrs Vivian Soh |
@@ -42,7 +42,7 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                           | Form Teacher                      |
 |-------------|----------------------------------------|-----------------------------------|
-| 4 Care      | Mdm Khairunnisa Nadiah | Mdm Lin Qiuyan |
+| 4 Care      | Mdm Lin Qiuyan |Dr Ge Yan  |
 | 4 Diligence | Mr Wang Kee Leong | Mdm Siti Shofurah Bte Rahmad |
 | 4 Loyalty   | Mdm Pradeebha Veerapandian  | Mdm Tan Siew Ping, Hazel   |
 | 4 Respect   | Mr Siah Kai Yeow   | Ms Siti Sarah Binte Aziz   |
@@ -56,7 +56,7 @@ third_nav_title: Our People
 | 5 Care      | Mr Lim Cheng Chuan |  Mr Ong Wei Loon Daryl |
 | 5 Diligence | Mdm Nurul Ain Binte Suprat | Mr Thong Kok Leung  |
 | 5 Loyalty   | Mdm Sheela | Mrs Angie Poh |
-| 5 Respect   | Mdm Koh Hui Chin| Ms Ang Wei Qi |
+| 5 Respect   | Mdm Koh Hui Chin| Mrs Prema Panneerselvam|
 | 5 Trust     | Mdm Hoon Hui-Qi, Nicola | Mdm Faridah Binte Mohamed Ali  |
 | 5 Hope      | Mr Tan Wei'En Nicholas   | Ms Wong Min Wei |
 
@@ -64,7 +64,7 @@ third_nav_title: Our People
 
 | Class       | Form Teacher                 | Form Teacher                         |
 |-------------|------------------------------|--------------------------------------|
-| 6 Care      | Mdm Avenir Janna Francesca Guinto   | Dr Ge Yan   |
+| 6 Care      | Mdm Avenir Janna Francesca Guinto   | Ms Lian Wanling Joyce   |
 | 6 Diligence | Ms Wong Thin Chee Frances  | Mdm Meharaj Begum  Binte Mohd Mustafa |
 | 6 Loyalty   | Mr Yeo Yee Chong | Ms Ong Ming Sei  |
 | 6 Respect   | Ms Mardiana binte Mahat  |Mrs Santi Malaiya Maran  |
