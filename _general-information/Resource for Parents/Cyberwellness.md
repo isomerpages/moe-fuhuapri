@@ -39,3 +39,6 @@ Respecting copyright<br>
 **Useful Links:**<br>- Find out more about how to access relatability of news. Click [here](https://sure.nlb.gov.sg/). <br>- Read on to find out more about each online platform online safety tools and resources. Click [here](https://www.betterinternet.sg/Resources/Resources-Listing/Tools-and-resources-for-managing-your-own-safety-online). 
 
 #### **Newsletters**
+* Newsletter 1: [How you can play an active role in keeping your child safe online?](/files/Resource%20for%20Parents/Cyberwellness/Newsletters/1%20how%20you%20can%20play%20an%20active%20role%20in%20keeping%20your%20child%20safe%20online.pdf)
+* Newsletter 2: [How to spot fake news - Tipsheet](/files/Resource%20for%20Parents/Cyberwellness/Newsletters/2%20-%20how-to-spot-fake-news_tipsheet.pdf)
+* Newsletter 3: [The age of digital parenting](/files/Resource%20for%20Parents/Cyberwellness/Newsletters/3%20-%20the%20age%20of%20digital%20parenting%20for%20schools.pdf)
