@@ -19,7 +19,7 @@ start a conversation with them on screen use. Click [here](https://www.imda.gov.
 **Learning Outcomes:**<br>
 Balancing online and offline activities<br>
 
-**Useful Links:**<br>
+**Useful Links:**<br>- Find out more on screen use, cyberwellness and other useful evidence-based parenting resources for kids 0-12 years. Click [here](https://www.familiesforlife.sg/Parenting).<br>- Tailor a Family Media Use Plan in discussion with the child. This helps achieve an appropriate balance between screen use and other activities, support open communications and implementation of rules on screen use within the family. Click [here](http://www.healthychildren.org/MediaUsePlan). <br> - Are you struggling with your child's excessive device use? Click [here](https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use). 
 
 #### **Cyber Relationship**
 
