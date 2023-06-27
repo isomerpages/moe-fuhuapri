@@ -36,6 +36,6 @@ Cultivating safe and meaningful online relationships<br>
 Responsible creation and sharing of online content<br>
 Respecting copyright<br>
 
-**Useful Links:**<br>
+**Useful Links:**<br>- Find out more about how to access relatability of news. Click [here](https://sure.nlb.gov.sg/). <br>- Read on to find out more about each online platform online safety tools and resources. Click [here](https://www.betterinternet.sg/Resources/Resources-Listing/Tools-and-resources-for-managing-your-own-safety-online). 
 
 #### **Newsletters**
