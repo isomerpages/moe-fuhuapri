@@ -4,40 +4,29 @@ permalink: /general-information/resource-for-parents/permalink/
 description: ""
 third_nav_title: Resource for Parents
 ---
-Cyber Citizenship & Identity
+#### **Cyber Citizenship &amp; Identity**
 
-Learning Outcomes:
+**Learning Outcomes:**<br>
+Understanding the cyber world <br>
+Handling online content and behavior <br>
+Developing a positive online presence <br>
+Creating a healthy online identity<br>
 
-Understanding the cyber world
+#### **Cyber Use**<br>
+**Learning Outcomes:**<br>
+Balancing online and offline activities<br>
 
-Handling online content and behavior
+#### **Cyber Relationship**
 
-Developing a positive online presence
+**Learning Outcomes:**<br>
+Netiquette<br>
+Dealing with cyber bullying<br>
+Cultivating safe and meaningful online relationships<br>
 
-Creating a healthy online identity
+#### **Cyber Ethics**
 
-Subheading 2: Cyber Use
+**Learning Outcomes:**<br>
+Responsible creation and sharing of online content<br>
+Respecting copyright<br>
 
-Learning Outcomes
-
-Balancing online and offline activities
-
-Subheading 3: Cyber Relationship
-
-Learning Outcomes
-
-Netiquette
-
-Dealing with cyber bullying
-
-Cultivating safe and meaningful online relationships
-
-Subheading 4: Cyber Ethics
-
-Learning Outcomes
-
-Responsible creation and sharing of online content
-
-Respecting copyright
-
-Subheading 5: Newsletters
+#### **Newsletters**
