@@ -33,7 +33,7 @@ third_nav_title: Our People
 |-------------|------------------------------|--------------------------------|
 | 3 Care      | Mdm Zunairah Binte Janis | Miss Liu Si Ting |
 | 3 Diligence | Mdm Ong Sook Yen | Mr David Tee Ter Wei  |
-| 3 Loyalty   | Ms Goh Wei Ting | Mrs Izabella Chia |
+| 3 Loyalty   | Ms Goh Wei Ting | Mrs Izabella Teo |
 | 3 Respect   | Mdm Ng Baohui Sherline  | Mr Abdul Malik Bin Mazlan |
 | 3 Trust     | Ms Tan Ying Yin | Mdm Haslina Binte Ishak |
 | 3 Hope      | Mr John Low Wee Liang | Mrs Vivian Soh |
