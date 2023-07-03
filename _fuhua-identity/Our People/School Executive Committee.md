@@ -12,7 +12,7 @@ third_nav_title: Our People
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
 | Head Of Department - Science                                   | Mrs Santi Malaiya Maran               |                
 | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon Daryl           |
-| Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Bte Juma'at            |
+| Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Binte Juma'at            |
 | Head Of Department - Pastoral Care and Career Guidance         | Mdm Ong Sook Yen                      |
 | Head Of Department - Information & Communications Technology   | Ms Lian Wanling Joyce                 |
 | School Staff Developer (SSD)                                   | Mrs Angie Poh                         |
@@ -25,7 +25,7 @@ third_nav_title: Our People
 | Level Head - English                                           |  Ms Dhanya Nair                       |
 | Level Head - Chinese Language                                  |  Mdm Tang Yen Yen                     |
 | Level Head - Mathematics                                       | Mrs Vivian Soh                        |
-| Level Head - Mathematics (int.)                                |  Mdm Norfarishah Asherina Bte Hussain |
+| Level Head - Mathematics (int.)                                |  Ms Norfarishah Asherina Binte Hussain |
 | Subject Head - Environmental Education                         | Mdm Ong Lay Kuan, Shirley             |
-| Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Bte Rahmad          |
+| Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Binte Rahmad          |
 | Subject Head - Data Management & Innovation                    |  Ms Sung Huimin                       |
