@@ -140,7 +140,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance and Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Nur Sheela Binte Sugirmanto</span><br><span style="font-weight:normal;color:#000">Mdm Liu Qiu Yan<br><span style="font-weight:normal;color:#000">Ms Clara Foo Shi Jia</span></span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Nur Sheela Binte Sugirmanto</span><br><span style="font-weight:normal;color:#000">Mdm Liu Qiu Yan<br><span style="font-weight:normal;color:#000">Ms Foo Shi Jia Clara</span></span></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
@@ -161,7 +161,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Design-and-Innovation/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Mr David Tee Ter Wei *</span><br><span style="font-weight:normal;color:#000">Mr Lim Cheng Chuan Lance</span><br><span style="font-weight:normal;color:#000"></span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Mr David Tee Ter Wei *</span><br><span style="font-weight:normal;color:#000">Mr Lim Cheng Chuan</span><br><span style="font-weight:normal;color:#000"></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3"><span style="font-weight:normal;color:#000">Uniformed Groups</span></td>
