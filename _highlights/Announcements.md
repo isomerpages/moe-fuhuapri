@@ -3,6 +3,13 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **No Physical Sale of School Uniform on 18 July**
+Dear Parents / Guardians
+
+Please be informed that there will be no physical sale of school uniforms in the school on Tuesday, 18 July 2023.
+
+For enquiries, you may contact the Uniform Vendor (Mr Koh) at Tel: 6466 5697 or HP No. 9029 5135.
+
 ##### **82nd Founders' Day Celebration**
 ![](/images/Highlights/Announcements/82%20founders%20day%20invitation%20card%20(version%201)%20copy.jpg)
 
