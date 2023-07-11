@@ -4,8 +4,12 @@ permalink: /general-information/Resource-for-Parents/Schoolbag-Newsletter/
 description: ""
 third_nav_title: Resource for Parents
 ---
-#### **Schoolbag Newsletter - Inspiration comes in different forms**
+#### **Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
 
+
+ Four fathers who work in the technology industry give tips on keeping kids safe online. Find out more [here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special) and read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
+
+#### **Schoolbag Newsletter - Inspiration comes in different forms**
 
 Polytechnic student Sam Pei Yi decided on her post-secondary pathway after being inspired by a fish! Find out more and read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
 
