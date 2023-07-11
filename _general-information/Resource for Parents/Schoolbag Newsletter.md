@@ -7,7 +7,7 @@ third_nav_title: Resource for Parents
 #### **Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
 
 
- Four fathers who work in the technology industry share the tried-and-tested ways to keep their children safe on cyber-space.  Find out more and read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
+ Four fathers who work in the technology industry give tips on keeping kids safe online. Find out more and read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
 
 #### **Schoolbag Newsletter - Inspiration comes in different forms**
 
