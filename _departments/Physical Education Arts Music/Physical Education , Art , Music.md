@@ -1,6 +1,6 @@
 ---
-title: Physical Education , Arts , Music
-permalink: /departments/Physical-Education-Arts-Music/Physical-Education-Arts-Music/
+title: Physical Education , Art , Music
+permalink: /departments/physical-education-arts-music/physical-education-art-music/
 description: ""
 third_nav_title: Physical Education Arts Music
 ---

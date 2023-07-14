@@ -18,7 +18,7 @@ third_nav_title: Our People
 | School Staff Developer (SSD)                                   | Mrs Angie Poh                         |
 | Year Head                                                      | Mr Lau Kar Wai Julian                 |
 | Year Head                                                      | Mdm Nuraina Binte Mohamed Sin         |
-| Year Head (int.)                                                     | Mdm Teng Shu Min, Eunice                      |
+| Year Head                                                     | Mdm Teng Shu Min, Eunice                      |
 | Assistant Year Head (int.)                                           | Mrs Izabella Teo              |
 | Assistant Year Head (int.)                                     | Ms Lei Limin Fiona                    |
 | Assistant Year Head (int.)                                     | Ms Zeng Jiahui                        |
