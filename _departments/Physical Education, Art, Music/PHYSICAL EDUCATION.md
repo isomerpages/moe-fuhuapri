@@ -2,7 +2,7 @@
 title: PHYSICAL EDUCATION
 permalink: /departments/Physical-Education-Arts-Music/PHYSICAL-EDUCATION/
 description: ""
-third_nav_title: Physical Education Art Music
+third_nav_title: Physical Education, Art, Music
 ---
 #### **PURPOSE of PE**
 

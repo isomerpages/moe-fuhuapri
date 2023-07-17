@@ -2,7 +2,7 @@
 title: ART
 permalink: /departments/physical-education-arts-music/art/
 description: ""
-third_nav_title: Physical Education Art Music
+third_nav_title: Physical Education, Art, Music
 ---
 #### **MAKING THE LEARNING OF ART A FUN EXPERIENCE**
 

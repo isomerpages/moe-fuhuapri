@@ -2,7 +2,7 @@
 title: MUSIC
 permalink: /departments/Physical-Education-Arts-Music/MUSIC/
 description: ""
-third_nav_title: Physical Education Art Music
+third_nav_title: Physical Education, Art, Music
 ---
 #### **LEARNING OF MUSIC @ FUHUA**
 
