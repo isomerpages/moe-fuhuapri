@@ -3,6 +3,10 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **82nd Founders' Day Programme Schedule**
+![](/images/Highlights/Announcements/82nd%20founders'%20day%20programme%20schedule.png)
+
+
 ##### **No Physical Sale of School Uniform on 18 July**
 Dear Parents / Guardians
 
