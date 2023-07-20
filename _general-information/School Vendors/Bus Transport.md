@@ -4,7 +4,7 @@ permalink: /general-information/School-Vendors/Bus-Transport/
 description: ""
 third_nav_title: School Vendors
 ---
-## **School Bus Advertisement**
+### **School Bus Advertisement**
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
