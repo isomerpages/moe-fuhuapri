@@ -5,8 +5,7 @@ description: ""
 third_nav_title: School Vendors
 ---
 ### **School Bus Advertisement**
-
-To apply, please refer to the Service Requirements and the Application Procedure below.
+ **To apply, please refer to the Service Requirements and the Application Procedure below.**
 
 #### **Service Requirements**
 1. [Call for Proposal](/files/Bus%20Transport/call%20for%20proposals.pdf)
@@ -23,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
         Email: fhps@moe.edu.sg
         Contact Person: Ms. Koh Huey Ting
 
-**How to get there?**
+##### **How to get there?**
 
 * Nearest MRT: Jurong East MRT Station (NS1/EW24) – 15 minutes walking distance
 
