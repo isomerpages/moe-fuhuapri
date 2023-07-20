@@ -17,10 +17,10 @@ third_nav_title: School Vendors
 
 2.  Submit the completed Call for Proposal – Annex A by closing date, 11 August 2023, to the School’s General Office.
 
-        Address: 65 Jurong East Street 13, Singapore 609647
-        Contact No: 6562 4370
-        Email: fhps@moe.edu.sg
-        Contact Person: Ms. Koh Huey Ting
+       **Address:** 65 Jurong East Street 13, Singapore 609647<br>
+       **Contact No:** 6562 4370<br>
+       **Email:** fhps@moe.edu.sg<br>
+       **Contact Person:** Ms. Koh Huey Ting
 
 ##### **How to get there?**
 
