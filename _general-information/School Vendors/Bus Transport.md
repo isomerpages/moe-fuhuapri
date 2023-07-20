@@ -22,7 +22,7 @@ third_nav_title: School Vendors
        **Email:** fhps@moe.edu.sg<br>
        **Contact Person:** Ms. Koh Huey Ting
 
-##### **How to get there?**
+#### **How to get there?**
 
 * Nearest MRT: Jurong East MRT Station (NS1/EW24) – 15 minutes walking distance
 
