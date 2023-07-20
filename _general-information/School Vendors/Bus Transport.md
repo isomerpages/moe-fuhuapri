@@ -15,7 +15,7 @@ third_nav_title: School Vendors
 
 1.  Complete the [Call for Proposal - Annex A](/files/Bus%20Transport/call%20for%20proposal%20-%20annex%20a.pdf)
 
-2.  Submit the completed Call for Proposal – Annex A by closing date, 11 August 2023, to the School’s General Office.
+2.  Submit the completed Call for Proposal – Annex A by closing date, **11 August 2023**, to the School’s General Office.
 
        **Address:** 65 Jurong East Street 13, Singapore 609647<br>
        **Contact No:** 6562 4370<br>
