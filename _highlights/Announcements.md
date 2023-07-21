@@ -3,6 +3,8 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **82nd Founders' Day Programme Schedule <br>(For Wet Weather)**
+![](/images/Highlights/Announcements/82nd%20founders'%20day%20schedule%20(21%20july).jpeg)
 ##### **82nd Founders' Day Programme Schedule**
 ![](/images/Highlights/Announcements/82nd%20founders'%20day%20schedule%20(21%20july).jpeg)
 
