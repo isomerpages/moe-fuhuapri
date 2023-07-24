@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources for Students.md
-      - Cyberwellness/.keep
       - School Administration/Admission.md
       - School Administration/School Hours and Recess Time.md
       - School Administration/Safety Matters.md
