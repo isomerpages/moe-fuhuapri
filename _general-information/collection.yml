@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Resources for students.md
       - School Administration/.keep
       - School Administration/Admission.md
       - School Administration/School Hours and Recess Time.md
