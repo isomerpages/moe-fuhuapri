@@ -19,6 +19,21 @@ Creating a healthy online identity<br>
 Balancing online and offline activities<br>
 
 **Useful Links:**<br>[Tips for Healthier Screen time](https://www.youtube.com/watch?v=1RUM5mM2MZw&amp;t=49s)<br>[Screen time: How much is too much?](https://www.youtube.com/watch?v=fVALeerZpd4)<br>[Media Balance is important](https://www.youtube.com/watch?v=ikzY4NQeR1U)<br> [5 Screen Time Tips](https://www.youtube.com/watch?v=0uBkqWRB4e0)<br><br>**More information:**<br>[Screen Use Infographic for 7 - 12 years old](/files/Resources%20for%20students/Cyber%20Use/screen_use_infographic%20for%207to12.pdf)<br> <br>Manage Screen Time ![](/images/Resources%20for%20students/Cyber%20Use/poster%203_manage%20screen%20time.png) <br> Practice Healthy Online Habits![Practice Healthy Online Habits](/images/Resources%20for%20students/Cyber%20Use/poster%208_practise%20healthy%20online%20habits.png) <br>How to Lead a Balanced Lifestyle ![](/images/Resources%20for%20students/Cyber%20Use/poster%20fhps%20-%20balanced%20lifestyle.JPG)<br>Exploring Different Activities ![](/images/Resources%20for%20students/Cyber%20Use/poster%20fhps%20-%20offline%20activities.JPG)
+#### **Cyber Relationship**<br>
+**Learning Outcomes:**<br>
+Netiquette<br>
+Dealing with cyber bullying<br>
+Cultivating safe and meaningful online relationships<br>
 
+**Useful Links:**<br>[What is cyber bullying?](https://www.youtube.com/watch?v=niaDJdEXk9U)<br>[Is it cyber bullying?](https://www.youtube.com/watch?v=vtfMzmkYp9E)<br>[Cyberbullies are No Fun!](https://www.youtube.com/watch?v=peDosNN7l3w)<br>[How to stop Cyber Bullying](https://www.youtube.com/watch?v=WegCMoQ-Uns)<br>[Protect Yourself Rules](https://www.youtube.com/watch?v=916K8xRxQZw)
 
+**More information:**<br>[Online Myths](/files/Resources%20for%20students/Cyber%20Relationships/poster%20-%20%20online%20myths.pdf)<br><br>Show Respect When Communicating Online![](/images/Resources%20for%20students/Cyber%20Relationships/poster%204_show%20respect%20when%20communicating%20online.png)<br>Be A Positive Influence![](/images/Resources%20for%20students/Cyber%20Relationships/poster%205_be%20a%20positive%20influence.png)<br>How to Have Good Manners Online ![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20good%20etiquette%20online.JPG)<br>What is Netiquette and Its Importance![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20netiquette.JPG)<br>Consequences of Cyberbullying<br> ![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20no%20to%20cyber%20bullying.JPG)<br>How to Stop Cyberbullying![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20stop%20cyber%20bullying.JPG)
 
+#### **Cyber Ethics**<br>
+**Learning Outcomes:**<br>
+Responsible creation and sharing of online content<br>
+Respecting copyright<br>
+
+**Useful Links:**<br> <br>
+
+**More information:**<br>
