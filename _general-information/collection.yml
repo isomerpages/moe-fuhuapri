@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Resources for students.md
       - Resources for Students/Cyberwellness.md
       - Resources for Students/Resources For Students.md
       - Resources for Students/.keep
