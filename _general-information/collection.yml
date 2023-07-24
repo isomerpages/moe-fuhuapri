@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Cyberwellness/Resources for Students.md
       - Cyberwellness/.keep
       - School Administration/Admission.md
       - School Administration/School Hours and Recess Time.md
