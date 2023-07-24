@@ -34,6 +34,6 @@ Cultivating safe and meaningful online relationships<br>
 Responsible creation and sharing of online content<br>
 Respecting copyright<br>
 
-**Useful Links:**<br> <br>
+**Useful Links:**<br>[Pause &amp; Think Online](https://www.youtube.com/watch?v=X_duZ-1LApg) <br>[S.U.R.E.](https://www.youtube.com/watch?v=JNFnPqTTPIc)<br>[What is Fake News?](https://www.youtube.com/watch?v=RDOFt1tFYx8)<br>[Scam Alert](https://www.youtube.com/watch?v=qRWpvcjpQNw)<br>[QR Code Scam](https://www.youtube.com/shorts/-al2YreIoFw)<br>[Beware of Tech Support Scam](https://www.youtube.com/watch?v=g1ZApugPgq0)
 
-**More information:**<br>
+**More information:**<br>[Responsible Sharing Of Infomation](/files/Resources%20for%20students/Cyber%20Ethics/poster%20responsible%20sharing.pdf)<br>Respect Cobyright![](/images/Resources%20for%20students/Cyber%20Ethics/poster%207_respect%20copyright.png)
