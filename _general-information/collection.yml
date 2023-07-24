@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Cyber Citizenship & Identity/.keep
       - School Administration/.keep
       - School Administration/Admission.md
       - School Administration/School Hours and Recess Time.md
@@ -32,5 +31,6 @@ collections:
       - Resources for Students/.keep
       - Resources for Students/Resources For Students.md
       - Resources for Students/Cyberwellness.md
+      - Cyber Citizenship & Identity/.keep
       - Parents Portal.md
       - Contact Us.md
