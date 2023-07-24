@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Cyber Citizenship & Identity/Cyber Citizenship & Identity.md
       - Cyber Citizenship & Identity/.keep
       - School Administration/.keep
       - School Administration/Admission.md
