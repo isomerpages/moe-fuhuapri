@@ -36,17 +36,6 @@ The Community in Bloom (CIB) Awards recognize excellence in gardening efforts by
 
 ![](/images/Highlights/Achievements/A2.jpg)  
 
-##### **THE QUEEN'S COMMONWEALTH ESSAY COMPETITION 2021**
-
-
-Congratulations to Ayra Arinah of Primary 5 Loyalty for achieving the prestigious Silver Award for The Queen's Commonwealth Essay Competition 2021.
-
-  
-
-Her  essay on the pandemic Covid-19 summarizes the events of the pandemic in a nutshell and explored the event from a child's perspective and her hopes for a brighter future.
-
-![](/images/Highlights/Achievements/A3.jpg)
-
 ##### **THE SINGAPORE YOUTH FESTIVAL 2021 ART EXHIBITION VIRTUAL OPENING EVENT**
 
 
