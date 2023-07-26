@@ -34,8 +34,8 @@ third_nav_title: Resources for Students
 
 #### **Cyber Ethics**<br>
 **Learning Outcomes:**<br>
-Responsible creation and sharing of online content<br>
-Respecting copyright<br>
+- Responsible creation and sharing of online content<br>
+- Respecting copyright<br>
 
 **Useful Links:**<br>[Pause &amp; Think Online](https://www.youtube.com/watch?v=X_duZ-1LApg) <br>[S.U.R.E.](https://www.youtube.com/watch?v=JNFnPqTTPIc)<br>[What is Fake News?](https://www.youtube.com/watch?v=RDOFt1tFYx8)<br>[Scam Alert](https://www.youtube.com/watch?v=qRWpvcjpQNw)<br>[QR Code Scam](https://www.youtube.com/shorts/-al2YreIoFw)<br>[Beware of Tech Support Scam](https://www.youtube.com/watch?v=g1ZApugPgq0)
 
