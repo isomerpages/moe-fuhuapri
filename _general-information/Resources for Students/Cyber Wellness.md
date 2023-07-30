@@ -64,6 +64,7 @@ third_nav_title: Resources for Students
 - [QR Code Scam](https://www.youtube.com/shorts/-al2YreIoFw)<br>
 - [Beware of Tech Support Scam](https://www.youtube.com/watch?v=g1ZApugPgq0)
 <br>
+
 **More information:**<br>
 [Fake News](/files/Resources%20for%20students/Cyber%20Ethics/slides%20-%20fake%20news.pdf)<br>
 [Responsible Sharing Of Infomation](/files/Resources%20for%20students/Cyber%20Ethics/poster%20responsible%20sharing.pdf)<br>
