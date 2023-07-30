@@ -46,8 +46,8 @@ third_nav_title: Resources for Students
 - [Protect Yourself Rules](https://www.youtube.com/watch?v=916K8xRxQZw)
 
 **More information:**<br>
-- [Cyberbullying Case Study](/files/Resources%20for%20students/Cyber%20Relationships/slides%20-%20cyberbullying%20case%20study.pdf)<br>
-- [Online Myths](/files/Resources%20for%20students/Cyber%20Relationships/poster%20-%20%20online%20myths.pdf)<br>
+[Cyberbullying Case Study](/files/Resources%20for%20students/Cyber%20Relationships/slides%20-%20cyberbullying%20case%20study.pdf)<br>
+[Online Myths](/files/Resources%20for%20students/Cyber%20Relationships/poster%20-%20%20online%20myths.pdf)<br>
 
 **Posters:**<br>Show Respect When Communicating Online![](/images/Resources%20for%20students/Cyber%20Relationships/poster%204_show%20respect%20when%20communicating%20online.png)<br>Be A Positive Influence![](/images/Resources%20for%20students/Cyber%20Relationships/poster%205_be%20a%20positive%20influence.png)<br>How to Have Good Manners Online ![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20good%20etiquette%20online.JPG)<br>What is Netiquette and Its Importance![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20netiquette.JPG)<br>Consequences of Cyberbullying<br> ![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20no%20to%20cyber%20bullying.JPG)<br>How to Stop Cyberbullying![](/images/Resources%20for%20students/Cyber%20Relationships/poster%20fhps%20-%20stop%20cyber%20bullying.JPG)
 
@@ -65,6 +65,7 @@ third_nav_title: Resources for Students
 - [Beware of Tech Support Scam](https://www.youtube.com/watch?v=g1ZApugPgq0)
 <br>
 **More information:**<br>
-- [Fake News](/files/Resources%20for%20students/Cyber%20Ethics/slides%20-%20fake%20news.pdf)<br>
-- [Responsible Sharing Of Infomation](/files/Resources%20for%20students/Cyber%20Ethics/poster%20responsible%20sharing.pdf)<br>
+[Fake News](/files/Resources%20for%20students/Cyber%20Ethics/slides%20-%20fake%20news.pdf)<br>
+[Responsible Sharing Of Infomation](/files/Resources%20for%20students/Cyber%20Ethics/poster%20responsible%20sharing.pdf)<br>
+
 **Posters:**<br>Respect Copyright![](/images/Resources%20for%20students/Cyber%20Ethics/poster%207_respect%20copyright.png)
