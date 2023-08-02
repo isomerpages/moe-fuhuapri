@@ -53,8 +53,8 @@ Application, Reasoning and Communication skills are transdisciplinary skills tha
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enjoy problem solving</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enjoy problem-solving and develop awareness of different problem-solving strategies</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enjoy problem-solving and master the different problem-solving approaches</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enjoy problem solving and develop awareness of different problem solving strategies</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Enjoy problem solving and master the different problem solving approaches</span></td>
   </tr>
   <tr>
     <td class="tg-dgl5" colspan="3">APPLICATION, REASONING &amp; COMMUNICATION<br><span style="font-weight:normal;color:#000">Provide opportunities for application, reasoning and communication through school-based worksheets and performance tasks</span></td>
