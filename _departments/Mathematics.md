@@ -7,7 +7,7 @@ We aim to help our students appreciate the beauty of Mathematics and understand 
 
   
 
-Problem-solving is central to the Mathematics curriculum. Students must acquire and develop the joy of problem-solving in order for them to sustain their interest in the discipline. Our curriculum is designed to help our students achieve a high level of mastery that will excite and serve them well in life.&nbsp;
+Problem solving is central to the Mathematics curriculum. Students must acquire and develop the joy of problem solving in order for them to sustain their interest in the discipline. Our curriculum is designed to help our students achieve a high level of mastery that will excite and serve them well in life.&nbsp;
 
   
 
