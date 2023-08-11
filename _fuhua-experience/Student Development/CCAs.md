@@ -74,17 +74,8 @@ Students hone their information, communication, and technical skills as they str
 
 \*Main Teacher-in-charge
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-8v5g{background-color:#FFF;color:#0A7F7C;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
+
+
 <span style="font-weight:normal;color:#000">
   </span><table class="tg">
 <thead>
@@ -139,11 +130,12 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-zr06"><span style="font-weight:normal;color:#000">Mdm Faridah Bte Mohd Ali*<br><span style="font-weight:normal;color:#000">Dr Lee Nai Fern Rachel<br><span style="font-weight:normal;color:#000">Ms Avenir Janna Francesca Guinto</span></span></span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance and Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Nur Sheela Binte Sugirmanto</span><br><span style="font-weight:normal;color:#000">Mdm Liu Qiu Yan<br><span style="font-weight:normal;color:#000">Ms Foo Shi Jia Clara</span></span></td>
-  </tr>
+    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance </span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Liu Qiu Yan<br><span style="font-weight:normal;color:#000"></span></span></td></tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td><span style="font-weight:normal;color:#000">Mdm Nur Sheela Binte Sugirmanto*</span><br><span style="font-weight:normal;color:#000"><span style="font-weight:normal;color:#000">Ms Foo Shi Jia Clara</span></span></td>
+</tr><tr><td class="tg-ktyi"></td><td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ms Wong Min Wei*</span><br><span style="font-weight:normal;color:#000">Mdm Zhuang Xiao Juan</span></td>
   </tr>
   <tr>
