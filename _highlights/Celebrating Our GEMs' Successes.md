@@ -3,8 +3,10 @@ title: Celebrating Our GEMs' Successes
 permalink: /highlights/achievements/
 description: ""
 ---
-##### **Green Schools@South West Programme 2021**
+##### **2022 Achievements**
 
+
+##### **Green Schools@South West Programme 2021**
 
 The school has attained Two Stars – Public Health and Environment Protection Stars for our environmental efforts in the Green Schools@South West Programme.
 
