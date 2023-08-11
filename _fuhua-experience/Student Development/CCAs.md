@@ -166,7 +166,9 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Boys-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Boys’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Boys)</span><br><a href="/ccas/Girls-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girls’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Girls)</span></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Mr Lim Yang Jun*</span><br><span style="font-weight:normal;color:#000">Mdm Hoon Hui-Qi, Nicola</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Mr Lim Yang Jun*</span><br><span style="font-weight:normal;color:#000">Mdm Hoon Hui-Qi, Nicola</span><br><span style="font-weight:normal;color:#000"></span></td>
+  </tr>
+  <tr>
   </tr>
 </tbody>
 </table>
