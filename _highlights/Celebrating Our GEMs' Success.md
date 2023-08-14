@@ -1,10 +1,13 @@
 ---
-title: Achievements
-permalink: /highlights/Achievements/
+title: Celebrating Our GEMs' Success
+permalink: /highlights/achievements/
 description: ""
 ---
-##### **Green Schools@South West Programme 2021**
+##### **2022 CCA Achievements**
+![](/images/Highlights/Achievements/2022%20cca%201.JPG)
 
+![](/images/Highlights/Achievements/2022%20cca%202.JPG)
+##### **Green Schools@South West Programme 2021**
 
 The school has attained Two Stars – Public Health and Environment Protection Stars for our environmental efforts in the Green Schools@South West Programme.
 
