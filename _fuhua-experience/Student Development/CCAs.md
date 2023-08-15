@@ -101,7 +101,7 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Haslina Binte Ishak*</span><br><span style="font-weight:normal;color:#000">Mr Iszehar Bin Ismail</span><br><span style="font-weight:normal;color:#000">Mr Wang Kee Leong</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Floorball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Floorball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Floorball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Floorball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Nurul Ain Binte Suprat*</span><br><span style="font-weight:normal;color:#000">Ms Shamira Binte Jamaludin</span></td>
   </tr>
   <tr>
