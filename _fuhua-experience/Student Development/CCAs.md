@@ -109,7 +109,7 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Ong Poh Har*</span><br><span style="font-weight:normal;color:#000">Miss Liu Si Ting</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Badminton/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Badminton/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Alan Wong Chuen Kit*</span><br><span style="font-weight:normal;color:#000">Dr Ge Yan</span><br><span style="font-weight:normal;color:#000">Mdm Sarah Harbachan</span><br><span style="font-weight:normal;color:#000">Mr Luke Mahendran Janarthanam</span></td>
   </tr>
   <tr>
