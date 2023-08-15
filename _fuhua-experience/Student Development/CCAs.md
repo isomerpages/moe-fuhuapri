@@ -160,28 +160,28 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Diana Teoh Jia Yan*</span><br><span style="font-weight:normal;color:#000">Mdm Meharaj Begum Binte Mohd Mustafa</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Infocomm-Technology-Computing/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Infocomm-Technology-Computing/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Infocomm Technology (Computing)</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Siah Kai Yeow*</span><br><span style="font-weight:normal;color:#000">Mdm Koh Hui Chin</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Environmental-Science/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Environmental-Science/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Environmental Science</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Tan Ying Yin*</span><br><span style="font-weight:normal;color:#000">Mdm Tan Siew Ping, Hazel</span><br><span style="font-weight:normal;color:#000">Mrs Prema Panneerselvam</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Design-and-Innovation/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Design-and-Innovation/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Design and Innovation</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr David Tee Ter Wei *</span><br><span style="font-weight:normal;color:#000">Mr Lim Cheng Chuan</span><br></td>
   </tr>
   <tr>
     <td rowspan="3" class="tg-cj8f"><span style="font-weight:normal;color:#000">Uniformed Groups</span></td>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Scouts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Scouts</span></a><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Scouts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Scouts</span></a><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Thong Kok Leung*</span><br><span style="font-weight:normal;color:#000">Mr Yeo Yee Chong</span><br><span style="font-weight:normal;color:#000">Mdm Ng Baohui Sherline</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Girl-Guides-Brownies/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girl Guides</span></a><a href="https://cms.isomer.gov.sg/ccas/Girl-Guides-Brownies/"> </a><span style="font-weight:normal;color:#000">(Brownies)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Girl-Guides-Brownies/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girl Guides</span></a><a href="https://cms.isomer.gov.sg/ccas/Girl-Guides-Brownies/"> </a><span style="font-weight:normal;color:#000">(Brownies)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Ong Ming Sei*</span><br><span style="font-weight:normal;color:#000">Mdm Azizah Binte Nawer</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Boys-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Boys’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Boys)</span><br><a href="https://cms.isomer.gov.sg/ccas/Girls-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girls’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Boys-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Boys’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Boys)</span><br><a href="/ccas/Girls-Brigade/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Girls’ Brigade</span></a> <span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Lim Yang Jun*</span><br><span style="font-weight:normal;color:#000">Mdm Hoon Hui-Qi, Nicola</span><br></td>
   </tr>
   <tr>
