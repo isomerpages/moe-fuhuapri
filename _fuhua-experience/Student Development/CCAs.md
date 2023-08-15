@@ -105,7 +105,7 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Nurul Ain Binte Suprat*</span><br><span style="font-weight:normal;color:#000">Ms Shamira Binte Jamaludin</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="https://cms.isomer.gov.sg/ccas/Basketball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Basketball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Basketball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Basketball</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Ong Poh Har*</span><br><span style="font-weight:normal;color:#000">Miss Liu Si Ting</span></td>
   </tr>
   <tr>
