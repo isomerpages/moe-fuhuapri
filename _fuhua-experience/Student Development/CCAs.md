@@ -143,7 +143,7 @@ Students hone their information, communication, and technical skills as they str
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
-    <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Lin Qiu Yan</span><br></td>
+    <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Lin Qiuyan</span><br></td>
   </tr>
   <tr>
     <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
