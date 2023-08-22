@@ -3,7 +3,7 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
-##### **Visitation on 31 August 2023**
+##### **Teachers' Day Celebration on 31 August 2023**
 To our Fuhua Alumni,
 
 We know you miss your teachers and would love to visit them on 31st August. However, in preparation for 2023 Presidential Election, kindly take note that **Fuhua Primary School will be closed to visitors on that day.**
