@@ -3,7 +3,7 @@ title: Badminton
 permalink: /ccas/Badminton/
 description: ""
 ---
-#### **Excellence CCA Badminton**
+#### **Badminton**
 
 
 Members: Boys & Girls  
