@@ -3,9 +3,6 @@ title: Football
 permalink: /ccas/Football/
 description: ""
 ---
-##### **Excellence CCA Football**
-
-
 Members: Boys  
 
 Football is one of Singapore’s beloved sports. Students will learn the necessary skills to enjoy the game, such as dribbling, shooting, and passing. Besides developing leadership and resilience, they will also learn about the tactics and decision-making skills to play Football better.
