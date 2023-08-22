@@ -109,32 +109,30 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Ong Poh Har*</span><br><span style="font-weight:normal;color:#000">Miss Liu Si Ting</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Badminton/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Badminton/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Badminton</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Alan Wong Chuen Kit*</span><br><span style="font-weight:normal;color:#000">Dr Ge Yan</span><br><span style="font-weight:normal;color:#000">Mdm Sarah Harbachan</span><br><span style="font-weight:normal;color:#000">Mr Luke Mahendran Janarthanam</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Netball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Netball</span></a><a href="https://cms.isomer.gov.sg/ccas/Netball/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Netball/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Netball</span></a><a href="https://cms.isomer.gov.sg/ccas/Netball/"> </a><br><span style="font-weight:normal;color:#000">(Girls)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Chen Yilong, Jonathan*</span><br><span style="font-weight:normal;color:#000">Ms Siti Sarah Binte Aziz</span><br><span style="font-weight:normal;color:#000">Mr Thong Kok Leung</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Football/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Football</span></a><a href="https://cms.isomer.gov.sg/ccas/Football/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
+    <td class="tg-8v5g"><a href="/ccas/Football/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Football</span></a><a href="https://cms.isomer.gov.sg/ccas/Football/"> </a><br><span style="font-weight:normal;color:#000">(Boys)</span></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Haji Mohamad Hairi Bin Ibrahim*</span><br><span style="font-weight:normal;color:#000">Mdm Nurul Asyikin Binte Norman</span><br><span style="font-weight:normal;color:#000">Ms Tan Hui Yik Mavis</span></td>
   </tr>
   <tr>
     <td rowspan="7" class="tg-cj8f"><span style="font-weight:normal;color:#000">Visual and performing arts</span><br></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
+   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Art-and-Crafts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Art and Crafts</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Art-and-Crafts/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Art and Crafts</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Abdul Malik Bin Mazlan*</span><br><span style="font-weight:normal;color:#000">Ms Ler Jia Yi</span><br><span style="font-weight:normal;color:#000">Mdm Nor Aslinda Binte Mohamad Saleh</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Brass-Band/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Brass Band</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Brass-Band/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Brass Band</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mr Tan Wei'En Nicholas*</span><br><span style="font-weight:normal;color:#000">Mdm Pradeebha Veerapandian</span><br><span style="font-weight:normal;color:#000">Mdm Zunairah Binte Janis</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Choir/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Choir</span></a><a href="https://cms.isomer.gov.sg/ccas/Choir/"> </a><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Choir/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Choir</span></a><a href="https://cms.isomer.gov.sg/ccas/Choir/"> </a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Pagsibigan Jemaima Agustin*</span><br><span style="font-weight:normal;color:#000">Mdm Chua Soo Bin April</span><br><span style="font-weight:normal;color:#000">Ms Wong Thin Chee Frances</span></td>
   </tr>
   <tr>
@@ -142,16 +140,16 @@ Students hone their information, communication, and technical skills as they str
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Faridah Bte Mohd Ali*</span><br><span style="font-weight:normal;color:#000">Dr Lee Nai Fern Rachel</span><br><span style="font-weight:normal;color:#000">Ms Avenir Janna Francesca Guinto</span></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Cultural Dance</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Lee Xiao Tian*</span><br><span style="font-weight:normal;color:#000">Mdm Lin Qiuyan</span><br></td>
   </tr>
   <tr>
-    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Cultural-Dance-and-Modern-Dance/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Modern Dance</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Mdm Nur Sheela Binte Sugirmanto*</span><br><span style="font-weight:normal;color:#000">Ms Foo Shi Jia Clara</span></td>
   </tr>
   <tr>
     <td class="tg-cj8f"></td>
-    <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Excellence CCA)</span><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
+    <td class="tg-8v5g"><a href="/ccas/Guzheng-Ensemble/"><span style="font-weight:400;text-decoration:underline;color:#0A7F7C">Guzheng Ensemble</span></a><br><span style="font-weight:normal;color:#000">(Boys &amp; Girls)</span><br></td>
     <td class="tg-cj8f"><span style="font-weight:normal;color:#000">Ms Wong Min Wei*</span><br><span style="font-weight:normal;color:#000">Mdm Zhuang Xiao Juan</span></td>
   </tr>
   <tr>
