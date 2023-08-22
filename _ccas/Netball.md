@@ -3,7 +3,7 @@ title: Netball
 permalink: /ccas/Netball/
 description: ""
 ---
-#### **Excellence CCA Netball**
+#### **Netball**
 
 
 Members: Girls  
