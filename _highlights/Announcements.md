@@ -3,6 +3,12 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **Teachers' Day Celebration on 31 August 2023**
+To our Fuhua Alumni,
+
+We know you miss your teachers and would love to visit them on 31st August. However, in preparation for 2023 Presidential Election, kindly take note that **Fuhua Primary School will be closed to visitors on that day.**
+
+You can continue to send your wishes to your teachers through their emails/Fuhua Pri School's email[ fhps@moe.edu.sg]( fhps@moe.edu.sg).
 
 ##### **82nd Founders' Day Programme Schedule**
 ![](/images/Highlights/Announcements/82nd%20founders'%20day%20schedule%20(21%20july).jpeg)
