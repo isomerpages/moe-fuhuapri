@@ -3,9 +3,6 @@ title: Art and Crafts
 permalink: /ccas/Art-and-Crafts/
 description: ""
 ---
-#### **Excellence CCA Art and Crafts**
-
-
 Members: Boys & Girls  
 
 The Art and Crafts Club develops students in visual literacy. Students will learn the fundamentals of Art and the Art language through the process of artmaking and exploring their creativity through various mediums.
