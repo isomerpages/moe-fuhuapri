@@ -3,9 +3,6 @@ title: Badminton
 permalink: /ccas/Badminton/
 description: ""
 ---
-#### **Excellence CCA Badminton**
-
-
 Members: Boys & Girls  
 
 Students will be able to learn the proper technique and skill of playing badminton. They are able to improve their speed and agility through badminton. Students who show tremendous potential will be able to represent the school in singles and doubles tournament.

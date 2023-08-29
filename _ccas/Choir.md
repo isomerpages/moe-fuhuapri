@@ -3,9 +3,6 @@ title: Choir
 permalink: /ccas/Choir/
 description: ""
 ---
-#### **Excellence CCA Choir**
-
-
 Members: Boys & Girls  
 
 Choir provides a venue for the students to display their musical talents as well as opportunities for personal growth and to learn creative self-expression. Students will learn warm up techniques, pronunciation and vocal techniques for choral singing. The choir has been actively contributing to the musical culture in school, as well as participating in public performances regularly.
