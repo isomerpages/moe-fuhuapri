@@ -9,7 +9,7 @@ description: ""
 
 #### **MATHEMATICS**
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%204/p4%20math.JPG)
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%204/math%20p4_sep.JPG)
 
 #### **MOTHER TONGUE LANGUAGES**
 
