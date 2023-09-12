@@ -28,3 +28,4 @@ We aim to provide a holistic dance experience, focusing on both artistic express
 **6\. Physical Fitness:** Dance is a fantastic way to stay active and maintain a healthy lifestyle. Through our engaging sessions, students improve their cardiovascular health, flexibility, and overall fitness levels.
 
 Join us on a journey of rhythm, expression, and creativity! Our Modern Dance CCA provides an inspiring platform for young dancers to develop lifelong skills, forge lasting friendships, and discover the magic of dance. Let's dance, learn, and grow together!
+
