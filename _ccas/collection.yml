@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Modern Dance.md
       - Rugby.md
       - Floorball.md
       - Basketball.md
@@ -13,6 +12,7 @@ collections:
       - Brass Band.md
       - Choir.md
       - Cultural Dance.md
+      - Modern Dance.md
       - Guzheng Ensemble.md
       - Infocomm Technology Media Production.md
       - Infocomm Technology Computing.md
