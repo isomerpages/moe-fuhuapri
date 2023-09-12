@@ -29,3 +29,7 @@ We aim to provide a holistic dance experience, focusing on both artistic express
 
 Join us on a journey of rhythm, expression, and creativity! Our Modern Dance CCA provides an inspiring platform for young dancers to develop lifelong skills, forge lasting friendships, and discover the magic of dance. Let's dance, learn, and grow together!
 
+Modern dancers performing for Yuhua National Day Dinner 2023
+![](/images/Fuhua%20Experience/Student%20Development/CCA/Modern%20Dance/modern1.jpg)
+
+![](/images/Fuhua%20Experience/Student%20Development/CCA/Modern%20Dance/modern2.jpg)
