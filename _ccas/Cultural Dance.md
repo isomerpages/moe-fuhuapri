@@ -15,3 +15,9 @@ The CCA provides many opportunities for our cultural dancers to showcase their t
 
 Join us on a journey of rhythm, expression, and creativity! Our Cultural Dance CCA provides an inspiring platform for young dancers to develop lifelong skills, forge lasting friendships and discover the magic of dance. Let's dance, learn, and grow together.
 
+![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance/cultural1.jpg)Dancers performing during Chinese New Year Celebrations.
+
+![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance/cultural2.jpg)
+Dancers practicing for Founders’ Day.
+
+			 
