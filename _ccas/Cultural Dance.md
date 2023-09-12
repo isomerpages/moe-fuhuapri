@@ -3,11 +3,15 @@ title: Cultural Dance
 permalink: /ccas/cultural-dance/
 description: ""
 ---
-Members: Boys & Girls  
+Members: Boys & Girls
 
-Cultural and Modern Dance Club aims to nurture passionate and confident dancers with a strong appreciation for the performing arts. Students will have the opportunity to learn a variety of cultural and modern dances. Through vigorous trainings and high discipline standards, dancers learn to be resilient and set high standards for themselves. The dance group has participated in many performances which served as platforms to boost their confidence and gain exposure to a variety of genres.
+Training Days: 
+* Every Tuesday 7:30 a.m. – 9:30 a.m.
+* Every Thursday 3:30 p.m. – 5:30 p.m
 
-![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance%20and%20Mdrn%20Dance/C1.jpg) 
-![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance%20and%20Mdrn%20Dance/C2.jpg)  
+The Cultural Dance CCA aims to nurture passionate and confident dancers with a strong appreciation for various cultural dances. Our experienced and professional instructor coaches our students on the fundamental skills of different cultural dances to develop their grace, flexibility, balance and co-ordination. High discipline is also incorporated into the rigorous training sessions to develop resilience and teaches our dancers to set high standards for themselves.
 
-Students practising their dance moves in Cultural Dance and Modern Dance
+The CCA provides many opportunities for our cultural dancers to showcase their talents by performing in school events (for example, Chinese New Year celebrations), community events (Yuhua CC performances) and also at the Singapore Youth Festival. These experiences help to build our dancers’ stage experience and confidence level.
+
+Join us on a journey of rhythm, expression, and creativity! Our Cultural Dance CCA provides an inspiring platform for young dancers to develop lifelong skills, forge lasting friendships and discover the magic of dance. Let's dance, learn, and grow together.
+
