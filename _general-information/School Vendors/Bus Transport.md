@@ -4,7 +4,7 @@ permalink: /general-information/School-Vendors/Bus-Transport/
 description: ""
 third_nav_title: School Vendors
 ---
-****School Bus Operator and Bus Fare****
+**School Bus Operator and Bus Fare**
 
 Operator: Newgen Transport Services Pte Ltd <br>(wef 01 Jan 2024 – 31 Dec 2024)
 
