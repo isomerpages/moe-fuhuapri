@@ -12,4 +12,4 @@ Tel: 98393452
 
 Contact Person: Mr Paul Pang
 
-![](/images/School%20Administration/School%20vendors/bus%20fare.jpg)
+![](/images/School%20Administration/School%20vendors/bus%20fare%20updated.jpg)
