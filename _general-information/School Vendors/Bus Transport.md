@@ -26,4 +26,4 @@ Email: [operation@newgentpt.com](mailto:operation@newgentpt.com)
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late submission may result in a delay in service fulfilment or unavailability of service.&nbsp; NewGen will attempt to fulfil all requests on best-effort basis.
 
-![](/images/bus%20fare%20updated.jpg)
+![](/images/School%20Administration/School%20vendors/bus%20fare%20updated1.jpg)
