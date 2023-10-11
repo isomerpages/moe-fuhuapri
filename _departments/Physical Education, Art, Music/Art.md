@@ -1,5 +1,5 @@
 ---
-title: ART
+title: Art
 permalink: /departments/physical-education-arts-music/art/
 description: ""
 third_nav_title: Physical Education, Art, Music

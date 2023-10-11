@@ -4,7 +4,7 @@ permalink: /general-information/School-Administration/Financial-Assistance/
 description: ""
 third_nav_title: School Administration
 ---
-Ministry of Education (MOE) provides financial assistance to needy Singaporean students in Government, Government-aided schools and Institutes of Higher Learning so that they can benefit from the best opportunities in education, regardless of their financial background. Students who wish to apply for MOE Financial Assistance Scheme (FAS) can obtain the MOE FAS Application Form from the school, or download a copy of the form [here](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20School%20Administration%20-%20Financial%20Assistance.pdf).
+Ministry of Education (MOE) provides financial assistance to needy Singaporean students in Government, Government-aided schools and Institutes of Higher Learning so that they can benefit from the best opportunities in education, regardless of their financial background. Students who wish to apply for MOE Financial Assistance Scheme (FAS) can obtain the MOE FAS Application Form from the school, or download a copy of the form [here](/files/Financial%20Assistance/moe%20fas%20application%20form%20oct%202022.pdf)
 
   
 
