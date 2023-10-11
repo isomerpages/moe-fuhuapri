@@ -22,7 +22,7 @@ Contact Person: Mr Paul Pang
 
 Email: [operation@newgentpt.com](mailto:operation@newgentpt.com)
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are interested to take up the school bus services in 2024 are required to complete and submit an online [Bus Request Google Form](https://forms.gle/sMQpnybDTnLuwQA39) (https://forms.gle/sMQpnybDTnLuwQA39) by **24 Nov 2023**.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are interested to take up the school bus services in 2024 are required to complete and submit an online [Bus Request Google Form](https://forms.gle/sMQpnybDTnLuwQA39)  by **24 Nov 2023**.
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late submission may result in a delay in service fulfilment or unavailability of service.&nbsp; NewGen will attempt to fulfil all requests on best-effort basis.
 
