@@ -10,7 +10,7 @@ Parents may apply for MOE FAS using the following methods:
 
 1.	e-FAS form available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login.
 	
-2.	QR code https://go.gov.sg/moe-efas 
+2.	QR code [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) 
  
 
 ![](/images/qrcode%20fas.jpg)
