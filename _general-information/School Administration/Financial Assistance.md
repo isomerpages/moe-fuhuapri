@@ -15,8 +15,9 @@ Parents may apply for MOE FAS using the following methods:
 
 ![](/images/qrcode%20fas.jpg)
 
-If you require assistance, please contact us at 6562-4370.
-
 For more information on MOE FAS, please refer to the [Frequently Asked Questions](https://www.moe.gov.sg/financial-matters/financial-assistance).
 
-Students who need additional help can approach General Office, email to [fhps@moe.edu.sg](mailto:fhps@moe.edu.sg) or contact the school at **65624370** for further information.
+The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income families.  Parents can apply online at www.digitalaccess.gov.sg 
+
+If you require assistance, please contact us at 6562-4370.
+
