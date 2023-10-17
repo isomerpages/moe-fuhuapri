@@ -20,4 +20,3 @@ For more information on MOE FAS, please refer to the [Frequently Asked Question
 The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income families.  Parents can apply online at www.digitalaccess.gov.sg 
 
 If you require assistance, please contact us at 6562-4370.
-
