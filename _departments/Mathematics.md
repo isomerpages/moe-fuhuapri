@@ -71,9 +71,9 @@ In the lower primary year, it is essential that students build their foundation 
 ![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p3%20length.jpeg)Measuring the distance of the thrown bean bag.
 
 
-Problem solving with the use of ice-cream sticks. Finding highest common factor.
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p4%20prob%20solving1.JPEG)Problem solving with the use of ice-cream sticks. Finding highest common factor.
 
 ![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p5%20triangle.jpeg)Hands-on activity to identify the base and height of triangles.
 
 
-Acting it Out: Money
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p6%20money1.jpg)Acting it Out: Money
