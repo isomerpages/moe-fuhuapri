@@ -64,10 +64,17 @@ Application, Reasoning and Communication skills are transdisciplinary skills tha
 
 In the lower primary year, it is essential that students build their foundation in Mathematics, particularly in terms of factual and procedural fluency. This allows teachers to build on their foundation and extend their learning as students move up to the upper primary levels. 
 
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/M1.png)
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p1%20pic%20graph.jpg)Students used stickers to create data on picture graphs made by them previously.
 
-![Learning to form greatest and smallest 5-digit numbers using UNO play cards](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math1.png)Learning using UNO play cards
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p2%20multiplication.jpeg)This is how you make 4 groups of 3.
 
-![Self-directed Learning using technology](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math3.jpg)  Self-directed Learning through ICT
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p3%20length.jpeg)Measuring the distance of the thrown bean bag.
 
-![Using fraction discs in an Upper Primary classroom](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Mathematics/Math5.jpg)Using Fraction Discs in an Upper Primary classroom
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p4%20prob%20solving.JPEG)Problem solving with the use of ice-cream sticks. Finding highest common factor.
+
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p5%20triangle.jpeg)Hands-on activity to identify the base and height of triangles.
+
+![](/images/Fuhua%20Experience/Fuhua%20Experience/Math%20dept/p6%20money.jpg)Acting it Out: Money
+
+
+
