@@ -4,7 +4,7 @@ title: Fuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be no sale of uniforms on Tues 31 Oct 2023.
+notification: There will be no sale of uniforms on Tuesday, 31 Oct 2023.
 sections:
   - hero:
       background: /images/Homepage/HomepageGif.gif
