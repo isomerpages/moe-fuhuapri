@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 ---
 ##### **Sale of Uniform on 31 October 2023**
-Please note that there will be **no sale of physical school uniforms** on 31 October 2023.
+Please note that there will be **no sale of physical school uniforms** in school on 31 October 2023.
 
 ##### **Teachers' Day Celebration on 31 August 2023**
 To our Fuhua Alumni,
