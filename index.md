@@ -22,4 +22,12 @@ sections:
         that Fuhua Primary School will be closed to visitors on that day.
       button: Announcement
       url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/fblive.jpg
+      alt: Image alt text
 ---
