@@ -3,6 +3,20 @@ title: Announcements
 permalink: /highlights/announcements/
 description: ""
 ---
+##### **Insights into the World Beyond School <br>(7 November, 8pm to 9pm)**
+       
+
+In the next session of “**Insights into the World Beyond School”** Facebook Live session, we explore how our students’ strengths and interests could shape their career choices, the types of transferable skills that employers look for and resilience at work. Do join us live on **7 November (Tuesday), 8pm – 9pm**, as we learn and hear more from the panel:
+
+* Trisha Suresh, Head of Public Policy and Economic Graph, LinkedIn SEA and Steering Committee at Mentoring 
+* Derrick Lee, Co-Founder and CTO of Accredify
+* Serene Sim, Youth Wellness Coach, Joules Affinity and PSG Leader
+
+Go [here](https://go.gov.sg/awbs-nov1)    and click interested to get updates of the event.
+
+![](/images/fblive.jpg)
+
+
 ##### **Sale of Uniform on 31 October 2023**
 Please note that there will be **no sale of  school uniforms** in school on 31 October 2023.
 
