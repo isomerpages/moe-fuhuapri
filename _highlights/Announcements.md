@@ -17,9 +17,6 @@ Go [here](https://go.gov.sg/awbs-nov1)    and click interested to get updates of
 ![](/images/fblive.jpg)
 
 
-##### **Sale of Uniform on 31 October 2023**
-Please note that there will be **no sale of  school uniforms** in school on 31 October 2023.
-
 ##### **Teachers' Day Celebration on 31 August 2023**
 To our Fuhua Alumni,
 
