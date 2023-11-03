@@ -4,7 +4,7 @@ title: Fuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be no sale of uniforms on Tuesday, 31 Oct 2023.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/HomepageGif.gif
@@ -16,10 +16,11 @@ sections:
           description: Get updates on FHPS
           url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
   - infobar:
-      title: Teachers' Day Celebration on 31 August 2023
-      subtitle: 22 august 2023 - Announcement
-      description: In preparation for 2023 Presidential Election, kindly take note
-        that Fuhua Primary School will be closed to visitors on that day.
+      title: Insights into the World Beyond School
+      subtitle: 2 November 2023 - Announcement
+      description: Our students’ strengths and interests could shape their career
+        choices, the types of transferable skills that employers look for and
+        resilience at work.
       button: Announcement
       url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
 ---
