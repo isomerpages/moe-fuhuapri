@@ -3,6 +3,7 @@ title: Student Well Being
 permalink: /fuhua-experience/Student-Development/Student-Well-Being/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 Student development focuses on fostering a culture of care, school ethos, well-being for our Fuhua students by creating a positive learning environment for them. Together they create opportunities for students to excel by embracing diversity in school, and to learn by leading through collaboration. In doing so, Fuhua students also build a community of citizen leaders who receive and, with a grateful heart exemplify the school values of Respect, Care, Integrity, Perseverance and Excellence (ReCIPE).
 
@@ -50,7 +51,7 @@ Social Skills package is structured to teach the students at every level based o
 
 Figure 1: The five levels of voice tone
 
-<img src="/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/S2.png" style="width:40%">
+![](/images/Fuhua%20Experience/Student%20Development/Student%20Well%20Being/student%20wellbeing.jpeg)
 
 Figure 2: Direct teaching by the form teacher using Social Skill package
 
