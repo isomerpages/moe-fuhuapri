@@ -3,6 +3,7 @@ title: School Communication Policy
 permalink: /general-information/Guidelines-and-Policies/School-Communication-Policy/
 description: ""
 third_nav_title: Guidelines and Policies
+variant: markdown
 ---
 ### Parent - School Communication
 
@@ -33,5 +34,5 @@ The school places premium on the close partnership with parents in supporting ou
 | Subject / Class Matters                      | Subject / Form Teachers                                                                                                                                                                                                      |
 | Level / Curriculum / Departmental Programmes | Year Heads / Assistant Year Heads Heads of Department (HODs) / Subject Heads (SHs) / Level Heads (LHs) / SSD                                                                                                                 |
 | School Policies                              |                                           Mr Ganesan s/o Raman (Principal) ,             Mrs Cheryl Lim (Vice Principal (Education) ) and Ms Saima Hanif (Vice Principal (Administration))  |
-| Finance / Admissions                      | Ms Koh Huey Ting (Adminstration Manager|
+| Finance / Admissions                      | Ms Saima Hanif (Vice Principal (Administration))|
 | Operations / Safety / Facilities  | Mr Chua Wee Hiang (Operations Manager)                                                                                                                                                                                                            |
