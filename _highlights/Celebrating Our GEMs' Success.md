@@ -2,7 +2,11 @@
 title: Celebrating Our GEMs' Success
 permalink: /highlights/achievements/
 description: ""
+variant: markdown
 ---
+##### **WWF Eco-School Award 2023 and the Excellence Award for Community Outreach**
+The school has been awarded the WWF Eco-School Award 2023 and the Excellence Award for Community Outreach in recognition of its commitment to ongoing school enhancements and dedicated efforts in championing a sustainable future. This commitment fosters student-led initiatives and active participation in both internal and external activities aimed at promoting sustainability in Singapore.
+
 ##### **2022 CCA Achievements**
 ![](/images/Highlights/Achievements/2022%20cca%201v2.JPG)
 
