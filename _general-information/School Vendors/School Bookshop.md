@@ -3,14 +3,13 @@ title: School Bookshop
 permalink: /general-information/School-Vendors/School-Bookshop/
 description: ""
 third_nav_title: School Vendors
+variant: markdown
 ---
 The school appointed Bookshop provider is **Actlink Marketing Pte Ltd**.  
 
   
 
 **Announcement**
-
-_Due to the current safe management measures, parents/guardians are urged not to visit school if you are unwell or have fever / flu-like symptoms._ 
 
 _For security reasons, parents entry to the school to make purchases will be as follows:_ 
 
