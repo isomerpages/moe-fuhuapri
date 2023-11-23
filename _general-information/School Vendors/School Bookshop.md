@@ -28,7 +28,7 @@ Thursday          1.40pm – 3pm 
 Friday               1.40pm – 3pm 
 
 
-Parents should only visit the school for the purchase at the stated times and report to the guardhouse first. Safe management measures must be followed during the visit. 
+Parents should only visit the school for the purchase at the stated times and report to the guardhouse first.
 
 For enquiries, you may send a whatsapp message to 8575 1813 or email to [storders@actlink.com.sg](storders@actlink.com.sg)
 
