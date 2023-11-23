@@ -8,6 +8,8 @@ third_nav_title: Resource for Parents
 #### **P1 e-Orientation on 8 Nov 2023**
 
 
-1) [2023 P1 E-ORIENTATION - VPA BRIEFING.pdf](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2023%20P1%20E-ORIENTATION%20-%20VPA%20BRIEFING.pdf)  
-2) [2023 P1 Parents/2023 P1 e-ORIENTATION - N4S.pdf](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2023%20P1%20e-ORIENTATION%20-%20N4S.pdf)  
-3) [2023 P1 e-ORIENTATION - YH.pdf](/files/Resource%20for%20Parents/Resources%20for%202023%20P1%20Parents/2023%20P1%20e-ORIENTATION%20-%20YH_updated%203%20Nov.pdf)  
+1) [2024 P1 General E_Orientation](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024_FHPS_P1_e_ORIENTATION__general_.pdf)
+
+2) [2024 P1 Orientation briefing by VP Admin](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/P1_2024_Orientation__briefing_by_VP_Admin_.pdf)
+
+3) [2024 P1 E Orientation by N4S](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024%20p1%20e-orientation%20(n4s).pdf) 
