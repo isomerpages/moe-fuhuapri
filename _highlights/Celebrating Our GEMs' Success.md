@@ -4,6 +4,8 @@ permalink: /highlights/achievements/
 description: ""
 variant: markdown
 ---
+##### **Innergy Award 2023**
+Our school has won the Commendation Award for our Professional Development programme, “Engendering Greater Ownership of Professional Development @ FHPS”. This is a good encouragement for all of us to continue exploring innovative ways to enhance our areas of work.
 ##### **WWF Eco-School Award 2023 and the Excellence Award for Community Outreach**
 The school has been awarded the WWF Eco-School Award 2023 and the Excellence Award for Community Outreach in recognition of its commitment to ongoing school enhancements and dedicated efforts in championing a sustainable future. This commitment fosters student-led initiatives and active participation in both internal and external activities aimed at promoting sustainability in Singapore.
 
