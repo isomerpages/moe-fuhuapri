@@ -13,6 +13,11 @@ The school has been awarded the WWF Eco-School Award 2023 and the Excellence Awa
 ![](/images/Highlights/Achievements/2022%20cca%201v2.JPG)
 
 ![](/images/Highlights/Achievements/2022%20cca%202v2.JPG)
+##### **Innergy Award 2022**
+Our Mother Tongue Department has been awarded a Silver Award for Innergy Award for their project, Learning by Inquiring In Chinese Language Classroom.
+
+This is a good encouragement for all of us to continue exploring innovative pedagogies to engage our students.
+
 ##### **Green Schools@South West Programme 2021**
 
 The school has attained Two Stars – Public Health and Environment Protection Stars for our environmental efforts in the Green Schools@South West Programme.
