@@ -4,6 +4,12 @@ permalink: /highlights/achievements/
 description: ""
 variant: markdown
 ---
+![](/images/Highlights/Achievements/Slide1.jpg)
+
+![](/images/Highlights/Achievements/Slide2.JPG)
+
+![](/images/Highlights/Achievements/Slide3.JPG)
+
 ##### **Innergy Award 2023**
 Our school has won the Commendation Award for our Professional Development programme, “Engendering Greater Ownership of Professional Development @ FHPS”. This is a good encouragement for all of us to continue exploring innovative ways to enhance our areas of work.
 ##### **WWF Eco-School Award 2023 and the Excellence Award for Community Outreach**
