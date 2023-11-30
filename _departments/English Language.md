@@ -79,3 +79,14 @@ Thinking routines, differentiated instructions and different modes of assessment
 </tbody>
 </table>
 
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_2.jpg) 
+
+#### P1, P2 Drama Programme
+
+Expression, voice, movement, creativity, character…there is so much to drama! As part of our continuous efforts to develop confident and empathetic communicators, our P1 and students went through a drama programme over seven sessions, culminating in a well-received performance. The drama enrichment programme aims to empower students to become confident and effective communicators who can interact with a wide range of audiences.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_3.jpg) Our students benefit from a “hands-on,” experiential approach that applauds their ability to appraise situations and explore new scenarios with confidence and verve, &nbsp;encouraging their enjoyment and appreciation of the value of drama.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_4.jpg) Students’ collaboration with one another also resulted in individual and group contributions towards shared goals of meaningfully conveying the intended messages to the audience. In an environment that is loving and flexible, never critical or pressurizing, we see how much they have blossomed since the start of the programme. 
+
+You can watch the P1 performance [here](https://youtu.be/b4gLFBwQb7s?si=ma__J0bazb4rS3YA).
