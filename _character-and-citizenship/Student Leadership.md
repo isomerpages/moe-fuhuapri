@@ -55,4 +55,20 @@ Through the House System, we have a school-based leadership programme called the
  
  ![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/sixer_Photo___4_.jpg) At the end of each semester, there will be a Sixer bonding session where all the group members can bring snacks to share with one another and share their thoughts and reflections and things such as holiday plan and so on.
 
+##### **Class Committee**
+The primary purpose of the Class Committee is to develop leadership skills at the class level, aiming to instill a strong sense of responsibility among students. Through this initiative, students are encouraged to take care of their peers and cultivate a shared class identity, promoting positive practices within the classroom.
 
+The desired outcome of the Class Committee trainings encompasses three key aspects:
+* Instill a strong sense of right and wrong among students, fostering ethical decision-making
+* Encourage students to receive with gratitude and go beyond mere reception by actively contributing to the class community.
+* Empower students to serve and lead initiatives that contribute to the improvement of others' lives.
+
+The training platform facilitates the analysis of daily scenarios that may arise within the class context. Students engage in discussions, sharing their ideas on effective ways to manage these situations. These training sessions play a crucial role in enhancing students' abilities to navigate and adapt to challenging circumstances. Overall, the Class Committee serves as a dynamic avenue for fostering leadership, ethical values, and collaborative problem-solving skills among students.
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Class_Comm_Photo__1_.jpeg) At the start of each semester, class chairpersons and vice-chairpersons attend a training together.
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Class_Comm_Photo__2_.jpg) Teacher presents a daily situation depicting a setback. Our citizen leaders must empathize with the individuals involved and determine their subsequent course of action.
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Class_Comm_Photo__4_.jpg) Citizen Leaders analyse the scenarios and discuss the actions that they would take if they were in such scenarios.
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Class_Comm_Photo__3_.jpeg) Citizen Leaders will discuss and share the key points they've deliberated as a group, creating an opportunity for mutual learning among all participants.
