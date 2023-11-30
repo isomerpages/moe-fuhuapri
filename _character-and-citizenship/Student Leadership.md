@@ -20,8 +20,10 @@ FHPS provides students with platforms and opportunities to develop leadership kn
 
 | Lower Primary | Middle Primary| Upper Primary |
 | -------- | -------- | -------- |
-|               | Junior Prefect     | Senior Prefect    |
+|               | Junior Prefect     | Senior Prefect 
 |
+
+
 
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__1_.jpeg) **Our students in action during Yuhua Prosperity Rice Distribution for Seniors 2023**
@@ -44,6 +46,13 @@ Through the House System, we have a school-based leadership programme called the
 | --------       | --------           | -------- |
 | Little Leader | Buddy Leader <br>Assistant Leader     | Sixer Leader <br> Sixer Mentor   | 
 | 
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/sixer_Photo___1_.jpg) The Sixer Mentor (P6) looks after his or her group comprising of a Sixer Leader (P5), an Assistant Sixer Leader (P4), a Buddy Leader (P3) and Little Leaders (P2 and P1). The SIXER Mentors and Leaders are the role models to the Little SIXERs, offering peer support and insights like a family nucleus. A SIXER will stay with the same group throughout their 6 years in FHPS.
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/sixer_Photo___2_.jpg) The activities conducted during the SIXER meets are based on a school value and the character trait of the week. For example, the value of RESPECT and the character trait of the week, _“I will ask for forgiveness when I do wrong”_ will be the focus during one of the meets.
  
+ ![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/sixer_Photo___3_.jpg) One of the Sixer meet is focused on the value of INTEGRITY and the character trait of the week, _“I will tell the truth.”_ Students are playing the _game “Is it true?”_ to win over the rubber bands from the other person depends on how truthful they are.
+ 
+ ![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/sixer_Photo___4_.jpg) At the end of each semester, there will be a Sixer bonding session where all the group members can bring snacks to share with one another and share their thoughts and reflections and things such as holiday plan and so on.
 
 
