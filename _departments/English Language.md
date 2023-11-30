@@ -20,7 +20,7 @@ As the Centre of Excellence (COE) in ICT for Teaching and Learning, in response 
 
 Embracing these transformative elements, our curriculum not only imparts language proficiency but also cultivates critical thinking, self-awareness, and an inquisitive spirit. Join us on a journey where education transcends traditional boundaries, preparing students to thrive in the dynamic challenges of the 21st century.
 
-
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page.png)
 
 
 #### **APPROACHES**
@@ -79,11 +79,3 @@ Thinking routines, differentiated instructions and different modes of assessment
 </tbody>
 </table>
 
-![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141865_y.jpg)
-Guest Reader
-
-![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141867_y.jpg)
-Guest Reader
-
-![Completion of Drama Enrichment Programme](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/Completion%20of%20Drama%20Enrichment%20Programme.jpg)
-Completion of Drama Enrichment Programme
