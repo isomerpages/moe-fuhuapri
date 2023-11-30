@@ -15,7 +15,7 @@ Beyond the expected roles and responsibilities of a prefect, there are ample opp
 The prefects' training allow our leaders to connect and empower one another to make the school a better place for all. It aims to create a positive culture among students and strengthen the support network. During these sessions, prefects were trained to be Peer Support Leaders and were empowered to voice out issues happening on the ground during ***Prefects' Conversations*** time.
 
 ##### **Student-Led Initiatives: Yuhua Rice Distribution, Better as Buddies, World Mental Health Day**
-<br>FHPS provides students with platforms and opportunities to develop leadership knowledge, skills and values through the three interrelated dimensions of self, team and community leadership. As part of community leadership, our leaders were given the opportunity to organise community events such as the Yuhua Rice Distribution in lieu of Chinese New Year. Students also nurture a caring environment by initiating student campaigns such as Better as Buddies and World Mental Health Day.
+FHPS provides students with platforms and opportunities to develop leadership knowledge, skills and values through the three interrelated dimensions of self, team and community leadership. As part of community leadership, our leaders were given the opportunity to organise community events such as the Yuhua Rice Distribution in lieu of Chinese New Year. Students also nurture a caring environment by initiating student campaigns such as Better as Buddies and World Mental Health Day.
 
 
 
