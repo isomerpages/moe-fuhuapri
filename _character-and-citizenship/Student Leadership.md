@@ -21,20 +21,29 @@ FHPS provides students with platforms and opportunities to develop leadership kn
 | Lower Primary | Middle Primary| Upper Primary |
 | -------- | -------- | -------- |
 |               | Junior Prefect     | Senior Prefect    |
+|
+
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__1_.jpeg) **Our students in action during Yuhua Prosperity Rice Distribution for Seniors 2023**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__2_.jpeg) 
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__2_.jpeg) 
 **Our prefects promoting a caring school environment during Better as Buddies**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__3_.jpeg)**Prefects' Conversations which allow students to identify trends and provide solutions pertaining to student matters in school**
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__3_.jpeg)**Prefects' Conversations which allow students to identify trends and provide solutions pertaining to student matters in school**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__4_.jpeg) **Our prefects with SAC Chairman and Members during Yuhua CC National Day Observance Ceremony**
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__4_.jpeg) **Our prefects with SAC Chairman and Members during Yuhua CC National Day Observance Ceremony**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__5_.jpeg) **Assembly Talk on World Mental Health Day**
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__5_.jpeg) **Assembly Talk on World Mental Health Day**
 
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__6_.jpeg) **Citizen Leaders Training**
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__6_.jpeg) **Citizen Leaders Training**
 
+##### **Sixer**
+Through the House System, we have a school-based leadership programme called the SIXERs. Every student is grouped in a group of six. Each SIXER group comprises of a teacher and one student from each level. The SIXER leaders (P5 and P6 students) act as role models to the Little SIXERs (P1 to P4 students), offering peer support and insights like a family nucleus. It helps to build trust, hone leadership skills and learning on diversity appreciation, empathy and collaboration.
 
+| Lower Primary      | Middle Primary| Upper Primary |
+| --------       | --------           | -------- |
+| Little Leader | Buddy Leader <br>Assistant Leader     | Sixer Leader <br> Sixer Mentor   | 
+| 
+ 
 
 
