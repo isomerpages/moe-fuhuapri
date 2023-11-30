@@ -30,3 +30,11 @@ FHPS provides students with platforms and opportunities to develop leadership kn
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__3_.jpeg)**Prefects' Conversations which allow students to identify trends and provide solutions pertaining to student matters in school**
 
 ![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__4_.jpeg) **Our prefects with SAC Chairman and Members during Yuhua CC National Day Observance Ceremony**
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__5_.jpeg) **Assembly Talk on World Mental Health Day**
+
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/Prefect_Photo__6_.jpeg) **Citizen Leaders Training**
+
+
+
+
