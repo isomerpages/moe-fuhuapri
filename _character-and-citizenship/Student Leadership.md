@@ -2,35 +2,26 @@
 title: Student Leadership
 permalink: /character-and-citizenship/Student-Leadership/
 description: ""
+variant: markdown
 ---
-At Fuhua, our Student Leadership Development programme is an important aspect of the school’s concerted and continual effort in promoting holistic development of every Fuhua student.  As citizens in an increasingly dynamic and interconnected world, it is crucial for Fuhua student to be equipped with necessary skills such as interpersonal, collaborative and communication skills, innovative problem solving, reasoning and decision making skills. These competencies, definitive of effective leadership, will allow them to consider issues from multiple perspectives and enable them to handle complexity and ambiguity with confidence. We strives to develop every student as a Citizen Leader. 
+At Fuhua, our Student Leadership Development programme is an important aspect of the school’s concerted and continual effort in promoting holistic development of every Fuhua student.&nbsp; As citizens in an increasingly dynamic and interconnected world, it is crucial for Fuhua student to be equipped with necessary skills such as interpersonal, collaborative and communication skills, innovative problem solving, reasoning and decision making skills. These competencies, definitive of effective leadership, will allow them to consider issues from multiple perspectives and enable them to handle complexity and ambiguity with confidence. We strive to develop every student as a Citizen Leader. Thus, prefects serve beyond operational duties and are advocates in promoting a caring and enabling school environment.
 
-#### **STUDENT LEADERSHIP APPROACH**
+The school's Prefectorial Board consists of P3 – P6 students nominated by teachers based on their ability and potential to serve at a higher leadership level. P3 &amp; P4 prefects are nominated as junior prefects while P5 &amp; P6 prefects are elected as senior prefects.
 
-Fuhua aims to nurture Citizen Leaders. Our student leadership approach is undergirded by J.C Maxwell’s Servant Leadership Framework. At Fuhua, we believe that the heart of leadership is serving others first, before self. Students will experience learning opportunities to develop and acquire social and leadership skills through explicit teaching which will reinforce and facilitate the application of learning through several programmes. With appropriate training and mentoring, and platforms for practice, application and reflection, the school aims to achieve the desired leadership outcomes for all students to be Citizen Leaders. In designing our Student Leadership programme, we anchor on these three beliefs:-  
+Beyond the expected roles and responsibilities of a prefect, there are ample opportunities for prefects to serve and embody the essence of being a Citizen Leader. The intent is to provide platforms for more student-led initiatives thus promoting greater work collaboration amongst students, as well as being advocates for student voices.
+         
+**Prefects' Training**
+<br>
+The prefects' training allow our leaders to connect and empower one another to make the school a better place for all. It aims to create a positive culture among students and strengthen the support network. During these sessions, prefects were trained to be Peer Support Leaders and were empowered to voice out issues happening on the ground during **_Prefects' Conversations_** time.
 
-  
+**Student-Led Initiatives: Yuhua Rice Distribution, Better as Buddies, World Mental Health Day** &nbsp;
+<br>FHPS provides students with platforms and opportunities to develop leadership knowledge, skills and values through the three interrelated dimensions of self, team and community leadership. As part of community leadership, our leaders were given the opportunity to organise community events such as the Yuhua Rice Distribution in lieu of Chinese New Year. Students also nurture a caring environment by initiating student campaigns such as Better as Buddies and World Mental Health Day.
 
-**a) Every student has the potential to grow as a leader**
 
-Every student is capable of leading self and others to make positive contributions to improve class, school, and the community at large. With each student’s unique strengths and interests, every individual is able to make a positive difference within his or her sphere of influence, thus making them leaders in their own right. Therefore, we strive to provide platforms for students to hone their personal and leadership beliefs and henceforth grow in leadership potential whilst staying grounded in sound values.
 
-  
+| Lower Primary | Middle Primary| Upper Primary |
+| -------- | -------- | -------- |
+|               | Junior Prefect     | Senior Prefect    |
 
-**b) Leadership is a journey, not a destination**
+![](/images/Fuhua%20Experience/Student%20Development/Character%20&amp;%20Citizenship/Student%20Leadership/Prefect_Photo__1_.jpeg) **Our students in action during Yuhua Prosperity Rice Distribution for Seniors 2023**
 
-We believe that leadership is a continuous process of self-reflection and development. With the learning opportunities provided at Fuhua, we believe our student leaders will  develop self-insights, self-regulation and self-identity and be able to make sound and ethical decisions. 
-
-  
-
-**c) Leadership development needs to be intentional**  
-
-While incidental leadership learning can occur across all platforms, intentional student leadership development will ensure that students are equipped with the requisite competencies for effective leadership. The school ensures that leadership training and developmental opportunities are carefully mapped out to ensure that leadership competencies, both fundamental and advanced, are made explicit to the students.
-
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/A1.png)
-
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/citizen%20leadership%20training.JPG)Citizen Leadership Training
-
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/citizen%20leadership%20training%202.png) Citizen Leadership Training
-
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Student%20Leadership/citizen%20leadership%20investiture.png)Citizen Leadership Investiture
