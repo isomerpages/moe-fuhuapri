@@ -16,7 +16,7 @@ Please note that the school hours for Week 1 will be as follows:
 | Date | From | To |
 | -------- | -------- | -------- |
 | 2 Jan 2024*     | 0730    | 1130    |
-| 3 Jan 2024     | 0730    | 1130    |
+| 3 Jan 2024*     | 0730    | 1130    |
 | 4 Jan 2024     | 0730    | 1330    |
 | 5 Jan 2024     | 0730    | 1330    |
 
