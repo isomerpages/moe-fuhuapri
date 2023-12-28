@@ -10,6 +10,7 @@ variant: markdown
 | Principal                                                      | Mr Ganesan s/o Raman                 |
 | Vice-Principal (Education)                                     | Mrs Christina Manuel                        |
 | Vice-Principal (Administration)                                | Ms Saima Hanif                        |
+| Head Of Department - English                              |  Mdm Badhrunnisa                     |
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
 | Head Of Department - Science (Covering)                                  | Mrs Santi Malaiya Maran               |                
 | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon Daryl           |
