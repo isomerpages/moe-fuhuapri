@@ -4,19 +4,22 @@ permalink: /highlights/announcements/
 description: ""
 variant: markdown
 ---
-##### **COVID-19 Vaccination**
+##### **School Hours for 2024 Term1 Week 1**
 
 
-Dear parents who have a child or children who are aged 12 and above,
+Dear parents and guardians,
 
-Please click on the&nbsp;[link](https://www.facebook.com/6788957003/posts/10160860961292004/?d=n)&nbsp;to find out more about the registration of your child for vaccination.&nbsp;
+Please note that the school hours for Week 1 will be as follows:
 
-Further, you may also wish to take a look at the following FAQs:  
 
-[FAQs](https://www.vaccine.gov.sg/faq?fbclid=IwAR2TXOsoTOxmYXNc9UWHl55BEXN1jnSv0fdf5BnSWc6ahQK5sD_45V2FDWo)&nbsp;\- vaccination on MOH website
 
-[FAQs](https://www.moe.gov.sg/faqs-covid-19-infection?fbclid=IwAR1VomcwmrpC9QxseNGbRgz2d_4SHOncHHkbPLO7ea5_8WtQqOsjuibe-GU)&nbsp;\- COVID-19 related matters on MOE website
+| Date | Start Time | End Time |
+| -------- | -------- | -------- |
+| 2 Jan 2024*     | 0730    | 1130    |
+| 3 Jan 2024     | 0730    | 1130    |
+| 4 Jan 2024     | 0730    | 1330    |
+| 5 Jan 2024     | 0730    | 1330    |
 
-  
 
-Thank you.
+*Primary 1 will start school on Tuesday, 2 January 2024. Primary 2 to 6 will start school on Wednesday, 3 January 2024.
+
