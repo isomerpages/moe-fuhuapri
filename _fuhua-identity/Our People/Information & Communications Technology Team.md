@@ -3,6 +3,7 @@ title: Information & Communications Technology Team
 permalink: /fuhua-identity/Our-People/Information-and-Communications-Technology-Team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Designation     | Name                                         |
 |-----------------------|-----------------------------------------------------------|
@@ -10,4 +11,3 @@ third_nav_title: Our People
 | **ICT Associate**     | Mr Lam Xiao Liang 
 **ICT Executive** | Mr Heng Yi Wei Shane   |
 | **Desktop Engineer** | Mr Anish Thiiagu  |
-| **Desktop Engineer** | Ms Siti Nur Aini Ishack  |
