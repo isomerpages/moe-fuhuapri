@@ -16,13 +16,10 @@ variant: markdown
 | Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Binte Juma'at            |
 | Head Of Department - Pastoral Care and Career Guidance         | Mdm Ong Sook Yen                      |
 | Head Of Department - Information & Communications Technology (Covering)   | Mrs Vivian Soh                 |
-| School Staff Developer (SSD)                                   | Mrs Angie Poh                         |
+| School Staff Developer (SSD)                                   | Ms Selene Tan                        |
 | Year Head                                                      | Mr Lau Kar Wai Julian                 |
 | Year Head                                                      | Mdm Nuraina Binte Mohamed Sin         |
 | Year Head                                                     | Mdm Teng Shu Min, Eunice                      |
-| Assistant Year Head (int.)                                           | Mrs Izabella Teo              |
-| Assistant Year Head (int.)                                     | Ms Lei Limin Fiona                    |
-| Assistant Year Head (int.)                                     | Ms Zeng Jiahui                        |
 | Level Head - English                                           |  Ms Dhanya Nair                       |
 | Level Head - Chinese Language                                  |  Mdm Tang Yen Yen                     |
 | Level Head - Mathematics                                       | Mrs Vivian Soh                        |
