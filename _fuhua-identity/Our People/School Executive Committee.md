@@ -22,7 +22,6 @@ variant: markdown
 | Year Head                                                      | Mdm Nuraina Binte Mohamed Sin         |
 | Year Head                                                     | Mdm Teng Shu Min, Eunice                      |
 | Level Head - English                                           |  Ms Dhanya Nair                       |
-| Level Head - Chinese Language                                  |  Mdm Tang Yen Yen                     |
 | Level Head - Mathematics (int.)                                |  Ms Norfarishah Asherina Binte Hussain |
 | Subject Head - Environmental Education                         | Mdm Ong Lay Kuan, Shirley             |
 | Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Binte Rahmad          |
