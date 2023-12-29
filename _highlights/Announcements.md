@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 variant: markdown
 ---
-##### **School Hours for 2024 Term1 Week 1**
+##### **School Hours for 2024 Start It Right! (Term 1 Week 1)**
 
 
 Dear parents and guardians,
@@ -22,4 +22,3 @@ Please note that the school hours for Week 1 will be as follows:
 
 
 *Primary 1 will start school on Tuesday, 2 January 2024. Primary 2 to 6 will start school on Wednesday, 3 January 2024.
-
