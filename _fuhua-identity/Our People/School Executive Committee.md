@@ -17,7 +17,7 @@ variant: markdown
 | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon Daryl           |
 | Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Binte Juma'at            |
 | Head Of Department - Information & Communications Technology (Covering) / Level Head -Mathematics  | Mrs Vivian Soh                 |
-| School Staff Developer (SSD)                                   | Ms Selene Tan                        |
+| School Staff Developer (SSD)                                   | Mdm Selene Tan                        |
 | Year Head                                                      | Mr Lau Kar Wai Julian                 |
 | Year Head                                                      | Mdm Nuraina Binte Mohamed Sin         |
 | Year Head                                                     | Mdm Teng Shu Min, Eunice                      |
