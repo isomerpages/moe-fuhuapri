@@ -23,6 +23,7 @@ variant: markdown
 | Year Head                                                     | Mdm Teng Shu Min, Eunice                      |
 | Level Head - English                                           |  Ms Dhanya Nair                       |
 | Level Head - Mathematics (int.)                                |  Ms Norfarishah Asherina Binte Hussain |
+| Subject Head - Physical Education (int.)                         | Ms Siti Sarah            |
 | Subject Head - Environmental Education                         | Mdm Ong Lay Kuan, Shirley             |
 | Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Binte Rahmad          |
-| Subject Head - Partnership                    |  Ms Sung Huimin          
+| Subject Head - Partnership                    |  Ms Sung Huimin
