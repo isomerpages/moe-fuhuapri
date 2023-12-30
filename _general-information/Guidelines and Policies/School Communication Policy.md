@@ -19,7 +19,7 @@ The school places premium on the close partnership with parents in supporting ou
 *  Message in the student’s organizer
 *  Message left with staff at the General Office
 
-3. Appointments for face-to-face meetings with staff should be made at least 3 days in advance to avoid disappointments and minimize disruption to their schedule.
+3. Appointments for face-to-face meetings with staff should be made at least 3 days in advance to avoid disappointments and minimise disruption to their schedule.
 
 4. As a general guide to response time to ensure that queries are well-addressed, we will follow the guidelines below:
 
@@ -32,7 +32,7 @@ The school places premium on the close partnership with parents in supporting ou
 | Matters Relating to:                         | Please contact:                                                                                                                                                                                                              |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Subject / Class Matters                      | Subject / Form Teachers                                                                                                                                                                                                      |
-| Level / Curriculum / Departmental Programmes | Year Heads / Assistant Year Heads Heads of Department (HODs) / Subject Heads (SHs) / Level Heads (LHs) / SSD                                                                                                                 |
+| Level / Curriculum / Departmental Programmes | Year Heads / Assistant Year Heads / Heads of Department (HODs) / Subject Heads (SHs) / Level Heads (LHs) / school Staff Developer (SSD)                                                                                                                 |
 | School Policies                              |                                           Mr Ganesan s/o Raman (Principal) ,             Mrs Cheryl Lim (Vice Principal (Education) ) and Ms Saima Hanif (Vice Principal (Administration))  |
 | Finance / Admissions                      | Ms Saima Hanif (Vice Principal (Administration))|
 | Operations / Safety / Facilities  | Mr Chua Wee Hiang (Operations Manager)                                                                                                                                                                                                            |
