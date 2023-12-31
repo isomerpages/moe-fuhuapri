@@ -77,7 +77,7 @@ i. take care of their teachers, schoolmates, school staff and family.
 ii. be courteous, kind, and respectful towards their elders.
 iii. be considerate and speak softly as school is a place of learning.
 iv. move quietly and behave in an orderly manner so that others can enjoy
-learning.
+learning.<br> <br>
 B) All students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weapon-like item which is used or intended
 to be used to cause harm to others.
@@ -86,16 +86,16 @@ to be used to cause harm to others.
 
 Our School is our Home. Students are to:
 
-a. take pride in their work so that the school can be proud of them.
-b. give their best in all tasks so that they will bring honour to the school.
+a. take pride in their work so that the school can be proud of them. <br>
+b. give their best in all tasks so that they will bring honour to the school.<br>
 c. keep the school clean and eat only in the canteen so that the school will
-be a pleasant place to study in.
-d. be good ambassadors so that others will speak well of our school.
+be a pleasant place to study in.<br>
+d. be good ambassadors so that others will speak well of our school.<br>
 e. abide by the safe rules of play in the school.
 
 ####  **4. LOVE OUR COUNTRY**
 
-Students are to take pride in our nation.
+Students are to take pride in our nation.<br>
 a. Students who are Singapore citizens must sing the National Anthem and
-take the Pledge.
-b. Students will take the Pledge with the right fist over the heart.
+take the Pledge. <br>
+b. Students will take the Pledge with the right fist over the heart.<br>
