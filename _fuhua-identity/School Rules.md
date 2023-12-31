@@ -8,7 +8,7 @@ variant: markdown
 
 Students are to:
 
-A) wear the prescribed school uniform. Modification to
+A) wear the prescribed **school uniform.** Modification to
 the uniform is not allowed.
 <br>i. Students must wear their name tags on their school
 shirt/blouse and PE T-shirt. The name tag must be
@@ -70,12 +70,10 @@ E) display a positive attitude towards learning at all times.<br>
 
 #### **2. LOVE OTHERS**
 
-Students are to:
-
- A) All students are to:
-i. take care of their teachers, schoolmates, school staff and family.
-ii. be courteous, kind, and respectful towards their elders.
-iii. be considerate and speak softly as school is a place of learning.
+A) All students are to:<br>
+i. take care of their teachers, schoolmates, school staff and family.<br>
+ii. be courteous, kind, and respectful towards their elders.<br>
+iii. be considerate and speak softly as school is a place of learning.<br>
 iv. move quietly and behave in an orderly manner so that others can enjoy
 learning.<br> <br>
 B) All students are not allowed to have in their possession any weapon. They
@@ -84,8 +82,7 @@ to be used to cause harm to others.
 
 #### **3. LOVE OUR SCHOOL**
 
-Our School is our Home. Students are to:
-
+Our School is our Home. Students are to: <br>
 a. take pride in their work so that the school can be proud of them. <br>
 b. give their best in all tasks so that they will bring honour to the school.<br>
 c. keep the school clean and eat only in the canteen so that the school will
