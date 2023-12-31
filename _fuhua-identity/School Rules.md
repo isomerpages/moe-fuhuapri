@@ -14,7 +14,7 @@ the uniform is not allowed.
 shirt/blouse and PE T-shirt. The name tag must be
 positioned slightly above the school badge on the
 left side of the PE T-shirt. <br>
-a. Male students must wear their name tag 1cm above the chest pocket.<br>
+a. Male students must wear their name tag 1 cm above the chest pocket.<br>
 b. Female students must wear their name tags on the left side and slightly above the school
 crest.<br>
 c. For durability, sew the border of the name tag
