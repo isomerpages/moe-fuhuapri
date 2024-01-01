@@ -2,20 +2,25 @@
 title: English Language
 permalink: /departments/English-Language/
 description: ""
+variant: markdown
 ---
-We aim to develop language learners to be empathetic communicators, critical readers and creative inquirers. Fuhua Primary uses both STELLAR (the national English Language curriculum) and our school-based curriculum to achieve the outcomes specified by MOE’s English Language Syllabus.
+At Fuhua Primary school, we are dedicated to cultivating language learners who are not only proficient but also empathetic communicators, critical readers, and creative inquirers. At the heart of our pedagogical approach lies a commitment to aligning with the national educational frameworks and standards.
 
-  
+Our programs are designed to incorporate both the national English Language curriculum, STELLAR, and our school-based curriculum. In particular, our curriculum is meticulously crafted to meet the objectives outlined in the English Language Syllabus 2020 for the Primary level, set forth by the Ministry of Education (MOE).
 
-The STELLAR curriculum anchors on a whole-part-whole approach in which a selected text provides the context for learning of specific reading and comprehension skills, speaking and listening, grammar as well as vocabulary. The knowledge and skills are then applied in writing of different text types.&nbsp;
+The English Language Syllabus 2020 places a strong emphasis on the development, reinforcement, and extension of language skills during the formative primary years. We foster an environment that encourages students to derive enjoyment from language learning, promoting extensive reading as a cornerstone of linguistic enrichment. Moreover, we leverage oracy, reading, and writing skills not only to build a strong linguistic foundation but also to nurture independent use of the language.
 
-  
+As a department, we are enthusiastic about embracing these educational guidelines to ensure that our students not only excel in English language proficiency but also develop a genuine passion for language and literature. Join us on this enriching journey as we empower young minds to become articulate, thoughtful, and versatile communicators.
 
-The school-based curriculum enhances the learning through the specific application of thinking routines and concepts and then applying these routines across different units and related subjects. Authentic experiences are also key to deep learning of dispositions and skills. Learning experiences are carefully planned with the intention of integrating appropriate learning objectives across different subjects. For example, English Language, Outdoor Education and Mathematics skills are applied in the Primary 1 Learning journey to the Singapore Zoo.&nbsp;
+In the enriching tapestry of learning at Fuhua Primary School, our dynamic school-based curriculum transcends traditional boundaries. By intricately weaving thinking routines and concepts into our educational fabric, we foster a unique approach that extends across diverse units and related subjects. Authentic experiences take centre stage in our commitment to deep learning, shaping not only knowledge but also cultivating essential dispositions and skills. Our meticulously planned learning experiences are designed with the deliberate intent of seamlessly integrating learning objectives across various subjects.
 
-  
+Our Primary 1 Learning journey to the Singapore Zoo, where the fusion of English Language, Outdoor Education, and Mathematics skills creates a vibrant and holistic educational adventure. Join us on a journey where education is a rich tapestry of experiences, seamlessly blending disciplines and skills to nurture well-rounded and engaged learners.
 
-As the Centre of Excellence (COE) in ICT for Teaching and Learning and in line with the fast-changing English Language teaching and learning landscape, our curriculum will draw greater attention to Multi-literacies, Metacognition and Inquiry through Dialogue (MMI) to help students achieve the 21st Century Competencies across all areas of language learning.
+As the Centre of Excellence (COE) in ICT for Teaching and Learning, in response to the rapidly evolving landscape of English Language teaching and learning, our curriculum is centred on the pillars of Multi-literacies, Metacognition, and Inquiry through Dialogue (MMI) and we are dedicated to guiding students towards mastering 21st Century Competencies across all facets of language learning.
+
+Embracing these transformative elements, our curriculum not only imparts language proficiency but also cultivates critical thinking, self-awareness, and an inquisitive spirit. Join us on a journey where education transcends traditional boundaries, preparing students to thrive in the dynamic challenges of the 21st century.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page.png)
 
 
 #### **APPROACHES**
@@ -74,11 +79,14 @@ Thinking routines, differentiated instructions and different modes of assessment
 </tbody>
 </table>
 
-![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141865_y.jpg)
-Guest Reader
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_2.jpg) 
 
-![](/images/Fuhua%20Experience/Fuhua%20Experience/photo_6073155869501141867_y.jpg)
-Guest Reader
+##### P1, P2 Drama Programme
 
-![Completion of Drama Enrichment Programme](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/Completion%20of%20Drama%20Enrichment%20Programme.jpg)
-Completion of Drama Enrichment Programme
+Expression, voice, movement, creativity, character…there is so much to drama! As part of our continuous efforts to develop confident and empathetic communicators, our P1 and students went through a drama programme over seven sessions, culminating in a well-received performance. The drama enrichment programme aims to empower students to become confident and effective communicators who can interact with a wide range of audiences.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_3.jpg) Our students benefit from a “hands-on,” experiential approach that applauds their ability to appraise situations and explore new scenarios with confidence and verve, &nbsp;encouraging their enjoyment and appreciation of the value of drama.
+
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/English%20Language/el_page_4.jpg) Students’ collaboration with one another also resulted in individual and group contributions towards shared goals of meaningfully conveying the intended messages to the audience. In an environment that is loving and flexible, never critical or pressurizing, we see how much they have blossomed since the start of the programme. 
+
+You can watch the P1 performance [here](https://youtu.be/b4gLFBwQb7s?si=ma__J0bazb4rS3YA).

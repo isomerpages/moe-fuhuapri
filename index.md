@@ -15,12 +15,4 @@ sections:
         - title: Announcements
           description: Get updates on FHPS
           url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
-  - infobar:
-      title: Insights into the World Beyond School
-      subtitle: 2 November 2023 - Announcement
-      description: Our students’ strengths and interests could shape their career
-        choices, the types of transferable skills that employers look for and
-        resilience at work.
-      button: Announcement
-      url: https://www.fuhuapri.moe.edu.sg/highlights/announcements/
 ---
