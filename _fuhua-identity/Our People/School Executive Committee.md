@@ -12,8 +12,8 @@ variant: markdown
 | Vice-Principal (Administration)                                | Ms Saima Hanif                        |
 | Head Of Department - English                              |  Mrs Nisha Ibrahim                     |
 | Head Of Department - Mathematics                               | Ms Lim Hwee Hong                      |
-| Head Of Department - Mother Tongue Languages (Covering)                              | Mdm Tang Yen Yen                    |
-| Head Of Department - Science (Covering)                                  | Mrs Santi Malaiya Maran               |                
+| Head Of Department - Mother Tongue Languages (Covering)  /Level Head - Chinese                            | Mdm Tang Yen Yen                    |
+| Head Of Department - Science (Covering) /Level Head - Science                                  | Mrs Santi Malaiya Maran               |                
 | Head Of Department - Physical Education, CCA & Aesthetics       | Mr Ong Wei Loon Daryl           |
 | Head Of Department - Character and Citizenship Education       | Mdm Nurul Huda Binte Juma'at            |
 | Head Of Department - Information & Communications Technology (Covering) / Level Head -Mathematics  | Mrs Vivian Soh                 |
