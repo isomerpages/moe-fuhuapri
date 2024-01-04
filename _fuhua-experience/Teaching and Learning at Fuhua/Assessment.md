@@ -7,4 +7,4 @@ variant: markdown
 ---
 ##### **2024 SCHOOL-BASED ASSESSMENT**
 
-More details will be shared in due course. Thank you for your patience.
+Further details will be shared in due course. Thank you for your patience.
