@@ -2,7 +2,7 @@
 title: WE STories 2023
 permalink: /general-information/resource-for-parents/we-stories/
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
 ---
 ##### **WE STories – Getting to Know West Zone Secondary Schools**
 

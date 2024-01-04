@@ -3,7 +3,7 @@ title: Resources for 2024 P1 Parents
 permalink: /general-information/resource-for-parents/resources-for-2024-p1-parents/
 variant: markdown
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
 ---
 #### **P1 e-Orientation on 8 Nov 2023**
 

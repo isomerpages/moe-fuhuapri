@@ -2,7 +2,7 @@
 title: Cyber Wellness
 permalink: /general-information/resource-for-parents/cyber-wellness/
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
 ---
 #### **Cyber Citizenship &amp; Identity**<br>
 

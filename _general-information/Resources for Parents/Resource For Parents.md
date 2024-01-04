@@ -1,8 +1,9 @@
 ---
-title: Resources for Parents
-permalink: /general-information/Resource-for-Parents/Resources-for-Parents/
+title: Resource For Parents
+permalink: /general-information/resources-for-parents/resource-for-parents/
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
+variant: markdown
 ---
 #### **Social Media Platforms**
 

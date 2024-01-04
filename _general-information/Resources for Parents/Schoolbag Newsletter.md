@@ -2,7 +2,7 @@
 title: Schoolbag Newsletter
 permalink: /general-information/Resource-for-Parents/Schoolbag-Newsletter/
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
 ---
 #### **Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
 

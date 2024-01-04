@@ -2,7 +2,7 @@
 title: School Home Partnership
 permalink: /general-information/resource-for-parents/schoolhomepartnership/
 description: ""
-third_nav_title: Resource for Parents
+third_nav_title: Resources for Parents
 ---
 The Ministry of Education (MOE) has released a set of guidelines on the development of positive school-home partnerships. The guidelines were officially announced by Senior Parliamentary Secretary for Education, Associate Professor Muhammad Faishal, on 16 February 2019, at a parent engagement event at Yu Neng Primary School.
 
