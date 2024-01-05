@@ -15,3 +15,9 @@ third_nav_title: Resources for Parents
 3) [2024 P1 E Orientation by N4S](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024%20p1%20e-orientation%20(n4s).pdf)
 
 4) [Responses to Queries from 2024 P1 Parents](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024_P1_eOrientation_Programme_Responses_to_Parents__Questions.pdf)
+
+
+#### **P1 Curriculum Briefing on 2 January 2024**
+
+1. [2024  P1 Curriculum Briefing for Parents](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024_P1_Curriculum_Briefing__for_parents_.pdf)
+2. [2024 P1 First Day of School- FAQ for Parents](/files/Resource%20for%20Parents/Resources%20of%202024%20P1%20parents/2024_P1_First_Day_of_School__FAQ_for_Parents_.pdf)
