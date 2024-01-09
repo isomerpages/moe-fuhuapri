@@ -26,4 +26,4 @@ variant: markdown
 | Subject Head - Physical Education (int.)                         | Ms Siti Sarah Binte Aziz           |
 | Subject Head - Environmental Education                         | Mdm Ong Lay Kuan, Shirley             |
 | Subject Head - Information & Communications Technology (int.)  | Mdm Siti Shofurah Binte Rahmad          |
-| Subject Head - Partnership                    |  Ms Sung Huimin
+| Subject Head - Partnerships      |  Ms Sung Huimin

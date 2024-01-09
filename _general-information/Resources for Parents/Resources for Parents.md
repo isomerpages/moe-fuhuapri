@@ -1,5 +1,5 @@
 ---
-title: Resource For Parents
+title: Resources for Parents
 permalink: /general-information/resources-for-parents/resource-for-parents/
 description: ""
 third_nav_title: Resources for Parents
