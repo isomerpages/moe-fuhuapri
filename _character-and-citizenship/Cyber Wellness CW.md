@@ -2,21 +2,6 @@
 title: Cyber Wellness CW
 permalink: /character-and-citizenship/Cyber-Wellness-CW/
 description: ""
+variant: tiptap
 ---
-#### **THE CYBER WELLNESS FRAMEWORK**
-
-The CW framework is used to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.  
-
-These are the key messages which students will understand:
-
-* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities
-* Be a safe and responsible user of technology and maintain a positive online presence
-* Be responsible for personal well-being in the cyberspace
-
-#### **CYBER WELLNESS EDUCATION IN FHPS**
-
-Cyber Wellness programme in FHPS aims to develop students into discerning and responsible ICT users who can protect themselves and be responsible for their well-being in the cyberspace.
-
-**Overview of Cyber Wellness Education in Fuhua Primary School**
-![](/images/cyberwellness.jpg)
-Parents may refer to [MOE Website](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.
+<h4><strong>THE CYBER WELLNESS FRAMEWORK</strong></h4><p>The CW framework is used to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p><p>These are the key messages which students will understand:</p><ul data-tight="true" class="tight"><li><p>Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities</p></li><li><p>Be a safe and responsible user of technology and maintain a positive online presence</p></li><li><p>Be responsible for personal well-being in the cyberspace</p></li></ul><h4><strong>CYBER WELLNESS EDUCATION IN FHPS</strong></h4><p>Cyber Wellness programme in FHPS aims to develop students into discerning and responsible ICT users who can protect themselves and be responsible for their well-being in the cyberspace.</p><p><strong>Overview of Cyber Wellness Education in Fuhua Primary School</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/cyberwellness.jpg"></div><p>Parents may refer to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">MOE Website</a> or <a href="https://www.fuhuapri.moe.edu.sg/general-information/resource-for-parents/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">FHPS Parents Resource Page</a> for a list of guides and tips, resources and useful links to reinforce Cyber Wellness education at home.</p>
