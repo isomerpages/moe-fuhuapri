@@ -2,38 +2,6 @@
 title: Primary 5
 permalink: /assessment/Primary-5/
 description: ""
+variant: tiptap
 ---
-#### **ENGLISH LANGUAGE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20english.JPG)
-
-#### **FOUNDATION ENGLISH LANGUAGE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fel.JPG)
-
-#### **MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20mtl.JPG)
-
-#### **FOUNDATION MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fmtl.JPG)
-
-#### **HIGHER MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20hmtl.JPG)
-
-#### **MATHEMATICS**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20math.JPG)
-
-#### **FOUNDATION MATHEMATICS**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fma.JPG)
-
-#### **SCIENCE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20sci.JPG)
-
-#### **FOUNDATION SCIENCE**
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fsc.JPG)
+<h4><strong>ENGLISH LANGUAGE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 5/P5_EL.png"></div><h4><strong>FOUNDATION ENGLISH LANGUAGE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 5/P5_FEL.png"></div><h4><strong>MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20mtl.JPG"></div><h4><strong>FOUNDATION MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fmtl.JPG"></div><h4><strong>HIGHER MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20hmtl.JPG"></div><h4><strong>MATHEMATICS</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20math.JPG"></div><h4><strong>FOUNDATION MATHEMATICS</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fma.JPG"></div><h4><strong>SCIENCE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20sci.JPG"></div><h4><strong>FOUNDATION SCIENCE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%205/p5%20fsc.JPG"></div><p></p>
