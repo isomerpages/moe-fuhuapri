@@ -2,39 +2,6 @@
 title: Primary 6
 permalink: /assessment/Primary-6/
 description: ""
+variant: tiptap
 ---
-#### **ENGLISH LANGUAGE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20english.JPG)
-
-#### **FOUNDATION ENGLISH LANGUAGE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fel.JPG)
-
-#### **MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20mtl.JPG)
-
-#### **FOUNDATION MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fmtl.JPG)
-
-#### **HIGHER MOTHER TONGUE LANGUAGES**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20hmtl.JPG)
-
-#### **MATHEMATICS**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20math.JPG)
-
-#### **FOUNDATION MATHEMATICS**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fmath.JPG)
-
-#### **SCIENCE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20science.JPG)
-
-#### **FOUNDATION SCIENCE**
-
-![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Assessment/Primary%206/p6%20fsc.JPG)
+<h4><strong>ENGLISH LANGUAGE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_EL.png"></div><h4><strong>FOUNDATION ENGLISH LANGUAGE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FEL.png"></div><h4><strong>MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_MTL.png"></div><h4><strong>FOUNDATION MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FMTL.png"></div><h4><strong>HIGHER MOTHER TONGUE LANGUAGES</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_HMTL.png"></div><h4><strong>MATHEMATICS</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_MA.png"></div><h4><strong>FOUNDATION MATHEMATICS</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FMA.png"></div><h4><strong>SCIENCE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_SC.png"></div><h4><strong>FOUNDATION SCIENCE</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FSC.png"></div><p></p>
