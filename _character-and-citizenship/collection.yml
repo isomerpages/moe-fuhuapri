@@ -1,0 +1,12 @@
+collections:
+  character-and-citizenship:
+    output: true
+    order:
+      - Student Leadership.md
+      - National Education.md
+      - Trips for Internationalisation Experience TIE.md
+      - Values in Action VIA.md
+      - House System.md
+      - Programme for Active Learning PAL.md
+      - Cyber Wellness CW.md
+      - Sexuality Education.md

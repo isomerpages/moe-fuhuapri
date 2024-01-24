@@ -1,0 +1,13 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical Education, Art, Music/Art.md
+      - Physical Education, Art, Music/Music.md
+      - Physical Education, Art, Music/Physical Education.md
+      - Physical Education, Art, Music/.keep
+      - Information and Communication Technology.md

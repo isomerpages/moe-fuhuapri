@@ -1,0 +1,60 @@
+logo: /images/Homepage/logo.png
+links:
+  - title: Fuhua Identity
+    url: /fuhua-identity/School-History/
+    sublinks:
+      - title: School History
+        url: /fuhua-identity/School-History/
+      - title: School Crest, Vision, Mission
+        url: /fuhua-identity/School-Crest-Vision-Mission-Philosophy-and-Core-Values/
+      - title: Principal's Message
+        url: /fuhua-identity/Principals-Message/
+      - title: School Advisory Committee
+        url: /fuhua-identity/School-Advisory-Committee/
+      - title: Our People
+        url: /fuhua-identity/Our-People/School-Executive-Committee/
+      - title: School Rules
+        url: /fuhua-identity/School-Rules/
+  - title: Fuhua Experience
+    url: /fuhua-experience/Fuhua-Experience/
+    sublinks:
+      - title: Teaching and Learning @ Fuhua
+        url: /fuhua-experience/Teaching-and-Learning-at-Fuhua/Departments/
+      - title: Student Development
+        url: /fuhua-experience/Student-Development/Student-Well-Being/
+      - title: Applied Learning Programme
+        url: /fuhua-experience/Applied-Learning-Programme/
+      - title: Learning for Life Programme
+        url: /fuhua-experience/Learning-for-Life-Programme/Learning-for-Life-Programme/
+      - title: Home Based Learning
+        url: /fuhua-experience/Home-Based-Learning/
+  - title: Highlights
+    url: /highlights/Virtual-Open-House/
+    sublinks:
+      - title: Virtual Open House
+        url: /highlights/Virtual-Open-House/
+      - title: Announcements
+        url: /highlights/announcements/
+      - title: Events
+        url: /highlights/Events/
+      - title: Celebrating Our GEMs' Success
+        url: /highlights/achievements/
+  - title: General Information
+    url: /general-information/School-Administration/Admission/
+    sublinks:
+      - title: School Administration
+        url: /general-information/School-Administration/Admission/
+      - title: School Vendors
+        url: /general-information/School-Vendors/After-School-Care/
+      - title: Guidelines/Policies
+        url: /general-information/Guidelines-and-Policies/School-Communication-Policy/
+      - title: Resources for Teachers
+        url: /general-information/Resources-for-Teachers/
+      - title: Resources for Parents
+        url: /general-information/resources-for-parents/resource-for-parents
+      - title: Resources for Students
+        url: /general-information/resources-for-students/resources-for-students/
+      - title: Parents Portal
+        url: /general-information/Parents-Portal/
+      - title: Contact Us
+        url: /general-information/Contact-Us/

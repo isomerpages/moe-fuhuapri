@@ -1,0 +1,8 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Virtual Open House.md
+      - Announcements.md
+      - Events.md
+      - Celebrating Our GEMs' Success.md

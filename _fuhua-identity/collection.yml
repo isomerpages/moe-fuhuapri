@@ -1,0 +1,15 @@
+collections:
+  fuhua-identity:
+    output: true
+    order:
+      - School History.md
+      - School Crest, Vision, Mission, Philosophy and Core Values.md
+      - Principal's Message.md
+      - School Advisory Committee.md
+      - Our People/School Executive Committee.md
+      - Our People/Lead and Senior Teachers.md
+      - Our People/Form Teachers of 2024.md
+      - Our People/School Administration and Operations Team.md
+      - Our People/Information & Communications Technology Team.md
+      - Our People/.keep
+      - School Rules.md
