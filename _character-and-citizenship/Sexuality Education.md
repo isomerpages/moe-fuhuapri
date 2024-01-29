@@ -84,7 +84,7 @@ themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Character &amp; Citizenship/moe_logo_for_SEd.jpg">
 </div>
-<h4><strong><u>PRIMARY 5</u></strong></h4>
+<h5><strong><u>Primary 5</u></strong></h5>
 <table>
 <tbody>
 <tr>
@@ -173,7 +173,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>PRIMARY 6</u></strong></h4>
+<h5><strong><u>Primary 6</u></strong></h5>
 <table>
 <tbody>
 <tr>
