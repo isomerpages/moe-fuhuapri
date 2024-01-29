@@ -94,7 +94,7 @@ themselves safe from sexuality-related risks.</p>
 <p>LESSONS / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD
@@ -184,7 +184,7 @@ and how to seek help for themselves and their friends.</p>
 <p>LESSONS / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD
