@@ -82,6 +82,7 @@ themselves safe from sexuality-related risks.</p>
 <p>&nbsp;</p>
 <h5><strong>At Fuhua Primary School, the following Sexuality Education lessons will be taught in <u>2024:</u></strong></h5>
 <p></p>
+<p></p>
 <p><strong>PRIMARY 5</strong>
 </p>
 <table>
