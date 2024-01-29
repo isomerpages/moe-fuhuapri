@@ -19,6 +19,6 @@ variant: tiptap
 </div>
 <h4><strong>SCIENCE</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 4/P4_SC_29_Jan_no2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 4/P4_SC_29_Jan_v3.png">
 </div>
 <p></p>
