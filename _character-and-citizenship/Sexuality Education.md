@@ -125,7 +125,8 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know? (60 min)</p>
+<p>Did You Know?
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students know what pornography is and how
