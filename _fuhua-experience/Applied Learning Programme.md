@@ -4,7 +4,7 @@ permalink: /fuhua-experience/Applied-Learning-Programme/
 description: ""
 variant: markdown
 ---
-Applied Learning Programme provides meaningful and purposeful age-appropriate opportunities for real-life application of learning. They allow for experimentation, self-discovery and joy of learning. As Fuhua Primary School is the West Zone Centre of Excellence (COE) for ICT in teaching and learning, the school’s focus is on STEAM (Science, Technology, Art, Engineering and Mathematics). 
+Applied Learning Programme provides meaningful and purposeful age-appropriate opportunities for real-life application of learning. They allow for experimentation, self-discovery and joy of learning.  
 
 #### **STUDENT AS DESIGNER FOR THE 21ST CENTURY**
 
