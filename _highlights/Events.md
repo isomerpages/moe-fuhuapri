@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ##### **2024 Primary 5 Camp**
-In January, our Primary 5 students had a meaningful time participating in a 3D2N camp. The camp objectives were to:
+In January, our Primary 5 students had a meaningful time participating in a 3D2N camp. The camp aims to:
 * equip students to adapt to a dynamic environment, 
 * create opportunities to lead and serve and
 * transform students into the best version of themselves.
