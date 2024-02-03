@@ -364,11 +364,11 @@ their classes. The Physical Challenge allows students to take part in physical
 activities in school while the Health Challenge allows students to display
 healthy eating habits in school and at home.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome2.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome2.jpg">
 </div>
 <p>
 <br><strong>2. Lower Primary Sports Day</strong>
@@ -379,25 +379,31 @@ the games, our students display the value of Excellence by giving their
 utmost in each game station. We would also like to extend a special mention
 to our dedicated student leaders and parent volunteers, who graciously
 acted as station masters throughout the event!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/lower_sports_1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/lower_sports_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/lower_sports_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/lower_sports_3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/lower_sports_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/lower_sports_2.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/lower_sports_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/lower_sports_3.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/lower_sports_4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/lower_sports_5.jpg">
+</div>
+<p></p>
 <p>
 <br><strong>3. Swimsafer Programme</strong>
 </p>
@@ -407,5 +413,81 @@ experiences for our students in managing their body posture in different
 spatial dimensions. The Swimsafer 2.0 program aims to enhance students’
 water movement competency as well as water safety such as safe pool entry
 and exit.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/PE2.jpg">
+</div>
+<p>P5 Swimsafer session at Bukit Batok Swimming Pool</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/swimsafer.jpg">
+</div>
+<p></p>
+<p><strong>4. P5 Outdoor Experience Camp</strong>
+</p>
+<p>Our Primary 5 Students will attend a 3D2N outdoor residential cohort camp.
+Participating in this camp allows our students to gain an appreciation
+of the outdoors, understand how effective collaboration can facilitate
+success and apply the school values to transform into the best version
+of themselves. In January 2024, the residential camp was held in Camp Christine
+at Jalan Bahtera. Our students had an exciting time learning the various
+activities such as the land and water-based challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp1.jpg">
+</div>
+<p>Students on Campfire night</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp2.jpg">
+</div>
+<p>Tasting their self-made vegetarian friendly Jungle Donut!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp4.jpg">
+</div>
+<p>Water Challenge</p>
+<p><strong>5. P6 Outdoor Education Orienteering Learning Journey to Jurong Lake Gardens</strong>
+</p>
+<p>Since 2022, our P6 students are given a unique chance to delve into the
+wonders of Jurong Lake Gardens through an exhilarating Amazing Race experience.
+Not only does this adventure test their safety management and orienteering
+skills and teamwork, it also imparts valuable lessons on environmental
+conservation. Students explore, learn and make a positive impact on our
+beautiful surroundings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p6.jpg">
+</div>
+<p>Students work as a group to locate various checkpoints throughout Jurong
+Lake Gardens</p>
+<p><strong>6. The ‘IronKids’ Club</strong>
+</p>
+<p>Selected students are provided with a platform to participate in a series
+of exciting physical activities such as inline skating, rebounding and
+tchoukball. These activities aim to not only foster enjoyment but also
+encourage our students to continue their journey towards a healthier lifestyle
+beyond the school environment.</p>
+<p>By introducing them to enjoyable physical activities, we hope to ignite
+a passion for an active lifestyle that extends beyond the school setting.
+Encouraging students to involve their friends and families in these activities
+further reinforces the importance of shared experiences and promotes healthy
+habits within their social circles.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/iron1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/iron2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
