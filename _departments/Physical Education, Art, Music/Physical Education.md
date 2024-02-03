@@ -469,7 +469,7 @@ skills and teamwork, it also imparts valuable lessons on environmental
 conservation. Students explore, learn and make a positive impact on our
 beautiful surroundings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p6.jpg">
 </div>
 <p>Students work as a group to locate various checkpoints throughout Jurong
 Lake Gardens</p>
