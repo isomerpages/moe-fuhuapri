@@ -379,7 +379,7 @@ healthy eating habits in school and at home.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/PHYSICAL%20EDUCATION/wholesome2.jpg">
 </div>
 <p>
 <br><strong>2. Lower Primary Sports Day</strong>
@@ -453,7 +453,7 @@ activities such as the land and water-based challenges.</p>
 <p>Tasting their self-made vegetarian friendly Jungle Donut!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/p5camp3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
