@@ -30,10 +30,14 @@ and healthy living in a sustainable way.</p>
 <p>The learning experiences leading to the goals of Physical Education at
 the primary level are organised according to the three learning areas and
 content areas/strands as shown in the table below:</p>
-<p><strong>Table 1: Learning Area, Content Area and Strand at the Primary Level</strong>
-</p>
 <table>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Table 1: Learning Area, Content Area and Strand at the Primary Level</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Learning Area</p>
@@ -212,9 +216,14 @@ the opportunity to represent their class to compete in various Olympic
 and Paralympic games (Refer to Table 1) during the ‘Start It Right’ programme
 in each term.</p>
 <p></p>
-<p>Table 1 (Fuhualympic Games)</p>
 <table>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Table 1 (Fuhualympic Games)</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 3</p>
