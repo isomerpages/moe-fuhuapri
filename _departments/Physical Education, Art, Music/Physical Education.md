@@ -503,11 +503,3 @@ habits within their social circles.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Departments/Physical Education Arts Music/PHYSICAL EDUCATION/iron2.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
