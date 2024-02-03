@@ -3,9 +3,13 @@ title: Schoolbag Newsletter
 permalink: /general-information/Resource-for-Parents/Schoolbag-Newsletter/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
-#### **Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
+#### **Schoolbag Newsletter - Sweet dreams are made of these tips**
 
+Start the year right by getting enough rest. [Here](https://www.schoolbag.edu.sg/story/the-benefits-of-sleep-for-students?utm_source=newsletter+sb+article&utm_medium=social&utm_campaign=jan+2024+edm)'s why a good night's sleep is crucial for your family. Read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
+ 
+ #### **Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
 
  Four fathers who work in the technology industry give tips on keeping kids safe online. Find out more [here](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special) and read other inspiring features in this latest edition of  [Schoolbag Newsletter.](https://www.schoolbag.edu.sg/)
 
