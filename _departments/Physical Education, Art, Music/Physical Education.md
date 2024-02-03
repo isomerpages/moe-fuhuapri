@@ -3,35 +3,21 @@ title: Physical Education
 permalink: /departments/physical-education-arts-music/physical-education/
 description: ""
 third_nav_title: Physical Education, Art, Music
+variant: markdown
 ---
 #### **PURPOSE of PE**
 
-The purpose of physical and health education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.&nbsp;We seek to enable students to enjoy a lifetime of active and healthy living.
+Physical Education is an integral component of Singapore’s school curriculum to develop students holistically. By emphasising the importance of movement and an individual’s interaction with the environment, Physical Education seeks to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly. At the primary school level, we aim to nurture students into competent participants who demonstrate efficiency, effectiveness and versatility in movement competencies.
 
-In 2014, a new 2014 PE syllabus was introduced using Learning Outcomes (LOs) to specify minimally what students should know and be able to do as a result of their learning.
+**After going through 6 years of Physical Education in Fuhua Primary School, each Fuhua GEM would acquire:**
+<br>Goal 1: **Movement Competence.** Students are competent and confident to participate in a range of physical and outdoor activities.
+<br>Goal 2: **Healthy Lifestyle Practices.** Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
+<br>Goal 3: **Safety Mindset.** Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment. 
+<br>Goal 4: **Core Values.** Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.
+<br>Goal 5: **Enjoyment.** Students enjoy and value physical activities and healthy living in a sustainable way.
 
-The Primary PE syllabus aims to develop competent movers who demonstrate efficiency, effectiveness and versatility in movement competencies.
-
-Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain the 6 goals of PE.
-
-**After going through 6 years of Physical Education in Fuhua Primary School, a child would:**
-<br>Goal 1: Acquire a range of movement skills to participate in a variety of physical activities. 
-<br>Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities. 
-<br>Goal 3: Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment. 
-<br>Goal 4: Display positive personal and social behaviour across different experiences. 
-<br>Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities. 
-<br>Goal 6: Enjoy and value the benefits of living a physically active and healthy life.
-
-Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain these 6 goals of PE. 
-
-<br>**Learning Areas**
-<br>1. Athletics (From Primary 3)
-<br>2. Dance
-<br>3. Games &amp; Sports
-<br>4. Gymnastics
-<br>5. Outdoor Education
-<br>6. Physical Health and Fitness
-<br>7. Swimming (By end of Primary 6)
+The learning experiences leading to the goals of Physical Education at the primary level are organised according to the three learning areas and content areas/strands as shown in the table below: 
+![](/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/pe_table_1.jpg)
 
 
 In Fuhua Primary School, our PE curriculum is designed in a spiral approach, serving to promotes the ideals of a LIFE-LONG LEARNER. This approach seeks to reinforce the skills and knowledge taught within the learning year and across their six years in school. We believe that this approach provides a holistic learning experience for our pupils as they develop an enjoyment towards physical activity and strive to be active during adulthood.
