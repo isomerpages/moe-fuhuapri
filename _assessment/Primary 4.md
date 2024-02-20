@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h4><strong>MATHEMATICS</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 4/P4_MA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 4/Math_update.png">
 </div>
 <h4><strong>MOTHER TONGUE LANGUAGES</strong></h4>
 <div class="isomer-image-wrapper">
