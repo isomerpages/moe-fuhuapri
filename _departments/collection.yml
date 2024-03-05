@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English Language.md
-      - Literacy Sparks/.keep
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages.md
