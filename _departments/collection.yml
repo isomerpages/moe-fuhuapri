@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Literacy Sparks/English Language.md
       - Literacy Sparks/.keep
       - Mathematics.md
       - Science.md
