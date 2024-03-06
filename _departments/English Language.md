@@ -180,7 +180,4 @@ intended messages to the audience. In an environment that is loving and
 flexible, never critical or pressurizing, we see how much they have blossomed
 since the start of the programme.</p>
 <p>You can watch the P1 performance <a href="https://youtu.be/b4gLFBwQb7s?si=ma__J0bazb4rS3YA" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b4gLFBwQb7s?si=vK8U6bbh3_LcMrKg"></iframe>
-</div>
 <p></p>
