@@ -14,7 +14,7 @@ variant: markdown
 - Creating a healthy online identity<br>
 
 #### **Cyber Wellness Newsletter**
-Access our Cyber Welless Newsletter to find out how we can help our children manage their devices.
+Access our Cyber Wellness Newsletter to find out how we can help our children manage their devices.
 
 **Useful Links:**<br> 
 - Let’s talk about cyber wellness. Click [here](https://www.healthhub.sg/programmes/186/mindsg/caring-for-ourselves/learning-about-cyber-wellness-Teens#home). 
