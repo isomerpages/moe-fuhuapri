@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /general-information/resource-for-parents/cyber-wellness/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
 #### **Cyber Citizenship &amp; Identity**<br>
 
@@ -11,6 +12,9 @@ third_nav_title: Resources for Parents
 - Handling online content and behavior <br>
 - Developing a positive online presence <br>
 - Creating a healthy online identity<br>
+
+#### **Cyber Wellness Newsletter**
+Access our Cyber Welless Newsletter to find out how we can help our children manage their devices.
 
 **Useful Links:**<br> 
 - Let’s talk about cyber wellness. Click [here](https://www.healthhub.sg/programmes/186/mindsg/caring-for-ourselves/learning-about-cyber-wellness-Teens#home). 
@@ -63,7 +67,7 @@ start a conversation with them on screen use. Click [here](https://www.imda.gov.
 **More information:**<br>
 [A Guide to Sharenting (Beyond The Post)](/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/beyond%20the%20post%20a%20guide%20to%20sharenting%20-%20final.pdf)<br>[Responsible Sharing of Information Poster](/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/responsible%20sharing%20poster.pdf)<br>[S.U.R.E. (Source Understand Research Evaluate)](/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/source%20understand%20research%20evaluate.pdf)
 
-#### **Newsletters**
+#### **Archived Newsletters**
 
 * Newsletter 1: [How you can play an active role in keeping your child safe online?](/files/Resource%20for%20Parents/Cyberwellness/Newsletters/1%20how%20you%20can%20play%20an%20active%20role%20in%20keeping%20your%20child%20safe%20online.pdf)
 * Newsletter 2: [How to spot fake news - Tipsheet](/files/Resource%20for%20Parents/Cyberwellness/Newsletters/2%20-%20how-to-spot-fake-news_tipsheet.pdf)
