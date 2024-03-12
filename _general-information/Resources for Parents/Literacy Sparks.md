@@ -20,7 +20,7 @@ and prepares students for the challenges of the 21st century.</p>
 <h2>Literacy Sparks Newsletter</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resource for Parents/Literacy_Sparks_FINAL__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Literacy Spark 2024/1</a>
+<p><a href="/files/Resource for Parents/Literacy_Sparks_latest.pdf" rel="noopener noreferrer nofollow" target="_blank">Literacy Sparks 2024/1</a>
 </p>
 </li>
 </ul>
