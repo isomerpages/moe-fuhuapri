@@ -88,7 +88,7 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 <ul data-tight="true" class="tight">
 <li>
 <p>Find out more on screen use, cyberwellness and other useful evidence-based
-parenting resources for kids 0-12 years. Click <a href="https://www.familiesforlife.sg/Parenting" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+parenting resources for kids 0 - 12 years. Click <a href="https://www.familiesforlife.sg/Parenting" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 </li>
