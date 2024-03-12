@@ -6,7 +6,7 @@ third_nav_title: Resources for Parents
 variant: tiptap
 ---
 <h4><strong>Cyber Citizenship &amp; Identity</strong><br></h4>
-<p><strong>Learning Outcomes:</strong>
+<p><strong>Learning Outcomes:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -34,7 +34,7 @@ variant: tiptap
 <h4><strong>Cyber Wellness Newsletter</strong></h4>
 <p>Access our <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Newsletter</a> to
 find out how we can help our children manage their devices.</p>
-<p><strong>Useful Links:</strong>
+<p><strong>Useful Links:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -56,23 +56,23 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </p>
 </li>
 </ul>
-<p><strong>More information:</strong>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Act and Scamshield Infographic</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/how%20do%20i%20ensure%20my%20child%20uses%20their%20devices%20responsibly%20(for%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">How do I ensure my child is using their device responsiblyand safely?</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/how%20you%20can%20play%20an%20active%20role%20in%20keeping%20your%20child%20safe%20online.pdf" rel="noopener noreferrer nofollow" target="_blank">How you can play an active role in keeping your child safe online?</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/online%20impersonation%20scam%20poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Impersonation Scam Poster</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/parent%20guide%20-%205%20tips%20to%20ensure%20your%20child%20stays%20safe%20&amp;%20happy%20online_for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent guide - 5 tips to ensure your child stays safe &amp; happy online</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_facebook.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Facebook)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_google_youtube.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Google / Youtube)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_instagram.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Instagram)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_tiktok.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Tiktok)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_twitter.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Twitter)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/the%20age%20of%20digital%20parenting_for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">The Age of Digital Parenting</a>
+<p><strong>More information:</strong> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Act and Scamshield Infographic</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/how%20do%20i%20ensure%20my%20child%20uses%20their%20devices%20responsibly%20(for%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">How do I ensure my child is using their device responsiblyand safely?</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/how%20you%20can%20play%20an%20active%20role%20in%20keeping%20your%20child%20safe%20online.pdf" rel="noopener noreferrer nofollow" target="_blank">How you can play an active role in keeping your child safe online?</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/online%20impersonation%20scam%20poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Impersonation Scam Poster</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/parent%20guide%20-%205%20tips%20to%20ensure%20your%20child%20stays%20safe%20&amp;%20happy%20online_for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent guide - 5 tips to ensure your child stays safe &amp; happy online</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_facebook.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Facebook)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_google_youtube.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Google / Youtube)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_instagram.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Instagram)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_tiktok.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Tiktok)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/social%20media%20safety%20tool%20guide%20kit_twitter.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Safety Tool Guide Kit (Twitter)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/the%20age%20of%20digital%20parenting_for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">The Age of Digital Parenting</a> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/tips%20to%20keep%20your%20child%20safe%20online.pdf" rel="noopener noreferrer nofollow" target="_blank">Tips to keep your child safe online</a> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/what%20can%20you%20say%20before%20giving%20your%20child%20their%20first%20device%20(for%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">What can you say before giving your child their first device?</a>
 </p>
 <h4><strong>Cyber Use</strong><br></h4>
-<p><strong>Learning Outcomes:</strong>
+<p><strong>Learning Outcomes:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -82,7 +82,7 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </p>
 </li>
 </ul>
-<p><strong>Useful Links:</strong>
+<p><strong>Useful Links:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -106,17 +106,17 @@ the family. Click <a href="http://www.healthychildren.org/MediaUsePlan" rel="noo
 </p>
 </li>
 </ul>
-<p><strong>More information:</strong>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/9%20health%20hazards%20of%20electronic%20devices%20for%20kids.pdf" rel="noopener noreferrer nofollow" target="_blank">9 Health Hazards of Electronic Devices for Kids</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/connecting%20with%20you%20child%20about%20screen%20time%20(for%20sec%20and%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Connecting With Your Child About Screen Time</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/educators%20guide%20to%20cyber-bullying.pdf" rel="noopener noreferrer nofollow" target="_blank">Educators Guide to Cyber-bullying</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/guidance-on-screen-use-in-children.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance On Screen Use in Children</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/healthy%20eyes,%20clear%20vision.pdf" rel="noopener noreferrer nofollow" target="_blank">Healthy Eyes, Clear Vision</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/screen_use_infographic%20for%207to12.pdf" rel="noopener noreferrer nofollow" target="_blank">Your Handy Guide to Cultivating Healthy Screen Use in Children</a>
+<p><strong>More information:</strong> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/9%20health%20hazards%20of%20electronic%20devices%20for%20kids.pdf" rel="noopener noreferrer nofollow" target="_blank">9 Health Hazards of Electronic Devices for Kids</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/connecting%20with%20you%20child%20about%20screen%20time%20(for%20sec%20and%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Connecting With Your Child About Screen Time</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/educators%20guide%20to%20cyber-bullying.pdf" rel="noopener noreferrer nofollow" target="_blank">Educators Guide to Cyber-bullying</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/guidance-on-screen-use-in-children.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance On Screen Use in Children</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/healthy%20eyes,%20clear%20vision.pdf" rel="noopener noreferrer nofollow" target="_blank">Healthy Eyes, Clear Vision</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/screen_use_infographic%20for%207to12.pdf" rel="noopener noreferrer nofollow" target="_blank">Your Handy Guide to Cultivating Healthy Screen Use in Children</a> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Use/tips%20for%20talking%20to%20your%20child%20about%20device%20usage%20(for%20sec%20and%20pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Tips for talking to your child on device usage</a>
 </p>
 <h4><strong>Cyber Relationship</strong><br></h4>
-<p><strong>Learning Outcomes:</strong>
+<p><strong>Learning Outcomes:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -136,7 +136,7 @@ the family. Click <a href="http://www.healthychildren.org/MediaUsePlan" rel="noo
 </p>
 </li>
 </ul>
-<p><strong>Useful Links:</strong>
+<p><strong>Useful Links:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -146,16 +146,16 @@ the family. Click <a href="http://www.healthychildren.org/MediaUsePlan" rel="noo
 </p>
 </li>
 <li>
-<p>Different forms of Cyber bullying. Click <a href="https://bullyfree.sg/cyber-bullying/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Different forms of Cyber bullying. Click <a href="https://bullyfree.sg/cyber-bullying/" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
 </p>
 </li>
 </ul>
-<p><strong>More information:</strong>
+<p><strong>More information:</strong> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Relationship/20230410%20she%20infographics%20on%20online%20myths.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on Online Myths (SHE)</a>
 </p>
 <h4><strong>Cyber Ethics</strong><br></h4>
-<p><strong>Learning Outcomes:</strong>
+<p><strong>Learning Outcomes:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -170,7 +170,7 @@ the family. Click <a href="http://www.healthychildren.org/MediaUsePlan" rel="noo
 </p>
 </li>
 </ul>
-<p><strong>Useful Links:</strong>
+<p><strong>Useful Links:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -186,9 +186,9 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </p>
 </li>
 </ul>
-<p><strong>More information:</strong>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/beyond%20the%20post%20a%20guide%20to%20sharenting%20-%20final.pdf" rel="noopener noreferrer nofollow" target="_blank">A Guide to Sharenting (Beyond The Post)</a>
-<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/responsible%20sharing%20poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Responsible Sharing of Information Poster</a>
+<p><strong>More information:</strong> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/beyond%20the%20post%20a%20guide%20to%20sharenting%20-%20final.pdf" rel="noopener noreferrer nofollow" target="_blank">A Guide to Sharenting (Beyond The Post)</a> 
+<br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/responsible%20sharing%20poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Responsible Sharing of Information Poster</a> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Ethics/source%20understand%20research%20evaluate.pdf" rel="noopener noreferrer nofollow" target="_blank">S.U.R.E. (Source Understand Research Evaluate)</a>
 </p>
 <h4><strong>Archived Newsletters</strong></h4>
