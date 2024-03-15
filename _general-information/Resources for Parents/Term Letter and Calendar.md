@@ -1,5 +1,5 @@
 ---
-title: Term letters and Calendar
+title: Term Letter and Calendar
 permalink: /general-information/resource-for-parents/term-letters-and-calendar/
 variant: tiptap
 description: ""
