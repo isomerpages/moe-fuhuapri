@@ -30,4 +30,8 @@ us:</p>
 <p><a href="https://go.gov.sg/fhpshb20241" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/1</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
+</div>
+<p></p>
 <p></p>
