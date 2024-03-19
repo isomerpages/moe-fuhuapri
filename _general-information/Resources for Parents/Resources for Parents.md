@@ -31,7 +31,7 @@ us:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
 <p></p>
 <p></p>
