@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h4><strong>ENGLISH LANGUAGE</strong></h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_EL_2_Apr.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_EL_2_Apr.png">
 </div>
 <h4><strong>FOUNDATION ENGLISH LANGUAGE</strong></h4>
