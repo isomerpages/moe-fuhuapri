@@ -4,6 +4,12 @@ permalink: /highlights/achievements/
 description: ""
 variant: markdown
 ---
+##### **Green Schools @ South West 2023 Award**
+Our school has achieved the prestigious Three Stars in the Green Schools @ Southwest Award for 2023: Public Health Star, Environment Protection Star, and Junior Environment Ambassadors Stars (JEA). This recognition reflects our unwavering dedication to environmental stewardship and involving our students and school community in sustainability initiatives. Our GEMs actively engage in exploring environmental issues and making impactful contributions to enhance our living environment.
+
+
+![](/images/Highlights/Achievements/Southwest_2023_EE_Award.jpg)
+
 ![](/images/Highlights/Achievements/Slide1.jpg)
 
 ![](/images/Highlights/Achievements/Slide2.JPG)
