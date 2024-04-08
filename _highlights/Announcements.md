@@ -20,17 +20,17 @@ the team!</p>
 make Mother Tongue Languages come alive.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_4.jpg">
 </div>
 <p>Prize Presentation – Fuhua Gems with Vice Principal, Ms Saima &amp; Dr
 Mohamad Maliki Bin Osman, Second Minister for Education and Second Minister
 for Foreign Affairs</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_2.jpg">
 </div>
 <p>Participants (2<sup>nd</sup> Place) with School Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_1.jpg">
 </div>
 <p>Participants with School Leaders</p>
 <p></p>
