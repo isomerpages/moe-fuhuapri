@@ -22,6 +22,34 @@ and personalised lyrics adapted from P Ramlee movies. Congratulations to
 the team!</p>
 <p>&nbsp;We look forward for more opportunities for Fuhua Gems to participate
 and make Mother Tongue Languages come alive.</p>
+<p></p>
+<p>Participants (2<sup>nd</sup> Place) with School Leaders</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_2.jpg">
+</div>
+<p>Participants with School Leaders</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_1.jpg">
+</div>
+<p>Vocal Practice in Class</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_3.jpg">
+</div>
+<p></p>
+<p>Prize Presentation – Fuhua Gems with Vice Principal, Ms Saima &amp; Dr
+Mohamad Maliki Bin Osman, Second Minister for Education and Second Minister
+for Foreign Affairs</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_4.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IpPAD9owA7g?si=ZbbCBMSGTuoxQife"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XPeAJ9NM9vw?si=ujc6-yxnQliE_Smj"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
