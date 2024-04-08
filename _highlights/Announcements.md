@@ -24,10 +24,6 @@ the team!</p>
 and make Mother Tongue Languages come alive.</p>
 <p></p>
 <p></p>
-<p>Participants with School Leaders</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_1.jpg">
-</div>
 <p></p>
 <p></p>
 <p>Prize Presentation – Fuhua Gems with Vice Principal, Ms Saima &amp; Dr
@@ -41,10 +37,16 @@ for Foreign Affairs</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_2.jpg">
 </div>
 <p></p>
+<p>Participants with School Leaders</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_1.jpg">
+</div>
+<p></p>
+<p>2nd Place Video</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IpPAD9owA7g?si=ZbbCBMSGTuoxQife"></iframe>
 </div>
-<p></p>
+<p>Certificate of Participation Video</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XPeAJ9NM9vw?si=ujc6-yxnQliE_Smj"></iframe>
 </div>
