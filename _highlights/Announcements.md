@@ -19,9 +19,6 @@ the team!</p>
 <p>We look forward for more opportunities for Fuhua Gems to participate and
 make Mother Tongue Languages come alive.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Picture_4.jpg">
-</div>
 <p>Prize Presentation – Fuhua Gems with Vice Principal, Ms Saima &amp; Dr
 Mohamad Maliki Bin Osman, Second Minister for Education and Second Minister
 for Foreign Affairs</p>
