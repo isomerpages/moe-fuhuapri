@@ -9,8 +9,8 @@ variant: markdown
 |---------------------------------|----------------------------|
 | **Administrative Manager**          |  Ms Loy Choi Khuan          |
 | **Operations Manager**          |  Mr Chua Wee Hiang         |
-| **Corporate Support Officer**  | Mdm Nur Iliana Bte Abdul Rahim |
-| **Corporate Support Officer**  | Ms Tan Seo Choo            |
+| **Administrative Executive**  | Ms Tan Seo Choo  |
+| **Corporate Support Officer**  |   Mdm Nur Iliana Bte Abdul Rahim |
 | **Corporate Support Officer**   |  Mdm Ng Peck Cheng Cherlyn          |
 | **Corporate Support Officer**   |  Mdm Yogeswari Ganesan       |
 | **Operations Support Officer**  | Mdm Salina binte Suyod     |
