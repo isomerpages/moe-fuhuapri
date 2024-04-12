@@ -37,10 +37,11 @@ variant: tiptap
 </div>
 <h4><strong>SCIENCE</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_SC_29_Jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Standard_Sci.jpg">
 </div>
 <h4><strong>FOUNDATION SCIENCE</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FSC_29_Jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foundation_Science.jpg">
 </div>
 <p></p>
