@@ -2,20 +2,20 @@ collections:
   fuhua-experience:
     output: true
     order:
-      - GEM Plus.md
       - Fuhua Experience.md
+      - Teaching and Learning at Fuhua/.keep
       - Teaching and Learning at Fuhua/Teaching and Learning at Fuhua.md
       - Teaching and Learning at Fuhua/Departments.md
       - Teaching and Learning at Fuhua/Assessment.md
-      - Teaching and Learning at Fuhua/.keep
+      - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Well Being.md
       - Student Development/Character & Citizenship.md
       - Student Development/CCAs.md
-      - Student Development/.keep
+      - GEM Plus.md
       - Applied Learning Programme.md
+      - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/Photos of Our Environment Champions and
         Ambassadors in Action.md
-      - Learning for Life Programme/.keep
       - Home Based Learning.md
