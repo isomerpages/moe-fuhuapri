@@ -2,6 +2,7 @@ collections:
   fuhua-experience:
     output: true
     order:
+      - GEM Plus.md
       - Fuhua Experience.md
       - Teaching and Learning at Fuhua/Teaching and Learning at Fuhua.md
       - Teaching and Learning at Fuhua/Departments.md
