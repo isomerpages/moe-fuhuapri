@@ -20,5 +20,8 @@ If you would like to keep up on the latest N4S news, connect with us:
 
 #### **Engagement with P1 Parents-N4S**
 
-
 For more information, please click [here](/files/Resource%20for%20Parents/N4S%20Information/2024_P1_e_Orientation_N4S.pdf).
+
+#### **FHPS EduShare**
+For exchanges and donations for a sustainable future, please click [here](https://www.facebook.com/groups/1305800426783853/).
+
