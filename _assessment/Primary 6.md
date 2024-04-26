@@ -8,9 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_EL_2_Apr.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_EL_2_Apr.png">
-</div>
 <h4><strong>FOUNDATION ENGLISH LANGUAGE</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/P6_FEL.png">
@@ -37,11 +34,10 @@ variant: tiptap
 </div>
 <h4><strong>SCIENCE</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Standard_Sci.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SC_26_Apr.png">
 </div>
 <h4><strong>FOUNDATION SCIENCE</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Foundation_Science.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_FSC_26_Apr.png">
 </div>
 <p></p>
