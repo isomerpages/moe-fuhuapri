@@ -6,7 +6,7 @@ third_nav_title: Resources for Parents
 variant: tiptap
 ---
 <p></p>
-<h4><strong>Schoolbag Newsletter - How many lessons can a garden teach?</strong></h4>
+<h4><strong>Schoolbag Newsletter - Former national swimmer on raising resilient kids</strong></h4>
 <p>How former national swimmer Joscelin Yeo defines success out of the championship
 lanes for her children and what makes the great outdoors the perfect classroom.
 Find out more <a href="https://www.schoolbag.edu.sg/story/they-ve-fallen-many-times-and-it-s-good-for-them-says-olympian-mum-of-four/?utm_source=newsletter+sb+article&amp;utm_medium=social&amp;utm_campaign=apr+2024+edm" rel="noopener noreferrer nofollow" target="_blank">here</a> and
