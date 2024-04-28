@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
+<p></p>
+<h4><strong>Schoolbag Newsletter - How many lessons can a garden teach?</strong></h4>
+<p>How former national swimmer Joscelin Yeo defines success out of the championship
+lanes for her children and what makes the great outdoors the perfect classroom.
+Find out more <a href="https://www.schoolbag.edu.sg/story/they-ve-fallen-many-times-and-it-s-good-for-them-says-olympian-mum-of-four/?utm_source=newsletter+sb+article&amp;utm_medium=social&amp;utm_campaign=apr+2024+edm" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter - Sweet dreams are made of these tips</strong></h4>
 <p>Start the year right by getting enough rest. <a href="https://www.schoolbag.edu.sg/story/the-benefits-of-sleep-for-students?utm_source=newsletter+sb+article&amp;utm_medium=social&amp;utm_campaign=jan+2024+edm" rel="noopener noreferrer nofollow" target="_blank">Here</a>'s
 why a good night's sleep is crucial for your family. Read other inspiring
