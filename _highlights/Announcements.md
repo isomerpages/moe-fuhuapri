@@ -42,14 +42,6 @@ for Foreign Affairs</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XPeAJ9NM9vw?si=ujc6-yxnQliE_Smj"></iframe>
 </div>
 <p>Certificate of Participation Video</p>
-<h5><strong>Caring Teacher Award Nomination</strong></h5>
-<p>Nominate your extraordinary Fuhua teacher for The Caring Teacher Awards,
-where dedication meets compassion.</p>
-<p></p>
-<p>Let's celebrate those who go the extra mile to shape confident, independent
-learners. Act now, nominate before Jan 12, 2024!</p>
-<p></p>
-<p>Click <a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-nominate your extraordinary Fuhua teacher!</p>
+<h5></h5>
 <p></p>
 <p></p>
