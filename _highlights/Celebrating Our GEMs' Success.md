@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/SYF_Announcement_2024.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/SYF_Announcement_2024.jpg">
 </div>
 <h5><strong>Green Schools @ South West 2023 Award</strong></h5>
 <p>Our school has achieved the prestigious Three Stars in the Green Schools
