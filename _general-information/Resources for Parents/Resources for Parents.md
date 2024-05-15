@@ -38,6 +38,6 @@ us:</p>
 Playbook'&nbsp; for parents! Click <a href="/files/Resource for Parents/playbookedm.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access it.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/Screenshot_2024_05_16_002332.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/Screenshot_2024_05_16_002332.jpg">
 </div>
 <p></p>
