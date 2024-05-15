@@ -33,5 +33,7 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
-<p></p>
+<h4><strong>Healthy Activity Book</strong></h4>
+<p>Health Promotion Board (HPB) is pleased to share the 'Health Activity
+Playbook'&nbsp; for parents! Click here to access it.</p>
 <p></p>
