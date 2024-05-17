@@ -33,5 +33,13 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
+<h4><strong>Health Activity Playbook</strong></h4>
+<p>Health Promotion Board (HPB) is pleased to share the 'Health Activity
+Playbook'&nbsp; for parents! Click <a href="/files/Resource for Parents/playbookedm.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to see the poster
+or <a href="https://ch-api.healthhub.sg/api/public/content/f420cccaff34408e809645c525ab9aca?_gl=1*5q6q0r*_ga*MTc4NjEzNTYuMTcxMDY2NDE5NQ..*_ga_VQW1KL2RMR*MTcxNTE1MjY4Ny4yNC4xLjE3MTUxNTI3MzQuMTMuMC4w" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+directly access the playbook.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/Screenshot_2024_05_16_002332.jpg">
+</div>
 <p></p>

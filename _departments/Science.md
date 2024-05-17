@@ -93,11 +93,11 @@ learning spaces within our outdoor experiential learning garden are the&nbsp;<st
 the&nbsp;<strong>Aquaponics.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Science/T1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Science/T1.jpg">
 </div>
 <p>Students learning about different habitats at the different learning spaces</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Science/T2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Science/T2.jpg">
 </div>
 <p>Use of QR code and technology to explore further on the habitats</p>
 <h4><strong>LEARNING BEYOND THE CLASSROOM</strong></h4>
