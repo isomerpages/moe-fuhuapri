@@ -24,7 +24,7 @@ innovation, excellence, and holistic development. They are designed to
 ignite curiosity, foster creativity, and cultivate critical thinking skills
 among our students, empowering them to explore their passions and excel
 in their academic pursuits.</p>
-<p>Discover our distinctive essence through <a href="https://www.fuhuapri.moe.edu.sg/fuhua-experience/signature-programmes/" rel="noopener noreferrer nofollow" target="_blank">Signature Programmes</a>.</p>
+<p>Discover our distinctiveness through <a href="https://www.fuhuapri.moe.edu.sg/fuhua-experience/signature-programmes/" rel="noopener noreferrer nofollow" target="_blank">Signature Programmes</a>.</p>
 <h3>FHPS Virtual Tour</h3>
 <p>Step inside the vibrant world of Fuhua Primary School from the comfort
 of your own home with our immersive virtual tour experience. We are delighted
