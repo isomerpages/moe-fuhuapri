@@ -16,7 +16,7 @@ story with you.</p>
 <p>At Fuhua Primary School, we pride ourselves on offering a diverse range
 of educational experiences, enriching the learning journey of our students
 and preparing them for success in the future.</p>
-<p>Our signature programs represent the culmination of our commitment to
+<p>Our signature programmes represent the culmination of our commitment to
 innovation, excellence, and holistic development. They are designed to
 ignite curiosity, foster creativity, and cultivate critical thinking skills
 among our students, empowering them to explore their passions and excel
