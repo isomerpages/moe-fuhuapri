@@ -52,5 +52,16 @@ and nurture a supportive and inclusive school community.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_rTW_Ra5w0Q?si=f8OuJ2-pkzgDI2_0"></iframe>
 </div>
-<p></p>
+<h2>iLOVE</h2>
+<p>iLOVE, which stands for <strong>I</strong>  <strong>L</strong>ook <strong>O</strong>ut
+for my <strong>V</strong>aluable <strong>E</strong>xperience, is an initiative
+that aims to to motivate the student population, especially latecomers,
+to come early to school, by engaging them with meaningful morning activities.</p>
+<p>The implementation of iLOVE is aligned to MOE’s CCE curriculum intent
+of providing a refreshing platform for the learning of values and social-emotional
+competencies, that will enable them to grow holistically and learn for
+life. Activities such as Art Jamming and gardening not only inculcates
+the value of excellence, the social-emotional competencies of self-awareness
+but also allows students to pick up a hobby which sparks joy, reduce stress
+and enhance creativity.</p>
 <p></p>
