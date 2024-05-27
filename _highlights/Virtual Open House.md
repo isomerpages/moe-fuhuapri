@@ -8,7 +8,7 @@ variant: tiptap
 <p>Welcome to Fuhua Primary School! Wonder how the Fuhua learning experience
 is like? Get a peek into the school grounds, meet our Fuhua GEMs and experience
 our Fuhua culture through the links below.</p>
-<p>Our Signature Programmes</p>
+<h3>Our Signature Programmes</h3>
 <p>At Fuhua Primary School, we pride ourselves on offering a diverse range
 of educational experiences, enriching the learning journey of our students
 and preparing them for success in the future.</p>
