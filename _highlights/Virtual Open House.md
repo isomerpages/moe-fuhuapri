@@ -33,8 +33,6 @@ and bustling campus atmosphere. From the bustling classrooms to the serene
 outdoor areas, every corner of our school reflects our commitment to providing
 an enriching and nurturing environment for our students to thrive.</p>
 <p>Follow our GEMs to explore our school compound through our <a href="https://4d.silversea-media.com/view/fhps360tour/#/" rel="noopener noreferrer nofollow" target="_blank">FHPS 360 Virtual Tour</a>.</p>
-<p></p>
-<p></p>
 <h4>80<sup>th</sup> Anniversary Open House</h4>
 <p>To access our 80th Anniversary virtual open house, please click&nbsp;
 <a href="https://www.youtube.com/watch?v=nDVJfZ4A4W4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
