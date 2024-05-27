@@ -35,8 +35,9 @@ an enriching and nurturing environment for our students to thrive.</p>
 <p>Follow our GEMs to explore our school compound through our <a href="https://4d.silversea-media.com/view/fhps360tour/#/" rel="noopener noreferrer nofollow" target="_blank">FHPS 360 Virtual Tour</a>.</p>
 <p></p>
 <p></p>
-<p></p>
-<p>To access our virtual open house, please click&nbsp;<a href="https://www.youtube.com/watch?v=nDVJfZ4A4W4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>80<sup>th</sup> Anniversary Open House</h4>
+<p>To access our 80th Anniversary virtual open house, please click&nbsp;
+<a href="https://www.youtube.com/watch?v=nDVJfZ4A4W4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bL8rO1XuvDM?si=aChhicYn32WsW8xd"></iframe>
 </div>
