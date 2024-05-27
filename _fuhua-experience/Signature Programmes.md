@@ -62,6 +62,9 @@ of providing a refreshing platform for the learning of values and social-emotion
 competencies, that will enable them to grow holistically and learn for
 life. Activities such as Art Jamming and gardening not only inculcates
 the value of excellence, the social-emotional competencies of self-awareness
-but also allows students to pick up a hobby which sparks joy, reduce stress
-and enhance creativity.</p>
+but also allows stud</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XDtxz8QU0L4?si=moOYfayuaM7cPGV1"></iframe>
+</div>
+<p>ents to pick up a hobby which sparks joy, reduce stress and enhance creativity.</p>
 <p></p>
