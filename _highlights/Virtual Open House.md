@@ -4,7 +4,7 @@ permalink: /highlights/Virtual-Open-House/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Immersing in the Fuhua Experience</strong></h4>
+<h4><strong>2024 Virtual Open House - Immersing in the Fuhua Experience</strong></h4>
 <p>Welcome to Fuhua Primary School! Wonder how is the Fuhua learning experience
 like? Get a peek into the school grounds, meeting our Fuhua GEMs and experiencing
 our Fuhua culture through the links below.</p>
