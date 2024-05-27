@@ -32,7 +32,7 @@ to invite you on a digital journey through the halls of our school, where
 learning comes alive and possibilities are endless.</p>
 <p>As you navigate through this virtual tour, you will have the opportunity
 to explore our state-of-the-art facilities, innovative learning spaces,
-and bustling campus atmosphere. From the bustling classrooms to the serene
+and lively campus atmosphere. From the bustling classrooms to the serene
 outdoor areas, every corner of our school reflects our commitment to providing
 an enriching and nurturing environment for our students to thrive.</p>
 <p>Follow our GEMs to explore our school compound through our <a href="https://4d.silversea-media.com/view/fhps360tour/#/" rel="noopener noreferrer nofollow" target="_blank">FHPS 360 Virtual Tour</a>.</p>
