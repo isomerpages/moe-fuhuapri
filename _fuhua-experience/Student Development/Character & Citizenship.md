@@ -3,6 +3,7 @@ title: Character & Citizenship
 permalink: /fuhua-experience/Student-Development/Character-and-Citizenship/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 Character and Citizenship Education (CCE) has always been at the heart of Singapore’s education system. The global developments that impact our society, such as societal changes, globalisation and technological advancements are taken into consideration in the development of CCE at Fuhua. The design of the school’s CCE curriculum takes reference from MOE’s CCE 2021 Curriculum Framework as shown in Figure 1 and is anchored on the school’s vision, mission and values.
 
@@ -61,8 +62,6 @@ We take great pride in developing caring and responsible students with a pervasi
 **Please click [here](/character-and-citizenship/Values-in-Action-VIA/) for  Values in Action (VIA)**
 
 **Please click [here](/character-and-citizenship/House-System/) for House System**
-
-**Please click [here](/character-and-citizenship/SIXER/) for SIXER**
 
 **Please click [here](/character-and-citizenship/Programme-for-Active-Learning-PAL/) for Programme for Active Learning (PAL)**
 
