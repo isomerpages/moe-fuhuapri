@@ -55,8 +55,8 @@ and nurture a supportive and inclusive school community.</p>
 <h2>iLOVE</h2>
 <p>iLOVE, which stands for <strong>I</strong>  <strong>L</strong>ook <strong>O</strong>ut
 for my <strong>V</strong>aluable <strong>E</strong>xperience, is an initiative
-that aims to to motivate the student population, especially latecomers,
-to come early to school, by engaging them with meaningful morning activities.</p>
+that aims to to motivate the student population to come early to school
+by engaging them with meaningful morning activities.</p>
 <p>The implementation of iLOVE is aligned to MOE’s CCE curriculum intent
 of providing a refreshing platform for the learning of values and social-emotional
 competencies, that will enable them to grow holistically and learn for
