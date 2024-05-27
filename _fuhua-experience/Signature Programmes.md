@@ -30,7 +30,7 @@ These are aligned to Fuhua Primary’s student outcomes of Every Fuhua Gem
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UoDIW5qLC5A?si=mjLJF3uHlSWQYjCx"></iframe>
 </div>
-<h2>SIXER</h2>
+<p>SIXER</p>
 <p>Unique to Fuhua, the SIXER programme aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
