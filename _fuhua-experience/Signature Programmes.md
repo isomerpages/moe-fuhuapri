@@ -37,19 +37,16 @@ These are aligned to Fuhua Primary’s student outcomes of Every Fuhua Gem
 <p>build school pride by fostering a sense of belonging to the school amongst
 Fuhua Gems as they build social and emotional bond with their SIXER group
 and House throughout their stay in the school</p>
-<p></p>
 </li>
 <li>
 <p>provide an opportunity for students to learn, cultivate and emulate our
 school values of Respect, Integrity, Care and Excellence through the SIXER
 activities</p>
-<p></p>
 </li>
 <li>
 <p>hone leadership competencies</p>
 </li>
 </ul>
-<p></p>
 <p>Through this programme, we aim to bolster our students' overall development
 and nurture a supportive and inclusive school community.</p>
 <div class="iframe-wrapper">
