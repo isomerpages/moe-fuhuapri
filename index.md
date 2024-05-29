@@ -4,7 +4,8 @@ title: Fuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The General Office will be closed on 30 May 2024 (Thursday) from
+  10.30am as all our staff will embark on a learning journey.
 sections:
   - hero:
       background: /images/Homepage/HomepageGif.gif
