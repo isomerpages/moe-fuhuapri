@@ -16,7 +16,7 @@ story with you.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mJd0PzZ73UM?si=dfmu4kYa_gPjtPys"></iframe>
 </div>
 <h3>Our Signature Programmes</h3>
-<p>At Fuhua Primary School, we pride ourselves on offering a diverse range
+<p>At Fuhua Primary School, we pride ourselves in offering a diverse range
 of educational experiences, enriching the learning journey of our students
 and preparing them for success in the future.</p>
 <p>Our signature programmes represent the culmination of our commitment to
