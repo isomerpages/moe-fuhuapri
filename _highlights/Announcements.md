@@ -4,6 +4,9 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Staff Learning Journey</h4>
+<p>The General Office will be closed on 30 May 2024 (Thursday) from 10.30am
+as all our staff will embark on a learning journey.</p>
 <h4>Berita Harian Gen G Tiktok &amp; Video Competition</h4>
 <p>In Term 1, the Malay Language Department sent two teams of P4 students
 to participate in a video competition organised by local newspaper, Berita
