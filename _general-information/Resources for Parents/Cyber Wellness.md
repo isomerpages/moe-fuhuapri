@@ -49,12 +49,6 @@ and how to start a conversation with them on screen use. Click <a href="https://
 <br>
 </p>
 </li>
-<li>
-<p>Read on to find out more about each online platform online safety tools
-and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-Listing/Tools-and-resources-for-managing-your-own-safety-online" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>
-</p>
-</li>
 </ul>
 <p><strong>More information:</strong> 
 <br><a href="/files/Resource%20for%20Parents/Cyberwellness/Cyber%20Citizenship%20&amp;%20Identity/act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Act and Scamshield Infographic</a> 
