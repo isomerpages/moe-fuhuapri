@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
-<p></p>
+<h4><strong>Schoolbag Newsletter - When expectations hinder your child</strong></h4>
+<p>A full-time father of three recalls how drilling and pep talks failed
+to motivate his nine-year-old daughter. It was only when he recognised
+that she was driven by empathy rather than academic success that things
+began to change. Find out more <a href="https://www.schoolbag.edu.sg/story/there-are-no-lazy-children-only-parents-making-them-do-what-they-dislike/" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter - Former national swimmer on raising resilient kids</strong></h4>
 <p>How former national swimmer Joscelin Yeo defines success out of the championship
 lanes for her children and what makes the great outdoors the perfect classroom.
