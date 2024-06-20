@@ -9,7 +9,7 @@ description: ""
 with the relevant skills and knowledge. Hence, the school curriculum must
 be robust and designed with the intent of allowing students to hone these
 skills, in particular the 21st century skills. Understanding the current
-education demands, FHPS developed The Fuhua GEM+ Programme which aims to
+education demands, FHPS developed the Fuhua GEM+ Programme which aims to
 enhance students’ subject domain knowledge, develop transferable skills,
 allow students to work collaboratively, strengthen their problem-solving
 and self-management skills. The programme places great premium on students’
