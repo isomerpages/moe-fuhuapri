@@ -190,7 +190,7 @@ variant: tiptap
 <p>Ms Fiona Lei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Aslinda Binte Mohamad Saleh</p>
+<p>Mdm Ong Poh Har</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ variant: tiptap
 <p>Mrs Santi Malaiya Maran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Poh Har</p>
+<p>Mr Julian Lau</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +447,7 @@ variant: tiptap
 <p>Mr Yeo Yee Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Sarah Binte Aziz</p>
+<p>Mdm Faridah Mohamed Ali</p>
 </td>
 </tr>
 <tr>
