@@ -22,7 +22,8 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Fuhua Primary School.</p>
 <h3><strong>Privacy Policy</strong></h3>
-<p>5. Click to review this Web Site Privacy Statement.</p>
+<p>5. Click <a href="https://fuhuapri.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 <h3><strong>Restrictions on Use of Materials</strong></h3>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
