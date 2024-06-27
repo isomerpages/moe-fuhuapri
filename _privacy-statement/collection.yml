@@ -1,5 +1,0 @@
-collections:
-  privacy-statement:
-    output: true
-    order:
-      - Privacy Statement.md
