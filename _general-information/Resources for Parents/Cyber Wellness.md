@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Cyber Wellness Newsletter</strong></h4>
-<p>Access our <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Newsletter</a> to
+<p>Access our <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_3_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Newsletter</a> to
 find out how we can help our children manage their devices.</p>
 <p><strong>Useful Links:</strong> 
 <br>
@@ -197,6 +197,10 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </li>
 <li>
 <p>Newsletter 3: <a href="/files/Resource%20for%20Parents/Cyberwellness/Newsletters/3%20-%20the%20age%20of%20digital%20parenting%20for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">The age of digital parenting</a>
+</p>
+</li>
+<li>
+<p>Newsletter 4: <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Helping Our Students Choose Kindness</a>
 </p>
 </li>
 </ul>
