@@ -199,5 +199,9 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 <p>Newsletter 3: <a href="/files/Resource%20for%20Parents/Cyberwellness/Newsletters/3%20-%20the%20age%20of%20digital%20parenting%20for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">The age of digital parenting</a>
 </p>
 </li>
+<li>
+<p>Newsletter 4: <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Helping Our Students Choose Kindness</a>
+</p>
+</li>
 </ul>
 <p></p>
