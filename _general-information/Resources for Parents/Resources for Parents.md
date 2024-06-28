@@ -44,6 +44,9 @@ us:</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_2.jpg">
+</div>
 <h4><strong>Health Activity Playbook</strong></h4>
 <p>Health Promotion Board (HPB) is pleased to share the 'Health Activity
 Playbook'&nbsp; for parents! Click <a href="/files/Resource for Parents/playbookedm.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to see the poster
