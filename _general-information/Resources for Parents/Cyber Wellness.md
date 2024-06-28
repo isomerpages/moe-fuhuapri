@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Cyber Wellness Newsletter</strong></h4>
-<p>Access our <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Newsletter</a> to
+<p>Access our <a href="/files/Term_3_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Newsletter</a> to
 find out how we can help our children manage their devices.</p>
 <p><strong>Useful Links:</strong> 
 <br>
