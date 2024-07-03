@@ -2,12 +2,11 @@
 title: Contact Us
 permalink: /general-information/Contact-Us/
 description: ""
+variant: markdown
 ---
 **Address :**      65 Jurong East St 13, Singapore 609647
 
 **Telephone:** 65624370
-
-**Fax:** 65639542
 
 **Email:** fhps@moe.edu.sg
 
