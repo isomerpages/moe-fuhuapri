@@ -10,11 +10,6 @@ Our Primary 2 Drama Programme at Fuhua Primary ignites creativity and imaginatio
 
 Please click [here](https://www.youtube.com/watch?v=8wrtNTPAxUQ) to watch the performance. 
 
-
-
-
-
-
 ##### **2024 Primary 5 Camp**
 In January, our Primary 5 students had a meaningful time participating in a 3D2N camp. The camp aims to:
 * equip students to adapt to a dynamic environment, 
