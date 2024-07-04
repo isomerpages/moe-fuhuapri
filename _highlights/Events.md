@@ -4,6 +4,17 @@ permalink: /highlights/events/
 description: ""
 variant: markdown
 ---
+##### **2024 P2 Speech &amp; Drama**
+       
+Our Primary 2 Drama Programme at Fuhua Primary ignites creativity and imagination into our young learners through engaging and interactive activities. Students explore role-playing, storytelling, and expressive movement, developing self-confidence and communication skills. The programme fosters teamwork, and personal growth, culminating in an end-of-term performance that showcases their talents. We are proud to present to you our P2 students' artistic journeys and celebrate their holistic development.
+
+Please click [here](https://www.youtube.com/watch?v=8wrtNTPAxUQ) to watch the performance. 
+
+
+
+
+
+
 ##### **2024 Primary 5 Camp**
 In January, our Primary 5 students had a meaningful time participating in a 3D2N camp. The camp aims to:
 * equip students to adapt to a dynamic environment, 
