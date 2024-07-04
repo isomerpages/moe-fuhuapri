@@ -36,6 +36,12 @@ and lively campus atmosphere. From the bustling classrooms to the serene
 outdoor areas, every corner of our school reflects our commitment to providing
 an enriching and nurturing environment for our students to thrive.</p>
 <p>Follow our GEMs to explore our school compound through our <a href="https://4d.silversea-media.com/view/fhps360tour/#/" rel="noopener noreferrer nofollow" target="_blank">FHPS 360 Virtual Tour</a>.</p>
+<h3>2023 e-Yearbook</h3>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/fhpseyearbook2023"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/2023_FHPS_E_Yearbook_.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/https___go_gov_sg_fhpseyearbook2023.png">
+</div>
 <h3>80<sup>th</sup> Anniversary Open House</h3>
 <p>To access our 80th Anniversary virtual open house, please click&nbsp;
 <a href="https://www.youtube.com/watch?v=nDVJfZ4A4W4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
