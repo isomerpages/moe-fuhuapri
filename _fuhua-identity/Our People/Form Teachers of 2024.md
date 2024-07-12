@@ -146,7 +146,7 @@ variant: tiptap
 <p>Mrs Tang Poey Pei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luke Mahendran Janarthanam</p>
+<p>Ms Tan Yun Ru Bernice</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ variant: tiptap
 <p>Mrs Santi Malaiya Maran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Julian Lau</p>
+<p>Ms Sim Jia Ning</p>
 </td>
 </tr>
 <tr>
