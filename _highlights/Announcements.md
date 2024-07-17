@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h4>83rd Founders' Day Celebrations</h4>
-<p>Join u live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
+<p>Join us live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
 our cake-cutting ceremony.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_170536.png">
 </div>
-<p>Join u live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
+<p>Join us live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
 our Prize-Giving ceremony.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_170808_Prize_giving.png">
