@@ -13,7 +13,7 @@ our cake-cutting ceremony.</p>
 <p>Join us live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
 our Prize-Giving ceremony.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_170808_Prize_giving.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_170808_Prize_giving.png">
 </div>
 <h4>Staff Learning Journey</h4>
 <p>The General Office will be closed on 30 May 2024 (Thursday) from 10.30am
