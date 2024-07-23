@@ -3,6 +3,7 @@ title: Admission
 permalink: /general-information/School-Administration/Admission/
 description: ""
 third_nav_title: School Administration
+variant: markdown
 ---
 ### **Primary One Admission**
 
@@ -54,7 +55,7 @@ Schools will charge an annual nominal fee for a child on LOA. The amount will be
 
 Follow these steps to apply for LOA:
 
-1\. Complete and submit an [application form](https://form.gov.sg/6360d00440fcd300125f7d91).  
+1\. Complete and submit an [application form](https://form.gov.sg/6668db3bcf3daf735158e45b).  
 2\. LOA application is subject to the Principal’s approval, and the school will notify you of the outcome.  
 3\. Upon approval, the school will inform you of the amount payable. Enclose a cheque made payable to the school or make a cash payment at the school. Please do not send cash by post.  Alternative payment mode may be provided upon request, please email us at [fhps@moe.edu.sg](mailto:fhps@moe.edu.sg).      
 4\. Renew LOA in **November** each year by submitting the renewal application form together with the required payment.  Your child’s LOA status will expire if you choose not to renew.
