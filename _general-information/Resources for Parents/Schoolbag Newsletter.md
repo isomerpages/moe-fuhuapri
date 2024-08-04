@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
+<h4><strong>Schoolbag Newsletter -Math plus empathy equals growth</strong></h4>
+<p>Ms Kua Li En journeys with students facing difficulties, and views school
+activities such as debates as opportunities to instil empathy and promote
+perspective taking. Find out more <a href="https://www.schoolbag.edu.sg/story/shes-there-for-students-who-come-to-school-to-be-loved/?utm_source=sb+edm+article&amp;utm_medium=newsletter&amp;utm_campaign=oyea2024" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter - When expectations hinder your child</strong></h4>
 <p>A full-time father of three recalls how drilling and pep talks failed
 to motivate his nine-year-old daughter. It was only when he recognised
