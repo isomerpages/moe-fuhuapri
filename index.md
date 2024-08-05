@@ -4,8 +4,7 @@ title: Fuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click on Announcements to find out more about our 83rd Founders'
-  Day celebrations!
+notification: Join our virtual open house and immerse in the Fuhua Experience!
 sections:
   - hero:
       background: /images/Homepage/HomepageGif.gif
