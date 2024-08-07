@@ -4,6 +4,23 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Fuhua Caring Teacher Award</h4>
+<p>The Caring Teacher Award is one of the school staff recognition awards
+that aims at acknowledging and rewarding teachers who through their daily
+deeds and actions, exemplify the values of care and concern for the academic,
+social and emotional welfare of their students. The award is open to all
+teaching staff in FHPS.</p>
+<p>Got an amazing teacher who's not just all about lessons but also cares
+deeply? Nominated them for the FHPS Caring Teacher Award 2024! Let's celebrate
+those who make learning awesome.</p>
+<p>As Teachers' Day is approaching, what better way to affirm our teachers.
+Get Ready to Nominate! Last day of submission: 20th August 2024.</p>
+<p>Click <a href="https://go.gov.sg/fhps-cta2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+nominate!</p>
+<div class="iframe-wrapper">
+<iframe height="363" width="645" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yj5Qm02CjI8"></iframe>
+</div>
+<p></p>
 <h4>83rd Founders' Day Celebrations</h4>
 <p>Join us live on <a href="https://go.gov.sg/fhpsfb" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for
 our cake-cutting ceremony.</p>
