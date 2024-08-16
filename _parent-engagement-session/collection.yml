@@ -2,6 +2,7 @@ collections:
   parent-engagement-session:
     output: true
     order:
+      - 2024 Parent Engagement Session.md
       - 2023 Parent Engagement Session.md
       - 2022 Parent Engagement Sessions.md
       - 2021 Start of the Year Parent Engagement Session.md
