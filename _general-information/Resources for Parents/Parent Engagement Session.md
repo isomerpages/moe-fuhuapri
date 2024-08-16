@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Resources for Parents
 variant: markdown
 ---
+Please Click here for [2024 Parent Engagement Sessions](/parent-engagement-session/2024-parent-engagement-sessions/)
+
 Please Click here for [2023 Parent Engagement Sessions](/parent-engagement-session/2023-parent-engagement-sessions/)
 
 Please Click here for [2022 Parent Engagement Sessions](/parent-engagement-session/2022-Parent-Engagement-Sessions/)
@@ -12,4 +14,3 @@ Please Click here for [2022 Parent Engagement Sessions](/parent-engagement-sessi
  Please Click here for  [2021 Start of the Year Parent Engagement Session](/parent-engagement-session/2021-Start-of-the-Year-Parent-Engagement-Session/)
 
  Please Click here for [2021 Mid-Year Parent Engagement Session](/parent-engagement-session/2021-Mid-Year-Parent-Engagement-Session/)
-
