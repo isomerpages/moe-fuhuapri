@@ -38,8 +38,8 @@ Primary 4 Assessment</p>
 Primary 5 Assessment</p>
 <p>Click <a href="https://fuhuapri.moe.edu.sg/assessment/Primary-6/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Primary 6 Assessment</p>
-<p>Click <a href="/end-of-year-eoy-exam-schedule/" rel="noopener nofollow" target="_blank">here</a> to
-view the End of Year (EOY) Exam Schedule.</p>
+<p>Click <a href="/end-of-year-examination-eye-schedule/" rel="noopener nofollow" target="_blank">here</a> to
+view the End of Year Examination (EYE) Schedule.</p>
 <h4><strong>School Policy on Absence From Assessment</strong></h4>
 <p>For students who are absent from any school-based assessment, a valid
 Medical Certificate <strong>(MC) </strong>is required to cover their absence.
