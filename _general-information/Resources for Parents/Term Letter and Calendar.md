@@ -38,4 +38,15 @@ third_nav_title: Resources for Parents
 </p>
 </li>
 </ol>
+<h4><strong>Term 4</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/FHPS_T4_2024_Letter__final_.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/FHPS_T4_2024_Calendar__final_.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
+</p>
+</li>
+</ol>
 <p></p>
