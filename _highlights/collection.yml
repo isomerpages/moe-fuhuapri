@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Gem's Perspectives.md
       - Virtual Open House.md
       - Announcements.md
       - Events.md
