@@ -37,6 +37,10 @@ key to understand the younger ones. They might not understand the words
 we used and they would ask questions. We have to be patient when answering
 them and not brush them off. We have to treat others the way we want to
 be treated.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Germaine_Lim_4_Dil.jpg">
+</div>
 <p><strong>LIN ZHIXIN GERMAINE (Primary 4 Diligence)</strong>
 </p>
 <p></p>
@@ -59,6 +63,10 @@ had to communicate with one another where our stops were so that the area
 was not crowded. Lastly, I learnt to be brave and try new things. This
 valuable experience was really meaningful to me. If I had the opportunity
 to do this again, I would not hesitate to say yes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Idris_4_Care.jpg">
+</div>
 <p>&nbsp;<strong>IDRIS BIN MURSED (Primary 4 Care)</strong>
 </p>
 <h4><strong><u>My Experience at the National School Games (Floorball)</u></strong></h4>
@@ -115,7 +123,15 @@ able to compete next year as we do not have enough players to make up a
 team to enter ourselves in the Senior Division Games. I am grateful to
 our teachers-in-charge for sacrificing their time to chaperone us. I will
 always remember the friendships I forged with the members of this team.</p>
-<p>&nbsp;<strong>Keane Wang (Primary 5 Trust)</strong>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Floorball_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Floorball_1.png">
+</div>
+<p><strong>Keane Wang (Primary 5 Trust)</strong>
 </p>
 <p></p>
 <p>&nbsp;</p>
