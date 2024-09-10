@@ -4,6 +4,11 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Careers Day 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Careers_Day_publicity.png">
+</div>
 <h4>Fuhua Caring Teacher Award</h4>
 <p>The Caring Teacher Award is one of the school staff recognition awards
 that aims at acknowledging and rewarding teachers who through their daily
