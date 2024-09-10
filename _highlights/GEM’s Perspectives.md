@@ -4,8 +4,7 @@ permalink: /gem-s-perspectives/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Kindergarten Tour Experience</u></strong>
-</p>
+<h4><strong><u>Kindergarten Tour Experience</u></strong></h4>
 <p>Recently, some P4 prefects had a chance to bring Kindergarten 2 (K2) students
 from preschools in Jurong East around the school. We were privileged to
 show them the school to have an experience as a life of a Primary 1 student.&nbsp;I
@@ -62,6 +61,61 @@ valuable experience was really meaningful to me. If I had the opportunity
 to do this again, I would not hesitate to say yes.</p>
 <p>&nbsp;<strong>IDRIS BIN MURSED (Primary 4 Care)</strong>
 </p>
-<p><strong><br><br></strong>
+<h4><strong><u>My Experience at the National School Games (Floorball)</u></strong></h4>
+<p>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I have been
+a member of the Fuhua Primary School Floorball Co-Curricular Activity (CCA)
+since Primary 4. A year on, I was overjoyed when my CCA teachers-in-charge
+(Ms Alicia Khong, Mdm Nurul Ain and Ms Shamira) announced that a group
+of us would be chosen to represent our school for the National School Games
+(Junior Division). This was the first time Fuhua Primary School would send
+a Floorball team to compete in the National School Games. As one of the
+eighteen members chosen, I felt very honoured and could not wait to put
+my best foot forward in time to come.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Since Term 1 this year, we have had an extra day of training on Monday
+afternoons, between 3 and 5 p.m. Towards the end of January, we were asked
+to place orders for the competition jerseys. During the term break in March,
+we came back to school to work on our techniques and explore various play
+strategies.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+On the 29<sup>th</sup> of April, our teachers arranged for us to play a
+friendly game against the team from Fernvale Primary School, a school in
+the North-East of Singapore. Fernvale Primary School was ranked a Tier
+1 team when they played in the Games in 2023, which meant that it was a
+strong team. Although we lost, it helped our team have a feel of how it
+was like to play against players from another school and to learn from
+them.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Between the 6<sup>th</sup> of May and the 15<sup>th</sup> of July, we went
+through what was known as the Pool Round, in which we played against schools
+randomly placed in the same group (BC2) as us. They were Riverside Primary
+School, Unity Primary School and Fern Green Primary School. We were ranked
+&nbsp;second within this group, with Riverside Primary School taking the
+lead.</p>
+<p>From that Pool Round, we were classified in a Tier 3 group, as our school
+is a school without prior experience at the Games for Floorball.&nbsp;
+We were assigned to Group B3, where we would compete against Mee Toh Primary
+School, Radin Mas Primary School and Canossa Catholic Primary School. These
+matches took place between the 31<sup>st</sup> of July and the 16<sup>th</sup> of
+August.</p>
+<p>I was very privileged to have my mother and younger sister take time to
+go to the various venues where the matches were held to support the team.
+We had family members of a couple of my teammates come to watch a couple
+of games too. They were cheering their hearts out as we chased after every
+ball, guarded our goal posts and blocked every attempt made by the opponents
+at scoring.</p>
+<p>I recall feeling the jitters before every match and often felt that we
+would never beat another school, especially one which had prior experience
+at the Games. Often, our coach would be passionately shouting instructions
+during the matches to spur us on and push us to keep fighting. At the end
+of this 2024 season, we emerged victorious as the winner of Group B3!</p>
+<p>I am truly thankful to be given the opportunity to experience competing
+in the National School Games and slightly dismayed that I would not be
+able to compete next year as we do not have enough players to make up a
+team to enter ourselves in the Senior Division Games. I am grateful to
+our teachers-in-charge for sacrificing their time to chaperone us. I will
+always remember the friendships I forged with the members of this team.</p>
+<p>&nbsp;<strong>Keane Wang (Primary 5 Trust)</strong>
 </p>
+<p></p>
 <p>&nbsp;</p>
