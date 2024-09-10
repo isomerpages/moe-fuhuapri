@@ -125,7 +125,7 @@ our teachers-in-charge for sacrificing their time to chaperone us. I will
 always remember the friendships I forged with the members of this team.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Floorball_3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Floorball_3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
