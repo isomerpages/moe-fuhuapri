@@ -47,6 +47,16 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_2.jpg">
 </div>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2024/3</a>
+</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fuhua_heartbeeat_2024_3.png">
+</div>
 <h4><strong>Health Activity Playbook</strong></h4>
 <p>Health Promotion Board (HPB) is pleased to share the 'Health Activity
 Playbook'&nbsp; for parents! Click <a href="/files/Resource for Parents/playbookedm.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to see the poster
