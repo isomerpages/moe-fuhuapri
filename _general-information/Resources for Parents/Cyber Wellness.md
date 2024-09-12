@@ -203,5 +203,9 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 <p>Newsletter 4: <a href="/files/Resource for Parents/Cyberwellness/Newsletters/Term_2_CW_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Helping Our Students Choose Kindness</a>
 </p>
 </li>
+<li>
+<p>Newsletter 5: <a href="https://www.fuhuapri.moe.edu.sg/files/Resource%20for%20Parents/Cyberwellness/Newsletters/Term_3_CW_Newsletter.pdf" rel="noopener nofollow" target="_blank">Navigating the world of AI Tools</a>
+</p>
+</li>
 </ul>
 <p></p>
