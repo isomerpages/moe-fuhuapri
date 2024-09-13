@@ -2,12 +2,10 @@
 title: Home Based Learning
 permalink: /fuhua-experience/Home-Based-Learning/
 description: ""
+variant: markdown
 ---
 ![](/images/Fuhua%20Experience/Home%20Based%20Learning/H1.png)
 
-#### **Information on Home Based Learning**
-
-For information on FHBL, please click [_here_](https://go.gov.sg/fhps).  
 
 #### **MOE Parent Kit** 
 
