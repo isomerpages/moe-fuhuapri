@@ -131,7 +131,7 @@ always remember the friendships I forged with the members of this team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/Floorball_1.png">
 </div>
-<p><strong>Keane Wang (Primary 5 Trust)</strong>
+<p><strong>KEANE WANG (Primary 5 Trust)</strong>
 </p>
 <p></p>
 <p>&nbsp;</p>
