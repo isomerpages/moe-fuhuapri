@@ -24,3 +24,8 @@ in the digital age.</p>
 </ul>
 <p>Please click <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the refreshed guidelines.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_1.jpg">
+</div>
+<p></p>
