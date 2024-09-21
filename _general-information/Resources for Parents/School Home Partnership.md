@@ -27,6 +27,10 @@ in the digital age.</p>
 the refreshed guidelines.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_2.jpg">
 </div>
 <p></p>
