@@ -3,7 +3,24 @@ title: School Home Partnership
 permalink: /general-information/resource-for-parents/schoolhomepartnership/
 description: ""
 third_nav_title: Resources for Parents
+variant: tiptap
 ---
-The Ministry of Education (MOE) has released a set of guidelines on the development of positive school-home partnerships. The guidelines were officially announced by Senior Parliamentary Secretary for Education, Associate Professor Muhammad Faishal, on 16 February 2019, at a parent engagement event at Yu Neng Primary School.
-
-For more information on MOE Guidelines for School-Home Partnership, please click on the link [here](/files/Resource%20for%20Parents/Home%20School%20Partnership/guidelines-for-school-home-partnership.pdf).
+<p>In efforts of Strengthening Collaboration between Parents and Teachers,
+the Ministry of Education (MOE) has released refreshed guidelines for School-Home
+Partnership (GSHP). These guidelines were shared by Minister for Education
+Chan Chun Sing at Schools Work Plan Seminar on 18 September 2024.</p>
+<p>To raise a happy, confident and kind generation, schools and parents will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>communicate respectfully with each other;</p>
+</li>
+<li>
+<p>be good role models to our children;</p>
+</li>
+<li>
+<p>and support our children to develop strong relationships and healthy habits
+in the digital age.</p>
+</li>
+</ul>
+<p>Please click <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the refreshed guidelines.</p>
