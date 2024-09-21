@@ -6,7 +6,7 @@ third_nav_title: Resources for Parents
 variant: tiptap
 ---
 <p>In efforts of Strengthening Collaboration between Parents and Teachers,
-the Ministry of Education (MOE) has released refreshed guidelines for School-Home
+the Ministry of Education (MOE) has released refreshed Guidelines for School-Home
 Partnership (GSHP). These guidelines were shared by Minister for Education
 Chan Chun Sing at Schools Work Plan Seminar on 18 September 2024.</p>
 <p>To raise a happy, confident and kind generation, schools and parents will:</p>
