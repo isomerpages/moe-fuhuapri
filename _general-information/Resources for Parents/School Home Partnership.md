@@ -9,7 +9,8 @@ variant: tiptap
 the Ministry of Education (MOE) has released refreshed Guidelines for School-Home
 Partnership (GSHP). These guidelines were shared by Minister for Education
 Chan Chun Sing at Schools Work Plan Seminar on 18 September 2024.</p>
-<p>To raise a happy, confident and kind generation, schools and parents will:</p>
+<p>To raise a happy, confident and kind generation together, schools and
+parents will:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>communicate respectfully with each other;</p>
