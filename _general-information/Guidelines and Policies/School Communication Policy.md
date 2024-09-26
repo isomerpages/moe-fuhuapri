@@ -104,7 +104,7 @@ Heads (SHs) / Level Heads (LHs) / school Staff Developer (SSD)</p>
 <p>Finance / Admissions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Choi Khuan (Admin Manager), Ms Sangeetha d/o V Nadarajaan (Admin
+<p>Ms Loy Choi Khuan (Admin Manager) / Ms Sangeetha d/o V Nadarajaan (Admin
 Manager)</p>
 </td>
 </tr>
