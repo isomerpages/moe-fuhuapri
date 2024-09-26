@@ -25,8 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Choi Khuan</p>
-<p>Ms Sangeetha d/o V Nadarajaan</p>
+<p>Ms Loy Choi Khuan / Ms Sangeetha d/o V Nadarajaan</p>
 </td>
 </tr>
 <tr>
