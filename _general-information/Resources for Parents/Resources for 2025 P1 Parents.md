@@ -17,9 +17,9 @@ third_nav_title: Resources for Parents
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>&nbsp;Date: </strong>Friday, 15 November 2024</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Date:</strong> Friday, 15 November 2024</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
