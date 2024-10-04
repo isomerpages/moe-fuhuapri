@@ -40,52 +40,28 @@ pm</p>
 </tbody>
 </table>
 <h4><strong><u>Year-End Sales of Textbooks &amp; Uniforms</u></strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&nbsp;Dates of Sale</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>18, 19, 20, 21, 22, 25, 26 November</strong>
+<p>&nbsp;Dates of Sale:<strong>18, 19, 20, 21, 22, 25, 26 November, 4, 5, 11, 12, 13, 16, 17, 26, 27, 30 December</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4, 5, 11, 12, 13, 16, 17, 26, 27, 30 December</strong>
-</p>
+<p><strong>FAS Collection Dates: </strong>11, 12, 13 December</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FAS Collection Dates&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11, 12, 13 December</p>
+<p><strong>Operating Hours: </strong>9 am to 3 pm</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 am to 3 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
