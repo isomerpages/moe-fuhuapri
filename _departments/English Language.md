@@ -183,6 +183,6 @@ group contributions towards shared goals of meaningfully conveying the
 intended messages to the audience. In an environment that is loving and
 flexible, never critical or pressurizing, we see how much they have blossomed
 since the start of the programme.</p>
-<p>You can watch the P1 performance 2024 <a href="https://www.youtube.com/watch?v=7aNJCu2G2Hk" rel="noopener nofollow" target="_blank">here.</a>
+<p>You can watch the 2024 P1 performance <a href="https://www.youtube.com/watch?v=7aNJCu2G2Hk" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
