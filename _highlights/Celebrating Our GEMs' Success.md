@@ -4,21 +4,21 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>MOE Service Excellence Award (MSEA) </strong></h4>
+<h4><strong>MOE Service Excellence Award (MSEA)</strong></h4>
 <p>The MSEA is an MOE-wide award that recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
 with C.A.R.E (Collaborate, Anticipate, Reach out, Empathise) and inspire
 their colleagues to do likewise.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/4.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/4.png">
 </div>
 <h4><strong>Academy Award for Professional Development</strong></h4>
 <p>The&nbsp;<strong>Academy Awards (AA) for Professional Development</strong>&nbsp;recognise
@@ -26,7 +26,7 @@ and affirm the efforts of officers in the education service and partners
 in education for their contributions to the professional development of
 the teaching fraternity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/5.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/5.png">
 </div>
 <h4><strong>Green Schools @ South West 2023 Award</strong></h4>
 <p></p>
