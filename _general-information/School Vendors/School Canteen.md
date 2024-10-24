@@ -79,7 +79,7 @@ certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
-documents to the school’s General Office or email to&nbsp;<a href="mailto:Sangeetha_V_%20Nadarajaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_V_ </a>
+documents to the school’s General Office or email to&nbsp;<a href="mailto:Sangeetha_V_%20Nadarajaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_V_</a>
 <a rel="noopener noreferrer nofollow" target="_blank">Nadarajaan@schools.gov.sg</a>(Attention: Administration Manager) by the
 closing date <strong>14 November, 5.00 pm</strong>. We regret that late
 applications will not be accepted.</p>
