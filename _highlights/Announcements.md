@@ -4,6 +4,11 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>School Canteen Vacancy </h4>
+<p>Fuhua Primary School is inviting interested applicants to operate a
+<br>“<strong>Korean/Japanese</strong>”&nbsp;stall in our school canteen. For
+more details, please click</p>
+<p></p>
 <h4>Careers Day 2024</h4>
 <p></p>
 <div class="isomer-image-wrapper">
