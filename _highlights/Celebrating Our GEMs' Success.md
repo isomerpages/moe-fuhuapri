@@ -28,12 +28,11 @@ the teaching fraternity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/5.png">
 </div>
-<h4><strong>Green Schools @ South West 2023 Award</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/SYF_Announcement_2024.jpg">
 </div>
-<h5></h5>
+<h4><strong>Green Schools @ South West 2023 Award</strong></h4>
 <p>Our school has achieved the prestigious Three Stars in the Green Schools
 @ Southwest Award for 2023: Public Health Star, Environment Protection
 Star, and Junior Environment Ambassadors Stars (JEA).</p>
