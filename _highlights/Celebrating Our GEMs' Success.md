@@ -4,6 +4,14 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2024 CCA Recognition &amp; Awards</strong></h4>
+<h4>Singapore Youth Festival</h4>
+<p></p>
+<h4>National School Games</h4>
+<h4></h4>
+<h4>Others</h4>
+<p></p>
+<p></p>
 <h4><strong>MOE Service Excellence Award (MSEA)</strong></h4>
 <p>The MSEA is an MOE-wide award that recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
@@ -29,9 +37,6 @@ the teaching fraternity.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/5.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/SYF_Announcement_2024.jpg">
-</div>
 <h4><strong>Green Schools @ South West 2023 Award</strong></h4>
 <p>Our school has achieved the prestigious Three Stars in the Green Schools
 @ Southwest Award for 2023: Public Health Star, Environment Protection
