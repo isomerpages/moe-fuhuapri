@@ -5,9 +5,41 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2024 CCA Recognition &amp; Awards</strong></h4>
-<h4>Singapore Youth Festival</h4>
-<p></p>
 <h4>National School Games</h4>
+<p></p>
+<h4>Singapore Youth Festival</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide4.jpg">
+</div>
+<h4></h4>
 <h4></h4>
 <h4>Others</h4>
 <p></p>
