@@ -5,45 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Resources for Parents
 ---
-<h4><strong><u>2025 Primary 1 Orientation</u></strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Date:</strong> Friday, 15 November 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Venue:</strong> Fuhua Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time:</strong> 8.30 am to 10.30 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Purchase of textbooks &amp; uniforms:</strong> 10.30 am to 12.30
-pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><strong><u>2025 Primary 1 Orientation on 15 November 2024</u></strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2025 P1 parents/1__P1_2025_Orientation___VPA_BRIEFING.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Briefing by VP Admin</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2025 P1 parents/3__FHPS_P1_2025_Orientation_Admin_Matters.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Admin Matters</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2025 P1 parents/2__2025_P1_Orientation_N4S_20241115.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation by N4S</a>
+</p>
+</li>
+</ol>
 <h4><strong><u>Year-End Sales of Textbooks &amp; Uniforms</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
