@@ -9,3 +9,4 @@ variant: markdown
 |-----------------------|-----------------------------------------------------------|
 | **ICT Associate**     | Mr Lam Xiao Liang 
 | **Desktop Engineer** | Mr Anish Thiiagu  |
+| **Desktop Engineer** | Mr Joe Tan  |
