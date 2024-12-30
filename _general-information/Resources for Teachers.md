@@ -50,10 +50,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/fuhuasone-stophelpdesk/home?pli=1&amp;authuser=7" rel="noopener noreferrer nofollow" target="_blank">Fuhua's One-Stop Helpdesk</a>
-</p>
-</li>
-<li>
 <p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Forms Builder</a>
 </p>
 </li>
