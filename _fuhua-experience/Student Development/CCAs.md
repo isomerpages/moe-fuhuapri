@@ -166,7 +166,6 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
 <br>Mr Ching Khee Yoll
-<br>Ms Jasmine Wong Jing Xin
 <br>Mr Shawn</p>
 </td>
 </tr>
