@@ -4,6 +4,12 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>MOE Innergy Award </strong></h4>
+<h4>The MOE Innergy Award aims to recognise individuals/teams at the ministry level, for successfully developing and implementing innovations to bring about <strong>significant benefits and impact</strong> in their workplaces.</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/innergy_awards.jpg">
+</div>
 <h4><strong>2024 CCA Recognition &amp; Awards</strong></h4>
 <h4>National School Games</h4>
 <div class="isomer-image-wrapper">
