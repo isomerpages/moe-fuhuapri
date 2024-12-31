@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Loyalty</p>
+<p>2 Frugality</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurul Asyikin Binte Norman</p>
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>2 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kho Mui Leng Selina</p>
@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Trust</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shamira Binte Jamaludin</p>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Hope</p>
+<p>2 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zunairah Binte Janis</p>
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Joy</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kitha Arumugam</p>
@@ -269,6 +269,7 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Haslina Binte Ishak</p>
 <p>Mrs Santi Malaiya Maran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,7 +398,7 @@ variant: tiptap
 <p>Mdm Ng Baohui Sherline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslina Binte Ishak</p>
+<p></p>
 </td>
 </tr>
 <tr>
