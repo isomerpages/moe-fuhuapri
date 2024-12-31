@@ -445,7 +445,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Diligence</p>
+<p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Wei Ting</p>
@@ -457,7 +457,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Loyalty</p>
+<p>5 Frugality</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wei'En Nicholas</p>
@@ -470,7 +470,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Xiao Tian</p>
@@ -482,7 +482,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Trust</p>
+<p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Lee Nai Fern Rachel</p>
@@ -494,7 +494,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Hope</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alicia Khong</p>
