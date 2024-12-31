@@ -29,6 +29,130 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Tang Poey Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ler Jia Yi</p>
+<p>Ms Tan Yun Ru Bernice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fiona Lei</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Kee Leong</p>
+<p>Mr Ong Wei Loon Daryl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Masni Binte Hassan</p>
+<p>Ms Norfarishah Asherina Binte Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yang Jun</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Frugality</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms A. Sumathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhuang Xiaojuan</p>
+<p>Ms Lee Xiao Tian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Honesty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Kui Shin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Malik Bin Mazlan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faridah Mohamed Ali</p>
+<p>Mdm Nuruljannah Binte Azeman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Yen Yen</p>
+<p>Mdm Meharaj Begum&nbsp;Binte Mohd Mustafa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Diana Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Ain Binte Suprat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Yilong, Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Poh Har</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Eunice Teng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Dhanya Nair</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +211,7 @@ variant: tiptap
 <p>Mdm Zunairah Binte Janis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Diana Tan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -120,108 +244,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tang Poey Pei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yun Ru Bernice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Kui Shin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Wei Loon Daryl</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Loyalty</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Norfarishah Asherina Binte Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhuang Xiaojuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Yilong, Jonathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Xiao Tian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Trust</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fiona Lei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Poh Har</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Hope</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nuruljannah Binte Azeman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Meharaj Begum&nbsp;Binte Mohd Mustafa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Manager</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Fiona Lei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Eunice Teng</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Primary 3</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -583,7 +605,7 @@ variant: tiptap
 <p>6 Trust</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Ain Binte Suprat</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thong Kok Leung</p>
