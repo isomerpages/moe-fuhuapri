@@ -56,7 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Yang Jun</p>
-<p></p>
 </td>
 </tr>
 <tr>
