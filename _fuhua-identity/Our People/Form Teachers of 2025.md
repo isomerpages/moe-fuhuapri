@@ -130,6 +130,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Primary 2</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -150,24 +151,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Dhanya Nair</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Xing</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Dhanya Nair</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Diligence</p>
+<p>2 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Aini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sung Huimin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Kee Leong</p>
 </td>
 </tr>
 <tr>
@@ -186,10 +187,10 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Shi Jia Clara</p>
+<p>Mdm Kho Mui Leng Selina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kho Mui Leng Selina</p>
+<p>Ms Foo Shi Jia Clara</p>
 </td>
 </tr>
 <tr>
@@ -197,10 +198,10 @@ variant: tiptap
 <p>1 Trust</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Ying Ting</p>
+<p>Ms Shamira Binte Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamira Binte Jamaludin</p>
+<p>Ms Koh</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +212,7 @@ variant: tiptap
 <p>Mdm Zunairah Binte Janis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yeo Sok Hoon</p>
 </td>
 </tr>
 <tr>
@@ -219,10 +220,10 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Shofurah Binte Rahmad</p>
+<p>Ms Kitha Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pradeebha Veerapandian</p>
+<p>Mdm Siti Shofurah Binte Rahmad</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +244,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 2</strong></h4>
+<p></p>
 <h4><strong>Primary 3</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -326,7 +327,7 @@ variant: tiptap
 <p>Ms Ler Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Sok Hoon</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -502,7 +503,7 @@ variant: tiptap
 <p>Mr Siah Kai Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kitha Arumugam</p>
+<p></p>
 </td>
 </tr>
 <tr>
