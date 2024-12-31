@@ -3,7 +3,7 @@ title: CCAs
 permalink: /fuhua-experience/student-development/ccas/
 description: ""
 third_nav_title: Student Development
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>CCA @ FHPS</strong></h4>
 <p>Fuhua’s CCA Programme provides students with a wide range of programmes
@@ -154,7 +154,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Yilong, Jonathan*
-<br>Mdm Sumathi<br>Ms Goh Gey Puay Esther</p>
+<br>Mdm Sumathi
+<br>Ms Goh Gey Puay Esther</p>
 </td>
 </tr>
 <tr>
@@ -166,26 +167,16 @@ in our students.</p>
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
 <br>Mr Ching Khee Yoll
 <br>Ms Jasmine Wong Jing Xin
-<br>Mr Shawn
-</p></td>
+<br>Mr Shawn</p>
+</td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Visual and performing arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/ccas/Art-and-Crafts/" rel="noopener noreferrer nofollow" target="_blank"><u>Art and Crafts</u></a>
-<br>(Boys &amp; Girls)
-<br>
-</p>
+<br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Malik Bin Mazlan*
@@ -196,9 +187,7 @@ in our students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/ccas/Brass-Band/" rel="noopener noreferrer nofollow" target="_blank"><u>Brass Band</u></a>
-<br>(Boys &amp; Girls)
-<br>
-</p>
+<br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Diana Teoh Jia Yan*
@@ -209,9 +198,7 @@ in our students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/ccas/Choir/" rel="noopener noreferrer nofollow" target="_blank"><u>Choir</u></a>
-<br>(Boys &amp; Girls)
-<br>
-</p>
+<br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pagsibigan Jemaima Agustin*
@@ -225,7 +212,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Avenir Janna Francesca Guinto*
-<br>Mdm Kitha </p>
+<br>Mdm Kitha</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +239,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Shi Jia Clara*
 <br>Ms Lee Xiao Tian
-	<br> Mdm Faridah Binte Mohamed Ali</p>
+<br>Mdm Faridah Binte Mohamed Ali</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +252,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Sok Hoon*
 <br>Mdm Zhuang Xiao Juan
-	<br> Mdm Ivy Chia</p>
+<br>Mdm Ivy Chia</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +311,7 @@ in our students.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Uniformed Groups</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,12 +328,18 @@ in our students.</p>
 <p><a href="/ccas/Boys-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Boys’ Brigade</u></a> (Boys)
 <br><a href="/ccas/Girls-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Girls’ Brigade</u> </a>(Girls)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mr Yeo Yee Chong*
-<br>Ms Alicia Khong </p>
+<br>Ms Alicia Khong</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
