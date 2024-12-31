@@ -103,8 +103,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslina Binte Ishak*
-<br>Ms Mok Chia Hui, Michelle</p>
-<p>Mr Alex Wong Hoong Kit
+<br>Ms Mok Chia Hui, Michelle
+<br>Mr Alex Wong Hoong Kit
 <br>
 </p>
 </td>
@@ -115,8 +115,8 @@ in our students.</p>
 <br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamira Binte Jamaludin*</p>
-<p>Dr Lee Nai Fern Rachel
+<p>Ms Shamira Binte Jamaludin*
+<br>Dr Lee Nai Fern Rachel
 <br>Ms Tan Yun Ru Bernice</p>
 </td>
 </tr>
@@ -154,8 +154,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Yilong, Jonathan*
-<br>Mdm Sumathi</p>
-<p>Ms Goh Gey Puay Esther</p>
+<br>Mdm Sumathi<br>Ms Goh Gey Puay Esther</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +164,10 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
-<br>Mr Ching Khee Yoll</p>
-<p>Ms Jasmine Wong Jing Xin</p>
-<p>Mr Shawn</p>
-</td>
+<br>Mr Ching Khee Yoll
+<br>Ms Jasmine Wong Jing Xin
+<br>Mr Shawn
+</p></td>
 </tr>
 <tr>
 <td rowspan="8" colspan="1">
@@ -191,7 +190,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Malik Bin Mazlan*
 <br>Ms Ler Jia Yi
-<br>Mdm Nor Aslinda Binte Mohamad Saleh</p>
+<br>Ms Nurul'aini</p>
 </td>
 </tr>
 <tr>
@@ -202,8 +201,8 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Wei'En Nicholas*
-<br>Mdm Diana Teoh Jia Yan
+<p>Mdm Diana Teoh Jia Yan*
+<br>Mdm Chua Soo Bin April
 <br>Ms Ong Kui Shin</p>
 </td>
 </tr>
@@ -216,7 +215,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pagsibigan Jemaima Agustin*
-<br>Mdm Chua Soo Bin April</p>
+<br>Ms Frances Wong</p>
 </td>
 </tr>
 <tr>
@@ -225,8 +224,8 @@ in our students.</p>
 <br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Bte Mohd Ali*
-<br>Ms Avenir Janna Francesca Guinto</p>
+<p>Ms Avenir Janna Francesca Guinto*
+<br>Mdm Kitha </p>
 </td>
 </tr>
 <tr>
@@ -237,8 +236,8 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Xiao Tian*
-<br>Mdm Lin Qiuyan
+<p>Mdm Lin Quiyan*
+<br>Ms Zhang Zhou Yu
 <br>
 </p>
 </td>
@@ -251,8 +250,9 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Sheela Binte Sugirmanto*
-<br>Ms Foo Shi Jia Clara</p>
+<p>Ms Foo Shi Jia Clara*
+<br>Ms Lee Xiao Tian
+	<br> Mdm Faridah Binte Mohamed Ali</p>
 </td>
 </tr>
 <tr>
@@ -263,8 +263,9 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Min Wei*
-<br>Mdm Zhuang Xiao Juan</p>
+<p>Ms Yeo Sok Hoon*
+<br>Mdm Zhuang Xiao Juan
+	<br> Mdm Ivy Chia</p>
 </td>
 </tr>
 <tr>
@@ -278,9 +279,9 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teoh Jia Yan Diana (Advisor)
-<br>Mdm Yeo Sok Hoon*
-<br>Mdm Najuma</p>
+<p>Mdm Najuma*
+<br>Mr Jeremy
+<br>Mr Soffian</p>
 </td>
 </tr>
 <tr>
@@ -292,8 +293,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siah Kai Yeow*
-<br>Mdm Koh Hui Chin
-<br>Mdm Guna</p>
+<br>Mdm Koh Hui Chin</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +306,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Masni*
 <br>Ms Tan Ying Yin
-<br>Mr Haji Mohamad Hairi Bin Ibrahim</p>
+<br>Ms Goh Wei Ting</p>
 </td>
 </tr>
 <tr>
@@ -317,8 +317,8 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr David Tee Ter Wei *
-<br>Mr Lim Cheng Chuan
+<p>Mr Lim Cheng Chuan *
+<br>Ms Li Xing
 <br>
 </p>
 </td>
@@ -341,10 +341,9 @@ in our students.</p>
 <p><a href="/ccas/Boys-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Boys’ Brigade</u></a> (Boys)
 <br><a href="/ccas/Girls-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Girls’ Brigade</u> </a>(Girls)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mr Yeo Yee Chong*
-<br>Ms Zeng Jiahui
-<br>Ms Yiap Mei Chan, Alicia</p>
+<br>Ms Alicia Khong </p>
 </td>
 </tr>
 <tr>
