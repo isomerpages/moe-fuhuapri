@@ -167,6 +167,7 @@ in our students.</p>
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
 <br>Mr Ching Khee Yoll
 <br>Mr Shawn</p>
+<p>Mr Jeremy</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +267,6 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Najuma*
-<br>Mr Jeremy
 <br>Mr Soffian</p>
 </td>
 </tr>
