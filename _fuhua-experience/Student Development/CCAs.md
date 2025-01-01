@@ -166,8 +166,8 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
 <br>Mr Ching Khee Yoll
-<br>Mr Shawn</p>
-<p>Mr Jeremy</p>
+<br>Mr Shawn
+<br>Mr Jeremy</p>
 </td>
 </tr>
 <tr>
