@@ -3,7 +3,7 @@ title: CCAs
 permalink: /fuhua-experience/student-development/ccas/
 description: ""
 third_nav_title: Student Development
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>CCA @ FHPS</strong></h4>
 <p>Fuhua’s CCA Programme provides students with a wide range of programmes
@@ -166,7 +166,8 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Haji Mohamad Hairi Bin Ibrahim*
 <br>Mr Ching Khee Yoll
-<br>Mr Shawn</p>
+<br>Mr Shawn
+<br>Mr Jeremy</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +267,6 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Najuma*
-<br>Mr Jeremy
 <br>Mr Soffian</p>
 </td>
 </tr>
