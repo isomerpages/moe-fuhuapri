@@ -4,9 +4,10 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>MOE Innergy Award </strong></h4>
-<h4>The MOE Innergy Award aims to recognise individuals/teams at the ministry level, for successfully developing and implementing innovations to bring about <strong>significant benefits and impact</strong> in their workplaces.</h4>
-<h4></h4>
+<h4><strong>MOE Innergy Award</strong></h4>
+<p>The MOE Innergy Award aims to recognise individuals/teams at the ministry
+level, for successfully developing and implementing innovations to bring
+about significant benefits and impact in their workplaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/innergy_awards.jpg">
 </div>
@@ -178,12 +179,6 @@ contributions to enhance our living environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/Slide3.JPG">
 </div>
-<p></p>
-<h5><strong>Innergy Award 2023</strong></h5>
-<p>Our school has won the Commendation Award for our Professional Development
-programme, “Engendering Greater Ownership of Professional Development @
-FHPS”. This is a good encouragement for all of us to continue exploring
-innovative ways to enhance our areas of work.</p>
 <h5><strong>WWF Eco-School Award 2023 and the Excellence Award for Community Outreach</strong></h5>
 <p>The school has been awarded the WWF Eco-School Award 2023 and the Excellence
 Award for Community Outreach in recognition of its commitment to ongoing
