@@ -207,15 +207,6 @@ the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/A1.jpg">
 </div>
-<h5><strong>Innergy Award 2021</strong></h5>
-<p>Our project, “ABCs of Engagement for Home-Based Learning”, has won the
-bronze award for the 2021 MOE Innergy winning projects – Schools (T&amp;L).</p>
-<p>The project was initiated to ensure that students’ learning and engagement
-are not compromised during FHBL. The school set up a HBL organization structure
-supported by the IP HODs, ICT Team and SDT to coordinate the implementation
-of HBL with focal areas on curriculum, ICT support and training as well
-as checking in on the students’ financial and well-being. It is really
-heartening to know that our response to FHBL is being recognised.</p>
 <h5><strong>Community in Bloom Award 2021</strong></h5>
 <p>Our community garden in Fuhua Primary School has achieved the Diamond
 Award and Platinum banding. The Diamond Award is presented to community
