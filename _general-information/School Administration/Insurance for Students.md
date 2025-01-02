@@ -11,6 +11,6 @@ variant: tiptap
 permanent and total/partial disability and medical expenses due to an accident.
 Please refer to the Product Factsheet for information on the benefit/sum
 assured, coverage and other details.</p>
-<p>Click&nbsp;<a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click&nbsp;<a href="/files/MOE Insurance/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the factsheet and claims procedures.</p>
 <p></p>
