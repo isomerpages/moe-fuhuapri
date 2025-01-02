@@ -193,11 +193,6 @@ in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/2022%20cca%202v2.JPG">
 </div>
-<h5><strong>Innergy Award 2022</strong></h5>
-<p>Our Mother Tongue Department has been awarded a Silver Award for Innergy
-Award for their project, Learning by Inquiring In Chinese Language Classroom.</p>
-<p>This is a good encouragement for all of us to continue exploring innovative
-pedagogies to engage our students.</p>
 <h5><strong>Green&nbsp;Schools@South&nbsp;West&nbsp;Programme 2021</strong></h5>
 <p>The school&nbsp;has attained&nbsp;Two Stars – Public Health and Environment
 Protection Stars&nbsp;for our environmental efforts in the Green&nbsp;Schools@South&nbsp;West&nbsp;Programme.</p>
