@@ -195,7 +195,7 @@ variant: tiptap
 <p>Ms Shamira Binte Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh</p>
+<p>Ms La Vonda Koh</p>
 </td>
 </tr>
 <tr>
