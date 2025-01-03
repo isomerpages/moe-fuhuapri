@@ -4,9 +4,10 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>MOE Innergy Award </strong></h4>
-<h4>The MOE Innergy Award aims to recognise individuals/teams at the ministry level, for successfully developing and implementing innovations to bring about <strong>significant benefits and impact</strong> in their workplaces.</h4>
-<h4></h4>
+<h4><strong>MOE Innergy Award</strong></h4>
+<p>The MOE Innergy Award aims to recognise individuals/teams at the ministry
+level, for successfully developing and implementing innovations to bring
+about significant benefits and impact in their workplaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/innergy_awards.jpg">
 </div>
@@ -178,12 +179,6 @@ contributions to enhance our living environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/Slide3.JPG">
 </div>
-<p></p>
-<h5><strong>Innergy Award 2023</strong></h5>
-<p>Our school has won the Commendation Award for our Professional Development
-programme, “Engendering Greater Ownership of Professional Development @
-FHPS”. This is a good encouragement for all of us to continue exploring
-innovative ways to enhance our areas of work.</p>
 <h5><strong>WWF Eco-School Award 2023 and the Excellence Award for Community Outreach</strong></h5>
 <p>The school has been awarded the WWF Eco-School Award 2023 and the Excellence
 Award for Community Outreach in recognition of its commitment to ongoing
@@ -198,11 +193,6 @@ in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/2022%20cca%202v2.JPG">
 </div>
-<h5><strong>Innergy Award 2022</strong></h5>
-<p>Our Mother Tongue Department has been awarded a Silver Award for Innergy
-Award for their project, Learning by Inquiring In Chinese Language Classroom.</p>
-<p>This is a good encouragement for all of us to continue exploring innovative
-pedagogies to engage our students.</p>
 <h5><strong>Green&nbsp;Schools@South&nbsp;West&nbsp;Programme 2021</strong></h5>
 <p>The school&nbsp;has attained&nbsp;Two Stars – Public Health and Environment
 Protection Stars&nbsp;for our environmental efforts in the Green&nbsp;Schools@South&nbsp;West&nbsp;Programme.</p>
@@ -217,15 +207,6 @@ the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Achievements/A1.jpg">
 </div>
-<h5><strong>Innergy Award 2021</strong></h5>
-<p>Our project, “ABCs of Engagement for Home-Based Learning”, has won the
-bronze award for the 2021 MOE Innergy winning projects – Schools (T&amp;L).</p>
-<p>The project was initiated to ensure that students’ learning and engagement
-are not compromised during FHBL. The school set up a HBL organization structure
-supported by the IP HODs, ICT Team and SDT to coordinate the implementation
-of HBL with focal areas on curriculum, ICT support and training as well
-as checking in on the students’ financial and well-being. It is really
-heartening to know that our response to FHBL is being recognised.</p>
 <h5><strong>Community in Bloom Award 2021</strong></h5>
 <p>Our community garden in Fuhua Primary School has achieved the Diamond
 Award and Platinum banding. The Diamond Award is presented to community
