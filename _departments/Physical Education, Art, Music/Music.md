@@ -122,6 +122,17 @@ materials.</p>
 <p>Japan &amp; Korea</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration in the Music Classroom</strong>
@@ -206,6 +217,14 @@ ensemble performance techniques.</p>
 <p>Song Production using BandLab</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Beyond the Music Classroom</strong>
@@ -272,6 +291,11 @@ music</p>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Dancexercise &nbsp;(iLove Programme)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
