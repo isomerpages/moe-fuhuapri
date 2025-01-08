@@ -3,7 +3,7 @@ title: Music
 permalink: /departments/physical-education-arts-music/music/
 description: ""
 third_nav_title: Physical Education, Art, Music
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>LEARNING OF MUSIC @ FUHUA</strong></h4>
 <p>Through the music education at Fuhua Primary School, students learn to
@@ -28,9 +28,9 @@ terms.&nbsp; For upper primary students, concepts are integrated with historical
 events and cultural backgrounds.&nbsp; They are encouraged to be self-directed
 learners through independent research and exploration of variety of learning
 materials.</p>
-<p><strong>Snippets of Fuhua Music Programmes</strong>
+<h4><strong>Snippets of Fuhua Music Programmes</strong></h4>
+<p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Local &amp; Global Music</strong>
 </p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Local &amp; Global Music</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -124,7 +124,8 @@ materials.</p>
 </tr>
 </tbody>
 </table>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration in the Music Classroom</p>
+<p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration in the Music Classroom</strong>
+</p>
 <p>&nbsp;<u>Keyboarding</u>
 <br>Students explore rhythm, melody and piano techniques using flexi-keyboards.</p>
 <p>&nbsp;<u>Angklung and Kompang</u>
@@ -138,7 +139,7 @@ handling of recorders.</p>
 ensemble performance techniques.</p>
 <p>&nbsp;<u>Ukulele</u>
 <br>Students develop knowledge of chord progressions and strumming techniques.</p>
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technology-based music lessons&nbsp;</p>
+<p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technology-based music lessons</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -184,7 +185,9 @@ ensemble performance techniques.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GarageBand – Film Scoring (iPad)<br>Chinese Drumming using GarageBand (iPad)<br>Advanced Recorder Programme (iPad)&nbsp;</p>
+<p>GarageBand – Film Scoring (iPad)
+<br>Chinese Drumming using GarageBand (iPad)
+<br>Advanced Recorder Programme (iPad)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +208,8 @@ ensemble performance techniques.</p>
 </tr>
 </tbody>
 </table>
-<p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Beyond the Music Classroom</p>
+<p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Beyond the Music Classroom</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -233,7 +237,8 @@ Yong Siew Toh Conservatory of Music (Semester 2)</p>
 <td rowspan="2" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band Immersion Programme (Semester
 2)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir Immersion Programme (Semester 2)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir Immersion Programme (Semester
+2)
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outreach Concert Presentation by
 Yong Siew Toh Conservatory of Music (Semester 1)</p>
 </td>
@@ -266,7 +271,8 @@ music</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Dancexercise &nbsp;(iLove Programme)</strong>
-</p></td>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
