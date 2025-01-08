@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Resources for Parents
 ---
-<h4><strong>Term 1 2025</strong></h4>
+<h4><strong>2025 Term 1</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_T1_2025_Letter__final_.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter</a>
