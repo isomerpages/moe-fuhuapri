@@ -124,26 +124,20 @@ materials.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration in the Music Classroom</p>
 <p>&nbsp;<u>Keyboarding</u>
-</p>
-<p>Students explore rhythm, melody and piano techniques using flexi-keyboards.</p>
+<br>Students explore rhythm, melody and piano techniques using flexi-keyboards.</p>
 <p>&nbsp;<u>Angklung and Kompang</u>
-</p>
-<p>Students learn about traditional music, rhythm and ensemble-playing using
+<br>Students learn about traditional music, rhythm and ensemble-playing using
 authentic instruments.</p>
 <p>&nbsp;<u>Recorder</u>
-</p>
-<p>Students gain an understanding of pitch, tone quality and posture and
+<br>Students gain an understanding of pitch, tone quality and posture and
 handling of recorders.</p>
 <p>&nbsp;<u>Indian Ethnic Percussion</u>
-</p>
-<p>Students discover various traditional Indian rhythmic patterns and develop
+<br>Students discover various traditional Indian rhythmic patterns and develop
 ensemble performance techniques.</p>
 <p>&nbsp;<u>Ukulele</u>
-</p>
-<p>Students develop knowledge of chord progressions and strumming techniques.</p>
+<br>Students develop knowledge of chord progressions and strumming techniques.</p>
 <p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technology-based music lessons&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -190,9 +184,7 @@ ensemble performance techniques.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GarageBand – Film Scoring (iPad)</p>
-<p>Chinese Drumming using GarageBand (iPad)</p>
-<p>Advanced Recorder Programme (iPad)&nbsp;</p>
+<p>GarageBand – Film Scoring (iPad)<br>Chinese Drumming using GarageBand (iPad)<br>Advanced Recorder Programme (iPad)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +205,6 @@ ensemble performance techniques.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Beyond the Music Classroom</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -241,10 +232,9 @@ Yong Siew Toh Conservatory of Music (Semester 2)</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band Immersion Programme (Semester
-2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir Immersion Programme (Semester
-2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outreach Concert Presentation by
+2)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir Immersion Programme (Semester 2)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outreach Concert Presentation by
 Yong Siew Toh Conservatory of Music (Semester 1)</p>
 </td>
 </tr>
@@ -276,12 +266,10 @@ music</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Weekly Dancexercise &nbsp;(iLove Programme)</strong>
-</p>
-</td>
+</p></td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h4><strong>PHOTO HIGHLIGHTS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Physical%20Education%20Arts%20Music/MUSIC/Q2.png">
