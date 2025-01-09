@@ -2,8 +2,9 @@
 title: Programme for Active Learning PAL
 permalink: /character-and-citizenship/Programme-for-Active-Learning-PAL/
 description: ""
+variant: markdown
 ---
-At Fuhua, all Primary 1 and Primary 2 students undergo PAL modules during school hours. With these modules spread over two years, we hope to nurture our students with the learning experiences of 3 Cs (Confidence, Curiosity and Cooperative skills) and Social Emotional skills via the four PAL Domains:-
+At Fuhua, all Primary 1 and Primary 2 students undergo PAL modules during school hours. With these modules spread over two years, we hope to nurture our students with the learning experiences of 4 Cs (Confidence, Creativity, Collaboration and Critical Thinking) and Social Emotional skills via the four PAL Domains:-
 
 1.  Performing Arts
 2.  Sports and Games
