@@ -5,16 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: School Vendors
 ---
-<h3><strong><u>Canteen Stall Vacancy</u></strong></h3>
+<h2><strong><u>Canteen Stall Vacancy</u></strong></h2>
 <p>Fuhua Primary School is inviting interested applicants to operate a
-<br>“<strong>Korean/Japanese</strong>”&nbsp;stall in our school canteen.</p>
+<br>“<strong>Chinese Noodles</strong>”&nbsp;stall in our school canteen.</p>
 <p><strong>Background:</strong>
 <br>We are a single session primary school with student enrolment of about
-1250 and staff strength of 120.
+1270 and staff strength of 125.
 <br>
 <br>There are currently&nbsp;<strong>4 food stalls and 2 drink/fruit stall</strong>&nbsp;at
 our school.</p>
-<h4><strong>Criteria Applicants should meet the following criteria:</strong></h4>
+<p><strong>Criteria Applicants should meet the following criteria:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Citizens or Singapore Permanent Residents aged 21 years old
@@ -22,7 +23,7 @@ and above.</p>
 </li>
 <li>
 <p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
-must meet the programme requirement. Please see details <a href="https://www.healthhub.sg/live-healthy/healthy-meals-in-school" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+must meet the programme requirement. Please see details at&nbsp;(<a href="https://www.healthhub.sg/live-healthy/healthy-meals-in-school" rel="noopener noreferrer nofollow" target="_blank">see link</a>).</p>
 </li>
 <li>
 <p>Provide good service and offer a variety of quality menu items at reasonable
@@ -59,10 +60,11 @@ experience is preferred;</p>
 <p>Any other criteria set up by the school.</p>
 </li>
 </ul>
-<h4><strong>Application Procedure:</strong></h4>
-<p>Application form is available at our General Office (65 Jurong East St
-13 Singapore(609647)) or can be downloaded <a href="/files/application_for_canteen_stall_in_existing_school.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h4><strong>Interested applicants must submit the following documents:</strong></h4>
+<p><strong>Application Procedure:</strong>
+<br>Application form is available at our General Office (65 Jurong East St
+13 Singapore(609647)) or can be downloaded <a href="https://www.fuhuapri.moe.edu.sg/files/application_for_canteen_stall_in_existing_school.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>Interested applicants must submit the following documents:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Completed application form</p>
@@ -79,24 +81,25 @@ certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
-documents to the school’s General Office or email to <a href="Sangeetha_V_Nadarajaan@schools.gov.sg" rel="noopener nofollow" target="_blank">Sangeetha_V_Nadarajaan@schools.gov.sg</a> (Attention:
-Administration Manager) by the closing date <strong>14 November, 5.00 pm</strong>.
-We regret that late applications will not be accepted.</p>
+documents to the school’s General Office or email to&nbsp;<a href="mailto:Sangeetha_V_%20Nadarajaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_V_ </a>
+<a rel="noopener noreferrer nofollow" target="_blank">Nadarajaan@schools.gov.sg</a>(Attention: Administration Manager) by the
+closing date <strong>31 January 2025, 5.00 pm</strong>. We regret that late
+applications will not be accepted.</p>
 </li>
 </ul>
-<h4><strong>Interview and Food Tasting:</strong></h4>
-<p>Only shortlisted applicants will be notified for an interview and are
+<p><strong>Interview and Food Tasting:</strong>
+<br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
 applicant’s own expense. Successful applicant will be expected to commence
-operation of the stall from 2 January 2025. Please contact the school’s
-Administration Manager, Ms Sangeetha Nadarajaan at&nbsp;6563-4370 for any
-clarifications.</p>
-<h4><strong>How to get there:</strong></h4>
-<p><strong>Nearest MRT</strong>: Jurong East Station</p>
+operation of the stall from 1 March 2025. Please contact the school’s Administration
+Manager, Ms Sangeetha Nadarajaan at&nbsp;6563-4370 for any clarifications.</p>
+<p><strong>How to get there:</strong>
+<br><strong>Nearest MRT</strong>: Jurong East Station</p>
 <p><strong>Bus Services:</strong>
 </p>
 <p><strong>JURONG EAST CENTRAL (BS28441):</strong>&nbsp;41,49,52,105,160,160A,160M,176,183,334,506&nbsp;
 &nbsp;</p>
 <p><strong>JURONG EAST CENTRAL (BS28431):&nbsp;</strong>51,66,78,79,143,
 143M, 176, 335</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
