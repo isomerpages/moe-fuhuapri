@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Resources for Parents
 variant: markdown
 ---
-#### **N4S Executive Committee 2024**
+#### **N4S Executive Committee 2025**
 
 
-![](/images/N4S_comm.jpeg)
-
+![](/images/WhatsApp_Image_2025_01_10_at_2_49_24_PM.jpg)
 #### **Social Media Platforms**
 
 
