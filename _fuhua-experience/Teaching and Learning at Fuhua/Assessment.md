@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Teaching and Learning at Fuhua
 variant: tiptap
 ---
-<h3><strong>2024 SCHOOL-BASED ASSESSMENT</strong></h3>
+<h3><strong>2025 SCHOOL-BASED ASSESSMENT</strong></h3>
 <p>We are committed to nurture our Fuhua Gems to be lifelong learners who
 take ownership of their own learning and derive joy in their learning process.
 In line with this, we are moving away from an over-emphasis on academic
