@@ -31,6 +31,10 @@ and prepares students for the challenges of the 21st century.</p>
 <p><a href="/files/Resource for Parents/2024ELTerm_3_4_LiterarySparks.pdf" rel="noopener nofollow" target="_blank">Literacy Sparks 2024/3</a>
 </p>
 </li>
+<li>
+<p><a href="/files/P1_Literacy_Sparks_20251.pdf" rel="noopener nofollow" target="_blank">Literacy Sparks 2025/1</a>
+</p>
+</li>
 </ul>
 <h2></h2>
 <p></p>
