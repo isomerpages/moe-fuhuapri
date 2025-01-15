@@ -27,7 +27,7 @@ us:</p>
 </li>
 </ul>
 <h4><strong>School Newsletter</strong></h4>
-<h4><strong>2025 </strong></h4>
+<h4><strong>2025</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheartbeat20251" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/1</a>
