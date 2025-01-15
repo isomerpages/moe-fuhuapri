@@ -24,7 +24,7 @@ At Fuhua, we believe that students learn best when they feel safe and confident.
 
   
 
-Student well-being is attended by collaborative effort of different teams which include Pastoral Care and Career Guidance (PCCG), Case Management Team (CMT), House System framework and Student Development Team (SDT). There is a 3-tiered support framework for students to ensure that their needs are met. The first tier intervention is for all students. The other two tiers are for students with additional needs who are supported through programmes and expert intervention such as Allied Educator, Learning Behavioural Support (AED LBS).&nbsp;
+Student well-being is attended by collaborative effort of different teams which include Pastoral Care and Career Guidance (PCCG), Case Management Team (CMT), House System framework and Student Development Team (SDT). There is a 3-tiered support framework for students to ensure that their needs are met. The first tier intervention is for all students. The other two tiers are for students with additional needs who are supported through programmes and expert intervention.&nbsp;
 
   
 
