@@ -4,6 +4,24 @@ permalink: /gem-s-perspectives/
 variant: tiptap
 description: ""
 ---
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/10.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/11.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/12.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/13.jpg">
+</div>
 <h4><strong><u>Kindergarten Tour Experience</u></strong></h4>
 <p>Recently, some P4 prefects had a chance to bring Kindergarten 2 (K2) students
 from preschools in Jurong East around the school. We were privileged to
