@@ -7,6 +7,7 @@ variant: markdown
 ---
 | Designation     | Name                                         |
 |-----------------------|-----------------------------------------------------------|
-| **ICT Associate**     | Mr Lam Xiao Liang 
+| **ICT Associate**     | Mr Lam Xiao Liang
+| **ICT Executive**     | Mr Muhamad Khairul Bin Ali
 | **Desktop Engineer** | Mr Anish Thiiagu  |
 | **Desktop Engineer** | Mr Joe Tan  |
