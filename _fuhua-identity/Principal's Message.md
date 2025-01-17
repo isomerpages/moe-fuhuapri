@@ -50,7 +50,4 @@ on this academic journey hand in hand, working together to ensure a successful
 and fulfilling year ahead.</p>
 <p>Mr Ganesan Raman&nbsp;</p>
 <p>Principal</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
-</div>
 <p></p>
