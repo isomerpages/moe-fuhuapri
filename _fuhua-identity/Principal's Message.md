@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/new_p_photo.jpg">
 </div>
 <p>Welcome and warm greetings to all!</p>
 <p>As the Principal, I am honoured to lead a community of dedicated educators,
@@ -50,3 +50,4 @@ on this academic journey hand in hand, working together to ensure a successful
 and fulfilling year ahead.</p>
 <p>Mr Ganesan Raman&nbsp;</p>
 <p>Principal</p>
+<p></p>
