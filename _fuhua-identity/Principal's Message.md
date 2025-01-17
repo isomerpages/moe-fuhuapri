@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/new_p_photo.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/new_p_photo.jpg">
 </div>
 <p>Welcome and warm greetings to all!</p>
 <p>As the Principal, I am honoured to lead a community of dedicated educators,
