@@ -259,20 +259,6 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/Sexual Education/Annex_A_Opt_Out_Form_MOE_Sexuality_Education.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
-</li>
-<li>
 <p>Parents can contact the school at <strong>65624370</strong> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
-</li>
-</ol>
 <p></p>
