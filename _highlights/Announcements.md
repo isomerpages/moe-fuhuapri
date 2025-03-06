@@ -33,7 +33,7 @@ teachers from our school for the awards, as an affirmation and encouragement
 to them.</p>
 <p>To nominate, please click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a> to
 download the nomination forms. For more information, please email: <a rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;Kindly
-note that the closing date for nomination is&nbsp;<strong>4 April 2025 (Friday). </strong>
+note that the closing date for nomination is&nbsp;<strong>4 April 2025 (Friday).</strong>
 </p>
 <h4><strong>Call for Nominations: Most Inspiring Tamil Teachers’ Award 2025</strong></h4>
 <p>The <strong><em>Most Inspiring Tamil Teachers’ (MITT) Award</em></strong> recognises
