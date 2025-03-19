@@ -25,7 +25,6 @@ variant: markdown
 |Assistant Year Head                                                     | Ms Yap Shu Jun                   |
 | Level Head - English                                           |  Ms Dhanya Nair                       |
 | Level Head - Mathematics                                |  Ms Norfarishah Asherina Binte Hussain |
-| Level Head - Chinese     | Mdm Tang Yen Yen                    |
 | Level Head - Science                                  | Mrs Santi Malaiya Maran               |  
 | Subject Head - Information & Communications Technology | Mdm Siti Shofurah Binte Rahmad          |
 | Subject Head - Partnerships      |  Ms Sung Huimin
