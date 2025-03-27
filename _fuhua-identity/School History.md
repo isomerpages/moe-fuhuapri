@@ -103,8 +103,8 @@ existing buildings to promote sustainable design, and best practices in
 construction and operations in buildings.&nbsp;Our Subject Head for Environmental
 Education, Mrs Shirley Koh, was conferred the NEA Eco Friend Award in 2018
 as a recognition for the environmental programmes and outreaches.</p>
-<h3><strong>Our Principals</strong></h3>
-<p>Fuhua was</p>
+<p>Fuhua Primary School celebrated its 80th Anniversary in 2021.</p>
+<h3><strong>Principals Through the Years: A Legacy of Leadership</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,29 +112,69 @@ as a recognition for the environmental programmes and outreaches.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1984 - 1986</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Billy Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1986 - 1987</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Chin Shin Wea (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1988 - 1995</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Chor Hee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1996 - 2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chin Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2001 - 2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mary Lim Cho Koen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007 - 2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fuziah Muhamad Taha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015 - 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phua Kia Wang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ganesan Raman</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Fuhua Primary School celebrated its 80th Anniversary in 2021.</p>
+<p></p>
