@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /highlights/events/
+title: Showcase
+permalink: /highlights/showcase/
 description: ""
 variant: markdown
 ---

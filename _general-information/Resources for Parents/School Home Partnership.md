@@ -33,4 +33,15 @@ the refreshed guidelines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_2.jpg">
 </div>
+<h4>Let's Connect!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/newsletter_pic.jpg">
+</div>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parenting_for_wellness_Newsletter_1.pdf" rel="noopener nofollow" target="_blank">Newsletter #1</a>
+</p>
+</li>
+</ol>
 <p></p>
