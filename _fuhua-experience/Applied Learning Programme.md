@@ -49,7 +49,7 @@ Critical Thinking Skills</p>
 <p>The diagram illustrates the coding programmes our students undergo from
 Primary 1 to Primary 6 to develop their computational thinking skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Applied Learning Programme/ALP_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Applied Learning Programme/ALP_1.jpg">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
