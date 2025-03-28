@@ -16,5 +16,15 @@ third_nav_title: Resources for Parents
 </p>
 </li>
 </ol>
-<h4></h4>
+<h4><strong>2025 Term 2</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/FHPS_T2_2025_Letter__final_.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/FHPS_T2_2025_Calendar__final_.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
+</p>
+</li>
+</ol>
 <p></p>
