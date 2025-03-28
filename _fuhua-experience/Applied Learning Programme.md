@@ -51,14 +51,81 @@ Primary 1 to Primary 6 to develop their computational thinking skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Applied Learning Programme/ALP_1.jpg">
 </div>
-<p><strong>&nbsp;Coding Literacy</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p>Primary 1: Junior Coder - Codey Rockey I</p>
-<p>Primary 2: Beginner Coder - Codey Rockey II</p>
-<p>Primary 3: Intermediate Coder - Micro:Bits I</p>
-<p>Primary 4: Senior Coder - Micro:Bits I</p>
-<p>Primary 5: Expert Coder - Artificial Intelligence</p>
-<p>Primary 6: Creative Coder – Drones</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Coding Literacy</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Coder - Codey Rockey I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beginner Coder - Codey Rockey II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Intermediate Coder - Micro:Bits I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Coder - Micro:Bits I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expert Coder - Artificial Intelligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creative Coder – Drones</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Applied%20Learning%20Programme/A2.png">
 </div>
@@ -74,3 +141,4 @@ Primary 1 to Primary 6 to develop their computational thinking skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Applied%20Learning%20Programme/p5%20students%20troubleshooting%20their%20flight%20plan%20(coding).png">
 </div>
 <p>P5 Students Troubleshooting their Flight Plan (Coding)</p>
+<p></p>
