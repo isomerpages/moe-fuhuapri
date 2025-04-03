@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Teaching and Learning at Fuhua
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Teaching%20and%20Learning%20@%20Fuhua/T1.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_TnL_Framework.png">
@@ -54,7 +50,7 @@ activities that will help students to hone the 4Cs. In designing the learning
 experiences for students both in and out of the classroom, careful consideration
 is given to integrate the learning outcomes, 4Cs, subject-specific competencies
 and learning dispositions.</p>
-<p><strong>(B) Tech-enabled pedagogies </strong>
+<p><strong>(B) Tech-enabled pedagogies</strong>
 </p>
 <p>The school leverages tech-enabled pedagogies to foster collaboration and
 creative production. Tech-enabled lesson designs are anchored on Key Applications
