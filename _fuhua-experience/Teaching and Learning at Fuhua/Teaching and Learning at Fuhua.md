@@ -10,8 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_TnL_Framework.png">
 </div>
 <p></p>
-<p><strong><u>Background</u></strong>
-</p>
+<h3><strong>Background</strong></h3>
 <p>The world we are living in is changing and education must evolve to respond
 to the changes. If we live in an interconnected and interdependent world,
 it only makes sense that knowledge is presented as interconnected and interdependent
@@ -20,17 +19,14 @@ learning through an engaging curriculum. Deeper learning is acquired by
 learners when they see patterns, make connections and apply learning in
 real life contexts. The framework guides the school in planning learning
 experiences in support of developing student outcomes.</p>
-<p><strong><u>Lesson Design</u></strong>
-</p>
+<h3><strong>Lesson Design</strong></h3>
 <p>The school leverages Understand by Design (UbD) curriculum framework in
 guiding our lesson design. Lesson units are designed anchored on Big Ideas
 with accompanying Enduring Understanding (EU) and Essential Questions (EQ)
 to facilitate learning. Success Criteria are articulated in the unit plans
 to evaluate the impact of teaching strategies on student learning.</p>
-<p><strong><u>Tenets in the T&amp;L framework</u></strong>
-</p>
-<p><strong>(A) Transdisciplinary and Interdisciplinary Integration</strong>
-</p>
+<h3><strong>Tenets in the T&amp;L framework</strong></h3>
+<h4><strong>(A) Transdisciplinary and Interdisciplinary Integration</strong></h4>
 <p>For students to make connections between different subject disciplines,
 interdisciplinary learning opportunities are planned where possible. Interdisciplinary
 learning is intentionally designed for students to acquire deeper learning.
@@ -50,23 +46,21 @@ activities that will help students to hone the 4Cs. In designing the learning
 experiences for students both in and out of the classroom, careful consideration
 is given to integrate the learning outcomes, 4Cs, subject-specific competencies
 and learning dispositions.</p>
-<p><strong>(B) Tech-enabled pedagogies</strong>
-</p>
+<h4><strong>(B) Tech-enabled pedagogies</strong></h4>
 <p>The school leverages tech-enabled pedagogies to foster collaboration and
 creative production. Tech-enabled lesson designs are anchored on Key Applications
 of Technology (KAT) to ensure integration of technology is meaningful for
 the students. Key considerations of Tech tools for T&amp;L include opportunities
 for students to hone 4Cs and age appropriateness.</p>
-<p><strong>(C) Learner-Centered and Balanced Assessment</strong>
-</p>
+<h4><strong>(C) Learner-Centered and Balanced Assessment</strong></h4>
 <p>Assessment is integral part of learning, and the school aims for student
-to take ownership of their own learning through the design of leaner-centerd
+to take ownership of their own learning through the design of leaner-centered
 and balanced assessment. Learner-centered assessment takes into consideration
 student readiness and is aimed at providing feedback. A variety of modes
 of assessment which include self and peer assessment, setting of goals,
 reflection and monitoring of their own learning progress are considered
 to assess student’s learning. A Balanced assessment includes a good balance
 of formative and summative assessment practices to ensure that our students
-are developed and assessed holistically (i.e. in all academic and nonacademic
-areas and dispositions, values and 21CC</p>
+are developed and assessed holistically (i.e. in all academic and non-academic
+areas and dispositions, values and 21CC).</p>
 <p></p>
