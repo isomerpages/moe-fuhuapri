@@ -38,6 +38,6 @@ variant: tiptap
 </div>
 <h4><strong>FOUNDATION SCIENCE</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/Slide9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FHPS_P6F_Science_Assessment_Plan_updated_3_April.jpg">
 </div>
 <p></p>
