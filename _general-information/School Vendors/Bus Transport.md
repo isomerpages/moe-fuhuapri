@@ -20,7 +20,7 @@ services to our students.</p>
 <p>Email: <a href="mailto:operation@newgentpt.com" rel="noopener noreferrer nofollow" target="_blank">operation@newgentpt.com</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents interested in school bus
-services for 2025 are required to complete and submit an online <a href="https://forms.gle/sMQpnybDTnLuwQA39" rel="noopener noreferrer nofollow" target="_blank">Bus Request Google Form</a> by <strong>Friday, 22 November 2024.</strong>
+services for 2025 are required to complete and submit an online <a href="https://forms.office.com/r/UDE3i5zy9t" rel="noopener noreferrer nofollow" target="_blank">Bus Request Google Form</a> by <strong>Friday, 22 November 2024.</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late submission may result in a
 delay in service fulfilment or unavailability of service.&nbsp; NewGen
