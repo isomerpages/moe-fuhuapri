@@ -21,11 +21,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
+<p><strong>Administrative Managers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Choi Khuan / Ms Sangeetha d/o V Nadarajaan</p>
+<p>Ms Loy Choi Khuan /</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sangeetha d/o V Nadarajaan</p>
 </td>
 </tr>
 <tr>
