@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Choi Khuan /</p>
+<p>Ms Loy Choi Khuan</p>
 </td>
 </tr>
 <tr>
