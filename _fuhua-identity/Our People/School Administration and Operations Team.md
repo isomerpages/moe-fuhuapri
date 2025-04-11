@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Managers</strong>
+<p><strong>Administrative Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Administrative Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sangeetha d/o V Nadarajaan</p>
