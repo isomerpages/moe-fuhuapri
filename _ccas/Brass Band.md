@@ -89,7 +89,7 @@ with learning, friendship, and unforgettable experiences!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grow and Glow with Gratitude Day</p>
+<p>Grow and Glow with Gratitude Day 2024</p>
 </td>
 </tr>
 </tbody>
