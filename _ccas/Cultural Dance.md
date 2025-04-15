@@ -43,8 +43,19 @@ and embrace the joy of dance. Let’s dance, learn, and grow together!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cultural Dance/National_Day_performance.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Cultural Dancers performing in front of the Yuhua Community during 2024
 National Day Celebrations.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cultural Dance/SYF_performance.jpg">
