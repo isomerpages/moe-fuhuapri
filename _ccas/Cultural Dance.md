@@ -2,22 +2,85 @@
 title: Cultural Dance
 permalink: /ccas/cultural-dance/
 description: ""
+variant: tiptap
 ---
-Members: Boys & Girls
-
-Training Days: 
-* Every Tuesday 7:30 a.m. – 9:30 a.m.
-* Every Thursday 3:30 p.m. – 5:30 p.m
-
-The Cultural Dance CCA aims to nurture passionate and confident dancers with a strong appreciation for various cultural dances. Our experienced and professional instructor coaches our students on the fundamental skills of different cultural dances to develop their grace, flexibility, balance and co-ordination. High discipline is also incorporated into the rigorous training sessions to develop resilience and teaches our dancers to set high standards for themselves.
-
-The CCA provides many opportunities for our cultural dancers to showcase their talents by performing in school events (for example, Chinese New Year celebrations), community events (Yuhua CC performances) and also at the Singapore Youth Festival. These experiences help to build our dancers’ stage experience and confidence level.
-
-Join us on a journey of rhythm, expression, and creativity! Our Cultural Dance CCA provides an inspiring platform for young dancers to develop lifelong skills, forge lasting friendships and discover the magic of dance. Let's dance, learn, and grow together.
-
-![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance/cultural1.jpg)Dancers performing during Chinese New Year Celebrations.
-
-![](/images/Fuhua%20Experience/Student%20Development/CCA/Cultural%20Dance/cultural2.jpg)
-Dancers practicing for Founders’ Day.
-
-			 
+<p>Members: Boys &amp; Girls</p>
+<p>Training Days:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Tuesday 7:30 am – 9:00 am</p>
+</li>
+<li>
+<p>Every Thursday 3:30 pm – 5:30 pm</p>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Cultural Dance CCA nurtures passionate and confident dancers with
+a deep appreciation for diverse cultural dance forms. Under the guidance
+of our experienced instructor, students develop grace, flexibility, balance,
+and coordination while mastering fundamental dance techniques. Our rigorous
+trainings aim to instil among our students the values of discipline, resilience,
+and a commitment to excellence.</p>
+<p></p>
+<p>To build their confidence and stage presence, our cultural dancers are
+presented with numerous opportunities to showcase their talents at various
+platforms. These performances include our school celebrations during Chinese
+New Year, community events with Yuhua CC during National Day, and presenting
+the school in the prestigious Singapore Youth Festival.</p>
+<p>Join us on a journey of rhythm, expression, and creativity! Through Cultural
+Dance CCA, students not only hone their skills but also forge lasting friendships
+and embrace the joy of dance. Let’s dance, learn, and grow together!</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
