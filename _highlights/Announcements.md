@@ -4,6 +4,49 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Nomination for 2025 Distinguished Chinese Language Teachers Awards</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Organised by Lianhe Zaobao (ZB) and ZBSchools, the awards aim to give
+due recognition to deserving Chinese Language (CL) teachers who have shown
+exemplary efforts toward the teaching of Chinese language and culture in
+the past year. The awards also affirm the efforts of teachers who have
+successfully inculcated in their students an appreciation for Chinese language
+and culture.</p>
+<p>The Distinguished Chinese Language Teachers Awards 2025 is co-organised
+by Singapore Centre for Chinese Language, The Society of Chinese Education
+Singapore, Singapore Chinese Teachers’ Union and Singapore Middle School
+Chinese Teachers’ Association, with support from the Ministry of Education.
+All CL teachers from primary and secondary schools, pre-universities and
+junior colleges are eligible for nomination (except for past winners).
+Winners will be presented with a trophy and cash prize of $1,500 each.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/cl2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/CL.png">
+</div>
 <h4><strong>Call for Nominations: Arif Budiman Malay Language Teacher Award 2025</strong></h4>
 <p>The <strong><em>Arif Budiman Malay Language Teacher Award</em></strong> (AGAB)
 2025 is an annual award jointly organised by the Malay Language Council,
