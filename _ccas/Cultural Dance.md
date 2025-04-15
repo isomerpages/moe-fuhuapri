@@ -36,49 +36,27 @@ the school in the prestigious Singapore Youth Festival.</p>
 <p>Join us on a journey of rhythm, expression, and creativity! Through Cultural
 Dance CCA, students not only hone their skills but also forge lasting friendships
 and embrace the joy of dance. Let’s dance, learn, and grow together!</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cultural Dance/National_Day_performance.jpg">
+</div>
+<p>Cultural Dancers performing in front of the Yuhua Community during 2024
+National Day Celebrations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Cultural Dance/SYF_performance.jpg">
+</div>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SYF Presentations 2024</p>
 </td>
 </tr>
 </tbody>
