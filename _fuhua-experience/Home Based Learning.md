@@ -32,6 +32,6 @@ Please complete the FormSG by clicking [here](https://go.gov.sg/fhps-student-ic
 
   
 
-**For myOn.sg, Koobits, Dudu, Kids A-Z/Razplus**  
+**For Moo-0, Koobits, Dudu**  
 
 Please email Form Teachers to reset password ( 9a.m. to 5p.m.).
