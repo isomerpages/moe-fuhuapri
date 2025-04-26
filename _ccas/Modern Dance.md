@@ -5,13 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p>Members: Boys &amp; Girls</p>
-<p>Training Days:</p>
 <ul>
 <li>
-<p>Every Tuesday 7:30 am – 9:00 am</p>
+<p>Tuesdays: 7:30 – 9:00 am</p>
 </li>
 <li>
-<p>Every Thursday 3:15 pm – 5:15 pm</p>
+<p>Thursdays: 3:15 – 5:15 pm</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
