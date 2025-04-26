@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <p>Members: Boys &amp; Girls</p>
 <p>Tuesdays: 7:30 - 9 am</p>
-<p><u>Excellence Team Training</u>
-</p>
+<p>Excellence Team Training</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mondays: 2 - 4 pm</p>
