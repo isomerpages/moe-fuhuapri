@@ -7,10 +7,10 @@ variant: tiptap
 <p>Members: Boys &amp; Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays, 7.30 - 9am</p>
+<p>Tuesdays: 7:30 - 9am</p>
 </li>
 <li>
-<p>Thursdays, 2 - 4.30 pm</p>
+<p>Thursdays: 2 - 4:30 pm</p>
 </li>
 </ul>
 <p>Students benefit from being in a choir in many meaningful ways. Musical
