@@ -7,10 +7,10 @@ variant: tiptap
 <p>Members: Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays – 7:30 - 9 am</p>
+<p>Tuesdays: 7:30 - 9 am</p>
 </li>
 <li>
-<p>Thursdays - 3 - 5 pm</p>
+<p>Thursdays: 3 - 5 pm</p>
 </li>
 </ul>
 <p><strong><u>Nurturing Values Through Netball</u></strong>
