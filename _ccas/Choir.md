@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p>Members: Boys &amp; Girls</p>
+<p>Tuesdays, 7.30 - 9am</p>
+<p>Thursdays, 2 - 4.30 pm</p>
 <p>Students benefit from being in a choir in many meaningful ways. Musical
 benefits would be vocal development, musical literacy and listening skills.
 Social and emotional benefits would be teamwork, confidence and emotional
