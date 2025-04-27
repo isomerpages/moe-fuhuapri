@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
+<h4><strong>Schoolbag Newsletter - 5 DSA questions you were too shy to ask – the answers may surprise you!</strong></h4>
+<p>How many DSA areas are there? What do schools look out for in their candidates?
+We answer these less common questions about the Direct School Admission
+scheme for Primary 6 students. Find out more <a href="https://www.schoolbag.edu.sg/story/5-dsa-questions-you-were-too-shy-to-ask-the-answers-may-surprise-you/?utm_source=sb+edm+wog+article&amp;utm_medium=newsletter&amp;utm_campaign=dsa+multiplepathways+psle" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter -Math plus empathy equals growth</strong></h4>
 <p>Ms Kua Li En journeys with students facing difficulties, and views school
 activities such as debates as opportunities to instil empathy and promote
