@@ -3,7 +3,7 @@ title: CCAs
 permalink: /fuhua-experience/student-development/ccas/
 description: ""
 third_nav_title: Student Development
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>CCA @ FHPS</strong></h4>
 <p>Fuhua’s CCA Programme provides students with a wide range of programmes
@@ -324,12 +324,12 @@ in our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/ccas/Boys-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Boys’ Brigade</u></a> (Boys)
-<br><a href="/ccas/Girls-Brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Girls’ Brigade</u> </a>(Girls)</p>
+<p><a href="/ccas/boys-brigade-girls-brigade/" rel="noopener noreferrer nofollow" target="_blank"><u>Boys’ Brigade (BB) &amp; Girl's Brigade (GB)</u></a>(Boys
+&amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Yee Chong*
-<br>Ms Alicia Khong</p>
+<p>Mr Yeo Yee Chong (BB)*
+<br>Ms Alicia Khong (GB)* Mdm Tang Yen Yen</p>
 </td>
 </tr>
 <tr>
