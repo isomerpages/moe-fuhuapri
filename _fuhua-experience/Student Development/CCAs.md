@@ -329,7 +329,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Yee Chong (BB)*
-<br>Ms Alicia Khong (GB)* Mdm Tang Yen Yen</p>
+<br>Ms Alicia Khong (GB)* <br>Mdm Tang Yen Yen</p>
 </td>
 </tr>
 <tr>
