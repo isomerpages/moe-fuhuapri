@@ -4,6 +4,36 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Outstanding Achievement</strong></h4>
+<p><em>Fuhua Primary School students showcase excellence in robotics, winning the championship at the prestigious RoboCup Singapore Open 2025.</em>
+</p>
+<p>Our Infocomm Technology (Computing) CCA participated with three teams
+in the CoSpace Autonomous Driving, FirstSteps, U12 category. We proudly
+celebrate the success of Team 'Fuhua Coders', who emerged as <strong>Champions</strong> in
+their category.</p>
+<p><strong>Winning Team Details</strong>
+</p>
+<p><strong>Team Name</strong>: Fuhua Coders</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Members</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Hong Yi (5 Excellence)</p>
+</li>
+<li>
+<p>Loh Sheng Xiang (5 Care)</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
+Driving, FirstSteps, U12</p>
+</li>
+</ul>
+<p>This achievement reflects our students' dedication to excellence in robotics
+and programming. We congratulate our young innovators on their outstanding
+performance!</p>
 <h4><strong>MOE Innergy Award</strong></h4>
 <p>The MOE Innergy Award aims to recognise individuals/teams at the ministry
 level, for successfully developing and implementing innovations to bring
