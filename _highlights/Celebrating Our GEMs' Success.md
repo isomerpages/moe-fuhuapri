@@ -4,7 +4,7 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Outstanding Achievement</strong></h4>
+<h4><strong>Outstanding Achievement - 17th RoboCup Singapore Open</strong></h4>
 <p><em>Fuhua Primary School students showcase excellence in robotics, winning the championship at the prestigious RoboCup Singapore Open 2025.</em>
 </p>
 <p>Our Infocomm Technology (Computing) CCA participated with three teams
