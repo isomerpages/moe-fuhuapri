@@ -2,7 +2,7 @@
 title: Celebrating Our GEMs' Success
 permalink: /highlights/achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Outstanding Achievement</strong></h4>
 <p><em>Fuhua Primary School students showcase excellence in robotics, winning the championship at the prestigious RoboCup Singapore Open 2025.</em>
@@ -13,13 +13,14 @@ celebrate the success of Team 'Fuhua Coders', who emerged as <strong>Champions</
 their category.</p>
 <p><strong>Winning Team Details</strong>
 <br><strong>Team Name</strong>: Fuhua Coders
-<br><strong>Members</strong>: <br>
-Lim Hong Yi (5 Excellence)<br>
-Loh Sheng Xiang (5 Care)</p>
-<strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
-Driving, FirstSteps, U12<p></p>
-
-
+<br>
+</p>
+<p><strong>Members</strong>:
+<br>1. Lim Hong Yi (5 Excellence)
+<br>2. Loh Sheng Xiang (5 Care)</p>
+<p><strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
+Driving, FirstSteps, U12</p>
+<p></p>
 <p>This achievement reflects our students' dedication to excellence in robotics
 and programming. We congratulate our young innovators on their outstanding
 performance!</p>
