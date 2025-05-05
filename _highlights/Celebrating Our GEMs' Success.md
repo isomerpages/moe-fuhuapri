@@ -12,25 +12,14 @@ in the CoSpace Autonomous Driving, FirstSteps, U12 category. We proudly
 celebrate the success of Team 'Fuhua Coders', who emerged as <strong>Champions</strong> in
 their category.</p>
 <p><strong>Winning Team Details</strong>
-</p>
-<p><strong>Team Name</strong>: Fuhua Coders</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Members</strong>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lim Hong Yi (5 Excellence)</p>
-</li>
-<li>
-<p>Loh Sheng Xiang (5 Care)</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
-Driving, FirstSteps, U12</p>
-</li>
-</ul>
+<br><strong>Team Name</strong>: Fuhua Coders
+<br><strong>Members</strong>: <br>
+Lim Hong Yi (5 Excellence)<br>
+Loh Sheng Xiang (5 Care)</p>
+<strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
+Driving, FirstSteps, U12<p></p>
+
+
 <p>This achievement reflects our students' dedication to excellence in robotics
 and programming. We congratulate our young innovators on their outstanding
 performance!</p>
