@@ -13,9 +13,7 @@ celebrate the success of Team 'Fuhua Coders', who emerged as <strong>Champions</
 their category.</p>
 <p><strong>Winning Team Details</strong>
 <br><strong>Team Name</strong>: Fuhua Coders
-<br>
-</p>
-<p><strong>Members</strong>:
+<br><strong>Members</strong>:
 <br>1. Lim Hong Yi (5 Excellence)
 <br>2. Loh Sheng Xiang (5 Care)</p>
 <p><strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
