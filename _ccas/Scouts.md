@@ -61,4 +61,19 @@ their potential—all while having a great time.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Seniors_guiding_juniors_in_Rope_Tying.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors guiding juniors in rope tying</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
