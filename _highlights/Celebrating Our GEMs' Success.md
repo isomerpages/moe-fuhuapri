@@ -4,6 +4,70 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Outstanding Achievement - 17th RoboCup Singapore Open</strong></h4>
+<p><em>Fuhua Primary School students showcase excellence in robotics, winning the championship at the prestigious RoboCup Singapore Open 2025.</em>
+</p>
+<p>Our Infocomm Technology (Computing) CCA participated with three teams
+in the CoSpace Autonomous Driving, FirstSteps, U12 category. We proudly
+celebrate the success of Team 'Fuhua Coders', who emerged as <strong>Champions</strong> in
+their category.</p>
+<p><strong>Winning Team Details</strong>
+<br><strong>Team Name</strong>: Fuhua Coders
+<br><strong>Members</strong>:
+<br>1. Lim Hong Yi (5 Excellence)
+<br>2. Loh Sheng Xiang (5 Care)</p>
+<p><strong>Category</strong>: RoboCup Asia-Pacific (RCAP) CoSpace Autonomous
+Driving, FirstSteps, U12</p>
+<p></p>
+<p>This achievement reflects our students' dedication to excellence in robotics
+and programming. We congratulate our young innovators on their outstanding
+performance!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Group_Photo1.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Participants</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Group_Photo2.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Participants</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/1st_Place.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> position (Champion Team ‘Fuhua Coders’ by Lim Hong Yi of
+5 Excellence &amp; Loh Sheng Xiang of 5 Care)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>MOE Innergy Award</strong></h4>
 <p>The MOE Innergy Award aims to recognise individuals/teams at the ministry
 level, for successfully developing and implementing innovations to bring
