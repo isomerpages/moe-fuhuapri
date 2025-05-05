@@ -22,6 +22,52 @@ Driving, FirstSteps, U12</p>
 <p>This achievement reflects our students' dedication to excellence in robotics
 and programming. We congratulate our young innovators on their outstanding
 performance!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Group_Photo1.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Participants</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Group_Photo2.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Participants</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/1st_Place.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> position (Champion Team ‘Fuhua Coders’ by Lim Hong Yi of
+5 Excellence &amp; Loh Sheng Xiang of 5 Care)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>MOE Innergy Award</strong></h4>
 <p>The MOE Innergy Award aims to recognise individuals/teams at the ministry
 level, for successfully developing and implementing innovations to bring
