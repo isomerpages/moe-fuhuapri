@@ -20,20 +20,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;FHPS Floorball CCA is a sports suitable for both boys and girls.
-The CCA currently has a strength of 53 members and comprises two teams
-– Engagement &amp; Excellence teams. In addition to Tuesday CCA sessions,
-students who are passionate to hone their skills further are invited to
-practice on Monday afternoons.</p>
-<p></p>
-<p>Under the dedicated guidance of Coach Lauren, our floorball players are
-constantly honing their passing and shooting skills, polishing their speed,
-strategy and intensity to achieve their best results in the upcoming National
+<p>FHPS Floorball CCA is a co-ed sport open to both boys and girls. The CCA
+consists of two teams – the Engagement Team and the Excellence Team. Besides
+the regular Tuesday CCA sessions, students who are eager to further develop
+their skills are welcome to join additional practice sessions on Monday
+afternoons.</p>
+<p>Under the dedicated guidance of our Floorball coaches, our floorball players
+continuously refine their passing and shooting techniques, while sharpening
+their speed, strategy, and intensity in preparation for the upcoming National
 School Games (NSG). In 2024, the School Team played in their inaugural
 NSG and secured first place in Tier 3 (Junior Boys Division). The boys
 certainly made the school proud with their teamwork, coordination, and
 sportsmanship.</p>
-<p></p>
 <p>Want to try Floorball CCA? It is a high energy sport that is easy to pick
 up. Whether you are looking to take up the sport just to have some fun
 or train up for National School Games, floorball is worth a shot.</p>
