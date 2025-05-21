@@ -2,11 +2,29 @@
 title: Environmental Science
 permalink: /ccas/Environmental-Science/
 description: ""
+variant: tiptap
 ---
-Members: Boys & Girls
-
-The Environmental Science Club activities are designed to nurture our members into socially responsible and environmentally-friendly individuals. The members are given opportunities to conduct assembly talks and workshops so that they become active in conserving the environment and enhancing the well-being of our community.
-
-![](/images/Fuhua%20Experience/Student%20Development/CCA/Environmental%20Science/E1.jpeg) 
-
-Students making a recycle bag out of old clothes in Environmental Science Club
+<p>Members: Boys &amp; Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesdays: 7:30 - 9am</p>
+</li>
+</ul>
+<p>The Environmental Science Club's activities aim to cultivate socially
+responsible and environmentally conscious individuals. Members take an
+active role in promoting sustainability by leading assembly talks on topics
+such as reducing food waste, recycling, and protecting coral reefs. They
+also conduct hands-on workshops, including vermicomposting and upcycling
+sessions where students create paper baskets from used paper, pouches from
+food wrappers, and tote bags from old T-shirts.</p>
+<p>Gardening plays a key role in the club’s efforts, with members engaged
+in both traditional soil-based gardening and soilless hydroponic systems.
+The vegetables grown are harvested and distributed, reinforcing values
+of self-sufficiency and community care. The club also organizes birdwatching
+outings and dengue prevention campaigns to raise awareness about biodiversity
+and public health.</p>
+<p>Through these enriching experiences, members deepen their commitment to
+environmental conservation and make meaningful contributions to the well-being
+of our community. Join us and be part of the change toward a greener, healthier
+future!</p>
+<p></p>
