@@ -27,4 +27,24 @@ and public health.</p>
 environmental conservation and make meaningful contributions to the well-being
 of our community. Join us and be part of the change toward a greener, healthier
 future!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science Club/1.jpg">
+</div>
+<p>Students learning about vermicomposting and wormery</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science Club/2.jpg">
+</div>
+<p>Students harvesting edible greens such as bok choy and choy sum</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science Club/3.jpg">
+</div>
+<p>Students conducting outreach to raise awareness on dengue prevention</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science Club/4.jpg">
+</div>
+<p>Students presenting a pre-assembly sharing on protecting coral reefs</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science Club/5.jpg">
+</div>
+<p>Students participating in a birdwatching session</p>
 <p></p>
