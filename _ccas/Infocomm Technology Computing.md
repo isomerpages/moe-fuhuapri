@@ -58,15 +58,48 @@ future while having great fun at the same time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/Temi_Robot_Training_during_CCA_for_P6_students.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Temi Robot Training during CCA for P6 students</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/Robotics_Roadmap_with_Mbot___MakeBlock_for_P4___5_students.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Robotics Roadmap with Mbot &amp; MakeBlock for P4 &amp; 5 students</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/Scratch_Programming_for_P3_students.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Scratch Programming for P3 students</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/Microsoft_Game_Development_Roadmap_by_IMDA_for_P4___P5_students.jpg">
 </div>
@@ -85,9 +118,31 @@ future while having great fun at the same time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/Drone_Odyssey_2024_Obstacles_Challenge_A1_Parrot_Mambo_Category_Champion.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Drone Odyssey 2024 Obstacles Challenge A1 Parrot Mambo Category Champion</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Coding/MakeX_Robotics_Side_Quest_Formula_X_Race_Champion_Team_2024.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>‘MakeX Robotics Side Quest 2024: Formula X Race’ Champion Team</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
