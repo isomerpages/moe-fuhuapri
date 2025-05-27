@@ -9,22 +9,14 @@ aspect of the school’s concerted and continual effort in promoting holistic
 development of every Fuhua student.&nbsp; As citizens in an increasingly
 dynamic and interconnected world, it is crucial for Fuhua student to be
 equipped with necessary skills such as interpersonal, collaborative and
-communication skills, innovative problem solving, reasoning and decision
-making skills. These competencies, definitive of effective leadership,
-will allow them to consider issues from multiple perspectives and enable
-them to handle complexity and ambiguity with confidence. We strive to develop
-every student as a Citizen Leader. Thus, prefects serve beyond operational
-duties and are advocates in promoting a caring and enabling school environment.</p>
-<p>The school's Prefectorial Board consists of P3 – P6 students nominated
-by teachers based on their ability and potential to serve at a higher leadership
-level. P3 &amp; P4 prefects are nominated as junior prefects while P5 &amp;
-P6 prefects are elected as senior prefects.</p>
-<p>Beyond the expected roles and responsibilities of a prefect, there are
-ample opportunities for prefects to serve and embody the essence of being
-a Citizen Leader. The intent is to provide platforms for more student-led
-initiatives thus promoting greater work collaboration amongst students,
-as well as being advocates for student voices.</p>
-<h5><strong>Prefects' Training</strong></h5>
+communication skills, innovative problem solving, reasoning and decision-making
+skills. These competencies, definitive of effective leadership, will allow
+them to consider issues from multiple perspectives and enable them to handle
+complexity and ambiguity with confidence. We strive to develop every student
+as a Citizen Leader.</p>
+<h5><strong>Citizen Leadership Framework</strong></h5>
+<p></p>
+<h5><strong>refects' Training</strong></h5>
 <p>The prefects' training allow our leaders to connect and empower one another
 to make the school a better place for all. It aims to create a positive
 culture among students and strengthen the support network. During these
