@@ -79,7 +79,7 @@ variant: tiptap
 <p>Parents should only visit the school for the purchase at the stated times
 and report to the guardhouse first.</p>
 <p>For enquiries, you may send a whatsapp message to 8575 1813 or email to
-<a href="mailto:storders@actlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">storders@actlink.com.sg.</a>
+<a href="mailto:storders@actlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">storders@actlink.com.sg</a>
 </p>
 <h4><strong><u>Booklists</u></strong></h4>
 <ul data-tight="true" class="tight">
