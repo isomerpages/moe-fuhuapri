@@ -79,7 +79,34 @@ variant: tiptap
 <p>Parents should only visit the school for the purchase at the stated times
 and report to the guardhouse first.</p>
 <p>For enquiries, you may send a whatsapp message to 8575 1813 or email to
-<a href="storders@actlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">storders@actlink.com.sg</a>
+<a href="mailto:storders@actlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">storders@actlink.com.sg</a>
 </p>
+<h4><strong><u>Booklists</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/School Bookshop/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/P2_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/P3_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/P4_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/P5_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/P6_Booklist.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
