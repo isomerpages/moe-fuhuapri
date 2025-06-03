@@ -166,4 +166,50 @@ Heritage Gallery</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/National Education/KAHG_5_Activities_with_the_Classical_Musical_Instruments.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/National Education/KAHG_7_Activities_at_the_Calligraphy_Station___3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students performing using Chinese instruments for their classmates</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learning the meaning of the Chinese couplet</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Indian Heritage Centre</u></strong>
+</p>
+<p>Located in the heart of Singapore’s historic Little India precinct, the
+Indian Heritage Centre (IHC) showcases the rich history, heritage, and
+culture of Indian and South Asian communities in Singapore and Southeast
+Asia. Students explore the roots of the Indian community in Singapore,
+tracing the journeys of early settlers from the 19th century onwards.</p>
+<p>During the visit, students meet two Bharatanatyam dancers and gain insights
+into the cultural heritage and contributions of the Indian community through
+the lens of Indian performing arts. They will also explore the Permanent
+Galleries and take a guided walk around the Little India precinct to observe
+its vibrant trades and businesses.</p>
+<p>Students learn about various aspects of Indian culture, including Indian
+epics in Southeast Asia, traditional dance and costumes, the contributions
+of early Indian settlers and pioneers, as well as trades such as garland
+making, goldsmithing, and Indian cuisine.</p>
 <p></p>
