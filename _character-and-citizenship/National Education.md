@@ -212,4 +212,42 @@ its vibrant trades and businesses.</p>
 epics in Southeast Asia, traditional dance and costumes, the contributions
 of early Indian settlers and pioneers, as well as trades such as garland
 making, goldsmithing, and Indian cuisine.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/National Education/Learning_Experience_at_the_Indian_Heritage_Centre.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/National Education/Observing_the_beautiful_garlands_along_Little_India.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Experience at the Indian Heritage Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Observing the beautiful garlands along Little India</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
