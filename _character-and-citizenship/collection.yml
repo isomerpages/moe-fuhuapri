@@ -2,8 +2,10 @@ collections:
   character-and-citizenship:
     output: true
     order:
-      - Student Leadership.md
+      - CItizen Leadership.md
       - National Education.md
+      - Education and Career Guidance.md
+      - Integration Programme.md
       - Trips for Internationalisation Experience TIE.md
       - Values in Action VIA.md
       - House System.md
