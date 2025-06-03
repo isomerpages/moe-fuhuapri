@@ -250,4 +250,33 @@ making, goldsmithing, and Indian cuisine.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;<strong><u>Asian Civilisation Museum</u></strong>
+</p>
+<p>During the learning journey at the Asian Civilisations Museum, students
+are taken on a time-travel adventure back to Southeast Asia in the past
+guided by the mythical aquatic creature, the Makara. Through listening
+to the stories and looking at works of art at the museum, students explore
+what life was like back then. This exploration helps students to gain a
+deeper understanding of the region’s cultural diversity.</p>
+<p>Southeast Asia is a melting pot of cultures due to its strategic location.
+Throughout history, it has absorbed influences from China, India, Central
+Asia, and the Middle East. Rather than adopting these foreign elements,
+the people of Southeast Asia blended them with their indigenous traditions
+to create the region's unique and diverse cultures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/National Education/An_experience_in_the_Ancient_Civilisation_Museum.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An experience in the Ancient Civilisation Museum</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
