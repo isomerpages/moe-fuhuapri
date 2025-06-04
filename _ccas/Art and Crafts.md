@@ -61,6 +61,7 @@ Club:</p>
 visual arts</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p>By providing a supportive and stimulating environment, the Art and Craft
 Club empowers students to unlock their full artistic potential, nurture
 their imagination, and create meaningful works of art that reflect their
