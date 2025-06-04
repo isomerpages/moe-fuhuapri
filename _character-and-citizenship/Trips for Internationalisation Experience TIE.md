@@ -329,3 +329,7 @@ the tools to navigate and contribute to an interconnected world, where
 they can lead with empathy, creativity, and a commitment to sustainability.
 In doing so, the program aims to cultivate a generation of responsible
 global citizens, ready to make a meaningful and lasting impact on the world.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y7xMhd0vzW4?si=azV6GD1LvFApmKEv"></iframe>
+</div>
+<p></p>
