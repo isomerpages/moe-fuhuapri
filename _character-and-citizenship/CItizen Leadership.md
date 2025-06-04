@@ -92,7 +92,7 @@ within our school.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_2.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -123,10 +123,13 @@ students in simple and enjoyable games like badminton and ball passing,
 bringing them together to have fun and bond through play.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_5.png">
 </div>
-<p><strong>&nbsp;</strong>
+<p>See how our seniors and juniors bonded through these engaging activities!<strong> </strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iL9B8TmHle0?si=YHqrJ7_JdIzb21Fy"></iframe>
+</div>
 <p><strong><u>P6 Affirmation Cards</u></strong>
 </p>
 <p>The Prefectorial Board introduced a new initiative to affirm and encourage
@@ -135,14 +138,14 @@ cards featuring beloved Disney characters to inspire their seniors, with
 messages created during the Fuhua Kind-dom initiative and prefects' meetings
 in Term 3, reflecting Fuhua’s strong community spirit.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_A.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_A.jpg">
 </div>
 <p>On 16 September, during pre-assembly, prefects shared heartfelt words
 of encouragement with the P6 Fuhua Gems, accompanied by a touching video
 montage that highlighted their journey and reinforced the school’s belief
 in their abilities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_B.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_B.jpg">
 </div>
 <p>After the assembly, Primary 4 and 5 prefects visited P6 classes to personally
 deliver the affirmation cards and offer words of encouragement.</p>
