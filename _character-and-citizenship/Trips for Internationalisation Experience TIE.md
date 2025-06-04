@@ -2,12 +2,33 @@
 title: Trips for Internationalisation Experience TIE
 permalink: /character-and-citizenship/Trips-for-Internationalisation-Experience-TIE/
 description: ""
+variant: tiptap
 ---
-The TIE Programme aims to develop our students with the 21 Century Competencies of Global Awareness and Cross-Cultural Skills which will enable them to develop cultural sensitivities. It exposes students to Asia with a greater focus on ASEAN countries and sensitises them to the place of Singapore in the world. It also helps to strengthen students’ commitment and rootedness to Singapore.
-
-THE TIE EXPERIENCE
-------------------
-
-In 2019, a group of Primary 5 students went on a trip to Ho Chi Minh, Vietnam. They went through experiences such as farming, making traditional crafts, visiting the local war museum. They had the opportunity to interact with local students with hearing and speech impairment. During the trip, they learnt about the way of life of Vietnamese, their culture and history and the relation and ties between Singapore and Vietnam.  
-
-![](/images/Fuhua%20Experience/Student%20Development/Character%20&%20Citizenship/Trips%20for%20Internationalisation/T1.png)
+<p>After a long hiatus due to the COVID-19 pandemic, Fuhua relaunched its <em>Trips for Internationalisation Experience (TIE) Program</em> in
+2024. This unique initiative is designed to nurture global leaders by developing
+students' 21st-century competencies (21CC), with a focus on global awareness,
+cross-cultural skills, and sensitivity. The program aligns closely with
+the <strong>CCE 2021 Intent</strong> to help students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand Singapore’s ties with Asia and the Southeast Asian region.</p>
+</li>
+<li>
+<p>Recognize how Singapore’s cultural heritage has been shaped by diverse
+influences.</p>
+</li>
+<li>
+<p>Appreciate the cultural and economic interdependence between Singapore
+and other Southeast Asian countries.</p>
+</li>
+<li>
+<p>Foster civic consciousness by considering Singapore’s connection to the
+region and the world.</p>
+</li>
+</ul>
+<p>In 2024, Fuhua successfully established a strong partnership with Tungmahamek
+School in Bangkok, Thailand, marking an important milestone in our international
+engagement efforts. The TIE Program offers students opportunities for <em>learning beyond borders</em>,
+where they can establish friendships and build networks with like-minded
+peers who share a passion for sustainability.</p>
+<p></p>
