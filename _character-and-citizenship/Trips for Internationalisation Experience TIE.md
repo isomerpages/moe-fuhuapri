@@ -196,12 +196,12 @@ flowers using pandan leaves.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Trips for Internationalisation/WhatsApp_Image_2024_06_19_at_16_55_25__1_.jpg">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Trips for Internationalisation/WhatsApp_Image_2024_06_19_at_16_55_25__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Trips for Internationalisation/WhatsApp_Image_2024_06_19_at_16_11_53.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Trips for Internationalisation/WhatsApp_Image_2024_06_19_at_16_11_53.jpg">
 </div>
 </th>
 </tr>
