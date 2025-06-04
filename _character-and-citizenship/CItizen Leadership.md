@@ -125,8 +125,7 @@ bringing them together to have fun and bond through play.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Student Leadership/Pic_5.png">
 </div>
-<p>See how our seniors and juniors bonded through these engaging activities!<strong> </strong>
-</p>
+<p>See how our seniors and juniors bonded through these engaging activities!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iL9B8TmHle0?si=YHqrJ7_JdIzb21Fy"></iframe>
 </div>
