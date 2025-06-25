@@ -195,7 +195,7 @@ variant: tiptap
 <p>Ms Shamira Binte Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms La Vonda Koh</p>
+<p>Ms Christine Yep Bao Yu</p>
 </td>
 </tr>
 <tr>
@@ -360,10 +360,10 @@ variant: tiptap
 <p>4 Frugality</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Wong Jing Xin&nbsp;</p>
+<p>Ms Norfarishah Asherina Binte Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norfarishah Asherina Binte Hussain</p>
+<p>Ms Pagsibigan Jemaima Agustin</p>
 </td>
 </tr>
 <tr>
@@ -393,7 +393,7 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pagsibigan Jemaima Agustin</p>
+<p>Mdm Nuruljannah Binte Azeman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Santi Malaiya Maran</p>
