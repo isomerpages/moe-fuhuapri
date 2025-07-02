@@ -131,7 +131,9 @@ and personal growth, culminating in an end-of-term performance that showcases
 their talents. We are proud to present to you our P2 students' artistic
 journeys and celebrate their holistic development.</p>
 <p>Please click <a href="https://www.youtube.com/watch?v=8wrtNTPAxUQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the performance.</p>
+watch the 2024 performance.</p>
+<p>Please click <a href="https://www.youtube.com/watch?v=M9YugiggZvI" rel="noopener nofollow" target="_blank">here</a> to
+watch the 2025 performance.</p>
 <h5><strong>Primary 5 Camp</strong></h5>
 <p>In January, our Primary 5 students had a meaningful time participating
 in a 3D2N camp. The camp aims to:</p>
