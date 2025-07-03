@@ -93,17 +93,29 @@ watch the 2025 performance.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_07_Perseverance.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_08_Perseverance.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_01_Respect.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_02_Respect.jpg">
+</div>
 </td>
 </tr>
 </tbody>
