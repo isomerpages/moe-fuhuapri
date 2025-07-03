@@ -12,10 +12,52 @@ self-confidence and communication skills. The programme fosters teamwork,
 and personal growth, culminating in an end-of-term performance that showcases
 their talents. We are proud to present to you our P2 students' artistic
 journeys and celebrate their holistic development.</p>
-<p>Please click <a href="https://www.youtube.com/watch?v=8wrtNTPAxUQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the 2024 performance.</p>
 <p>Please click <a href="https://www.youtube.com/watch?v=M9YugiggZvI" rel="noopener nofollow" target="_blank">here</a> to
 watch the 2025 performance.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_12_Excellence.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_11_Excellence.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>ECG Day 2024</strong></h5>
 <p>As part of our Education and Career Guidance (ECG) efforts, Primary 1
 to Primary 5 students participated in fun and interactive lessons to explore
