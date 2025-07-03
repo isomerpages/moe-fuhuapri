@@ -12,10 +12,114 @@ self-confidence and communication skills. The programme fosters teamwork,
 and personal growth, culminating in an end-of-term performance that showcases
 their talents. We are proud to present to you our P2 students' artistic
 journeys and celebrate their holistic development.</p>
-<p>Please click <a href="https://www.youtube.com/watch?v=8wrtNTPAxUQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the 2024 performance.</p>
 <p>Please click <a href="https://www.youtube.com/watch?v=M9YugiggZvI" rel="noopener nofollow" target="_blank">here</a> to
 watch the 2025 performance.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_09_Care.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_10_Care.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_11_Excellence.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_12_Excellence.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Frugality</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_03_Frugality.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Frugality</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_04_Frugality.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_14_Honesty.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_05_Integrity.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_06_Integrity.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_07_Perseverance.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_08_Perseverance.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_01_Respect.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_02_Respect.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>ECG Day 2024</strong></h5>
 <p>As part of our Education and Career Guidance (ECG) efforts, Primary 1
 to Primary 5 students participated in fun and interactive lessons to explore
@@ -153,5 +257,9 @@ be one of the highlights of their Primary 5 learning experience. Click
 on the link below to catch a glimpse of this memorable camp.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c-41UZf_tp4?si=4nMz1TNpmCTs2ebW"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
 </div>
 <p></p>
