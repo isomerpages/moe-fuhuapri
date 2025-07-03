@@ -22,38 +22,75 @@ watch the 2025 performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Honesty</p>
+<p>2 Care</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_09_Care.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Honesty</p>
+<p>2 Care</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_10_Care.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_12_Excellence.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_11_Excellence.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_12_Excellence.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Frugality</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Frugality</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Honesty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
 </td>
 </tr>
 </tbody>
