@@ -56,9 +56,16 @@ watch the 2025 performance.</p>
 <td rowspan="1" colspan="1">
 <p>2 Frugality</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_03_Frugality.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Frugality</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_04_Frugality.jpg">
+</div>
 </td>
 </tr>
 <tr>
