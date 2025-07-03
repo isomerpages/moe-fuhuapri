@@ -71,9 +71,17 @@ watch the 2025 performance.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Honesty</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Honesty</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_14_Honesty.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -239,5 +247,9 @@ be one of the highlights of their Primary 5 learning experience. Click
 on the link below to catch a glimpse of this memorable camp.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c-41UZf_tp4?si=4nMz1TNpmCTs2ebW"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_13_Honesty.jpg">
 </div>
 <p></p>
