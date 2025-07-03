@@ -87,9 +87,17 @@ watch the 2025 performance.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Integrity</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_05_Integrity.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Integrity</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/Fuhua_P2_2025_06_Integrity.jpg">
+</div>
 </td>
 </tr>
 <tr>
