@@ -15,5 +15,5 @@ third_nav_title: Resources for Parents
 <p><a href="/files/Resource for Parents/EYE schedule/P5_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 EYE Schedule</a>
 </p>
 <h3>Primary 6</h3>
-<p><a href="/files/Resource for Parents/EYE schedule/Prelim_and_PSLE_Schedule_to_Parents__PG_.pdf" rel="noopener nofollow" target="_blank">P6 Prelims and PSLE Schedule</a>
+<p><a href="/files/Resource for Parents/EYE schedule/Prelim_and_PSLE_Schedule_to_Parents__PG_.pdf" rel="noopener nofollow" target="_blank">P6 Prelim and PSLE Schedule</a>
 </p>
