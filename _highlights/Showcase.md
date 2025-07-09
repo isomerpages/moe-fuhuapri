@@ -4,6 +4,16 @@ permalink: /highlights/showcase/
 description: ""
 variant: tiptap
 ---
+<h5><strong>Ties that Bind</strong></h5>
+<p>In a heartfelt interview, Mr Ong Eng Loon, our current School Advisory
+Committee (SAC) Chairman, reflects on his inspiring journey—from a young
+student at Fuhua Primary to a key figure shaping its future. His story,
+spanning decades, is a testament to both personal growth and the school’s
+remarkable transformation, capturing how Fuhua has evolved from modest
+beginnings to the esteemed institution it is today.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jejIxQ6w7Pc?si=49JpA21BPWs7QSuv"></iframe>
+</div>
 <h5><strong>P2 Speech &amp; Drama</strong></h5>
 <p>Our Primary 2 Drama Programme at Fuhua Primary ignites creativity and
 imagination into our young learners through engaging and interactive activities.
