@@ -4,7 +4,6 @@ permalink: /highlights/showcase/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h5><strong>Ties that Bind</strong></h5>
 <p>In a heartfelt interview, Mr Ong Eng Loon, our current School Advisory
 Committee (SAC) Chairman, reflects on his inspiring journey—from a young
