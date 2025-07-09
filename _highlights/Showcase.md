@@ -4,6 +4,19 @@ permalink: /highlights/showcase/
 description: ""
 variant: tiptap
 ---
+<h5><strong>P6 Graduation at Fuhua Primary School</strong></h5>
+<p>Graduation at Fuhua Primary School celebrates our P6 students' completion
+of their primary education journey. Beyond academic achievements, we honour
+their growth as confident, resilient individuals who embody our values
+of Respect, Care, Integrity, Perseverance and Excellence.</p>
+<p>Our Graduation Night showcases student performances and reflections, creating
+lasting memories for our graduating cohort. As our Fuhua Gems move forward
+to secondary school, they carry with them not just knowledge, but the qualities
+of lifelong learners and citizen leaders ready to make their mark on the
+world.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_wO-8jK53c0?si=NE4qCs18e7Hawks-"></iframe>
+</div>
 <h5><strong>Ties that Bind</strong></h5>
 <p>In a heartfelt interview, Mr Ong Eng Loon, our current School Advisory
 Committee (SAC) Chairman, reflects on his inspiring journey—from a young
@@ -243,10 +256,6 @@ gave students a lively and inspiring introduction to the media industry,
 ending Careers Day on a high note filled with laughter, learning, and motivation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/987FM_DJs.jpg">
-</div>
-<h5><strong>P6 Graduation @ FHPS</strong></h5>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_wO-8jK53c0?si=NE4qCs18e7Hawks-"></iframe>
 </div>
 <h5><strong>Primary 5 Camp</strong></h5>
 <p>In January, our Primary 5 students had a meaningful time participating
