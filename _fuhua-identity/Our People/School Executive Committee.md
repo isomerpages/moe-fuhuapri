@@ -191,7 +191,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="2025 EXCO" src="/images/EXCO_PRINT_2_5R_SAMPLE_B.jpg">
 </div>
