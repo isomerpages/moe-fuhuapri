@@ -6,8 +6,9 @@ third_nav_title: Teaching and Learning at Fuhua
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/TnL_Framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TnL_Framework1.jpg">
 </div>
 <h3><strong>Background</strong></h3>
 <p>The world we are living in is changing and education must evolve to respond
