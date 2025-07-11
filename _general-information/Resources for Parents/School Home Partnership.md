@@ -39,11 +39,10 @@ the refreshed guidelines.</p>
 <p>Newsletter 1</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/newsletter_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__1_2025_T1.jpg">
 </div>
+<p></p>
 </li>
-</ol>
-<ol data-tight="true" class="tight">
 <li>
 <p>Newsletter 2</p>
 <p></p>
