@@ -215,7 +215,7 @@ the teaching fraternity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/5.png">
 </div>
-<h4>Berita Harian Gen G Tiktok &amp; Video Competition</h4>
+<h4>Berita Harian Gen G Tiktok &amp; Video Competition 2024</h4>
 <p>In Term 1, the Malay Language Department sent two teams of P4 students
 to participate in a video competition organised by local newspaper, Berita
 Harian Gen G. The competition aims to foster a passion and love for the
