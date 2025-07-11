@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Cyber Wellness Newsletter</strong></h4>
-<p>Access our <a href="/files/Resource for Parents/Cyberwellness/CYBERWELLNESS_Newsletter_.pdf" rel="noopener nofollow" target="_blank">Cyber Wellness Newsletter </a>to
+<p>Access our <a href="/files/Resource for Parents/Cyberwellness/CYBERWELLNESS_Newsletter_.pdf" rel="noopener nofollow" target="_blank">Cyber Wellness Newsletter</a> to
 find out how we can help our children manage their devices.</p>
 <p><strong>Useful Links:</strong> 
 <br>
@@ -216,7 +216,7 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </p>
 </li>
 <li>
-<p>Newstetter 8: <a href="/files/CYBERWELLNESS_UPDATED.pdf" rel="noopener nofollow" target="_blank">What is the Right Age for Social Media? </a>
+<p>Newstetter 8: <a href="/files/CYBERWELLNESS_UPDATED.pdf" rel="noopener nofollow" target="_blank">What is the Right Age for Social Media?</a>
 </p>
 </li>
 </ul>
