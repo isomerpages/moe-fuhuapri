@@ -37,19 +37,23 @@ the refreshed guidelines.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Newsletter 1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/newsletter_pic.jpg">
+</div>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/newsletter_pic.jpg">
-</div>
 <ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parenting_for_wellness_Newsletter_1.pdf" rel="noopener nofollow" target="_blank">Newsletter #1</a>
-</p>
-</li>
 <li>
 <p>Newsletter 2</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__2_2025_T2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__2_2025_T2__1_.jpg">
+</div>
 </li>
 </ol>
 <p></p>
