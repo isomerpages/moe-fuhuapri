@@ -34,7 +34,11 @@ the refreshed guidelines.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_2.jpg">
 </div>
 <h4>Let's Connect!</h4>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Newsletter 1</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/newsletter_pic.jpg">
 </div>
@@ -42,6 +46,10 @@ the refreshed guidelines.</p>
 <li>
 <p><a href="/files/Parenting_for_wellness_Newsletter_1.pdf" rel="noopener nofollow" target="_blank">Newsletter #1</a>
 </p>
+</li>
+<li>
+<p>Newsletter 2</p>
+<p></p>
 </li>
 </ol>
 <p></p>
