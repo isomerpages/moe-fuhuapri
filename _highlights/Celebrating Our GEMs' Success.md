@@ -191,11 +191,6 @@ about significant benefits and impact in their workplaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide16.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide42.jpg">
-</div>
-<p></p>
 <h4><strong>MOE Service Excellence Award (MSEA)</strong></h4>
 <p>The MSEA is an MOE-wide award that recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
