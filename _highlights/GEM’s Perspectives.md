@@ -4,6 +4,15 @@ permalink: /gem-s-perspectives/
 variant: tiptap
 description: ""
 ---
+<h4>2025/Issue 3</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/8.png">
+</div>
 <h4>2025/Issue 2</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/6.jpg">
