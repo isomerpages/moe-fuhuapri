@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>Celebrating Excellence in Education! </h4>
+<h4>Celebrating Excellence in Education!</h4>
 <p>Congratulations to Mr Lim Yang Jun on receiving the prestigious Outstanding
 Youth in Education Award (OYEA) 2025!</p>
 <p>As our school's Student Well-Being Coordinator, Mr Lim has made remarkable
@@ -22,6 +22,10 @@ the spirit of this award through his unwavering commitment to student welfare
 and inclusive education.</p>
 <p><a href="https://www.facebook.com/story.php?story_fbid=1191412666355217&amp;id=100064594847808&amp;mibextid=wwXIfr&amp;rdid=Ne0a5JSxftwkrr93#" rel="noopener nofollow" target="_blank">Click here to read more.</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
+</div>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
