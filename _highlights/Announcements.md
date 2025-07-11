@@ -20,7 +20,8 @@ support networks.</p>
 passion and dedication in nurturing our next generation. Mr Lim exemplifies
 the spirit of this award through his unwavering commitment to student welfare
 and inclusive education.</p>
-<p><a href="https://www.facebook.com/story.php?story_fbid=1191412666355217&amp;id=100064594847808&amp;mibextid=wwXIfr&amp;rdid=Ne0a5JSxftwkrr93#" rel="noopener nofollow" target="_blank">Click here to read more.</a>
+<p><a href="https://www.facebook.com/story.php?story_fbid=1191412666355217&amp;id=100064594847808&amp;mibextid=wwXIfr&amp;rdid=Ne0a5JSxftwkrr93#" rel="noopener nofollow" target="_blank">Read more on Facebook</a> and
+<a href="https://www.zaobao.com.sg/news/singapore/story20250709-7111924" rel="noopener nofollow" target="_blank">on Zaobao.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
