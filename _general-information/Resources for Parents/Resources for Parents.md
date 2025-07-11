@@ -44,6 +44,16 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_28_at_8_19_40_AM.jpg">
 </div>
+<p></p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/fuhuaheartbeat20253" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/3</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p></p>
 <h4><strong>2024</strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
