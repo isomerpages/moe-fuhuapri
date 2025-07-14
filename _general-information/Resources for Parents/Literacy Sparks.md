@@ -39,5 +39,9 @@ and prepares students for the challenges of the 21st century.</p>
 <p><a href="https://go.gov.sg/literacysparks20252" rel="noopener nofollow" target="_blank">Literacy Sparks 2025/2</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1jKNjdvNkUxBBEeNWEU39u5-hLsRby3T_/view?usp=sharing" rel="noopener nofollow" target="_blank">Literacy Sparks 2025/3</a>
+</p>
+</li>
 </ul>
 <p></p>
