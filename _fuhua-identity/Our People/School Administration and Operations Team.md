@@ -106,16 +106,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Hwa</p>
+<p>Mr Shanmuga Nathan s/o Govindasamy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Nan Lee</p>
+<p></p>
 </td>
 </tr>
 </tbody>
