@@ -3,13 +3,75 @@ title: Information & Communications Technology Team
 permalink: /fuhua-identity/Our-People/Information-and-Communications-Technology-Team/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-| Designation     | Name                                         |
-|-----------------------|-----------------------------------------------------------|
-| **ICT Manager**     | Mr Dai Zuming
-| **ICT Associate**     | Mr Lam Xiao Liang
-| **ICT Executive**     | Mr Muhamad Khairul Bin Ali
-| **Desktop Engineer** | Mr Anish Thiiagu  |
-| **Desktop Engineer** | Mr Joe Tan  |
-| |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dai Zuming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Associate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lam Xiao Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Danial Bin Misdani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Anish Thiiagu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faruq bin Noorfauzi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
