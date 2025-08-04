@@ -197,10 +197,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamira Binte Jamaludin</p>
+<p>Ms Christine Yep Bao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Yep Bao Yu</p>
+<p>Mdm Yeo Sok Hoon</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>Mdm Zunairah Binte Janis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Sok Hoon</p>
+<p>Ms Shamira Binte Jamaludin</p>
 </td>
 </tr>
 <tr>
