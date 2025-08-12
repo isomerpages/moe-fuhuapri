@@ -3,25 +3,12 @@ title: Departments
 permalink: /fuhua-experience/Teaching-and-Learning-at-Fuhua/Departments/
 description: ""
 third_nav_title: Teaching and Learning at Fuhua
+variant: tiptap
 ---
-<div>
-
-
-<div style="float: left">
-
-<a href="/departments/English-Language/">
-
-<figure>  
-<img src="/images/Fuhua%20Experience/Teaching%20and%20Learning%20@%20Fuhua/Departments/Departments/D1.jpeg">  
-<figcaption> <strong> Click for information on Departments </strong> </figcaption>  
-</figure>
-
-</a>
-
+<h4>Leading Learning</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rr-Zlypf3AU?si=5s-HK1INog-SGgvZ"></iframe>
 </div>
-
-<div>
-
-</div>
-
-</div>
+<p></p>
+<p><strong><a href="/departments/English-Language/" rel="noopener noreferrer nofollow" target="_blank">Click for information on Departments</a></strong>
+</p>
