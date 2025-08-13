@@ -22,13 +22,13 @@ For more details, please click **_[here](https://www.moe.gov.sg/parentkit)_**.�
 
 **To unlock SLS account or reset password for SLS**
 
-Please complete the FormSG by clicking [here](https://go.gov.sg/fhpssls).
+Please complete the FormSG by clicking [here](https://form.gov.sg/67db9e6cf5a3f0517ef378e4).
 
   
 
 **To reset password for Student iCON**
 
-Please complete the FormSG by clicking [here](https://go.gov.sg/fhps-student-icon). 
+Please complete the FormSG by clicking [here](https://form.gov.sg/67db9f615979aa809c39aa7e). 
 
   
 
