@@ -20,7 +20,7 @@ For more details, please click **_[here](https://www.moe.gov.sg/parentkit)_**.�
 *   MOE SLS Helpdesk (67026513, 4 p.m. to 9 p.m.)
     
 
-**To unlock SLS account or reset password for SLS**
+**To unlock SLS account**
 
 Please complete the FormSG by clicking [here](https://form.gov.sg/67db9e6cf5a3f0517ef378e4).
 
