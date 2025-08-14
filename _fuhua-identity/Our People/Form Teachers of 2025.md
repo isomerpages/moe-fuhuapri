@@ -482,7 +482,7 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Lee Nai Fern Rachel</p>
+<p>Mr Ong Yang Xuan Terrance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Wei Loon Daryl</p>
