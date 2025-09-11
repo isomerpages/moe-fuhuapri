@@ -45,7 +45,7 @@ third_nav_title: Resources for Parents
 </p>
 </li>
 <li>
-<p><a href="/files/FHPS_T2_2025_Calendar__final_.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
+<p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_T4_2025_Calendar__final_.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a>
 </p>
 </li>
 </ol>
