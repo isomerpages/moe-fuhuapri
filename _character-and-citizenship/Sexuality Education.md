@@ -146,7 +146,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 4 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 4 Week 7</p>
 </td>
 </tr>
 <tr>
