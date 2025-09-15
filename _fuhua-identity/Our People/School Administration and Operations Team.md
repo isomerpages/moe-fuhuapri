@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
+<p><strong>Corporate Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
