@@ -30,7 +30,12 @@ and healthy living in a sustainable way.</p>
 <p>The learning experiences leading to the goals of Physical Education at
 the primary level are organised according to the three learning areas and
 content areas/strands as shown in the table below:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -157,8 +162,16 @@ performance and provide valuable feedback to facilitate learning and enhance
 performance.</p>
 <p>Please refer to the table below on the various PE programs to enhance
 the overall PE experience in Fuhua Primary School.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XhIJgS5xFT0?si=kAJ5GO0n3jGhbuMe"></iframe>
+</div>
 <h4><strong>SNIPPETS OF EXCITING PE PROGRAMMES IN FUHUA</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -216,7 +229,12 @@ the opportunity to represent their class to compete in various Olympic
 and Paralympic games (Refer to Table 1) during the ‘Start It Right’ programme
 in each term.</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
