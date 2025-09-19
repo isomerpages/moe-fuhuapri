@@ -160,11 +160,11 @@ we strive to infuse ICT based lessons into our curriculum. Pupils will
 be able to harness ICT skills such as video-recording to analyse physical
 performance and provide valuable feedback to facilitate learning and enhance
 performance.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XhIJgS5xFT0?si=kAJ5GO0n3jGhbuMe"></iframe>
+</div>
 <p>Please refer to the table below on the various PE programs to enhance
 the overall PE experience in Fuhua Primary School.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XhIJgS5xFT0?si=kAJ5GO0n3jGhbuMe"></iframe>
-</div>
 <h4><strong>SNIPPETS OF EXCITING PE PROGRAMMES IN FUHUA</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
