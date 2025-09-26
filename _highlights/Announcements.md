@@ -7,11 +7,13 @@ variant: tiptap
 <h4>2025 President’s Award for Teachers (PAT)</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
 Award for Teachers 2025 recipient.</p>
+<p>"Every decision - from the routines I set to the support tools I choose
+- must be intentional, because learning happens best when every child feels
+seen."</p>
 <p>As Head of Department for Character and Citizenship Education, Mdm Huda
 believes that children may be carrying invisible burdens. This powerful
 insight drives her to establish ways to make every child feel seen, supported,
-and empowered. Because true education is not just about what we teach –
-it is about how we care.</p>
+and empowered.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -77,7 +79,7 @@ and inclusive education.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
 </div>
 <p></p>
 <table style="minWidth: 25px">
