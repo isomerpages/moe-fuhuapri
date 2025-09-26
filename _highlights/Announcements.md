@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>2025 President’s Award for Teachers (PAT)</h4>
+<h4>President’s Award for Teachers (PAT) 2025</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
 Award for Teachers 2025 recipient.</p>
 <p>"Every decision - from the routines I set to the support tools I choose
