@@ -4,7 +4,7 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>2025 President’s Award for Teachers (PAT) </h4>
+<h4>2025 President’s Award for Teachers (PAT)</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
 Award for Teachers 2025 recipient. As Head of Department for Character
 and Citizenship Education, Mdm Huda believes that children may be carrying
@@ -21,7 +21,7 @@ is not just about what we teach – it is about how we care.</p>
 <tr>
 <th rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/PAT25_Ms_Nurul_Huda_solo_2_edit.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/PAT25_Ms_Nurul_Huda_solo_2_edit.jpg">
 </div>
 </th>
 </tr>
