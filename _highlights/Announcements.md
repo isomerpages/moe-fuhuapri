@@ -6,11 +6,12 @@ variant: tiptap
 ---
 <h4>2025 President’s Award for Teachers (PAT)</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
-Award for Teachers 2025 recipient. As Head of Department for Character
-and Citizenship Education, Mdm Huda believes that children may be carrying
-invisible burdens. This powerful insight drives her to establish ways to
-make every child feel seen, supported, and empowered. Because true education
-is not just about what we teach – it is about how we care.</p>
+Award for Teachers 2025 recipient.</p>
+<p>As Head of Department for Character and Citizenship Education, Mdm Huda
+believes that children may be carrying invisible burdens. This powerful
+insight drives her to establish ways to make every child feel seen, supported,
+and empowered. Because true education is not just about what we teach –
+it is about how we care.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
