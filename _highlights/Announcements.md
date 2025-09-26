@@ -4,6 +4,60 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>President’s Award for Teachers (PAT) 2025</h4>
+<p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
+Award for Teachers 2025 recipient.</p>
+<p>"Every decision - from the routines I set to the support tools I choose
+- must be intentional, because learning happens best when every child feels
+seen."</p>
+<p>As Head of Department for Character and Citizenship Education, Mdm Huda
+believes that children may be carrying invisible burdens. This powerful
+insight drives her to establish ways to make every child feel seen, supported,
+and empowered.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/PAT25_Ms_Nurul_Huda_solo_2_edit.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/PAT25_Ms_Nurul_Huda_colleagues_3_resize.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/PAT25_Ms_Nurul_Huda_students_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Credit: Pictures by Ministry of Education, Singapore</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/168j8sfMR18?si=5Eii4gTHrZQksBeT"></iframe>
+</div>
+<p><strong>Credit: Video by Ministry of Education, Singapore</strong>
+</p>
 <h4>Celebrating Excellence in Education!</h4>
 <p>Congratulations to Mr Lim Yang Jun on receiving the prestigious Outstanding
 Youth in Education Award (OYEA) 2025!</p>
@@ -25,7 +79,7 @@ and inclusive education.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
 </div>
 <p></p>
 <table style="minWidth: 25px">
