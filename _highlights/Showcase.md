@@ -4,6 +4,137 @@ permalink: /highlights/showcase/
 description: ""
 variant: tiptap
 ---
+<h5><strong>P1 Speech &amp; Drama</strong></h5>
+<p>In Term 3, Fuhua Primary School conducted a Drama Programme for our Primary
+1 students to ignite creativity and imagination in young learners. Through
+engaging and interactive activities, students explored role-playing, storytelling,
+and expressive movement, which helped to nurture their self-confidence
+and communication skills. The programme culminated in an end-of-term performance
+that showcased their talents. We are proud to present our P1 students’
+learning journey and to celebrate their holistic development.</p>
+<p>Please click <a href="https://www.youtube.com/watch?v=3EVWkWObmyA&amp;source_ve_path=MTc4NDI0" rel="noopener nofollow" target="_blank">here</a> to
+watch the 2025 performance.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Care__7_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Care__13_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Diligence__4_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Diligence__8_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Excellence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Excellence__7_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Excellence</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Excellence__8_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Frugality</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Frugality__6_i.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Frugality</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Frugality__10_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Honesty__3_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Honesty</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Honesty__12_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Integrity__3_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Integrity__11_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Perseverance__5_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Perseverance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Perseverance__10_i.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Respect__7_i.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Showcase/P1_Respect__3_i.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Ties that Bind</strong></h5>
 <p>In a heartfelt interview, Mr Ong Eng Loon, our current School Advisory
 Committee (SAC) Chairman, reflects on his inspiring journey—from a young
