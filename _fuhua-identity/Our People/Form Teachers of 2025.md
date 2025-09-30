@@ -474,7 +474,7 @@ variant: tiptap
 <p>Ms Lee Xiao Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yun Ru Bernice</p>
+<p>Mdm Balasubramanian Hemavathi</p>
 </td>
 </tr>
 <tr>
