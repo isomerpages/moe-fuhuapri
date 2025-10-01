@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>'Our Schools, Our Stories' Photo &amp; Video Contest 2025</strong></h4>
-<p>Our talented Gems from Infocomm Media Production have achieved amazing
+<p>Our talented Gems from Infocomm Media Production CCA have achieved amazing
 success at the 'Our Schools, Our Stories' Photo &amp; Video Contest 2025!
 Out of a record-breaking 2,990 submissions from 297 schools nationwide,
 our Gems' creativity and teamwork truly shone! We couldn't be prouder of
