@@ -4,6 +4,27 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>'Our Schools, Our Stories' Photo &amp; Video Contest 2025</strong></h4>
+<p>Our talented Gems from Infocomm Media Production CCA have achieved amazing
+success at the 'Our Schools, Our Stories' Photo &amp; Video Contest 2025!
+Out of a record-breaking 2,990 submissions from 297 schools nationwide,
+our Gems' creativity and teamwork truly shone! We couldn't be prouder of
+their storytelling skills and dedication.</p>
+<p><strong>Priceless Moments: Junior Category</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/photography_cca.jpg">
+</div>
+<p>Audrianna, Lyha, and Kieran won Best Photo Story in the Junior category
+with "School Life in a Snap" under the Our School Community theme! Check
+out their entry <a href="https://www.schoolbag.edu.sg/story/osos-2025-priceless-moments-junior/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong>Our School Community: Junior Category</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/photography_cca2.jpg">
+</div>
+<p>Caden, Anthern and Amirdha received Honourable Mention for their outstanding
+entry "Lights, Camera, Friendship!" Check out their entry <a href="https://www.schoolbag.edu.sg/story/osos-2025-priceless-moments-junior/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Outstanding Achievement - 17th RoboCup Singapore Open</strong></h4>
 <p><em>Fuhua Primary School students showcase excellence in robotics, winning the championship at the prestigious RoboCup Singapore Open 2025.</em>
 </p>
