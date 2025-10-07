@@ -2,14 +2,14 @@
 title: Announcements
 permalink: /highlights/announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>2026 Primary 1 Orientation</h4>
 <p>Date: Friday, 21 November 2025
 <br>Venue: Fuhua Primary School
 <br>Time: 8.30 am to 10.30 am
 <br>Purchase of textbooks &amp; uniforms: 10.30 am to 12.30 pm
-<br>Please click  to find more details. </p>
+<br>Please click [here](/resources-for-2026-p1-parents/) to find more details.</p>
 <p></p>
 <h4>President’s Award for Teachers (PAT) 2025</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
