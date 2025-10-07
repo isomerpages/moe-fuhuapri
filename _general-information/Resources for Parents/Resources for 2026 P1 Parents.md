@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Resources for Parents
 ---
-<h4>2026 Primary 1 Orientation</h4>
-<p>Date: Friday, 21 November 2025
-<br>Venue: Fuhua Primary School
-<br>Time: 8.30 am to 10.30 am
-<br>Purchase of textbooks &amp; uniforms: 10.30 am to 12.30 pm
-</p><h4><strong><u>Year-End Sales of Textbooks &amp; Uniforms</u></strong></h4>
+<h4><strong><u>2026 Primary 1 Orientation</u></strong></h4>
+<p><strong>Date:</strong> Friday, 21 November 2025
+<br><strong>Venue:</strong> Fuhua Primary School
+<br><strong>Time:</strong> 8.30 am to 10.30 am
+<br><strong>Purchase of textbooks &amp; uniforms:</strong> 10.30 am to 12.30
+pm</p>
+<h4><strong><u>Year-End Sales of Textbooks &amp; Uniforms</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,7 +40,8 @@ third_nav_title: Resources for Parents
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1, 2, 3, 11, 12, <br>22, 23, 26, 29 and 30 December</p>
+<p>1, 2, 3, 11, 12,
+<br>22, 23, 26, 29 and 30 December</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +49,10 @@ third_nav_title: Resources for Parents
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 January 2026 (For P1 only) <br>Note: School ends at 10:30 am
-<br>5 January 2026 (For all levels) <br>Note: School ends at 10:30 am</p>
+<p>2 January 2026 (For P1 only)
+<br>Note: School ends at 10:30 am
+<br>5 January 2026 (For all levels)
+<br>Note: School ends at 10:30 am</p>
 </td>
 </tr>
 </tbody>
