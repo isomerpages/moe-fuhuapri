@@ -3,7 +3,7 @@ title: Bus Transport
 permalink: /general-information/school-vendors/bus-transport/
 description: ""
 third_nav_title: School Vendors
-variant: markdown
+variant: tiptap
 ---
 <p><strong>School Bus Operator and Bus Fare</strong>
 </p>
@@ -11,13 +11,14 @@ variant: markdown
 the school has appointed Newgen Transport Services Pte Ltd for the period
 of 2 years from January 2024 to December 2025 to provide daily school bus
 services to our students.</p>
-<p>NewGen Transport Services Pte Ltd
+<p><u>NewGen Transport Services Pte Ltd </u>
 <br>61 Bukit Batok Crescent
 <br>Heng Loong Building #05-07
 <br>Singapore 658078
 <br>Company Registration No.: 201800018M
-	<br>GST Registration No.: 201800018M
-	</p><p>Tel: 98393452<br>Contact Person: Mr Paul Pang
+<br>GST Registration No.: 201800018M</p>
+<p>Tel: 98393452
+<br>Contact Person: Mr Paul Pang
 <br>Email: <a href="mailto:operation@newgentpt.com" rel="noopener noreferrer nofollow" target="_blank">operation@newgentpt.com</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents interested in school bus
