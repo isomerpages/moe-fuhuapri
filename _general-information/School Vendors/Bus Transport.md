@@ -15,7 +15,8 @@ services to our students.</p>
 <br>61 Bukit Batok Crescent
 <br>Heng Loong Building #05-07
 <br>Singapore 658078
-</p><p>Company Registration No.: 201800018M, GST Registration No.: 201800018M
+<br>Company Registration No.: 201800018M
+	<br>GST Registration No.: 201800018M
 	</p><p>Tel: 98393452<br>Contact Person: Mr Paul Pang
 <br>Email: <a href="mailto:operation@newgentpt.com" rel="noopener noreferrer nofollow" target="_blank">operation@newgentpt.com</a>
 </p>
