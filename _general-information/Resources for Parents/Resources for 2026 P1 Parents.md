@@ -54,29 +54,13 @@ pm</p>
 <br>5 January 2026 (For all levels)</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>FAS Collection Dates:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December
+<p><u>December</u> 
 <br>15, 16, 17, 18 and 19</p>
 </td>
 </tr>
@@ -87,14 +71,6 @@ pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am to 3 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
