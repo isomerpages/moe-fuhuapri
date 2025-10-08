@@ -32,7 +32,7 @@ pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26, 27 and 28 November</p>
+<p>November <br>26, 27 and 28 </p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,7 @@ pm</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1, 2, 3, 11, 12,
-<br>22, 23, 26, 29 and 30 December</p>
+<p>December <br> 1, 2, 3, 11, 12, 22, 23, 26, 29 and 30 </p>
 </td>
 </tr>
 <tr>
@@ -50,10 +49,8 @@ pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 January 2026 (For P1 only)
-<br>Note: School ends at 10:30 am
 <br>5 January 2026 (For all levels)
-<br>Note: School ends at 10:30 am</p>
-</td>
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +66,7 @@ pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FAS Collection Dates:</strong> 15, 16, 17, 18 and 19 December</p>
+<p><strong>FAS Collection Dates:</strong> December <br> 15, 16, 17, 18 and 19 </p>
 </td>
 </tr>
 <tr>
