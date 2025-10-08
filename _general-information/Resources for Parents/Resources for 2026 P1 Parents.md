@@ -1,7 +1,7 @@
 ---
 title: Resources for 2026 P1 Parents
 permalink: /resources-for-2026-p1-parents/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Resources for Parents
 ---
@@ -32,7 +32,8 @@ pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November <br>26, 27 and 28 </p>
+<p>November
+<br>26, 27 and 28</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +41,8 @@ pm</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December <br> 1, 2, 3, 11, 12, 22, 23, 26, 29 and 30 </p>
+<p>December
+<br>1, 2, 3, 11, 12, 22, 23, 26, 29 and 30</p>
 </td>
 </tr>
 <tr>
@@ -49,13 +51,14 @@ pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 January 2026 (For P1 only)
-<br>5 January 2026 (For all levels)
-</p></td>
+<br>5 January 2026 (For all levels)</p>
+</td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -63,18 +66,33 @@ pm</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>FAS Collection Dates:</strong> December <br> 15, 16, 17, 18 and 19 </p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operating Hours:</strong> 9 am to 3 pm</p>
+<p><strong>FAS Collection Dates:</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December
+<br>15, 16, 17, 18 and 19</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours:</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 am to 3 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
