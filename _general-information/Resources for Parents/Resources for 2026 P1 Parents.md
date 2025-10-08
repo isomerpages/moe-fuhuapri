@@ -32,7 +32,7 @@ pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November
+<p><u>November</u> 
 <br>26, 27 and 28</p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ pm</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December
+<p><u>December</u> 
 <br>1, 2, 3, 11, 12, 22, 23, 26, 29 and 30</p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FAS Collection Dates:</strong> 
+<p><strong>FAS Collection Dates:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operating Hours:</strong> 
+<p><strong>Operating Hours:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
