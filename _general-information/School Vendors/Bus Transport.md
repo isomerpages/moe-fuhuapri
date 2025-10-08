@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are pleased to inform you that
 the school has appointed Newgen Transport Services Pte Ltd for the period
-of 2 years from January 2024 to December 2025 to provide daily school bus
+of 2 years from January 2026 to December 2027 to provide daily school bus
 services to our students.</p>
 <p><u>NewGen Transport Services Pte Ltd </u>
 <br>61 Bukit Batok Crescent
