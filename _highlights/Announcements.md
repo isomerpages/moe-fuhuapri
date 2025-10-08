@@ -4,6 +4,15 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong><u>2026 Primary 1 Orientation</u></strong></h4>
+<p><strong>Date:</strong> Friday, 21 November 2025
+<br><strong>Venue:</strong> Fuhua Primary School
+<br><strong>Time:</strong> 8.30 am to 10.30 am
+<br><strong>Purchase of textbooks &amp; uniforms:</strong> 10.30 am to 12.30
+pm
+<br>Please click <a href="https://fuhuapri.moe.edu.sg/resources-for-2026-p1-parents/" rel="noopener nofollow" target="_blank">here</a> to
+find more details.</p>
+<p></p>
 <h4>President’s Award for Teachers (PAT) 2025</h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
 Award for Teachers 2025 recipient.</p>
