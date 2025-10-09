@@ -54,6 +54,15 @@ us:</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 <p></p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1PXpOHZfUA2IQ2Jo4-1Og0VRsYJNdzLE8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/4</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_20254.png">
+</div>
+<p></p>
 <h4><strong>2024</strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
