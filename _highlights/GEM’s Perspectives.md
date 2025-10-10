@@ -6,6 +6,13 @@ description: ""
 ---
 <h4>2025/Issue 4</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/17.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Perspectives/18.png">
+</div>
 <h4>2025/Issue 3</h4>
 <p></p>
 <div class="isomer-image-wrapper">
