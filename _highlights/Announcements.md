@@ -4,6 +4,31 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Nomination for PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</strong></h4>
+<p>PAT pays tribute to experienced teachers for their role in moulding the
+future of our nation.&nbsp; These teachers are role models for the teaching
+profession as they embody a deep passion for teaching, and they inspire
+both their students and peers through their words and deeds.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/3.jpg">
+</div>
+<p>OYEA recognises young teachers who have shown admirable passion for teaching,
+and commitment to inspiring and nurturing their students.&nbsp; These teachers
+embody youthful idealism, energy and enthusiasm, and inspire both their
+students and peers through their words and deeds.&nbsp; Teachers who are
+35 years old and below in 2026 are eligible for the award.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/4.jpg">
+</div>
 <h4><strong><u>2026 Primary 1 Orientation</u></strong></h4>
 <p><strong>Date:</strong> Friday, 21 November 2025
 <br><strong>Venue:</strong> Fuhua Primary School
