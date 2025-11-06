@@ -13,35 +13,13 @@ Mr Hidayat's dedication to nurturing learners with care, compassion, and
 professionalism truly embodies what it means to teach with heart. His achievement
 reminds us all of the profound impact dedicated educators have on shaping
 young minds and supporting every child's journey.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4><strong>Nomination for PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</strong></h4>
 <p>PAT pays tribute to experienced teachers for their role in moulding the
 future of our nation.&nbsp; These teachers are role models for the teaching
