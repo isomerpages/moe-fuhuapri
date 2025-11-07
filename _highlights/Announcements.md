@@ -4,6 +4,22 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Leading Foundation Teacher Award 2025</strong></h4>
+<p>Congratulations to Mr Mohammed Hidayat Ruhani on receiving The Leading
+Teacher Foundation Award from National Institute of Education!</p>
+<p>This prestigious recognition celebrates passionate educators who make
+extraordinary contributions to early childhood and special needs education.
+Mr Hidayat's dedication to nurturing learners with care, compassion, and
+professionalism truly embodies what it means to teach with heart. His achievement
+reminds us all of the profound impact dedicated educators have on shaping
+young minds and supporting every child's journey.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/2.png">
+</div>
 <h4><strong>Nomination for PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</strong></h4>
 <p>PAT pays tribute to experienced teachers for their role in moulding the
 future of our nation.&nbsp; These teachers are role models for the teaching
