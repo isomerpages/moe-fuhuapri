@@ -21,7 +21,7 @@ online at&nbsp;<a href="http://www.finestuniform.com/" rel="noopener noreferrer 
 (Tuesday, 1.40pm to 3pm) and report to the guardhouse first.</p>
 <p>For year-end Uniform sales, parents will purchase the uniform for their
 children strictly based on the dates assigned for respective levels. Information
-will be provided in the year-end Uniform List. Click <a href="/files/School Uniform/Uniforms_Order_Form.pdf" rel="noopener nofollow" target="_blank">here</a> for
+will be provided in the year-end Uniform List. Click <a href="/files/School Uniform/FHPS_Uniform_price_list_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the Uniform Order Form.</p>
 <p>For enquiries, you may contact Mr Koh at Tel: 6466 5697 or HP No. 9029
 5135.</p>
