@@ -18,7 +18,15 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="/files/Pre_reading_Middle_Primary.pdf" rel="noopener nofollow" target="_blank">P3 &amp; P4 Pre-reading Slides</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/18w5hnnEr-OrRRpNJheBzrIraTr6C0Sby/view" rel="noopener nofollow" target="_blank">P5 &amp; P6 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pre_reading_Upper_Primary.pdf" rel="noopener nofollow" target="_blank">P5 &amp; P6 Pre-reading Slides</a>
 </p>
 </li>
 </ul>
