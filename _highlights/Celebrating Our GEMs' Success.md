@@ -4,6 +4,40 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4>2025 MOE Service Excellence Award (MSEA)  and Academy Awards for Professional Development </h4>
+<p>Huge congratulations to our outstanding staff who have been recognised
+with the MOE Service Excellence Award (MSEA) and the Academy Award for
+Professional Development!
+<br>
+<br>The MSEA honours those who embody true service excellence - staff who
+serve with passion, consistency, and C.A.R.E. (Collaborate, Anticipate,
+Reach out, Empathise), whilst inspiring colleagues to do the same.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>The Academy Awards for Professional Development celebrate our champions
+of learning - educators who mentor, share knowledge, and uplift peers across
+schools, fostering growth beyond their own classrooms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/3.jpg">
+</div>
 <h4><strong>'Our Schools, Our Stories' Photo &amp; Video Contest 2025</strong></h4>
 <p>Our talented Gems from Infocomm Media Production CCA have achieved amazing
 success at the 'Our Schools, Our Stories' Photo &amp; Video Contest 2025!
