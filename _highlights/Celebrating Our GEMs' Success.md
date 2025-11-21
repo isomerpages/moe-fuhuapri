@@ -4,7 +4,7 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025 National School Games (NSG) and Sporting Achievements </strong></h4>
+<h4><strong>2025 National School Games (NSG) and Sporting Achievements</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -29,6 +29,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2025nsg__4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
