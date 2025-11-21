@@ -181,7 +181,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2025nsg__26_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/2025nsg__26_.jpg">
 </div>
 <p></p>
 <h4><strong>2025 MOE Service Excellence Award (MSEA) and Academy Awards for Professional Development</strong></h4>
