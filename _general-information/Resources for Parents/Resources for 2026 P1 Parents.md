@@ -75,7 +75,8 @@ pm</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;2026 Primary 1 Orientation slides will be shared after Primary 1
-orientation.</p>
 <p></p>
+<h4><u>Briefing Slides</u></h4>
+<p></p>
+<h4></h4>
 <p>&nbsp;</p>
