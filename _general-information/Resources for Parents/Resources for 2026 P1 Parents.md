@@ -77,6 +77,15 @@ pm</p>
 </table>
 <p></p>
 <h4><u>Briefing Slides</u></h4>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2026 P1 parents/FHPS_P1_2026_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">P1 2026 Briefing </a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2026 P1 parents/P1_2026_FHPS_Orientation_Admin_Slides.pdf" rel="noopener nofollow" target="_blank">P1 2026 Orientation Admin Briefing</a>
+</p>
+</li>
+</ol>
 <h4></h4>
 <p>&nbsp;</p>
