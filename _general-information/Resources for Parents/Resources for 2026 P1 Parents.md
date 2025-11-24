@@ -75,7 +75,17 @@ pm</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;2026 Primary 1 Orientation slides will be shared after Primary 1
-orientation.</p>
 <p></p>
+<h4><u>Briefing Slides</u></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2026 P1 parents/FHPS_P1_2026_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">P1 2026 Briefing </a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resource for Parents/Resources for 2026 P1 parents/P1_2026_FHPS_Orientation_Admin_Slides.pdf" rel="noopener nofollow" target="_blank">P1 2026 Orientation Admin Briefing</a>
+</p>
+</li>
+</ol>
+<h4></h4>
 <p>&nbsp;</p>
