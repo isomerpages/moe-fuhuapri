@@ -17,10 +17,8 @@ on the link below to <strong>submit your nominations by 31 Dec 2025:</strong>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/cta.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Copy_of_CTA_2026.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Leading Foundation Teacher Award 2025</strong></h4>
 <p>Congratulations to Mr Mohammed Hidayat Ruhani on receiving The Leading
 Teacher Foundation Award from National Institute of Education!</p>
