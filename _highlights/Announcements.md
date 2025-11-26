@@ -4,6 +4,21 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Caring Teacher Awards 2026</strong></h4>
+<p>As the year draws to a close, we would like to invite you to show appreciation
+to your child/ward's teacher by nominating him/her for the <em>Caring Teacher Awards (CTA) 2026</em>.
+The CTA celebrate educators who exemplify care and compassion in their
+teaching, going beyond the call of duty to nurture their students' holistic
+development. These dedicated teachers play a vital role in shaping confident,
+independent, and resilient learners who contribute meaningfully to our
+nation. Organised by NIE, this award comes only once every two years. Click
+on the link below to <strong>submit your nominations by 31 Dec 2025:</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/cta.jpg">
+</div>
 <h4><strong>Leading Foundation Teacher Award 2025</strong></h4>
 <p>Congratulations to Mr Mohammed Hidayat Ruhani on receiving The Leading
 Teacher Foundation Award from National Institute of Education!</p>
