@@ -4,6 +4,35 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2025 Sony Creative Science Awards</strong></h4>
+<p>Congratulations to Ryan from 4 Frugality, whose innovative toy “Grab-A-Ball”
+impressed judges and earned him the prestigious Catalyst Award at the 2025
+Sony Creative Science Award!
+<br>
+<br>Ryan’s achievement showcases the incredible potential of young innovators,
+and we couldn’t be prouder. Here’s to this being the first of many amazing
+creations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/SCSA_Ryan_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/SCSA_Ryan_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>2025 National School Games (NSG) and Sporting Achievements</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
