@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="2025 Staff" src="/images/STAFF__18X12_INCH__FORMAL.jpg">
-</div>
-<p></p>
 <h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
