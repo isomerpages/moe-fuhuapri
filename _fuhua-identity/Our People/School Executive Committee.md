@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
+<p>Vice-Principal (Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Saima Hanif</p>
+<p>Mr Musa B Abdul Kadir</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 / Level Head -Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vivian Soh</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -154,6 +154,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dhanya Nair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head - Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Vivian Soh</p>
 </td>
 </tr>
 <tr>
