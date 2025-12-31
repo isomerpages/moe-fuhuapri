@@ -52,7 +52,6 @@ are not allowed.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Female students must have their hair neatly
 trimmed, braided or tied up with black or brown accessories. Fringe should
 not touch the eyebrows. Hair should not touch ears, or collar.</p>
-<p>&nbsp;</p>
 <h4>Accessories</h4>
 <p>Students should not wear jewellery, ornaments or fashion accessories.</p>
 <p>Female students may only wear a pair of small ear-studs.</p>
