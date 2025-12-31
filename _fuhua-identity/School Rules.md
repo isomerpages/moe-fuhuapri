@@ -81,8 +81,8 @@ by 7.30 a.m.</p>
 </li>
 </ul>
 <p></p>
-<p>Use of mobile devices (smartphones, smart watches) in the school premises</p>
-<ol data-tight="true" class="tight">
+<h3>Use of mobile devices (smartphones, smart watches) in the school premises</h3>
+<ul data-tight="true" class="tight">
 <li>
 <p>Students are not to use mobile devices during school hours including recess,
 CCA and after-school programme. (e.g. support and enrichment classes)</p>
@@ -115,9 +115,9 @@ above rules and will be handed over to parents/guardians]</p>
 <li>
 <p>The above rules do not apply to non-telecommunication devices e.g. POSB
 Smart Buddy Watch, which allows contactless payment in school.</p>
-<h3>Learning</h3>
 </li>
-</ol>
+</ul>
+<h3>Learning</h3>
 <p>All students should always display a positive attitude towards learning.</p>
 <h2>2. LOVE OTHERS</h2>
 <p>1)&nbsp;&nbsp; All students are to:</p>
