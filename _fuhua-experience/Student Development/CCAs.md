@@ -3,7 +3,7 @@ title: CCAs
 permalink: /fuhua-experience/student-development/ccas/
 description: ""
 third_nav_title: Student Development
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>CCA @ FHPS</strong></h4>
 <p>Fuhua’s CCA Programme provides students with a wide range of programmes
@@ -104,7 +104,6 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslina Binte Ishak*
 <br>Ms Mok Chia Hui, Michelle
-<br>Mr Alex Wong Hoong Kit
 <br>
 </p>
 </td>
@@ -115,8 +114,9 @@ in our students.</p>
 <br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamira Binte Jamaludin*
-<br>Ms Tan Yun Ru Bernice</p>
+<p>Miss Christine Yep Bao Yu*
+<br>Mr Ong Yang Xuan Terrance
+<br>Mdm Ivy Chia</p>
 </td>
 </tr>
 <tr>
@@ -127,9 +127,10 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Poh Har*
-<br>Miss Liu Si Ting
-<br>Mr Thong Kok Leung</p>
+<p>Ms Liu Si Ting*
+<br>Mr Muhamad Azli
+<br>Mr Thong Kok Leung
+<br>Ms Kylie Leong</p>
 </td>
 </tr>
 <tr>
@@ -141,9 +142,9 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wang Kee Leong*
-<br>Mdm Sarah Harbachan
-<br>Mdm Kho Mui Leng Selina
-<br>Mdm Meharaj Begum Binte Mohd Mustafa</p>
+<br>Mr Yeo Yee Chong
+<br>Mrs Sarah Harbachan
+<br>Mdm Kho Mui Leng Selina</p>
 </td>
 </tr>
 <tr>
@@ -153,8 +154,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Yilong, Jonathan*
-<br>Mdm Sumathi
-<br>Ms Goh Gey Puay Esther</p>
+<br>Ms Ching Khee Yoll</p>
 </td>
 </tr>
 <tr>
@@ -163,9 +163,10 @@ in our students.</p>
 <br>(Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haji Mohamad Hairi Bin Ibrahim*
-<br>Ms Ching Khee Yoll
-<br>Mr Jeremy</p>
+<p>Mr Haji Mohamad Hairi bin Ibrahim* 
+	<br>Mdm Meharaj Begum Binte Mohd Mustafa
+<br>Ms Tan Kian Muar
+<br>Ms Shahira</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +191,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Diana Teoh Jia Yan*
 <br>Mdm Chua Soo Bin April
-<br>Ms Ong Kui Shin</p>
+<br>Mr Tan Wei’En Nicholas</p>
 </td>
 </tr>
 <tr>
@@ -235,9 +236,9 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Shi Jia Clara*
-<br>Ms Lee Xiao Tian
-<br>Mdm Faridah Binte Mohamed Ali</p>
+<p>Ms Lee Xiao Tian*
+<br>Ms Foo Shi Jia Clara
+<br>Ms Shamira Binte Jamaludin</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +251,8 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Sok Hoon*
 <br>Mdm Zhuang Xiao Juan
-<br>Mdm Ivy Chia</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +267,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Najuma*
-<br>Mr Soffian</p>
+<br>Ms Jasmine Wong</p>
 </td>
 </tr>
 <tr>
@@ -302,6 +304,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Cheng Chuan *
+<br>Ms A Sumathi
 <br>Ms Li Xing
 <br>
 </p>
@@ -317,7 +320,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thong Kok Leung*
-<br>Mdm Ng Baohui Sherline</p>
+<br>Mdm Nuruljannah</p>
 </td>
 </tr>
 <tr>
@@ -326,9 +329,9 @@ in our students.</p>
 &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Yee Chong (BB)*
-<br>Ms Alicia Khong (GB)*
-<br>Mdm Tang Yen Yen</p>
+<p>Mr Lim Yang Jun (BB)*
+<br>Mdm Tang Yen Yen(GB)*
+<br>Ms Alicia Khong</p>
 </td>
 </tr>
 <tr>

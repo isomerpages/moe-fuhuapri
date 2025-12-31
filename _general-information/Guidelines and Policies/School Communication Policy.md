@@ -96,7 +96,7 @@ Heads (SHs) / Level Heads (LHs) / school Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ganesan s/o Raman (Principal) , Mrs Christina Manuel (Vice Principal
-(Education) ) and Ms Saima Hanif (Vice Principal (Administration))</p>
+(Education) ) and Mr Musa B<em> </em>Abdul Kadir (Vice Principal (Education))</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +104,7 @@ Heads (SHs) / Level Heads (LHs) / school Staff Developer (SSD)</p>
 <p>Finance / Admissions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Choi Khuan (Admin Manager) / Ms Sangeetha d/o V Nadarajaan (Admin
-Manager)</p>
+<p>Ms Loy Choi Khuan (Admin Manager)</p>
 </td>
 </tr>
 <tr>

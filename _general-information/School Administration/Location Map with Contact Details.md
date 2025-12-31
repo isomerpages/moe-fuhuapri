@@ -8,9 +8,6 @@ variant: tiptap
 <p>Address: 65 JURONG EAST STREET 13&nbsp; S(609647)</p>
 <p>Telephone: 65624370</p>
 <p>Email:&nbsp; fhps@moe.edu.sg</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%;height:50%" height="auto" width="100%" src="/images/School%20Administration/Admission/FB1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Administration/Admission/location_map.jpg">
