@@ -114,9 +114,9 @@ in our students.</p>
 <br>(Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Christine Yep Bao Yu*</p>
-<p>Mr Ong Yang Xuan Terrance</p>
-<p>Mdm Ivy Chia</p>
+<p>Miss Christine Yep Bao Yu*
+<br>Mr Ong Yang Xuan Terrance
+<br>Mdm Ivy Chia</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +127,10 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Si Ting*</p>
-<p>Mr Muhamad Azli</p>
-<p>Mr Thong Kok Leung</p>
-<p>Ms Kylie Leong</p>
+<p>Ms Liu Si Ting*
+<br>Mr Muhamad Azli
+<br>Mr Thong Kok Leung
+<br>Ms Kylie Leong</p>
 </td>
 </tr>
 <tr>
@@ -141,10 +141,10 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Kee Leong*</p>
-<p>Mr Yeo Yee Chong</p>
-<p>Mrs Sarah Harbachan</p>
-<p>Mdm Kho Mui Leng Selina</p>
+<p>Mr Wang Kee Leong*
+<br>Mr Yeo Yee Chong
+<br>Mrs Sarah Harbachan
+<br>Mdm Kho Mui Leng Selina</p>
 </td>
 </tr>
 <tr>
@@ -153,8 +153,8 @@ in our students.</p>
 <br>(Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Yilong, Jonathan*</p>
-<p>Ms Ching Khee Yoll</p>
+<p>Mr Chen Yilong, Jonathan*
+<br>Ms Ching Khee Yoll</p>
 </td>
 </tr>
 <tr>
@@ -163,9 +163,10 @@ in our students.</p>
 <br>(Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haji Mohamad Hairi bin Ibrahim* Mdm Meharaj Begum Binte Mohd Mustafa</p>
-<p>Ms Tan Kian Muar</p>
-<p>Ms Shahira</p>
+<p>Mr Haji Mohamad Hairi bin Ibrahim* 
+	<br>Mdm Meharaj Begum Binte Mohd Mustafa
+<br>Ms Tan Kian Muar
+<br>Ms Shahira</p>
 </td>
 </tr>
 <tr>
@@ -235,9 +236,9 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Xiao Tian*</p>
-<p>Ms Foo Shi Jia Clara</p>
-<p>Ms Shamira Binte Jamaludin</p>
+<p>Ms Lee Xiao Tian*
+<br>Ms Foo Shi Jia Clara
+<br>Ms Shamira Binte Jamaludin</p>
 </td>
 </tr>
 <tr>
@@ -303,8 +304,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Cheng Chuan *
-<br>Ms A Sumathi</p>
-<p>Ms Li Xing
+<br>Ms A Sumathi
+<br>Ms Li Xing
 <br>
 </p>
 </td>
@@ -329,8 +330,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Yang Jun (BB)*
-<br>Mdm Tang Yen Yen(GB)*</p>
-<p>Ms Alicia Khong</p>
+<br>Mdm Tang Yen Yen(GB)*
+<br>Ms Alicia Khong</p>
 </td>
 </tr>
 <tr>
