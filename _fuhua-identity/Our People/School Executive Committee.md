@@ -96,16 +96,15 @@ variant: tiptap
 <p>Head Of Department - Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Liew - Lim Yan Mui</p>
+<p>Mr Lau Kar Wai Julian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head Of Department - Information &amp; Communications Technology (Covering)
-/ Level Head -Mathematics</p>
+<p>Head Of Department - Information &amp; Communications Technology (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sung Huimin</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +120,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Kar Wai Julian</p>
+<p>Mrs Liew - Lim Yan Mui</p>
 </td>
 </tr>
 <tr>
@@ -174,6 +173,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Si Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head - Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,16 +197,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head - Partnerships</p>
+<p>Subject Head - Character and Citizenship Education (int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sung Huimin</p>
+<p>Mdm Nurul Ain Binte Suprat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faridah Mohamed Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yang Jun</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="2025 EXCO" src="/images/EXCO_PRINT_2_5R_SAMPLE_B.jpg">
-</div>
 <p></p>
