@@ -10,13 +10,6 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>1. LOVE YOURSELF</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Attire</strong>
 </p>
 <p>All students are to wear the prescribed school uniform/PE attire. Any
@@ -119,18 +112,7 @@ e.g. POSB Smart Buddy Watch, which allows contactless payment in school.</p>
 <p><strong>Learning</strong>
 </p>
 <p>All students should always display a positive attitude towards learning.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>2. LOVE OTHERS</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1)&nbsp;&nbsp; All students are to:</p>
 <p>a)&nbsp;&nbsp; take care of their teachers, schoolmates, school staff
 and family.</p>
@@ -143,11 +125,6 @@ can enjoy learning.</p>
 <p>2)&nbsp;&nbsp; All students are not allowed to have in their possession
 any weapon. They are also not allowed to bring any weapon-like item which
 is used or intended to be used to cause harm to others.</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>3. LOVE OUR SCHOOL</strong></h4>
 <p>Our School is our Home. Students are to:</p>
 <p>a)&nbsp;&nbsp; take pride in their work so that the school can be proud
