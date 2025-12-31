@@ -250,7 +250,8 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Sok Hoon*
 <br>Mdm Zhuang Xiao Juan
-<br>Mdm Ivy Chia</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
