@@ -84,7 +84,7 @@ or nail stickers are not allowed.</p>
 <p>be punctual for all school activities.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be in the school
 hall or classrooms for morning assembly by 7.30 a.m.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Use of mobile devices (smartphones, smart watches) in the school premises</strong>
 </p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to use mobile
