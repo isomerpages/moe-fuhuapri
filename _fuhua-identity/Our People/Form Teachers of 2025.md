@@ -356,7 +356,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Qinfang</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -441,7 +440,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Ge Yan</p>
-<p></p>
 </td>
 </tr>
 <tr>
