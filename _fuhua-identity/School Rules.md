@@ -33,7 +33,6 @@ must wear their name tags on the left side and slightly above the school
 crest.</p>
 <p>For durability, sew the border of the name tag after ironing it onto the
 uniform.</p>
-<p>&nbsp;</p>
 <h4>Shoes and Socks</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Black school shoes with black laces only.&nbsp;
 Sports shoes are only allowed to be worn on CCA day – Tuesday.</p>
