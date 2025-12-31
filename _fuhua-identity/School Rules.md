@@ -142,31 +142,56 @@ any weapon. They are also not allowed to bring any weapon-like item which
 is used or intended to be used to cause harm to others.</p>
 <h2>3. LOVE OUR SCHOOL</h2>
 <p>Our School is our Home. Students are to:</p>
-<p>a)&nbsp;&nbsp; take pride in their work so that the school can be proud
-of them.</p>
-<p>b)&nbsp;&nbsp; give their best in all tasks so that they will bring honour
-to the school.</p>
-<p>c)&nbsp;&nbsp; be good ambassadors so that others will speak well of our
-school.</p>
-<p>d)&nbsp;&nbsp; keep the school clean and eat only in the canteen so that
-the school will be a pleasant place to study in.</p>
-<p>e)&nbsp;&nbsp; queue in an orderly manner for food and drinks.</p>
-<p>f)&nbsp;&nbsp;&nbsp; keep the tables and benches clean during and after
-their meals.</p>
-<p>g)&nbsp;&nbsp; deposit all utensils in the receptacles provided at the
-canteen.</p>
-<p>h)&nbsp;&nbsp; do their part to maintain the state of cleanliness in every
-part of the school premises, including their classrooms.</p>
-<p>i)&nbsp;&nbsp;&nbsp; handle with care all the furniture and equipment
-in the school.</p>
-<p>j)&nbsp;&nbsp;&nbsp; take care and not vandalise school and public property.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>take pride in their work so that the school can be proud of them.</p>
+</li>
+<li>
+<p>give their best in all tasks so that they will bring honour to the school.</p>
+</li>
+<li>
+<p>be good ambassadors so that others will speak well of our school.</p>
+</li>
+<li>
+<p>keep the school clean and eat only in the canteen so that the school will
+be a pleasant place to study in.</p>
+</li>
+<li>
+<p>queue in an orderly manner for food and drinks.</p>
+</li>
+<li>
+<p>keep the tables and benches clean during and after their meals.</p>
+</li>
+<li>
+<p>deposit all utensils in the receptacles provided at the canteen.</p>
+</li>
+<li>
+<p>do their part to maintain the state of cleanliness in every part of the
+school premises, including their classrooms.</p>
+</li>
+<li>
+<p>handle with care all the furniture and equipment in the school.</p>
+</li>
+<li>
+<p>take care and not vandalise school and public property.</p>
+</li>
+<li>
 <p>abide by the safe rules of play in the school and play sports only in
 authorised areas designated for outdoor activities.</p>
+</li>
+</ul>
 <h2>4. LOVE OUR COUNTRY</h2>
 <p>Students are to take pride in our nation.</p>
-<p>a)&nbsp;&nbsp; Students who are Singapore citizens must sing the National
-Anthem and take the Pledge. Students will take the Pledge with the right
-fist placed over the heart.</p>
-<p>b) Students will stand at attention throughout the flag raising ceremony.
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+</li>
+<li>
+<p>Students will stand at attention throughout the flag raising ceremony.
 <br>
 </p>
+</li>
+</ul>
+<p></p>
