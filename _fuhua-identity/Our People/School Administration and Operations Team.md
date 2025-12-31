@@ -30,15 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sangeetha d/o V Nadarajaan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
@@ -70,15 +61,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Iliana Bte Abdul Rahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Peck Cheng Cherlyn</p>
 </td>
 </tr>
@@ -88,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yogeswari Ganesan</p>
+<p>Mdm Rossita Kasly</p>
 </td>
 </tr>
 <tr>
@@ -116,14 +98,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tiang Peck Choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
