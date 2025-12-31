@@ -35,7 +35,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Kian Muar</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Masni Binte Hassan</p>
@@ -50,7 +49,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Sok Hoon</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -62,7 +60,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Xiao Tian</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -107,7 +104,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Zhouyu</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -189,7 +185,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Kui Shin</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Malik Bin Mazlan</p>
@@ -266,7 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Xing</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -297,7 +291,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Yee Chong</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shamira Binte Jamaludin</p>
@@ -320,7 +313,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alicia Khong</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Haji Mohamad Hairi Bin Ibrahim</p>
@@ -376,7 +368,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ching Khee Yoll&nbsp;</p>
-<p>Mr Roy Lee</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +387,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Julian Lau</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurul Huda Binte Juma'at</p>
@@ -408,11 +398,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Si Ting</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Christine Yep Bao Yu</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -476,7 +464,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lin Qiuyan</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -510,7 +497,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms A. Sumathi</p>
-<p></p>
 </td>
 </tr>
 <tr>
