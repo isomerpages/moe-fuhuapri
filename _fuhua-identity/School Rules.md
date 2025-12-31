@@ -124,7 +124,7 @@ in the school.</p>
 <p>j)&nbsp;&nbsp;&nbsp; take care and not vandalise school and public property.</p>
 <p>abide by the safe rules of play in the school and play sports only in
 authorised areas designated for outdoor activities.</p>
-<p>4. LOVE OUR COUNTRY</p>
+<h2>4. LOVE OUR COUNTRY</h2>
 <p>Students are to take pride in our nation.</p>
 <p>a)&nbsp;&nbsp; Students who are Singapore citizens must sing the National
 Anthem and take the Pledge. Students will take the Pledge with the right
