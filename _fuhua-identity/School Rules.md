@@ -15,16 +15,13 @@ variant: tiptap
 modification(s) to the uniform/PE attire is not allowed.</p>
 <p>“A well-worn uniform reflects our discipline and represents the school's
 pride.”</p>
-<p>&nbsp;</p>
-<h4>PE Attire</h4>
+<h4>&nbsp;PE Attire</h4>
 <p>PE T-shirts will be worn during house meetings, PAL days and on designated
 PE days with the school PE shorts or skorts. All PE T-shirts are to be
 tucked in neatly.</p>
-<p>&nbsp;</p>
-<h4>Use of Sun Hats</h4>
+<h4>&nbsp;Use of Sun Hats</h4>
 <p>The sun hat is part of the school uniform. Students are strongly encouraged
 to wear their sun hats during outdoor activities such as learning journeys.</p>
-<p>&nbsp;</p>
 <h4>Name Tags</h4>
 <p>Students must wear their name tags on their school shirt/blouse and PE
 T-shirt. The name tag must be positioned slightly above the school badge
@@ -46,8 +43,7 @@ the ankles.</p>
 <h4>Hair, Nails and Accessories (Girls only)</h4>
 <p>“A presentable hairstyle and outlook give us a polished and confident
 appearance, reflecting respect for ourselves and others.”</p>
-<p>&nbsp;</p>
-<p>Hair</p>
+<h4>Hair</h4>
 <p>Students are expected to keep their hair well-combed and not coloured,
 dyed, highlighted or gelled.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Male students must be clean shaven and neat
@@ -58,15 +54,13 @@ are not allowed.</p>
 trimmed, braided or tied up with black or brown accessories. Fringe should
 not touch the eyebrows. Hair should not touch ears, or collar.</p>
 <p>&nbsp;</p>
-<p>Accessories</p>
+<h4>Accessories</h4>
 <p>Students should not wear jewellery, ornaments or fashion accessories.</p>
 <p>Female students may only wear a pair of small ear-studs.</p>
-<p>&nbsp;</p>
-<p>Nails</p>
+<h4>Nails</h4>
 <p>All students must keep their fingernails short and clean. Nail painting
 or nail stickers are not allowed.</p>
-<p>&nbsp;</p>
-<p>Punctuality</p>
+<h3>Punctuality</h3>
 <p>Be punctual for all school activities.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be in the school
 hall or classrooms for morning assembly by 7.30 a.m.</p>
@@ -93,10 +87,9 @@ of mobile devices.
 above rules and will be handed over to parents/guardians]</p>
 <p>viii.&nbsp; The above rules do not apply to non-telecommunication devices
 e.g. POSB Smart Buddy Watch, which allows contactless payment in school.</p>
-<p>&nbsp;</p>
-<p>Learning</p>
+<h3>Learning</h3>
 <p>All students should always display a positive attitude towards learning.</p>
-<p>2. LOVE OTHERS</p>
+<h2>2. LOVE OTHERS</h2>
 <p>1)&nbsp;&nbsp; All students are to:</p>
 <p>a)&nbsp;&nbsp; take care of their teachers, schoolmates, school staff
 and family.</p>
@@ -109,7 +102,7 @@ can enjoy learning.</p>
 <p>2)&nbsp;&nbsp; All students are not allowed to have in their possession
 any weapon. They are also not allowed to bring any weapon-like item which
 is used or intended to be used to cause harm to others.</p>
-<p>3. LOVE OUR SCHOOL</p>
+<h2>3. LOVE OUR SCHOOL</h2>
 <p>Our School is our Home. Students are to:</p>
 <p>a)&nbsp;&nbsp; take pride in their work so that the school can be proud
 of them.</p>
