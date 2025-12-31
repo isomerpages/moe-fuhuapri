@@ -121,14 +121,22 @@ Smart Buddy Watch, which allows contactless payment in school.</p>
 <p>All students should always display a positive attitude towards learning.</p>
 <h2>2. LOVE OTHERS</h2>
 <p>1)&nbsp;&nbsp; All students are to:</p>
-<p>a)&nbsp;&nbsp; take care of their teachers, schoolmates, school staff
-and family.</p>
-<p>b)&nbsp;&nbsp; be courteous, kind, and respectful towards their elders.</p>
-<p>c)&nbsp;&nbsp; be considerate and speak softly as school is a place of
+<ul data-tight="true" class="tight">
+<li>
+<p>take care of their teachers, schoolmates, school staff and family.</p>
+</li>
+<li>
+<p>be courteous, kind, and respectful towards their elders.</p>
+</li>
+<li>
+<p>be considerate and speak softly as school is a place of learning.</p>
+</li>
+<li>
+<p>move quietly and behave in an orderly manner so that others can enjoy
 learning.</p>
-<p>d)&nbsp;&nbsp; move quietly and behave in an orderly manner so that others
-can enjoy learning.</p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+</ul>
 <p>2)&nbsp;&nbsp; All students are not allowed to have in their possession
 any weapon. They are also not allowed to bring any weapon-like item which
 is used or intended to be used to cause harm to others.</p>
