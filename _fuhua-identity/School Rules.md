@@ -81,7 +81,7 @@ or nail stickers are not allowed.</p>
 <p>&nbsp;</p>
 <p><strong>Punctuality</strong>
 </p>
-<p>be punctual for all school activities.</p>
+<p>Be punctual for all school activities.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be in the school
 hall or classrooms for morning assembly by 7.30 a.m.</p>
 <p></p>
