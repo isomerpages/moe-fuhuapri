@@ -26,11 +26,15 @@ to wear their sun hats during outdoor activities such as learning journeys.</p>
 <p>Students must wear their name tags on their school shirt/blouse and PE
 T-shirt. The name tag must be positioned slightly above the school badge
 on the left side of the PE T-shirt.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; Male students
-must wear their name tag 1 cm above the chest pocket.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp; Female students
-must wear their name tags on the left side and slightly above the school
-crest.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Male students must wear their name tag 1 cm above the chest pocket.</p>
+</li>
+<li>
+<p>Female students must wear their name tags on the left side and slightly
+above the school crest.</p>
+</li>
+</ul>
 <p>For durability, sew the border of the name tag after ironing it onto the
 uniform.</p>
 <h4>Shoes and Socks</h4>
