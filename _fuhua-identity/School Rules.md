@@ -38,10 +38,15 @@ above the school crest.</p>
 <p>For durability, sew the border of the name tag after ironing it onto the
 uniform.</p>
 <h4>Shoes and Socks</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Black school shoes with black laces only.&nbsp;
-Sports shoes are only allowed to be worn on CCA day – Tuesday.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; School socks or plain white socks that are above
-the ankles.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Black school shoes with black laces only.&nbsp; Sports shoes are only
+allowed to be worn on CCA day – Tuesday.</p>
+</li>
+<li>
+<p>School socks or plain white socks that are above the ankles.</p>
+</li>
+</ul>
 <p>(School socks and shoes can be purchased from the uniform supplier)</p>
 <h4>Hair, Nails and Accessories (Girls only)</h4>
 <p>“A presentable hairstyle and outlook give us a polished and confident
@@ -49,13 +54,18 @@ appearance, reflecting respect for ourselves and others.”</p>
 <h4>Hair</h4>
 <p>Students are expected to keep their hair well-combed and not coloured,
 dyed, highlighted or gelled.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Male students must be clean shaven and neat
-in appearance. Hair should be short, neat and fringe must be above the
-brow line. Hair should not touch ears, eyebrows or collar. Spiky hairstyles
-are not allowed.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Female students must have their hair neatly
-trimmed, braided or tied up with black or brown accessories. Fringe should
-not touch the eyebrows. Hair should not touch ears, or collar.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Male students must be clean shaven and neat in appearance. Hair should
+be short, neat and fringe must be above the brow line. Hair should not
+touch ears, eyebrows or collar. Spiky hairstyles are not allowed.</p>
+</li>
+<li>
+<p>Female students must have their hair neatly trimmed, braided or tied up
+with black or brown accessories. Fringe should not touch the eyebrows.
+Hair should not touch ears, or collar.</p>
+</li>
+</ul>
 <h4>Accessories</h4>
 <p>Students should not wear jewellery, ornaments or fashion accessories.</p>
 <p>Female students may only wear a pair of small ear-studs.</p>
@@ -64,32 +74,50 @@ not touch the eyebrows. Hair should not touch ears, or collar.</p>
 or nail stickers are not allowed.</p>
 <h3>Punctuality</h3>
 <p>Be punctual for all school activities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to be in the school
-hall or classrooms for morning assembly by 7.30 a.m.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to be in the school hall or classrooms for morning assembly
+by 7.30 a.m.</p>
+</li>
+</ul>
 <p></p>
 <p>Use of mobile devices (smartphones, smart watches) in the school premises</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to use mobile
-devices during school hours including recess, CCA and after-school programme.
-(e.g. support and enrichment classes)</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile devices must be switched off
-and kept in their school bags during school-hours and after-school programmes.</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp; Students can only use mobile devices at designated
-areas. (basketball court, playground and the learning spaces in front of
-the General Office)</p>
-<p>iv.&nbsp;&nbsp;&nbsp; Mobile devices must only be used to access non-offensive
-information and communicate appropriately with parents and guardians.</p>
-<p>v.&nbsp;&nbsp;&nbsp;&nbsp; Students must display courtesy, consideration
-and respect for others when using mobile devices.</p>
-<p>vi.&nbsp;&nbsp;&nbsp; Students must take personal responsibility for their
-mobile devices and ensure that they are always kept securely in their school
-bags.</p>
-<p>vii.&nbsp;&nbsp; The school will not be responsible for damage or loss
-of mobile devices.
+<ol data-tight="true" class="tight">
+<li>
+<p>Students are not to use mobile devices during school hours including recess,
+CCA and after-school programme. (e.g. support and enrichment classes)</p>
+</li>
+<li>
+<p>Mobile devices must be switched off and kept in their school bags during
+school-hours and after-school programmes.</p>
+</li>
+<li>
+<p>Students can only use mobile devices at designated areas. (basketball
+court, playground and the learning spaces in front of the General Office)</p>
+</li>
+<li>
+<p>Mobile devices must only be used to access non-offensive information and
+communicate appropriately with parents and guardians.</p>
+</li>
+<li>
+<p>Students must display courtesy, consideration and respect for others when
+using mobile devices.</p>
+</li>
+<li>
+<p>Students must take personal responsibility for their mobile devices and
+ensure that they are always kept securely in their school bags.</p>
+</li>
+<li>
+<p>The school will not be responsible for damage or loss of mobile devices.
 <br>[Mobile devices will be confiscated if students fail to comply with the
 above rules and will be handed over to parents/guardians]</p>
-<p>viii.&nbsp; The above rules do not apply to non-telecommunication devices
-e.g. POSB Smart Buddy Watch, which allows contactless payment in school.</p>
+</li>
+<li>
+<p>The above rules do not apply to non-telecommunication devices e.g. POSB
+Smart Buddy Watch, which allows contactless payment in school.</p>
 <h3>Learning</h3>
+</li>
+</ol>
 <p>All students should always display a positive attitude towards learning.</p>
 <h2>2. LOVE OTHERS</h2>
 <p>1)&nbsp;&nbsp; All students are to:</p>
