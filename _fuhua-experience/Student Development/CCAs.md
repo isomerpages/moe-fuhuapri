@@ -154,7 +154,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Yilong, Jonathan*
-<br>Ms Ching Khee Yoll</p>
+<br>Ms Ching Khee Yoll
+	<br>Miss Batrisyia Qistina Binte Isnin</p>
 </td>
 </tr>
 <tr>
