@@ -89,9 +89,8 @@ We regret that late applications will not be accepted.</p>
 <p><strong>Interview and Food Tasting:</strong>
 <br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
-applicant’s own expense. Successful applicant will be expected to commence
-operation of the stall from 1 March 2025. Please contact the school’s Administration
-Manager, Ms Sangeetha Nadarajaan at&nbsp;6563-4370 for any clarifications.</p>
+applicant’s own expense. Please contact the school’s Administration Manager,
+Ms Loy Choi Khuan at&nbsp;6563-4370 for any clarifications.</p>
 <p><strong>How to get there:</strong>
 <br><strong>Nearest MRT</strong>: Jurong East Station</p>
 <p><strong>Bus Services:</strong>
