@@ -82,7 +82,7 @@ certificates of applicant and stall assistant/s.</p>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
 documents to the school’s General Office or email to&nbsp;<a href="Loy_Choi_Khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Loy_Choi_Khuan@schools.gov.sg</a> (Attention:
-Administration Manager) by the closing date <strong>31 March 2025, 5.00 pm</strong>.
+Administration Manager) by the closing date <strong>28 Feb 2026, 5.00 pm</strong>.
 We regret that late applications will not be accepted.</p>
 </li>
 </ul>
