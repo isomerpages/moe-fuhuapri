@@ -48,11 +48,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
+<p><strong>Administration Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Lim</p>
+<p>Mdm Rossita Binte Kasly</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rossita Binte Kasly</p>
+<p>Mdm Agnes Lim</p>
 </td>
 </tr>
 <tr>
