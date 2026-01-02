@@ -6,7 +6,7 @@ third_nav_title: Resources for Parents
 variant: tiptap
 ---
 <h4><strong>Social Media Platforms</strong></h4>
-<p>If you would like to keep up on the latest FHPS / N4S news, connect with
+<p>If you would like to keep up on the latest FHPS / PSG news, connect with
 us:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -18,11 +18,11 @@ us:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/fhpsn4s" rel="noopener noreferrer nofollow" target="_blank">FHPS N4S Facebook Page</a>
+<p><a href="https://www.facebook.com/fhpsn4s" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Facebook Page</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.instagram.com/n4s_fhps/" rel="noopener noreferrer nofollow" target="_blank">FHPS N4S Instagram Page</a>
+<p><a href="https://www.instagram.com/n4s_fhps/" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Instagram Page</a>
 </p>
 </li>
 </ul>
