@@ -1,5 +1,5 @@
 ---
-title: GEM’s Perspectives
+title: GEMs' Perspectives
 permalink: /gem-s-perspectives/
 variant: tiptap
 description: ""
