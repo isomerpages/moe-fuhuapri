@@ -81,18 +81,16 @@ certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
-documents to the school’s General Office or email to&nbsp;<a href="mailto:Sangeetha_V_%20Nadarajaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_V_</a>
-<a rel="noopener noreferrer nofollow" target="_blank">Nadarajaan@schools.gov.sg</a>(Attention: Administration Manager) by the
-closing date <strong>31 March 2025, 5.00 pm</strong>. We regret that late
-applications will not be accepted.</p>
+documents to the school’s General Office or email to&nbsp;<a href="Loy_Choi_Khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Loy_Choi_Khuan@schools.gov.sg</a> (Attention:
+Administration Manager) by the closing date <strong>28 Feb 2026, 5.00 pm</strong>.
+We regret that late applications will not be accepted.</p>
 </li>
 </ul>
 <p><strong>Interview and Food Tasting:</strong>
 <br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
-applicant’s own expense. Successful applicant will be expected to commence
-operation of the stall from 1 March 2025. Please contact the school’s Administration
-Manager, Ms Sangeetha Nadarajaan at&nbsp;6563-4370 for any clarifications.</p>
+applicant’s own expense. Please contact the school’s Administration Manager,
+Ms Loy Choi Khuan at&nbsp;6563-4370 for any clarifications.</p>
 <p><strong>How to get there:</strong>
 <br><strong>Nearest MRT</strong>: Jurong East Station</p>
 <p><strong>Bus Services:</strong>

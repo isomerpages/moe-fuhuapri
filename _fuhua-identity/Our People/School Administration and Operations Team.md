@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
+<p><strong>Administration Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,11 +39,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
+<p><strong>Administration Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Seo Choo</p>
+<p>Mdm Tan Seo Choo</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes Lim</p>
+<p>Mdm Agnes Lim</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rossita Kasly</p>
+<p>Mdm Rossita Binte Kasly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Hoo Kee Beverly</p>
 </td>
 </tr>
 <tr>
