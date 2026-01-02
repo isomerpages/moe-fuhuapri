@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Lim</p>
+<p>Mdm Lim Lay Hoon, Agnes</p>
 </td>
 </tr>
 <tr>
