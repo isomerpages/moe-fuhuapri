@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
-<h4><strong>PSG Executive Committee 2025</strong></h4>
+<h4><strong>PSG Executive Committee 2026</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_10_at_2_49_24_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Slide1.jpg">
 </div>
 <h4><strong>Social Media Platforms</strong></h4>
 <p>If you would like to keep up on the latest N4S news, connect with us:</p>
