@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
+<h4><strong>Schoolbag Newsletter - Primary 1, here we come!&nbsp;(a K2 Celebrates special)</strong></h4>
+<p>Schoolbag crashes the K2 Celebrates event at MOE Kindergarten @ First
+Toa Payoh, where these four K2 children are excited about their school
+years ahead. Here’s why they and their parents say they’ll be doing just
+fine at Primary 1. Find out more <a href="https://www.schoolbag.edu.sg/story/primary-1-here-we-come/?utm_source=sb+edm+wog+article&amp;utm_medium=newsletter&amp;utm_campaign=moekindergarten+p1readiness+preschool+++" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter - 5 DSA questions you were too shy to ask – the answers may surprise you!</strong></h4>
 <p>How many DSA areas are there? What do schools look out for in their candidates?
 We answer these less common questions about the Direct School Admission
