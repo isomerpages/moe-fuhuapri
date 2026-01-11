@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
+<h4><strong>Schoolbag Newsletter - Primary 1, here we come!&nbsp;(a K2 Celebrates special)</strong></h4>
+<p>Schoolbag crashes the K2 Celebrates event at MOE Kindergarten @ First
+Toa Payoh, where these four K2 children are excited about their school
+years ahead. Here’s why they and their parents say they’ll be doing just
+fine at Primary 1. Find out more <a href="https://www.schoolbag.edu.sg/story/primary-1-here-we-come/?utm_source=sb+edm+wog+article&amp;utm_medium=newsletter&amp;utm_campaign=moekindergarten+p1readiness+preschool+++" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
+</p>
 <h4><strong>Schoolbag Newsletter - 5 DSA questions you were too shy to ask – the answers may surprise you!</strong></h4>
 <p>How many DSA areas are there? What do schools look out for in their candidates?
 We answer these less common questions about the Direct School Admission
@@ -29,11 +36,6 @@ read other inspiring features in this latest edition of <a href="https://www.sch
 lanes for her children and what makes the great outdoors the perfect classroom.
 Find out more <a href="https://www.schoolbag.edu.sg/story/they-ve-fallen-many-times-and-it-s-good-for-them-says-olympian-mum-of-four/?utm_source=newsletter+sb+article&amp;utm_medium=social&amp;utm_campaign=apr+2024+edm" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 read other inspiring features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
-</p>
-<h4><strong>Schoolbag Newsletter - Sweet dreams are made of these tips</strong></h4>
-<p>Start the year right by getting enough rest. <a href="https://www.schoolbag.edu.sg/story/the-benefits-of-sleep-for-students?utm_source=newsletter+sb+article&amp;utm_medium=social&amp;utm_campaign=jan+2024+edm" rel="noopener noreferrer nofollow" target="_blank">Here</a>'s
-why a good night's sleep is crucial for your family. Read other inspiring
-features in this latest edition of <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag Newsletter.</a>
 </p>
 <h4><strong>Schoolbag Newsletter - 7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special</strong></h4>
 <p>Four fathers who work in the technology industry give tips on keeping
