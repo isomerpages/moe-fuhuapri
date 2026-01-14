@@ -11,14 +11,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Slide1.jpg">
 </div>
 <h4><strong>Social Media Platforms</strong></h4>
-<p>If you would like to keep up on the latest N4S news, connect with us:</p>
+<p>If you would like to keep up on the latest PSG news, connect with us:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.facebook.com/fhpsn4s" rel="noopener noreferrer nofollow" target="_blank">FHPS N4S Facebook Page</a>
+<p><a href="https://www.facebook.com/share/1DHKZKHu7b/" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Facebook Page</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.instagram.com/n4s_fhps/" rel="noopener noreferrer nofollow" target="_blank">FHPS N4S Instagram Page</a>
+<p><a href="https://www.instagram.com/fhps.psg?igsh=NW5vdWVzZHpraTRu" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Instagram Page</a>
 </p>
 </li>
 </ul>
