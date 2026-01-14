@@ -18,7 +18,7 @@ us:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/fhpsn4s" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Facebook Page</a>
+<p><a href="https://www.facebook.com/share/1DHKZKHu7b/" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Facebook Page</a>
 </p>
 </li>
 <li>
