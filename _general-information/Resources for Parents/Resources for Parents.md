@@ -22,7 +22,7 @@ us:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.instagram.com/n4s_fhps/" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Instagram Page</a>
+<p><a href="https://www.instagram.com/fhps.psg?igsh=NW5vdWVzZHpraTRu" rel="noopener noreferrer nofollow" target="_blank">FHPS PSG Instagram Page</a>
 </p>
 </li>
 </ul>
