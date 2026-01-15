@@ -27,6 +27,17 @@ us:</p>
 </li>
 </ul>
 <h4><strong>School Newsletter</strong></h4>
+<h4>2026</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1-4J0KxSwgMgAgvSyhtTD_lm6ddOxOLjC/view" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2026/1</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Page.jpg">
+</div>
+</li>
+</ol>
 <h4><strong>2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -79,7 +90,7 @@ us:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_20254.png">
+<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_20254.png">
 </div>
 </li>
 </ol>
