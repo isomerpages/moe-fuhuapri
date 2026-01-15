@@ -92,9 +92,9 @@ us:</p>
 <p></p>
 <p></p>
 <h4><strong>2024</strong></h4>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -105,8 +105,9 @@ us:</p>
 <li>
 <p><a href="https://go.gov.sg/fhpshb20241" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/1</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
 </li>
 </ol>
@@ -116,26 +117,60 @@ us:</p>
 <li>
 <p><a href="https://go.gov.sg/fhpshb20242" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/2</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_2.jpg">
-</div>
-</li>
-</ol>
-</th>
-<th rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2024/3</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fuhua_heartbeeat_2024_3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_2.jpg">
 </div>
 </li>
 </ol>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2024/3</a>
+</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fuhua_heartbeeat_2024_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol data-tight="true" class="tight">
+<li>
 <p></p>
 </li>
 </ol>
