@@ -64,40 +64,75 @@ us:</p>
 </div>
 <p></p>
 <h4><strong>2024</strong></h4>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fhpshb20241" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/1</a>
 </p>
-</li>
-</ol>
-</li>
-</ol>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
+</li>
+</ol>
+</th>
+<th rowspan="1" colspan="1">
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fhpshb20242" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/2</a>
 </p>
-</li>
-</ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_2.jpg">
 </div>
+</li>
+</ol>
+</th>
+<th rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2024/3</a>
 </p>
-</li>
-</ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fuhua_heartbeeat_2024_3.png">
 </div>
+</li>
+</ol>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+</ol>
 <h4><strong>Health Activity Playbook</strong></h4>
 <p>Health Promotion Board (HPB) is pleased to share the 'Health Activity
 Playbook'&nbsp; for parents! Click <a href="/files/Resource for Parents/playbookedm.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to see the poster
