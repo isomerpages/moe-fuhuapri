@@ -34,6 +34,21 @@ the refreshed guidelines.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Administration/Resources for Parents/GSHP_2.jpg">
 </div>
 <h4>Let's Connect!</h4>
+<h4>2026</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Newsletter 1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__4_2026_T1_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__4_2026_T1_2.jpg">
+</div>
+</li>
+</ol>
+<h4>2025</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Newsletter 1</p>
@@ -61,6 +76,8 @@ the refreshed guidelines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__3_2025_T3.jpg">
 </div>
+<p></p>
+<p></p>
 </li>
 </ol>
 <p></p>
