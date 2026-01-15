@@ -28,7 +28,6 @@ us:</p>
 </ul>
 <h4><strong>School Newsletter</strong></h4>
 <h4><strong>2025</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,28 +133,6 @@ us:</p>
 </li>
 </ol>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
