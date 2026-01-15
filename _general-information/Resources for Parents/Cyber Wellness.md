@@ -224,7 +224,7 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 </p>
 </li>
 <li>
-<p>Newsletter 10: <a href="/files/Resource for Parents/Cyberwellness/CYBERWELLNESS_Newsletter_4_2025.pdf" rel="noopener nofollow" target="_blank">The Healthy Digital Habits as a Family </a>
+<p>Newsletter 10: <a href="/files/Resource for Parents/Cyberwellness/CYBERWELLNESS_Newsletter_4_2025.pdf" rel="noopener nofollow" target="_blank">The Healthy Digital Habits as a Family</a>
 </p>
 </li>
 </ul>
