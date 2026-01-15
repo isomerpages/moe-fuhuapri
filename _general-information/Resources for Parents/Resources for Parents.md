@@ -28,15 +28,28 @@ us:</p>
 </ul>
 <h4><strong>School Newsletter</strong></h4>
 <h4><strong>2025</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheartbeat20251" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/1</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
-<p></p>
 </li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheart20252" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/2</a>
 </p>
@@ -44,24 +57,40 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_03_28_at_8_19_40_AM.jpg">
 </div>
-<p></p>
 </li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheartbeat20253" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/3</a>
 </p>
-<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p></p>
-</li>
+</td>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/fuhuaheartbeat20254" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2025/4</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_20254.png">
+<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Fuhua_Heartbeat_20254.png">
 </div>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
 <p></p>
 <h4><strong>2024</strong></h4>
 <table style="minWidth: 75px">
@@ -78,7 +107,7 @@ us:</p>
 <p><a href="https://go.gov.sg/fhpshb20241" rel="noopener noreferrer nofollow" target="_blank">Fuhua Heartbeat 2024/1</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_18_152336.png">
 </div>
 </li>
 </ol>
