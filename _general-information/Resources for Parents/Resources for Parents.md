@@ -134,7 +134,7 @@ us:</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank"> Fuhua Heartbeat 2024/3</a>
+<p><a href="https://go.gov.sg/fuhuaheartbeat20243" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2024/3</a>
 </p>
 </li>
 </ol>
