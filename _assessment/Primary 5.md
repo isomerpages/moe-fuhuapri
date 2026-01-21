@@ -4,11 +4,10 @@ permalink: /assessment/Primary-5/
 description: ""
 variant: tiptap
 ---
-<h4><strong>ENGLISH LANGUAGE</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 5/Slide1.jpg">
 </div>
-<h4><strong>FOUNDATION ENGLISH LANGUAGE</strong></h4>
+<h4><strong>ENGLISH LANGUAGE</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 5/Slide2.jpg">
 </div>
