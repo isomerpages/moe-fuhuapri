@@ -19,13 +19,13 @@ learning through an engaging curriculum. Deeper learning is acquired by
 learners when they see patterns, make connections and apply learning in
 real life contexts. The framework guides the school in planning learning
 experiences in support of developing student outcomes.</p>
-<h4><u>Lesson Design</u></h4>
+<h3><u>Lesson Design</u></h3>
 <p>The school leverages Understand by Design (UbD) curriculum framework in
 our lesson design. Lesson units are designed anchored on Big Ideas with
 accompanying Enduring Understandings (EU) and Essential Questions (EQ)
 to facilitate learning. Success Criteria are articulated in the unit plans
 to evaluate the impact of teaching strategies on student learning.</p>
-<h4><u>Tenets in the T&amp;L framework</u></h4>
+<h3><u>Tenets in the T&amp;L framework</u></h3>
 <h4>(A)&nbsp;&nbsp; Transdisciplinary and Interdisciplinary Integration</h4>
 <p>For students to make connections between different subject disciplines,
 interdisciplinary learning opportunities are planned where possible. Interdisciplinary
