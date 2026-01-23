@@ -34,7 +34,7 @@ variant: tiptap
 </div>
 <h4><strong>FOUNDATION MATHEMATICS</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Teaching and Learning @ Fuhua/Assessment/Primary 6/2026_FHPS_P6_Assessment_Plan_updated_22_Jan.jpg">
 </div>
 <h4><strong>SCIENCE</strong></h4>
 <div class="isomer-image-wrapper">
