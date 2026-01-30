@@ -105,8 +105,7 @@ themselves safe from sexuality-related risks.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)</p>
+<p>TIME PERIOD</p>
 </th>
 </tr>
 <tr>
@@ -127,7 +126,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Tuesday, 31 March</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +145,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Tuesday, 14 April</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +161,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Tuesday, 21 April</p>
 </td>
 </tr>
 <tr>
@@ -201,8 +200,7 @@ and how to seek help for themselves and their friends.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)</p>
+<p>TIME PERIOD</p>
 </th>
 </tr>
 <tr>
@@ -223,7 +221,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Tuesday, 20 October</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Tuesday, 27 October</p>
 </td>
 </tr>
 <tr>
