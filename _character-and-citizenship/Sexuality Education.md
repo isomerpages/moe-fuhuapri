@@ -52,7 +52,7 @@ ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
-<h5><strong>OVERVIEW OF FUHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h5>
+<h5><strong>OVERVIEW OF FUHUA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h5>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -80,7 +80,7 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p>&nbsp;</p>
-<h5><strong>At Fuhua Primary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong></h5>
+<h5><strong>At Fuhua Primary School, the following Sexuality Education lessons will be taught in <u>2026:</u></strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/moe_logo_for_SEd.jpg">
@@ -105,8 +105,7 @@ themselves safe from sexuality-related risks.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)</p>
+<p>DATE</p>
 </th>
 </tr>
 <tr>
@@ -127,7 +126,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Tuesday, 31 March</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +145,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Tuesday, 14 April</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +161,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Tuesday, 21 April</p>
 </td>
 </tr>
 <tr>
@@ -201,8 +200,7 @@ and how to seek help for themselves and their friends.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD
-<br>(e.g. Term 1 Week 2)</p>
+<p>DATE</p>
 </th>
 </tr>
 <tr>
@@ -223,7 +221,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Tuesday, 20 October</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Tuesday, 27 October</p>
 </td>
 </tr>
 <tr>
