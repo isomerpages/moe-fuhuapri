@@ -105,7 +105,7 @@ themselves safe from sexuality-related risks.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>DATE</p>
 </th>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ and how to seek help for themselves and their friends.</p>
 <p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>DATE</p>
 </th>
 </tr>
 <tr>
