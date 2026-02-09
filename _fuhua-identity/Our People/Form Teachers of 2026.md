@@ -255,7 +255,7 @@ variant: tiptap
 <p>Mdm Sarah Harbachan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Xing</p>
+<p>Mr Haji Mohamad Hairi Bin Ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ variant: tiptap
 <p>Ms Alicia Khong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haji Mohamad Hairi Bin Ibrahim</p>
+<p>Dr Ge Yan</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ variant: tiptap
 <p>Ms Avenir Janna Francesca Guinto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Ge Yan</p>
+<p></p>
 </td>
 </tr>
 <tr>
