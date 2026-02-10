@@ -4,6 +4,31 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Nominate Your Inspiring English Teacher!</strong></h4>
+<p>Know an English Language teacher who truly makes a difference? It's time
+to celebrate their impact! The Inspiring Teacher of English Award is now
+accepting nominations! This prestigious award is presented by the Speak
+Good English Movement and The Straits Times, with support from the Ministry
+of Education.</p>
+<p><strong><em><u>Teaching Award Category</u></em></strong>
+</p>
+<p>Open to all in-service English Language teachers who inspire students
+and foster a love for the English language through their exceptional teaching
+methods.</p>
+<p><strong><em><u>How to nominate:</u></em></strong>
+</p>
+<p>Use the QR code or URL provided to submit your nomination for the Teaching
+Award category: <a href="https://go.gov.sg/iteta2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteta2026</a>
+</p>
+<p><strong><em><u>Deadline:</u></em><u> 6pm, 23 March 2026</u></strong>
+</p>
+<p>Your nomination is more than just recognition - it's an affirmation and
+encouragement to the teachers who work tirelessly to help our students
+excel in English. Let's honour those who inspire excellence every day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/EL_Award.jpg">
+</div>
+<p></p>
 <h4><strong>Caring Teacher Awards 2026</strong></h4>
 <p>As the year draws to a close, we would like to invite you to show appreciation
 to your child/ward's teacher by nominating him/her for the <em>Caring Teacher Awards (CTA) 2026</em>.
@@ -119,7 +144,7 @@ and empowered.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/168j8sfMR18?si=5Eii4gTHrZQksBeT"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/168j8sfMR18?si=5Eii4gTHrZQksBeT"></iframe>
 </div>
 <p><strong>Credit: Video by Ministry of Education, Singapore</strong>
 </p>
