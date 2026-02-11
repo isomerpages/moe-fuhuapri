@@ -4,6 +4,26 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Nominate Your Outstanding Malay Language Teacher!</strong></h4>
+<p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 celebrates exceptional
+educators who have made significant contributions to Malay Language teaching
+and learning in our schools.</p>
+<p>This prestigious award is jointly organised by MBMS, PGBM, Berita Harian,
+and MLLPC - and we need YOUR nominations to honour these amazing teachers!</p>
+<p>📝 <em>How to nominate:</em>
+</p>
+<p>Use the QR code or URL provided to submit your nomination: <a href="https://go.gov.sg/agab-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab-2026</a>
+</p>
+<p>⏰ <strong><em>Important:</em> Nominations close at 5pm on 13 March 2026</strong>
+</p>
+<p>Let's show our appreciation for the teachers who inspire, motivate, and
+nurture our students' love for the Malay Language. Your nomination could
+be the recognition they truly deserve!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/ML_Award.jpg">
+</div>
+<p></p>
 <h4><strong>Nominate Your Inspiring English Teacher!</strong></h4>
 <p>Know an English Language teacher who truly makes a difference? It's time
 to celebrate their impact! The Inspiring Teacher of English Award is now
