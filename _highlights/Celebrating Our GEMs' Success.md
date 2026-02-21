@@ -444,8 +444,6 @@ about significant benefits and impact in their workplaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/Slide4.jpg">
 </div>
-<h4></h4>
-<h4></h4>
 <h4>Others</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -508,11 +506,11 @@ for Foreign Affairs</p>
 </div>
 <p>Participants with School Leaders</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IpPAD9owA7g?si=ZbbCBMSGTuoxQife"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IpPAD9owA7g?si=ZbbCBMSGTuoxQife"></iframe>
 </div>
 <p>2nd Place Video</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XPeAJ9NM9vw?si=ujc6-yxnQliE_Smj"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XPeAJ9NM9vw?si=ujc6-yxnQliE_Smj"></iframe>
 </div>
 <p>Certificate of Participation Video</p>
 <p></p>
