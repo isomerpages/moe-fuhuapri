@@ -22,7 +22,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/files/2026 parent engagement slides/Pre_Engagement_Slides___Upper_Primary.pdf" rel="noopener nofollow" target="_blank">P5 and P6 Pre-Reading Slides </a>
+<p><a href="/files/2026 parent engagement slides/Pre_Engagement_Slides___Upper_Primary.pdf" rel="noopener nofollow" target="_blank">P5 and P6 Pre-Reading Slides</a>
 </p>
 </li>
 </ul>
