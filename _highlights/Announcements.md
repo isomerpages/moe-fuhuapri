@@ -4,17 +4,65 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong> Celebrate Your Most Inspiring Tamil Teacher! </strong></h4>
+<p>The Most Inspiring Tamil Teacher Award (MITT) has been recognising exceptional
+Tamil educators since 2002. This annual award celebrates teachers who have
+made significant contributions to Tamil language teaching and learning
+in our schools.</p>
+<p>Your nomination serves as meaningful affirmation and encouragement to
+the teachers who work passionately to preserve and promote our beautiful
+Tamil language.</p>
+<p>Use the QR code or <a href="https://go.gov.sg/mitt2026nominations" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mitt2026nominations</a> to
+submit your nomination.</p>
+<p><strong>Deadline: 13 March 2026</strong>
+</p>
+<p>Let's come together to appreciate the teachers who nurture our students'
+connection to Tamil language and culture. Their inspiring work deserves
+recognition!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/TL_Award.jpg">
+</div>
+<p></p>
+<h4><strong>Nominations for Distinguished Chinese Language Teachers Awards 2026</strong></h4>
+<p>Does your child have a Chinese teacher who:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inspires a genuine love for Chinese language and culture 🇨🇳</p>
+</li>
+<li>
+<p>Uses creative and engaging teaching methods</p>
+</li>
+<li>
+<p>Makes learning interactive and fun</p>
+</li>
+<li>
+<p>Goes above and beyond for their students</p>
+</li>
+</ul>
+<p>This prestigious award celebrates teachers who have shown exemplary dedication
+to Chinese language education and successfully fostered cultural appreciation
+in their students over the past year.</p>
+<p>Your nomination could honour a teacher who has made a real difference
+in your child's learning journey. Let's give these dedicated educators
+the recognition they truly deserve!</p>
+<p>Click on the link <a href="https://zb.sg/dclta2026" rel="noopener noreferrer nofollow" target="_blank">https://zb.sg/dclta2026</a> or scan the QR
+code below to submit your nomination.</p>
+<p><strong>Nomination deadline: 30 April 2026 (Thursday)</strong>
+</p>
+<p>We are looking forward to your nominations!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/CL_Award.jpg">
+</div>
 <h4><strong>Nominate Your Outstanding Malay Language Teacher!</strong></h4>
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 celebrates exceptional
 educators who have made significant contributions to Malay Language teaching
 and learning in our schools.</p>
 <p>This prestigious award is jointly organised by MBMS, PGBM, Berita Harian,
 and MLLPC - and we need YOUR nominations to honour these amazing teachers!</p>
-<p>📝 <em>How to nominate:</em>
+<p>How to nominate: Use the QR code or URL provided to submit your nomination:
+<a href="https://go.gov.sg/agab-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab-2026</a>
 </p>
-<p>Use the QR code or URL provided to submit your nomination: <a href="https://go.gov.sg/agab-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab-2026</a>
-</p>
-<p>⏰ <strong><em>Important:</em> Nominations close at 5pm on 13 March 2026</strong>
+<p><strong><em>Important:</em> Nominations close at 5pm on 13 March 2026</strong>
 </p>
 <p>Let's show our appreciation for the teachers who inspire, motivate, and
 nurture our students' love for the Malay Language. Your nomination could
