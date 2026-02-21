@@ -96,7 +96,10 @@ excel in English. Let's honour those who inspire excellence every day!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/EL_Award.jpg">
 </div>
-<p></p>
+<h4><strong>School Canteen Vacancy</strong></h4>
+<p>Fuhua Primary School is inviting interested applicants to operate a
+<br>“<strong>Chinese Noodles</strong>”&nbsp;stall in our school canteen. For
+more details, please click <a href="https://fuhuapri.moe.edu.sg/school-canteen/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Caring Teacher Awards 2026</strong></h4>
 <p>As the year draws to a close, we would like to invite you to show appreciation
 to your child/ward's teacher by nominating him/her for the <em>Caring Teacher Awards (CTA) 2026</em>.
@@ -153,15 +156,6 @@ students and peers through their words and deeds.&nbsp; Teachers who are
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/4.jpg">
 </div>
-<h4><strong><u>2026 Primary 1 Orientation</u></strong></h4>
-<p><strong>Date:</strong> Friday, 21 November 2025
-<br><strong>Venue:</strong> Fuhua Primary School
-<br><strong>Time:</strong> 8.30 am to 10.30 am
-<br><strong>Purchase of textbooks &amp; uniforms:</strong> 10.30 am to 12.30
-pm
-<br>Please click <a href="https://fuhuapri.moe.edu.sg/resources-for-2026-p1-parents/" rel="noopener nofollow" target="_blank">here</a> to
-find more details.</p>
-<p></p>
 <h4><strong>President’s Award for Teachers (PAT) 2025</strong></h4>
 <p>Congratulations to Mdm Nurul Huda Binte Juma'at! She is a President's
 Award for Teachers 2025 recipient.</p>
@@ -239,10 +233,7 @@ and inclusive education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea_2025.jpg">
 </div>
-<h4>School Canteen Vacancy</h4>
-<p>Fuhua Primary School is inviting interested applicants to operate a
-<br>“<strong>Chinese Noodles</strong>”&nbsp;stall in our school canteen. For
-more details, please click <a href="https://fuhuapri.moe.edu.sg/school-canteen/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4></h4>
 <h5></h5>
 <p></p>
 <p></p>
