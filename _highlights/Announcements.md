@@ -4,31 +4,6 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Green Flag Award</strong></h4>
-<p>The school is immensely proud to announce that we have achieved the Green
-Flag Award — the most prestigious international award tier of the WWF Eco-Schools
-Awards!</p>
-<p>We are equally thrilled to have received the Excellence Award for Community
-Outreach in recognition of our impactful sustainability education campaigns
-within the community.</p>
-<p>Our heartfelt gratitude goes to everyone who has made our environmental
-initiatives possible — from our dedicated students and teachers to our
-wonderful community partners. Together, we are making a genuine difference
-for the planet.</p>
-<p>The awards ceremony at the Singapore Sustainability Academy was truly
-inspiring, and the school thoroughly enjoyed showcasing our green projects
-at the exhibition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/wwf_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/wwf_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/wwf_3.jpg">
-</div>
 <h4><strong>Celebrate Your Most Inspiring Tamil Teacher!</strong></h4>
 <p>The Most Inspiring Tamil Teacher Award (MITT) has been recognising exceptional
 Tamil educators since 2002. This annual award celebrates teachers who have
