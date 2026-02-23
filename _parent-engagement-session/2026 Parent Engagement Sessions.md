@@ -14,11 +14,27 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="/files/2026 parent engagement slides/2026_P1_and_P2_Parents_Engagement_Briefing_on_4_Feb.pdf" rel="noopener nofollow" target="_blank">P1 and P2 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 parent engagement slides/2026_P1_P2_Parent_Engagement_Session_Briefing__FAQ_for_parents_.pdf" rel="noopener nofollow" target="_blank">P1 and P2 Briefing FAQs</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026 parent engagement slides/2026_P3_Pre_Reading_Slides.pdf" rel="noopener nofollow" target="_blank">P3 Pre-Reading Slides</a>
 </p>
 </li>
 <li>
 <p><a href="/files/2026 parent engagement slides/2026_P4_Pre_Reading_Slides.pdf" rel="noopener nofollow" target="_blank">P4 Pre-Reading Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 parent engagement slides/2026_P3_and_P4_Parent_Engagement_Briefing_on_5_Feb.pdf" rel="noopener nofollow" target="_blank">P3 and P4 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 parent engagement slides/2026_MP_Parent_Engagement_FAQ.pdf" rel="noopener nofollow" target="_blank">P3 and P4 Briefing FAQs</a>
 </p>
 </li>
 <li>
