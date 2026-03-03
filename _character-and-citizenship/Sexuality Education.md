@@ -257,6 +257,12 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/6436499b1a084c00136b1a71" rel="noopener nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 13/03/2026.</p>
 <p>Parents can contact the school at <strong>65624370</strong> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
