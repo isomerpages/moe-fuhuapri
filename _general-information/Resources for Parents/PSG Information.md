@@ -34,3 +34,12 @@ variant: tiptap
 </ul>
 <h4><strong>FHPS EduShare</strong></h4>
 <p>For exchanges and donations for a sustainable future, please click <a href="https://www.facebook.com/groups/1305800426783853/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Parent Volunteer Opportunities</h4>
+<p>The Parent Support Group (PSG) plays a vital role in fostering collaboration
+between families and the school. We warmly invite you to be part of this
+effort by volunteering in upcoming school activities.</p>
+<p>Your involvement not only enriches the learning experience of our students
+but also strengthens the sense of community within our school.</p>
+<p>If you are interested in contributing your time and talents, please complete
+the volunteer form <a href="https://forms.gle/GkRzLkd6MJ5iz8pU7" rel="noopener nofollow" target="_blank">here. </a>
+</p>
