@@ -23,7 +23,7 @@ parents will:</p>
 in the digital age.</p>
 </li>
 </ul>
-<p>Please click <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="https://www.moe.gov.sg/api/media/301e9db7-c0c1-465a-a930-98524a955a17/annex-a-refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the refreshed guidelines.</p>
 <p></p>
 <div class="isomer-image-wrapper">
