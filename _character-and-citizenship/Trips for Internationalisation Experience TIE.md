@@ -24,6 +24,7 @@ and other Southeast Asian countries.</p>
 <li>
 <p>Foster civic consciousness by considering Singapore’s connection to the
 region and the world.</p>
+<p></p>
 </li>
 </ul>
 <p>In 2024, Fuhua successfully established a strong partnership with Tungmahamek
@@ -330,6 +331,10 @@ they can lead with empathy, creativity, and a commitment to sustainability.
 In doing so, the program aims to cultivate a generation of responsible
 global citizens, ready to make a meaningful and lasting impact on the world.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y7xMhd0vzW4?si=azV6GD1LvFApmKEv"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5SJc8KQYuv0?si=0GmOCV6r22F_1HcN"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y7xMhd0vzW4?si=azV6GD1LvFApmKEv"></iframe>
 </div>
 <p></p>
