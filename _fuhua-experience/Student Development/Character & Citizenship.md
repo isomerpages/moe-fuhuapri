@@ -104,11 +104,11 @@ Values application announcements</p>
 </ul>
 <p><strong>Please click <a href="/character-and-citizenship/citizen-leadership/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Citizen Leadership</strong>
 </p>
+<p><strong>Please click <a href="/character-and-citizenship/National-Education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for National Education</strong>
+</p>
 <p><strong>Please click <a href="/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Education and Career Guidance</strong>
 </p>
 <p><strong>Please click <a href="/integration-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Integration Programme</strong>
-</p>
-<p><strong>Please click <a href="/character-and-citizenship/National-Education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for National Education</strong>
 </p>
 <p><strong>Please click <a href="/character-and-citizenship/Trips-for-Internationalisation-Experience-TIE/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Trips for Internationalisation Experience (TIE)</strong>
 </p>
