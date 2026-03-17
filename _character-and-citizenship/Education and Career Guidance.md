@@ -84,25 +84,25 @@ set goals, and make informed choices for the future.</p>
 <p><strong><u>MySkillsFuture: Education Guide</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dKIA_A9IELQ?si=VVTLmjYpDBLaL91o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dKIA_A9IELQ?si=VVTLmjYpDBLaL91o"></iframe>
 </div>
 <p><strong><u>MySkillsFuture: World of Work</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aJmbaVShoSc?si=AB_8UCCBmLfFSjjf"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aJmbaVShoSc?si=AB_8UCCBmLfFSjjf"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hKzxtqWAVK8?si=hkDvN1s9RLLVNsp8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hKzxtqWAVK8?si=hkDvN1s9RLLVNsp8"></iframe>
 </div>
 <p><strong><u>MySkillsFuture: Career Quest</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7eUr-66NyD4?si=pYVGgGixGDXLUK9b"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7eUr-66NyD4?si=pYVGgGixGDXLUK9b"></iframe>
 </div>
 <p><strong><u>Useful Links For Parents:</u></strong>
 </p>
-<p>1) <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener nofollow" target="_blank">Education and Career Guidance Tips for Parents</a>&nbsp;&nbsp;&nbsp;</p>
+<p>1) <a href="https://go.gov.sg/tips-for-parents" rel="noopener nofollow" target="_blank">Education and Career Guidance Tips for Parents</a>&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Pic_1_.png">
 </div>
