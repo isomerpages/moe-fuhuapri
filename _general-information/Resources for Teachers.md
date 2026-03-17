@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iexams.moe.gov.sg/xe/login.do" rel="noopener noreferrer nofollow" target="_blank">iExams</a>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iExams</a>
 </p>
 </li>
 <li>
