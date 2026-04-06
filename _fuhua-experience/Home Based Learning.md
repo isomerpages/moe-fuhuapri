@@ -24,9 +24,8 @@ For more details, please click **_[here](https://www.moe.gov.sg/parentkit)_**.�
 
 Please complete the FormSG by clicking [here](https://form.gov.sg/67db9e6cf5a3f0517ef378e4).
 
-  
 
-**To reset password for Student iCON**
+**To reset your password for MIMS / Student iCON**
 
 Please complete the FormSG by clicking [here](https://form.gov.sg/67db9f615979aa809c39aa7e). 
 
