@@ -4,6 +4,25 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__5_.jpg">
+</div>
 <h4><strong>Celebrate Your Most Inspiring Tamil Teacher!</strong></h4>
 <p>The Most Inspiring Tamil Teacher Award (MITT) has been recognising exceptional
 Tamil educators since 2002. This annual award celebrates teachers who have
