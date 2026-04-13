@@ -4,6 +4,9 @@ permalink: /highlights/announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Fuhua Primary School 85<sup>th</sup> Anniversary Celebration</strong></h4>
+<p>Join Fuhua Primary School on our 85<sup>th</sup> anniversary celebration
+on 18<sup>th</sup> July! Read on to find out more!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__1_.jpg">
 </div>
