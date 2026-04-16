@@ -36,8 +36,17 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Page.jpg">
 </div>
+<p></p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/fuhuaheartbeat2026issue2" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2026/2</a>
+</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_2_Fuhua_Heartbeat_cover.png">
+</div>
 <h4><strong>2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>

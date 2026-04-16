@@ -83,8 +83,9 @@ themselves safe from sexuality-related risks.</p>
 <h5><strong>At Fuhua Primary School, the following Sexuality Education lessons will be taught in <u>2026:</u></strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moe_logo_for_SEd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fuhua Experience/Student Development/Character &amp; Citizenship/Character &amp; Citizenship/sexuality_edn_header_2026.jpg">
 </div>
+<h5></h5>
 <h5><strong><u>Primary 5</u></strong></h5>
 <table style="minWidth: 100px">
 <colgroup>

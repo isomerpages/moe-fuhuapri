@@ -51,5 +51,9 @@ and prepares students for the challenges of the 21st century.</p>
 <p><a href="https://drive.google.com/file/d/1ENd8CT1PlQcpd_vyHk8QKNlRguGbGv5p/view?usp=drive_link" rel="noopener nofollow" target="_blank">Literacy Sparks 2026/1</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Xw11soXFPJRvGgcH51L02VY1nGRwJrbi/view?usp=sharing" rel="noopener nofollow" target="_blank">Literacy Sparks 2026/2</a>
+</p>
+</li>
 </ul>
 <p></p>
