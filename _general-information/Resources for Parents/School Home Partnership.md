@@ -46,6 +46,16 @@ the refreshed guidelines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__4_2026_T1_2.jpg">
 </div>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Newsletter 2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__5_2026_T2.jpg">
+</div>
+</li>
+</ol>
 </li>
 </ol>
 <h4>2025</h4>
