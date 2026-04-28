@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Vendors
 variant: tiptap
 ---
-<p>The school appointed Bookshop provider is&nbsp;<strong>Actlink Marketing Pte Ltd</strong>.</p>
+<p>The school appointed Bookshop provider is&nbsp;<strong>Pacific Bookstores Pte Ltd</strong>.</p>
 <p><strong>Announcement</strong>
 </p>
 <p><em>For security reasons, parents entry to the school to make purchases will be as follows:</em>
@@ -78,9 +78,35 @@ variant: tiptap
 </table>
 <p>Parents should only visit the school for the purchase at the stated times
 and report to the guardhouse first.</p>
-<p>For enquiries, you may send a whatsapp message to 8575 1813 or email to
-<a href="mailto:storders@actlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">storders@actlink.com.sg</a>
+<p>For enquiries, you may send a WhatsApp message to 96836700 (9am – 3pm)
+or email the vendor at <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>.</p>
+<h4><strong><u>2026 Booklists</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+</p>
+</li>
+<li>
+<p><a href="/files/School Bookshop/2026 Booklists/Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
+</li>
+</ul>
 <h4><strong><u>2025 Year-End Sales of Textbooks</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -145,31 +171,5 @@ and report to the guardhouse first.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>2026 Booklists</u></strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/School Bookshop/2026 Booklists/Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
-</p>
-</li>
-</ul>
+<h4></h4>
 <p></p>
