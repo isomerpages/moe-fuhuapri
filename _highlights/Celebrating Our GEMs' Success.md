@@ -4,6 +4,22 @@ permalink: /highlights/achievements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Green Schools @ South West 2025 – 3-Star Recognition</strong></h4>
+<p>Our school has been awarded the 3-Star recognition, the highest tier under
+the Green Schools @ South West programme by the South West CDC. This recognition
+honours schools for outstanding efforts in environmental education, sustainability
+initiatives, and public health practices.</p>
+<p>This achievement reflects the collective commitment of our Fuhua community
+— students, staff, parents and partners — in embracing environmentally
+sustainable practices.</p>
+<p>We would also like to express our appreciation to our parents and community
+partners for their continued support in nurturing our students’ environmental
+awareness and actions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/GEMs Success/AKN_5290.jpg">
+</div>
+<p></p>
+<p></p>
 <h4><strong>Green Flag Award</strong></h4>
 <p>The school is immensely proud to announce that we have achieved the Green
 Flag Award — the most prestigious international award tier of the WWF Eco-Schools
