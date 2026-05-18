@@ -1,10 +1,10 @@
 ---
-title: Trips for Internationalisation Experience TIE
-permalink: /character-and-citizenship/Trips-for-Internationalisation-Experience-TIE/
+title: Trips for International Experience TIE
+permalink: /character-and-citizenship/trips-for-international-experience-tie/
 description: ""
 variant: tiptap
 ---
-<p>After a long hiatus due to the COVID-19 pandemic, Fuhua relaunched its <em>Trips for Internationalisation Experience (TIE) Program</em> in
+<p>After a long hiatus due to the COVID-19 pandemic, Fuhua relaunched its <em>Trips for International Experience (TIE) Program</em> in
 2024. This unique initiative is designed to nurture global leaders by developing
 students' 21st-century competencies (21CC), with a focus on global awareness,
 cross-cultural skills, and sensitivity. The program aligns closely with
