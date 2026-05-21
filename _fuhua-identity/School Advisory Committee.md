@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Wei Tia Gavin Bryan</p>
+<p>Mr Lee Wei Tai Gavin Bryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
