@@ -19,21 +19,23 @@ third_nav_title: Resources for Parents
 <h4><strong>Term 2</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/FHPS_Term_2_Letter_2026.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter</a>
+<p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_Term_2_Letter_2026.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter</a>
 </p>
 </li>
 <li>
-<p><a href="/files/FHPS_Term_2_Calendar_2026.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
+<p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_Term_2_Calendar_2026.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
 </p>
 </li>
 </ol>
 <h4><strong>Term 3</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_Term_3_Letter_2026_final.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
+</p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Resource for Parents/Term letters and Calendar/FHPS_T3_2026_Calendar.pdf" rel="noopener nofollow" target="_blank">Term 3 Calendar</a>
+</p>
 </li>
 </ol>
 <p></p>
