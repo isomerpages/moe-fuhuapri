@@ -152,7 +152,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yiap Mei Chan, Alicia</p>
 </td>
 </tr>
 <tr>
