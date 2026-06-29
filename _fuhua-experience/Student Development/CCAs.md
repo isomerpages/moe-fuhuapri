@@ -157,7 +157,8 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Yilong, Jonathan*
 <br>Ms Ching Khee Yoll
-	<br>Miss Batrisyia Qistina Binte Isnin</p>
+	<br> Ms Amira
+	<br> Ms Kylie Leong</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +271,9 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Najuma*
-<br>Ms Jasmine Wong</p>
+<br>Mdm Ng Baohui Sherline
+	<br> Ms Batrisyia Qistina Binte Isnin
+	</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +285,8 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siah Kai Yeow*
-<br>Mdm Koh Hui Chin</p>
+<br>Mdm Koh Hui Chin
+	<br>Ms Shahira</p>
 </td>
 </tr>
 <tr>
