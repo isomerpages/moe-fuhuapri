@@ -129,7 +129,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Si Ting*
-<br>Ms Jia Ning
+<br>Ms Tan Jia Ning
 <br>Mr Thong Kok Leung
 <br>Ms Kasstoori D/O Chandra Mohan
 	<br>Ms Slyvia Lim </p>
