@@ -104,7 +104,7 @@ in our students.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslina Binte Ishak*
 <br>Ms Mok Chia Hui, Michelle
-<br>Ms Zhou Xin
+<br>Ms Zhou Xun
 </p>
 </td>
 </tr>
