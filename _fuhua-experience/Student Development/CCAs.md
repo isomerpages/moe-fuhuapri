@@ -337,7 +337,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Yang Jun (BB)*
-<br>Mdm Tang Yen Yen(GB)*
+<br>Mdm Tang Yen Yen (GB)*
 <br>Ms Alicia Khong</p>
 </td>
 </tr>
