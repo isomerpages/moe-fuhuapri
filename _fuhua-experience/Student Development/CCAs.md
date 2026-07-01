@@ -132,7 +132,7 @@ in our students.</p>
 <br>Ms Tan Jia Ning
 <br>Mr Thong Kok Leung
 <br>Ms Kasstoori D/O Chandra Mohan
-	<br>Ms Slyvia Lim </p>
+	<br>Ms Kylie Leong</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ in our students.</p>
 <p>Mr Chen Yilong, Jonathan*
 <br>Ms Ching Khee Yoll
 	<br> Ms Amira
-	<br> Ms Kylie Leong</p>
+	<br> Ms Slyvia Lim</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Cheng Chuan *
+<p>Mr Lim Cheng Chuan*
 <br>Ms A Sumathi
 <br>Ms Li Xing
 <br>
@@ -337,7 +337,7 @@ in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Yang Jun (BB)*
-<br>Mdm Tang Yen Yen(GB)*
+<br>Mdm Tang Yen Yen (GB)*
 <br>Ms Alicia Khong</p>
 </td>
 </tr>

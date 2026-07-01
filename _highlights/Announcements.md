@@ -8,23 +8,23 @@ variant: tiptap
 <p>Join Fuhua Primary School on our 85<sup>th</sup> anniversary celebration
 on 18<sup>th</sup> July! Read on to find out more!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_invite__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide5.jpg">
 </div>
 <h4><strong>Celebrate Your Most Inspiring Tamil Teacher!</strong></h4>
 <p>The Most Inspiring Tamil Teacher Award (MITT) has been recognising exceptional
