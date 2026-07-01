@@ -310,7 +310,7 @@ in our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Cheng Chuan *
+<p>Mr Lim Cheng Chuan*
 <br>Ms A Sumathi
 <br>Ms Li Xing
 <br>
