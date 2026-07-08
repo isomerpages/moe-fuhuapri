@@ -26,6 +26,36 @@ on 18<sup>th</sup> July! Read on to find out more!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide5.jpg">
 </div>
+<p></p>
+<h4><strong>Outstanding Youth in Education Award (OYEA) 2026</strong></h4>
+<p>Congratulations to Mdm Faridah on receiving the Outstanding Youth in Education
+Award (OYEA) 2026!</p>
+<p>This well-deserved recognition reflects her unwavering dedication to her
+students' learning and holistic development.</p>
+<p>Mdm Faridah spearheads a scaffolded student leadership and peer support
+framework to cultivate responsibility, empathy, and kindness across all
+primary levels. Through innovative digital platforms and local community
+service partnerships, she actively empowers authentic student agency and
+drives engagement.</p>
+<p>Furthermore, Mdm Faridah fosters a supportive professional culture by
+leading staff well-being initiatives and providing close mentorship to
+fellow educators.</p>
+<p>This achievement is also a celebration of all Fuhua teachers, whose belief
+in every student continues to make a lasting difference.</p>
+<p>Find out more here on <a href="https://www.facebook.com/moesingapore/posts/spot-a-familiar-face-these-are-our-outstanding-youth-in-education-award-oyea-202/1505057384990742/" rel="noopener nofollow" target="_blank">MOE's Facebook page. </a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/oyea__3_.jpg">
+</div>
 <h4><strong>Celebrate Your Most Inspiring Tamil Teacher!</strong></h4>
 <p>The Most Inspiring Tamil Teacher Award (MITT) has been recognising exceptional
 Tamil educators since 2002. This annual award celebrates teachers who have
