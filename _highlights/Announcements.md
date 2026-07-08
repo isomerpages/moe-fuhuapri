@@ -42,7 +42,7 @@ leading staff well-being initiatives and providing close mentorship to
 fellow educators.</p>
 <p>This achievement is also a celebration of all Fuhua teachers, whose belief
 in every student continues to make a lasting difference.</p>
-<p>Find out more here on <a href="https://www.facebook.com/moesingapore/posts/spot-a-familiar-face-these-are-our-outstanding-youth-in-education-award-oyea-202/1505057384990742/" rel="noopener nofollow" target="_blank">MOE's Facebook page. </a>
+<p>Find out more here on <a href="https://www.facebook.com/moesingapore/posts/spot-a-familiar-face-these-are-our-outstanding-youth-in-education-award-oyea-202/1505057384990742/" rel="noopener nofollow" target="_blank">MOE's Facebook page.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
