@@ -27,6 +27,29 @@ on 18<sup>th</sup> July! Read on to find out more!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/Slide5.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/Announcements/syn__6_.jpg">
+</div>
 <h4><strong>Outstanding Youth in Education Award (OYEA) 2026</strong></h4>
 <p>Congratulations to Mdm Faridah on receiving the Outstanding Youth in Education
 Award (OYEA) 2026!</p>
