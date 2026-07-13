@@ -25,6 +25,6 @@ and connect with readers across our school community.</p>
 learning journey of our Mother Tongue Languages programme. Join us in celebrating
 these budding voices as they share their creativity and cultural heritage
 with the world, one post at a time! 🐝</p>
-<p>Click this link <a href="https://sites.google.com/moe.edu.sg/fhpsthelittlehoneybee/home" rel="noopener nofollow" target="_blank">The Little Honeybee</a> to
-read the various posts.</p>
+<p>Head over to <a href="https://sites.google.com/moe.edu.sg/fhpsthelittlehoneybee/home" rel="noopener nofollow" target="_blank">The Little Honeybee</a> and
+see what's buzzing!</p>
 <p>&nbsp;</p>
