@@ -110,7 +110,7 @@ Values application announcements</p>
 </p>
 <p><strong>Please click <a href="/integration-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Integration Programme</strong>
 </p>
-<p><strong>Please click <a href="/character-and-citizenship/Trips-for-Internationalisation-Experience-TIE/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Trips for International Experience (TIE)</strong>
+<p><strong>Please click <a href="/character-and-citizenship/trips-for-international-experience-tie/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Trips for International Experience (TIE)</strong>
 </p>
 <p><strong>Please click <a href="/character-and-citizenship/Values-in-Action-VIA/" rel="noopener noreferrer nofollow" target="_blank">here</a> for Values in Action (VIA)</strong>
 </p>
