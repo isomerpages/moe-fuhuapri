@@ -160,7 +160,7 @@ variant: tiptap
 <p>Mr Lim Yang Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Azli</p>
+<p>Mr Haji Mohamad Hairi Bin Ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ variant: tiptap
 <p>2 Frugality</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sung Huimin</p>
+<p>Mdm Ng Baohui Sherline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhuang Xiaojuan</p>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Mdm Sarah Harbachan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haji Mohamad Hairi Bin Ibrahim</p>
+<p>Mdm Li Xing</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +299,7 @@ variant: tiptap
 <p>Mr Siah Kai Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Kai Ling (Kylie)</p>
+<p>Ms Amira</p>
 </td>
 </tr>
 <tr>
