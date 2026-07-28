@@ -54,6 +54,14 @@ the refreshed guidelines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__5_2026_T2.jpg">
 </div>
+<p></p>
+</li>
+<li>
+<p>Newsletter 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Lets connect/PfW_Newsletter__6_2026_T3.jpg">
+</div>
+<p></p>
 </li>
 </ol>
 </li>
