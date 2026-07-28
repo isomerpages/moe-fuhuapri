@@ -231,5 +231,9 @@ and resources. Click <a href="https://www.betterinternet.sg/Resources/Resources-
 <p>Newsletter 11: <a href="/files/2026_Cyber_wellness__1.pdf" rel="noopener nofollow" target="_blank">In 2026, let's help kids stay in control - not the screen</a>
 </p>
 </li>
+<li>
+<p>newsletter 12: <a href="/files/2026_IG_Cyber_wellness__2.pdf" rel="noopener nofollow" target="_blank">A Parent's Guide: To Use Generative AI Tools for learning</a>
+</p>
+</li>
 </ul>
 <p></p>
