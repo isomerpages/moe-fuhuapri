@@ -47,6 +47,17 @@ us:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_2_Fuhua_Heartbeat_cover.png">
 </div>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1t5h4a01x7O6n4VDASf8P2w2MzjLcVSL-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Fuhua Heartbeat 2026/3</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover.jpg">
+</div>
+</li>
+</ol>
 <h4><strong>2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
