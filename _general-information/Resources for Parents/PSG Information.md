@@ -6,9 +6,12 @@ third_nav_title: Resources for Parents
 variant: tiptap
 ---
 <h4><strong>PSG Executive Committee 2026</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for parents/Slide1.jpg">
+</div>
+<h4><strong>Parent Support Group at Fuhua Primary School</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l6-wdqF2I-c?si=ZUEv4NLEe0kR8F9-"></iframe>
 </div>
 <h4><strong>Social Media Platforms</strong></h4>
 <p>If you would like to keep up on the latest PSG news, connect with us:</p>
