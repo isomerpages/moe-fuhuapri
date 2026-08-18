@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Fuhua Caring Teacher Award 2026</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fuhua Caring Teacher Award 2026" src="/images/WhatsApp_Image_2026_08_18_at_4_29_39_PM.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Fuhua Caring Teacher Award 2026" src="/images/WhatsApp_Image_2026_08_18_at_4_29_39_PM.jpg">
 </div>
 <p>Has a teacher at Fuhua Primary gone the extra mile for your child?</p>
 <p>&nbsp;The Fuhua Caring Teacher Award recognises teachers who consistently
