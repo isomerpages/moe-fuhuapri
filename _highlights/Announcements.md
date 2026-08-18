@@ -20,8 +20,7 @@ to affirm the dedication of the teachers who have inspired and supported
 your child!</p>
 <p>&nbsp;Let's show our teachers just how much they are appreciated. Submit
 your nominations here today!</p>
-<p><strong>Fuhua Primary School 85<sup>th</sup> Anniversary Celebration</strong>
-</p>
+<h4><strong>Fuhua Primary School 85<sup>th</sup> Anniversary Celebration</strong></h4>
 <p>Join Fuhua Primary School on our 85<sup>th</sup> anniversary celebration
 on 18<sup>th</sup> July! Read on to find out more!</p>
 <div class="isomer-image-wrapper">
