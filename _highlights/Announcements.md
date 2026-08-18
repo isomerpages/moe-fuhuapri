@@ -13,14 +13,15 @@ variant: tiptap
 <p>&nbsp;The Fuhua Caring Teacher Award recognises teachers who consistently
 care for, support and nurture our Fuhua Gems, helping them grow into confident,
 independent and resilient learners ready for the future.</p>
-<p>&nbsp;This is your chance to say thank you in a truly meaningful way.
-And if more than one teacher deserves the recognition — nominate them all!</p>
+<p>This is your chance to say thank you in a truly meaningful way. And if
+more than one teacher deserves the recognition — nominate them all!</p>
 <p>&nbsp;Nominations close on 21 August 2026 — don't miss this opportunity
 to affirm the dedication of the teachers who have inspired and supported
 your child!</p>
 <p>&nbsp;Let's show our teachers just how much they are appreciated. Submit
-your nominations <a href="https://go.gov.sg/fhpscaringteacher2026" rel="noopener nofollow" target="_blank">here</a> today!</p>
-<h4><strong>Fuhua Primary School 85<sup>th</sup> Anniversary Celebration</strong></h4>
+your nominations here today!</p>
+<p><strong>Fuhua Primary School 85<sup>th</sup> Anniversary Celebration</strong>
+</p>
 <p>Join Fuhua Primary School on our 85<sup>th</sup> anniversary celebration
 on 18<sup>th</sup> July! Read on to find out more!</p>
 <div class="isomer-image-wrapper">
